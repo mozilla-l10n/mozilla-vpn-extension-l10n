@@ -11,23 +11,9 @@
     "message": "Indietro",
     "description": "Alternative text attribute for back button."
   },
-  "notificationTitle": {
-    "message": "Notifica clic",
-    "description": "Title of the click notification."
-  },
   "productName": {
     "message": "Mozilla VPN",
     "description": "Name of the product."
-  },
-  "notificationContent": {
-    "message": "Hai fatto clic su $URL$.",
-    "description": "Tells the user which link they clicked.",
-    "placeholders": {
-      "url": {
-        "content": "$1",
-        "example": "https://developer.mozilla.org"
-      }
-    }
   },
   "titleServerList": {
     "message": "Posizione per il sito web",
