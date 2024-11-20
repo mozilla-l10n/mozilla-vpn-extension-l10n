@@ -3,10 +3,6 @@
     "message": "Estensione Mozilla VPN",
     "description": "Name of the extension."
   },
-  "extensionDescription": {
-    "message": "Integra la VPN in Firefox: escludi schede, imposta le posizioni dei siti e altro ancora!",
-    "description": "Description of the extension."
-  },
   "back": {
     "message": "Indietro",
     "description": "Alternative text attribute for back button."
@@ -217,10 +213,6 @@
   "next": {
     "message": "Avanti",
     "description": "Label of button to progress to next onboarding panel."
-  },
-  "skip": {
-    "message": "Ignora",
-    "description": "Label of button to skip onboarding."
   },
   "headerReEnableFirefoxProtection": {
     "message": "Riattiva la protezione di Firefox",
