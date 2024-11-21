@@ -210,6 +210,10 @@
     "message": "對 Firefox「保持開啟」保護",
     "description": "Title in onboarding panel."
   },
+  "onboarding3_body": {
+    "message": "使用擴充套件開啟 Firefox 的 VPN 保護 — 就算關閉對電腦中其他軟體連線的保護也沒問題。",
+    "description": "Body text in onboarding panel."
+  },
   "next": {
     "message": "下一步",
     "description": "Label of button to progress to next onboarding panel."
@@ -221,6 +225,14 @@
   "headerReEnableFirefoxProtection": {
     "message": "重新開啟 Firefox 保護",
     "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox 目前是 Mozilla VPN 當中的「排除的應用程式」。若要使用此擴充套件，請開啟 VPN 程式，然後到「設定 > 排除的應用程式」當中移除 Firefox。",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "要新增或更改特定網站的偏好設定，請開啟該網站，然後打開 Firefox 的 Mozilla VPN 擴充套件。然後針對該網站設定偏好，此偏好只在 Firefox 的 VPN 保護開啟時有效。",
+    "description": "Subtitle in the settings page."
   },
   "settingsPageTitle": {
     "message": "Mozilla VPN 網站偏好設定",
