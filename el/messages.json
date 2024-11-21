@@ -1,0 +1,165 @@
+{
+  "extensionName": {
+    "message": "Επέκταση Mozilla VPN",
+    "description": "Name of the extension."
+  },
+  "back": {
+    "message": "Πίσω",
+    "description": "Alternative text attribute for back button."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  },
+  "titleServerList": {
+    "message": "Τοποθεσία ιστοτόπου",
+    "description": "Title for a dialog where users can set the location for a website."
+  },
+  "selectWebsiteLocation": {
+    "message": "Επιλέξτε τοποθεσία ιστοτόπου",
+    "description": "Button label."
+  },
+  "titlePageSettings": {
+    "message": "Προτιμήσεις ιστοτόπου",
+    "description": "The header for website specific settings, i.e. exclude a page from VPN."
+  },
+  "resetPageSettings": {
+    "message": "Επαναφορά προτιμήσεων ιστοτόπου",
+    "description": "Button text to reset all site specific settings."
+  },
+  "vpnIsOn": {
+    "message": "Η προστασία VPN για το Firefox είναι ενεργή",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "Η προστασία VPN για το Firefox είναι ανενεργή",
+    "description": "Header to signal that VPN connection is disabled."
+  },
+  "vpnOffStatus": {
+    "message": "Ανενεργό",
+    "description": "Label indicating that the VPN is off."
+  },
+  "vpnOnStatus": {
+    "message": "Ενεργό",
+    "description": "Label indicating that the VPN is on."
+  },
+  "placeholderSearchWebsites": {
+    "message": "Αναζήτηση ιστοτόπων",
+    "description": "Placeholder text for the search input field to search websites."
+  },
+  "tableHeadingWebsite": {
+    "message": "Ιστότοπος",
+    "description": "Table heading for the column listing websites."
+  },
+  "tableHeadingVpnStatus": {
+    "message": "Προστασία ιστοτόπου",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "headlineNoWebsitePreferences": {
+    "message": "Δεν έχετε ορίσει ακόμα προτιμήσεις ιστοτόπων",
+    "description": "Headline shown when the user hasn’t set any website preferences."
+  },
+  "altTextRemoveWebsiteButton": {
+    "message": "Κατάργηση κανόνα για το $ORIGIN$",
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "searchServer": {
+    "message": "Αναζήτηση τοποθεσιών",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "btnSubscribeNow": {
+    "message": "Εγγραφή τώρα",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
+  "getHelp": {
+    "message": "Λήψη βοήθειας",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "btnDownloadNow": {
+    "message": "Λήψη τώρα",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Μη υποστηριζόμενη πλατφόρμα."
+  },
+  "turnOnProtection": {
+    "message": "Ενεργοποίηση προστασίας",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Κατάργηση προσαρμοσμένης τοποθεσίας",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Προστασία ιστοτόπου",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Αποστολή σχολίων",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Μάθετε περισσότερα",
+    "description": "Label of link that leads to SUMO."
+  },
+  "next": {
+    "message": "Επόμενο",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Παράλειψη",
+    "description": "Label of button to skip onboarding."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Ενεργοποιήστε ξανά την προστασία του Firefox",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "settingsPageTitle": {
+    "message": "Προτιμήσεις ιστοτόπων Mozilla VPN",
+    "description": "Title for settings page tab."
+  },
+  "noSignal": {
+    "message": "Χωρίς σήμα",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Ασταθές",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Σύνδεση…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Κέντρο βοήθειας",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "Προτιμήσεις ιστοτόπων",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Επικοινωνία με την υποστήριξη",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Το Mozilla VPN είναι ανενεργό για αυτόν τον ιστότοπο",
+    "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: Τοποθεσία ιστοτόπου Mozilla VPN",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
+  }
+}
