@@ -1,0 +1,124 @@
+{
+  "extensionName": {
+    "message": "Mozilla-VPN-Erweiterung",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Integrieren Sie VPN in Firefox: Tabs ausschließen, Website-Standorte festlegen und mehr!",
+    "description": "Description of the extension."
+  },
+  "back": {
+    "message": "Zurück",
+    "description": "Alternative text attribute for back button."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  },
+  "titleServerList": {
+    "message": "Standort für Website",
+    "description": "Title for a dialog where users can set the location for a website."
+  },
+  "selectWebsiteLocation": {
+    "message": "Standort für Website auswählen",
+    "description": "Button label."
+  },
+  "titlePageSettings": {
+    "message": "Einstellungen für diese Website",
+    "description": "The header for website specific settings, i.e. exclude a page from VPN."
+  },
+  "excludePageFor": {
+    "message": "VPN-Schutz für $ORIGIN$ immer deaktivieren",
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "resetPageSettings": {
+    "message": "Website-Einstellungen zurücksetzen",
+    "description": "Button text to reset all site specific settings."
+  },
+  "vpnIsOn": {
+    "message": "VPN-Schutz für Firefox ist aktiviert",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "VPN-Schutz für Firefox ist deaktiviert",
+    "description": "Header to signal that VPN connection is disabled."
+  },
+  "extensionVpnIsOff": {
+    "message": "Mozilla VPN ist noch aktiviert und schützt den Rest Ihres Computers.",
+    "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
+  },
+  "vpnOffStatus": {
+    "message": "Deaktiviert",
+    "description": "Label indicating that the VPN is off."
+  },
+  "vpnOnStatus": {
+    "message": "Aktiviert",
+    "description": "Label indicating that the VPN is on."
+  },
+  "placeholderSearchWebsites": {
+    "message": "Websites suchen",
+    "description": "Placeholder text for the search input field to search websites."
+  },
+  "tableHeadingWebsite": {
+    "message": "Website",
+    "description": "Table heading for the column listing websites."
+  },
+  "tableHeadingVpnStatus": {
+    "message": "Website-Schutz",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "headlineNoWebsitePreferences": {
+    "message": "Sie haben noch keine Website-Einstellungen festgelegt",
+    "description": "Headline shown when the user hasn’t set any website preferences."
+  },
+  "noWebsitePreferencesSubText": {
+    "message": "Mit der Firefox-Erweiterung können Sie den Mozilla-VPN-Schutz für eine Website deaktivieren oder einen benutzerdefinierten Standort festlegen. Besuchen Sie dazu eine Website, öffnen Sie die Erweiterung und aktualisieren Sie die Website-Einstellungen.",
+    "description": "Subtext shown when there are no website preferences set by the user."
+  },
+  "altTextRemoveWebsiteButton": {
+    "message": "Regel für $ORIGIN$ entfernen",
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "altTextOpenSettingsPage": {
+    "message": "Einstellungsseite öffnen",
+    "description": "Alternative text for the button that opens the Extensions Settings page."
+  },
+  "searchServer": {
+    "message": "Standorte suchen",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "titleSubscribeNow": {
+    "message": "Mozilla VPN abonnieren"
+  },
+  "bodySubscribeNow": {
+    "message": "Es sieht so aus, als hätten Sie Mozilla VPN noch nicht abonniert. Um diese Erweiterung zu verwenden, abonnieren Sie diese bitte.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "btnSubscribeNow": {
+    "message": "Jetzt abonnieren",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
+  "getHelp": {
+    "message": "Unterstützung erhalten",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "headerOpenMozillaVPN": {
+    "message": "Mozilla VPN öffnen",
+    "description": "Headline."
+  },
+  "headerSignedOut": {
+    "message": "Melden Sie sich bei der Mozilla-VPN-App an."
+  }
+}
