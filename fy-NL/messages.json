@@ -160,5 +160,116 @@
   "useDefaultLocationExplainer": {
     "message": "Deselde lokaasje as de Mozilla VPN-app dy’t dizze kompjûter beskermet brûke.",
     "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Net-stipe platfoarm."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "Op it stuit is de Mozilla VPN-útwreiding allinnich beskikber op Windows-apparaten."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Wy wurkje deroan om ynkoarten stipe foar macOS en Linux te bieden!"
+  },
+  "turnOnProtection": {
+    "message": "Beskerming ynskeakelje",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Oanpaste lokaasje fuortsmite",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Websidebeskerming",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Kommentaar jaan",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Mear ynfo",
+    "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "VPN útskeakelje foar spesifike websites",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding1_body": {
+    "message": "Mei de Firefox-útwreiding kinne jo VPN-beskerming foar spesifike websites útskeakelje wylst jo it ynskeakele hâlde foar de rest.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Besjoch ferskate websites fan ferskate lokaasjes ôf",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "Nijs út Londen. Sport út Sao Paulo. Winkelje fan Tokio út. Stel websitespesifike lokaasjes yn foar personalisearre sneupen.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Beskerming foar Firefox ‘oan’ hâlde",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Brûk de útwreiding om VPN-beskerming foar Firefox yn te skeakeljen – sels as beskerming foar de rest fan jo kompjûter útskeakele is.",
+    "description": "Body text in onboarding panel."
+  },
+  "next": {
+    "message": "Folgjende",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Oerslaan",
+    "description": "Label of button to skip onboarding."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Firefox-beskerming opnij ynskeakelje",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox is op dit stuit in ‘útsûndere app’ yn de Mozilla VPN-tapassing. Iepenje om dizze útwreiding te brûken de tapassing, gean nei Ynstellingen > Utsûndere apps en smyt Firefox fuort.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "Besykje de website en iepenje de Mozilla VPN-útwreiding foar Firefox om websitespesifike foarkaren ta te foegjen of te wizigjen. Stel dernei foarkarren foar de website yn. Jo foarkarren binne allinnich fan tapassing as VPN-beskerming foar Firefox ynskeakele is.",
+    "description": "Subtitle in the settings page."
+  },
+  "noSignal": {
+    "message": "Gjin sinjaal",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Ynstabyl",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Ferbine…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Helpsintrum",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "Websitefoarkarren",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Kontakt opnimme",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN út foar website",
+    "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: lokaasje fan Mozilla VPN-website",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   }
 }
