@@ -3,20 +3,38 @@
     "message": "Estensione Mozilla VPN",
     "description": "Name of the extension."
   },
+  "extensionDescription": {
+    "message": "Integra la VPN in Firefox: escludi schede, configura la posizione per diversi siti e molto altro ancora.",
+    "description": "Description of the extension."
+  },
   "back": {
     "message": "Indietro",
     "description": "Alternative text attribute for back button."
+  },
+  "notificationTitle": {
+    "message": "Notifica clic",
+    "description": "Title of the click notification."
   },
   "productName": {
     "message": "Mozilla VPN",
     "description": "Name of the product."
   },
+  "notificationContent": {
+    "message": "Hai fatto clic su $URL$.",
+    "description": "Tells the user which link they clicked.",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "https://developer.mozilla.org"
+      }
+    }
+  },
   "titleServerList": {
-    "message": "Posizione del sito web",
+    "message": "Posizione per il sito web",
     "description": "Title for a dialog where users can set the location for a website."
   },
   "selectWebsiteLocation": {
-    "message": "Seleziona la posizione del sito web",
+    "message": "Seleziona la posizione per il sito web",
     "description": "Button label."
   },
   "titlePageSettings": {
@@ -34,7 +52,7 @@
     }
   },
   "resetPageSettings": {
-    "message": "Ripristina le preferenze del sito web",
+    "message": "Ripristina le preferenze per il sito web",
     "description": "Button text to reset all site specific settings."
   },
   "vpnIsOn": {
@@ -50,7 +68,7 @@
     "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
   },
   "vpnOffStatus": {
-    "message": "Disattivato",
+    "message": "Disattivata",
     "description": "Label indicating that the VPN is off."
   },
   "vpnOnStatus": {
@@ -66,7 +84,7 @@
     "description": "Table heading for the column listing websites."
   },
   "tableHeadingVpnStatus": {
-    "message": "Protezione del sito web",
+    "message": "Protezione per il sito web",
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   },
   "headlineNoWebsitePreferences": {
@@ -74,7 +92,7 @@
     "description": "Headline shown when the user hasn’t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
-    "message": "Con l’estensione per Firefox puoi disattivare la protezione Mozilla VPN per un sito web o impostare una posizione personalizzata. Per fare ciò, visita un sito web, apri l’estensione e aggiorna le preferenze del sito web.",
+    "message": "Con l’estensione per Firefox puoi disattivare la protezione di Mozilla VPN per un sito web o impostare una posizione personalizzata. Per fare ciò, visita il sito web, apri l’estensione e aggiorna le preferenze relative al sito.",
     "description": "Subtext shown when there are no website preferences set by the user."
   },
   "altTextRemoveWebsiteButton": {
@@ -128,7 +146,7 @@
     "description": "This is the headline of an error panel."
   },
   "bodyNeedsUpdate": {
-    "message": "Per utilizzare questa estensione è necessario che sia installata la versione più recente dell’applicazione Mozilla VPN.",
+    "message": "Per utilizzare questa estensione è necessario aver installato la versione più recente dell’applicazione Mozilla VPN.",
     "description": "This is the body copy for an error panel."
   },
   "headerInstallMsg": {
@@ -143,7 +161,7 @@
     "message": "Per utilizzare questa estensione, scarica e installa l’app Mozilla VPN sul tuo computer."
   },
   "bodyInstallMsgFooter": {
-    "message": "Tieni presente che Mozilla VPN è un servizio in abbonamento a pagamento.",
+    "message": "Tieni presente che Mozilla VPN è un servizio a pagamento in abbonamento.",
     "description": "This is a footnote for “bodyInstallMsg”."
   },
   "btnDownloadNow": {
@@ -164,7 +182,7 @@
     "message": "Al momento, l’estensione Mozilla VPN è disponibile solo su dispositivi Windows."
   },
   "footnoteUnsupportedOSMessage": {
-    "message": "Stiamo lavorando per portare presto il supporto a macOS e Linux!"
+    "message": "Stiamo lavorando per offrire presto il supporto per macOS e Linux."
   },
   "turnOnProtection": {
     "message": "Attiva protezione",
@@ -175,7 +193,7 @@
     "description": "Button label."
   },
   "websiteProtection": {
-    "message": "Protezione del sito web",
+    "message": "Protezione per il sito web",
     "description": "A subtitle that is followed by an off icon and the word 'Off'."
   },
   "giveFeedback": {
@@ -195,11 +213,11 @@
     "description": "Body text in onboarding panel."
   },
   "onboarding2_title": {
-    "message": "Visualizza siti web diversi da posizioni diverse",
+    "message": "Visualizza diversi siti web da posizioni personalizzate",
     "description": "Title in onboarding panel."
   },
   "onboarding2_body": {
-    "message": "Notizie da Londra. Sport da San Paolo. Shopping da Tokyo. Imposta posizioni specifiche per i siti web per una navigazione personalizzata.",
+    "message": "Notizie da Londra. Sport da San Paolo. Shopping da Tokyo. Imposta posizioni specifiche per i siti web per una navigazione completamente personalizzata.",
     "description": "Body text in onboarding panel."
   },
   "onboarding3_title": {
@@ -214,8 +232,12 @@
     "message": "Avanti",
     "description": "Label of button to progress to next onboarding panel."
   },
+  "skip": {
+    "message": "Salta",
+    "description": "Label of button to skip onboarding."
+  },
   "headerReEnableFirefoxProtection": {
-    "message": "Riattiva la protezione di Firefox",
+    "message": "Riattiva la protezione per Firefox",
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "bodyReEnableFirefoxProtection": {
@@ -247,7 +269,7 @@
     "description": "Link title."
   },
   "websitePreferences": {
-    "message": "Preferenze del sito web",
+    "message": "Preferenze per i siti web",
     "description": "Link title."
   },
   "contactSupport": {
@@ -259,7 +281,7 @@
     "description": "Aria label."
   },
   "websiteLocationLabel": {
-    "message": "$SERVERLOCATION$: posizione del sito web Mozilla VPN",
+    "message": "$SERVERLOCATION$: posizione di Mozilla VPN per il sito web ",
     "description": "Aria label for a flag icon representing the location of the VPN server",
     "placeholders": {
       "serverlocation": {
