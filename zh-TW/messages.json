@@ -194,8 +194,20 @@
     "message": "對特定網站關閉 VPN",
     "description": "Title in onboarding panel."
   },
+  "onboarding1_body": {
+    "message": "透過 Firefox 擴充套件，您可以對特定網站關閉 VPN 保護，而無須完全中斷。",
+    "description": "Body text in onboarding panel."
+  },
   "onboarding2_title": {
     "message": "從不同位置開啟不同網站",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "看倫敦的新聞、了解聖保羅的體育競賽、上東京的購物網站。針對特定網站設定連線位置，即可進行個人化瀏覽。",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "對 Firefox「保持開啟」保護",
     "description": "Title in onboarding panel."
   },
   "next": {
