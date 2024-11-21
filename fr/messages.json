@@ -38,11 +38,11 @@
     "description": "Button text to reset all site specific settings."
   },
   "vpnOffStatus": {
-    "message": "Désactivé",
+    "message": "Désactivée",
     "description": "Label indicating that the VPN is off."
   },
   "vpnOnStatus": {
-    "message": "Activé",
+    "message": "Activée",
     "description": "Label indicating that the VPN is on."
   },
   "placeholderSearchWebsites": {
