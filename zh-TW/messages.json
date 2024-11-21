@@ -1,0 +1,116 @@
+{
+  "extensionName": {
+    "message": "Mozilla VPN 擴充套件",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "將 VPN 功能直接整合進 Firefox：可排除特定分頁、設定網站位置，還有更多功能！",
+    "description": "Description of the extension."
+  },
+  "back": {
+    "message": "上一頁",
+    "description": "Alternative text attribute for back button."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  },
+  "titleServerList": {
+    "message": "網站位置",
+    "description": "Title for a dialog where users can set the location for a website."
+  },
+  "selectWebsiteLocation": {
+    "message": "請選擇網站位置",
+    "description": "Button label."
+  },
+  "titlePageSettings": {
+    "message": "對此網站的偏好設定",
+    "description": "The header for website specific settings, i.e. exclude a page from VPN."
+  },
+  "excludePageFor": {
+    "message": "總是關閉 $ORIGIN$ 的 VPN 保護",
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "resetPageSettings": {
+    "message": "重設網站偏好設定",
+    "description": "Button text to reset all site specific settings."
+  },
+  "vpnIsOn": {
+    "message": "已開啟 Firefox 的 VPN 保護",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "已關閉 Firefox 的 VPN 保護",
+    "description": "Header to signal that VPN connection is disabled."
+  },
+  "extensionVpnIsOff": {
+    "message": "Mozilla VPN 仍然開啟中，正在保護您電腦上的其他程式連線。",
+    "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
+  },
+  "vpnOffStatus": {
+    "message": "關閉",
+    "description": "Label indicating that the VPN is off."
+  },
+  "vpnOnStatus": {
+    "message": "開啟",
+    "description": "Label indicating that the VPN is on."
+  },
+  "placeholderSearchWebsites": {
+    "message": "搜尋網站",
+    "description": "Placeholder text for the search input field to search websites."
+  },
+  "tableHeadingWebsite": {
+    "message": "網站",
+    "description": "Table heading for the column listing websites."
+  },
+  "tableHeadingVpnStatus": {
+    "message": "網站保護",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "getHelp": {
+    "message": "取得幫助",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "headerOpenMozillaVPN": {
+    "message": "開啟 Mozilla VPN",
+    "description": "Headline."
+  },
+  "headerSignedOut": {
+    "message": "登入 Mozilla VPN 應用程式。"
+  },
+  "btnOpenVpn": {
+    "message": "開啟 Mozilla VPN。"
+  },
+  "headerNeedsUpdate": {
+    "message": "更新 Mozilla VPN",
+    "description": "This is the headline of an error panel."
+  },
+  "headerInstallMsg": {
+    "message": "安裝 Mozilla VPN",
+    "description": "Header if a VPN installation was not found."
+  },
+  "btnDownloadNow": {
+    "message": "立刻下載",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "使用 Mozilla VPN 的位置。"
+  },
+  "useDefaultLocationExplainer": {
+    "message": "使用這台電腦上的 Mozilla VPN 的連線位置。",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "不支援的平台。"
+  },
+  "turnOnProtection": {
+    "message": "開啟保護",
+    "description": "Button label."
+  }
+}
