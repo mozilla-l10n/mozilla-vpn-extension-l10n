@@ -123,5 +123,83 @@
   },
   "bodySignedOut": {
     "message": "Сейчас вы вышли из приложения Mozilla VPN. Чтобы использовать расширение Mozilla VPN для Firefox, откройте приложение на вашем компьютере и войдите в свой аккаунт."
+  },
+  "btnOpenVpn": {
+    "message": "Открыть Mozilla VPN."
+  },
+  "headerNeedsUpdate": {
+    "message": "Обновите Mozilla VPN",
+    "description": "This is the headline of an error panel."
+  },
+  "bodyNeedsUpdate": {
+    "message": "Чтобы использовать это расширение, у вас должна быть установлена последняя версия приложения Mozilla VPN.",
+    "description": "This is the body copy for an error panel."
+  },
+  "headerInstallMsg": {
+    "message": "Установите Mozilla VPN",
+    "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "Чтобы использовать расширение Mozilla VPN для Firefox, сначала откройте приложение Mozilla VPN.",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "Чтобы использовать это расширение, сначала загрузите и установите на свой компьютер приложение Mozilla VPN."
+  },
+  "bodyInstallMsgFooter": {
+    "message": "Обратите внимание, что Mozilla VPN — это сервис с платной подпиской.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
+  "btnDownloadNow": {
+    "message": "Загрузить сейчас",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Использовать местоположение Mozilla VPN."
+  },
+  "useDefaultLocationExplainer": {
+    "message": "Использовать то же местоположение, что и приложение Mozilla VPN, защищающее этот компьютер.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Неподдерживаемая платформа."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "В настоящее время расширение Mozilla VPN доступно только на Windows-устройствах."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Мы работаем над тем, чтобы в ближайшее время добавить поддержку в macOS и Linux!"
+  },
+  "turnOnProtection": {
+    "message": "Включить защиту",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Удалить пользовательское местоположение",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Защита веб-сайта",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Оставить отзыв",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Подробнее",
+    "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "Отключить VPN для определённых сайтов",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding1_body": {
+    "message": "С помощью расширения для Firefox вы можете отключить защиту VPN для определённых веб-сайтов, оставив её включенной для всех остальных.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Просматривайте разные веб-сайты из разных местоположений",
+    "description": "Title in onboarding panel."
   }
 }
