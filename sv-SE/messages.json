@@ -1,4 +1,12 @@
 {
+  "extensionName": {
+    "message": "Mozilla VPN-tillägg",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Integrera VPN i Firefox: Uteslut flikar, ange webbplatsens plats och mer!",
+    "description": "Description of the extension."
+  },
   "back": {
     "message": "Tillbaka",
     "description": "Alternative text attribute for back button."
@@ -6,6 +14,14 @@
   "productName": {
     "message": "Mozilla VPN",
     "description": "Name of the product."
+  },
+  "titleServerList": {
+    "message": "Webbplatsens plats",
+    "description": "Title for a dialog where users can set the location for a website."
+  },
+  "selectWebsiteLocation": {
+    "message": "Välj webbplatsens plats",
+    "description": "Button label."
   },
   "titlePageSettings": {
     "message": "Inställningar för den här webbplatsen",
@@ -178,6 +194,26 @@
     "message": "Stäng av VPN för specifika webbplatser",
     "description": "Title in onboarding panel."
   },
+  "onboarding1_body": {
+    "message": "Med tillägget för Firefox kan du stänga av VPN-skydd för specifika webbplatser och samtidigt behålla den på för allt annat.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Se olika webbplatser från olika platser",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "Nyheter från London. Sport från Sao Paulo. Shopping från Tokyo. Ange webbplatsspecifika platser för personlig surfning.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Behåll skyddet för Firefox “på”",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Använd tillägget för att aktivera VPN-skydd för Firefox — även när skyddet är avstängt för resten av din dator.",
+    "description": "Body text in onboarding panel."
+  },
   "next": {
     "message": "Nästa",
     "description": "Label of button to progress to next onboarding panel."
@@ -185,6 +221,22 @@
   "skip": {
     "message": "Hoppa över",
     "description": "Label of button to skip onboarding."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Återaktivera skyddet av Firefox",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox är för närvarande en ”utesluten app” i Mozilla VPN-applikationen. För att använda tillägget, öppna applikationen och gå till Inställningar > Uteslutna appar och ta bort Firefox.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "För att lägga till eller ändra webbplatsspecifika inställningar, besök webbplatsen och öppna tillägget Mozilla VPN Firefox. Ange sedan inställningar för webbplatsen. Dina inställningar gäller endast när VPN-skydd för Firefox är på.",
+    "description": "Subtitle in the settings page."
+  },
+  "settingsPageTitle": {
+    "message": "Mozilla VPN inställningar för webbplatsen",
+    "description": "Title for settings page tab."
   },
   "noSignal": {
     "message": "Ingen signal",
@@ -213,5 +265,15 @@
   "offForWebsite": {
     "message": "Mozilla VPN avstängd för webbplatsen",
     "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: Mozilla VPN webbplatsens plats",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   }
 }
