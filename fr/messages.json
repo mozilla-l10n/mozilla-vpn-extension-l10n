@@ -6,5 +6,27 @@
   "productName": {
     "message": "Mozilla VPN",
     "description": "Name of the product."
+  },
+  "titleServerList": {
+    "message": "Adresse du site",
+    "description": "Title for a dialog where users can set the location for a website."
+  },
+  "titlePageSettings": {
+    "message": "Préférences pour ce site",
+    "description": "The header for website specific settings, i.e. exclude a page from VPN."
+  },
+  "excludePageFor": {
+    "message": "Toujours désactiver la protection VPN pour $ORIGIN$",
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "resetPageSettings": {
+    "message": "Réinitialiser les préférences du site",
+    "description": "Button text to reset all site specific settings."
   }
 }
