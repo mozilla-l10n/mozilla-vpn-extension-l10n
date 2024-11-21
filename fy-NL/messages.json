@@ -234,6 +234,10 @@
     "message": "Besykje de website en iepenje de Mozilla VPN-útwreiding foar Firefox om websitespesifike foarkaren ta te foegjen of te wizigjen. Stel dernei foarkarren foar de website yn. Jo foarkarren binne allinnich fan tapassing as VPN-beskerming foar Firefox ynskeakele is.",
     "description": "Subtitle in the settings page."
   },
+  "settingsPageTitle": {
+    "message": "Mozilla VPN-websitefoarkarren",
+    "description": "Title for settings page tab."
+  },
   "noSignal": {
     "message": "Gjin sinjaal",
     "description": "Indicator text describing the status of the VPN."
