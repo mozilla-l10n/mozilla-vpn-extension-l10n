@@ -61,6 +61,123 @@
     "message": "Du har inte angett några webbplatsinställningar än",
     "description": "Headline shown when the user hasn’t set any website preferences."
   },
+  "noWebsitePreferencesSubText": {
+    "message": "Med tillägget för Firefox kan du stänga av Mozilla VPN-skydd för en webbplats eller ange en anpassad plats. För att göra detta, besök en webbplats, öppna tillägget och uppdatera webbplatsens inställningar.",
+    "description": "Subtext shown when there are no website preferences set by the user."
+  },
+  "altTextRemoveWebsiteButton": {
+    "message": "Ta bort regel för $ORIGIN$",
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "altTextOpenSettingsPage": {
+    "message": "Öppna inställningssidan",
+    "description": "Alternative text for the button that opens the Extensions Settings page."
+  },
+  "searchServer": {
+    "message": "Sök platser",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "titleSubscribeNow": {
+    "message": "Prenumerera på Mozilla VPN."
+  },
+  "bodySubscribeNow": {
+    "message": "Det ser ut som att du inte prenumererar på Mozilla VPN ännu. Om du vill använda tillägget måste du prenumerera.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "btnSubscribeNow": {
+    "message": "Prenumerera nu",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
+  "getHelp": {
+    "message": "Få hjälp",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "headerOpenMozillaVPN": {
+    "message": "Öppna Mozilla VPN",
+    "description": "Headline."
+  },
+  "headerSignedOut": {
+    "message": "Logga in till Mozilla VPN-appen."
+  },
+  "bodySignedOut": {
+    "message": "Du är för närvarande utloggad från Mozilla VPN-appen. För att använda tillägget Mozilla VPN Firefox, öppna appen på din dator och logga in på ditt konto."
+  },
+  "btnOpenVpn": {
+    "message": "Öppna Mozilla VPN."
+  },
+  "headerNeedsUpdate": {
+    "message": "Uppdatera Mozilla VPN",
+    "description": "This is the headline of an error panel."
+  },
+  "bodyNeedsUpdate": {
+    "message": "För att kunna använda det här tillägget måste du ha den senaste Mozilla VPN-applikationen installerad.",
+    "description": "This is the body copy for an error panel."
+  },
+  "headerInstallMsg": {
+    "message": "Installera Mozilla VPN",
+    "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "För att använda tillägget Mozilla VPN Firefox, öppna appen Mozilla VPN först.",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "För att använda det här tillägget, ladda ner och installera appen Mozilla VPN på din dator."
+  },
+  "bodyInstallMsgFooter": {
+    "message": "Observera att Mozilla VPN är en betald prenumerationstjänst.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
+  "btnDownloadNow": {
+    "message": "Hämta nu",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Använd Mozilla VPN-plats."
+  },
+  "useDefaultLocationExplainer": {
+    "message": "Använd samma plats som Mozilla VPN-appen som skyddar den här datorn.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Plattformen stöds inte."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "För närvarande är tillägget Mozilla VPN endast tillgängligt på Windows-enheter."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Vi jobbar på att få stöd till macOS och Linux snart!"
+  },
+  "turnOnProtection": {
+    "message": "Slå på skydd",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Ta bort anpassad plats",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Webbplatsskydd",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Ge återkoppling",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Läs mer",
+    "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "Stäng av VPN för specifika webbplatser",
+    "description": "Title in onboarding panel."
+  },
   "next": {
     "message": "Nästa",
     "description": "Label of button to progress to next onboarding panel."
