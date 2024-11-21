@@ -1,0 +1,100 @@
+{
+  "back": {
+    "message": "Tillbaka",
+    "description": "Alternative text attribute for back button."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  },
+  "titlePageSettings": {
+    "message": "Inställningar för den här webbplatsen",
+    "description": "The header for website specific settings, i.e. exclude a page from VPN."
+  },
+  "excludePageFor": {
+    "message": "Stäng alltid av VPN-skydd för $ORIGIN$",
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "resetPageSettings": {
+    "message": "Återställ webbplatsens inställningar",
+    "description": "Button text to reset all site specific settings."
+  },
+  "vpnIsOn": {
+    "message": "VPN-skydd för Firefox är på",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "VPN-skydd för Firefox är avstängt",
+    "description": "Header to signal that VPN connection is disabled."
+  },
+  "extensionVpnIsOff": {
+    "message": "Mozilla VPN är fortfarande på och skyddar resten av din dator.",
+    "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
+  },
+  "vpnOffStatus": {
+    "message": "Av",
+    "description": "Label indicating that the VPN is off."
+  },
+  "vpnOnStatus": {
+    "message": "På",
+    "description": "Label indicating that the VPN is on."
+  },
+  "placeholderSearchWebsites": {
+    "message": "Sök webbplatser",
+    "description": "Placeholder text for the search input field to search websites."
+  },
+  "tableHeadingWebsite": {
+    "message": "Webbplats",
+    "description": "Table heading for the column listing websites."
+  },
+  "tableHeadingVpnStatus": {
+    "message": "Webbplatsskydd",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "headlineNoWebsitePreferences": {
+    "message": "Du har inte angett några webbplatsinställningar än",
+    "description": "Headline shown when the user hasn’t set any website preferences."
+  },
+  "next": {
+    "message": "Nästa",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Hoppa över",
+    "description": "Label of button to skip onboarding."
+  },
+  "noSignal": {
+    "message": "Ingen signal",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Instabil",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Ansluter…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Hjälpcenter",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "Webbplatsinställningar",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Kontakta supporten",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN avstängd för webbplatsen",
+    "description": "Aria label."
+  }
+}
