@@ -8,8 +8,12 @@
     "description": "Name of the product."
   },
   "titleServerList": {
-    "message": "Adresse du site",
+    "message": "Emplacement pour le site",
     "description": "Title for a dialog where users can set the location for a website."
+  },
+  "selectWebsiteLocation": {
+    "message": "Sélectionner l’emplacement pour le site web",
+    "description": "Button label."
   },
   "titlePageSettings": {
     "message": "Préférences pour ce site",
@@ -54,7 +58,7 @@
     "description": "Headline shown when the user hasn’t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
-    "message": "Avec l’extension Firefox, vous pouvez désactiver la protection Mozilla VPN pour un site web ou définir une adresse personnalisée. Pour ce faire, visitez un site web, ouvrez l’extension et mettez à jour les préférences du site.",
+    "message": "Avec l’extension Firefox, vous pouvez désactiver la protection Mozilla VPN pour un site web ou définir un emplacement personnalisé. Pour ce faire, visitez un site web, ouvrez l’extension et mettez à jour les préférences du site.",
     "description": "Subtext shown when there are no website preferences set by the user."
   },
   "altTextRemoveWebsiteButton": {
@@ -71,6 +75,10 @@
     "message": "Ouvrir la page des paramètres",
     "description": "Alternative text for the button that opens the Extensions Settings page."
   },
+  "searchServer": {
+    "message": "Rechercher un emplacement",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  },
   "getHelp": {
     "message": "Obtenir de l’aide",
     "description": "Text of a link pointing to a relevant help page."
@@ -81,6 +89,17 @@
   },
   "headerSignedOut": {
     "message": "Connectez-vous à l’application Mozilla VPN."
+  },
+  "btnDownloadNow": {
+    "message": "Télécharger",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Utiliser l’emplacement de Mozilla VPN."
+  },
+  "useDefaultLocationExplainer": {
+    "message": "Utilisez le même emplacement que l’application Mozilla VPN protégeant cet ordinateur.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
   },
   "headerUnsupportedOSMessage": {
     "message": "Plateforme non prise en charge."
@@ -96,7 +115,7 @@
     "description": "Button label."
   },
   "removeCustomLocation": {
-    "message": "Supprimer l’adresse personnalisée",
+    "message": "Supprimer l’emplacement personnalisé",
     "description": "Button label."
   },
   "websiteProtection": {
@@ -110,5 +129,17 @@
   "learnMore": {
     "message": "En savoir plus",
     "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "Désactiver le VPN pour des sites web spécifiques",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding1_body": {
+    "message": "Avec l’extension Firefox, vous pouvez désactiver la protection VPN pour des sites web spécifiques, et la conserver pour tout le reste.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Consultez différents sites web depuis différents emplacements",
+    "description": "Title in onboarding panel."
   }
 }
