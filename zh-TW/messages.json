@@ -73,6 +73,43 @@
     "message": "網站保護",
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   },
+  "headlineNoWebsitePreferences": {
+    "message": "您尚未設定任何網站偏好設定",
+    "description": "Headline shown when the user hasn’t set any website preferences."
+  },
+  "noWebsitePreferencesSubText": {
+    "message": "您可以透過 Firefox 的擴充套件針對特定網站關閉 Mozilla VPN 保護，或是使用不同地點來連線。要這樣做，請開啟網站、開啟擴充套件，然後調整網站偏好設定。",
+    "description": "Subtext shown when there are no website preferences set by the user."
+  },
+  "altTextRemoveWebsiteButton": {
+    "message": "移除 $ORIGIN$ 的規則",
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "altTextOpenSettingsPage": {
+    "message": "開啟設定頁面",
+    "description": "Alternative text for the button that opens the Extensions Settings page."
+  },
+  "searchServer": {
+    "message": "搜尋位置",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "titleSubscribeNow": {
+    "message": "訂閱 Mozilla VPN。"
+  },
+  "bodySubscribeNow": {
+    "message": "看來您還沒有訂閱 Mozilla VPN。若要使用此擴充套件，請先訂閱。",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "btnSubscribeNow": {
+    "message": "立即訂閱",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
   "getHelp": {
     "message": "取得幫助",
     "description": "Text of a link pointing to a relevant help page."
@@ -84,6 +121,9 @@
   "headerSignedOut": {
     "message": "登入 Mozilla VPN 應用程式。"
   },
+  "bodySignedOut": {
+    "message": "您目前未登入 Mozilla VPN 應用程式。若要使用 Firefox 的 Mozilla VPN 擴充套件，請開啟電腦上的 VPN 程式並登入帳號。"
+  },
   "btnOpenVpn": {
     "message": "開啟 Mozilla VPN。"
   },
@@ -91,9 +131,24 @@
     "message": "更新 Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
+  "bodyNeedsUpdate": {
+    "message": "若要使用此擴充套件，必須安裝最新版的 Mozilla VPN 應用程式。",
+    "description": "This is the body copy for an error panel."
+  },
   "headerInstallMsg": {
     "message": "安裝 Mozilla VPN",
     "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "若要使用 Firefox 的 Mozilla VPN 擴充套件，請先開啟 Mozilla VPN。",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "若要使用此擴充套件，請先下載安裝 Mozilla VPN 到您的電腦。"
+  },
+  "bodyInstallMsgFooter": {
+    "message": "註：Mozilla VPN 是需付費的訂閱服務。",
+    "description": "This is a footnote for “bodyInstallMsg”."
   },
   "btnDownloadNow": {
     "message": "立刻下載",
@@ -109,8 +164,92 @@
   "headerUnsupportedOSMessage": {
     "message": "不支援的平台。"
   },
+  "bodyUnsupportedOSMessage": {
+    "message": "目前 Mozilla VPN 擴充套件僅支援 Windows 裝置。"
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "我們正在努力，希望很快就能支援 macOS 與 Linux！"
+  },
   "turnOnProtection": {
     "message": "開啟保護",
     "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "移除自訂位置",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "網站保護",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "提供意見回饋",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "更多資訊",
+    "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "對特定網站關閉 VPN",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "從不同位置開啟不同網站",
+    "description": "Title in onboarding panel."
+  },
+  "next": {
+    "message": "下一步",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "略過",
+    "description": "Label of button to skip onboarding."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "重新開啟 Firefox 保護",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "settingsPageTitle": {
+    "message": "Mozilla VPN 網站偏好設定",
+    "description": "Title for settings page tab."
+  },
+  "noSignal": {
+    "message": "無訊號",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "不穩定",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "連線中…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "說明中心",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "網站偏好設定",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "聯絡支援團隊",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "對網站關閉 Mozilla VPN",
+    "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$：Mozilla VPN 網站位置",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   }
 }
