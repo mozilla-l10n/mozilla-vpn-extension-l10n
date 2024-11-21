@@ -1,0 +1,279 @@
+{
+  "extensionName": {
+    "message": "Mozilla VPN Extension",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Integreer VPN in Firefox: sluit tabbladen uit, stel websitelocaties in en meer!",
+    "description": "Description of the extension."
+  },
+  "back": {
+    "message": "Terug",
+    "description": "Alternative text attribute for back button."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  },
+  "titleServerList": {
+    "message": "Websitelocatie",
+    "description": "Title for a dialog where users can set the location for a website."
+  },
+  "selectWebsiteLocation": {
+    "message": "Websitelocatie selecteren",
+    "description": "Button label."
+  },
+  "titlePageSettings": {
+    "message": "Voorkeuren voor deze website",
+    "description": "The header for website specific settings, i.e. exclude a page from VPN."
+  },
+  "excludePageFor": {
+    "message": "VPN-bescherming altijd uitschakelen voor $ORIGIN$",
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "resetPageSettings": {
+    "message": "Websitevoorkeuren herinitialiseren",
+    "description": "Button text to reset all site specific settings."
+  },
+  "vpnIsOn": {
+    "message": "VPN-bescherming voor Firefox is aan",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "VPN-bescherming voor Firefox is uit",
+    "description": "Header to signal that VPN connection is disabled."
+  },
+  "extensionVpnIsOff": {
+    "message": "Mozilla VPN is nog steeds ingeschakeld en beschermt de rest van uw computer.",
+    "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
+  },
+  "vpnOffStatus": {
+    "message": "Uit",
+    "description": "Label indicating that the VPN is off."
+  },
+  "vpnOnStatus": {
+    "message": "Aan",
+    "description": "Label indicating that the VPN is on."
+  },
+  "placeholderSearchWebsites": {
+    "message": "Websites doorzoeken",
+    "description": "Placeholder text for the search input field to search websites."
+  },
+  "tableHeadingWebsite": {
+    "message": "Website",
+    "description": "Table heading for the column listing websites."
+  },
+  "tableHeadingVpnStatus": {
+    "message": "Websitebescherming",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "headlineNoWebsitePreferences": {
+    "message": "U hebt nog geen websitevoorkeuren ingesteld",
+    "description": "Headline shown when the user hasn’t set any website preferences."
+  },
+  "noWebsitePreferencesSubText": {
+    "message": "Met de Firefox-extensie kunt u Mozilla VPN-bescherming voor een website uitschakelen of een aangepaste locatie instellen. Bezoek hiervoor een website, open de extensie en werk de websitevoorkeuren bij.",
+    "description": "Subtext shown when there are no website preferences set by the user."
+  },
+  "altTextRemoveWebsiteButton": {
+    "message": "Regel voor $ORIGIN$ verwijderen",
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "altTextOpenSettingsPage": {
+    "message": "Instellingenpagina openen",
+    "description": "Alternative text for the button that opens the Extensions Settings page."
+  },
+  "searchServer": {
+    "message": "Locaties doorzoeken",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "titleSubscribeNow": {
+    "message": "Abonneren op Mozilla VPN."
+  },
+  "bodySubscribeNow": {
+    "message": "Het lijkt erop dat u nog niet bent geabonneerd op Mozilla VPN. Abonneer u om deze extensie te gebruiken.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "btnSubscribeNow": {
+    "message": "Nu abonneren",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
+  "getHelp": {
+    "message": "Hulp verkrijgen",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "headerOpenMozillaVPN": {
+    "message": "Mozilla VPN openen",
+    "description": "Headline."
+  },
+  "headerSignedOut": {
+    "message": "Aanmelden bij de Mozilla VPN-app."
+  },
+  "bodySignedOut": {
+    "message": "U bent momenteel afgemeld bij de Mozilla VPN-app. Open de app op uw computer en meld u aan bij uw account om de Mozilla VPN-extensie voor Firefox te gebruiken."
+  },
+  "btnOpenVpn": {
+    "message": "Mozilla VPN openen."
+  },
+  "headerNeedsUpdate": {
+    "message": "Mozilla VPN bijwerken",
+    "description": "This is the headline of an error panel."
+  },
+  "bodyNeedsUpdate": {
+    "message": "Om deze extensie te gebruiken, dient u te beschikken over de nieuwste Mozilla VPN-toepassing.",
+    "description": "This is the body copy for an error panel."
+  },
+  "headerInstallMsg": {
+    "message": "Mozilla VPN installeren",
+    "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "Open eerst de Mozilla VPN-app om de Mozilla VPN-extensie voor Firefox te gebruiken.",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "Download en installeer eerst de Mozilla VPN-app op uw computer om deze extensie te gebruiken."
+  },
+  "bodyInstallMsgFooter": {
+    "message": "Merk op dat Mozilla VPN een betaalde abonnementsservice is.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
+  "btnDownloadNow": {
+    "message": "Nu downloaden",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Mozilla VPN-locatie gebruiken."
+  },
+  "useDefaultLocationExplainer": {
+    "message": "Dezelfde locatie als de Mozilla VPN-app die deze computer beschermt gebruiken.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Niet-ondersteund platform."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "Momenteel is de Mozilla VPN-extensie alleen beschikbaar op Windows-apparaten."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "We werken eraan om binnenkort ondersteuning voor macOS en Linux te bieden!"
+  },
+  "turnOnProtection": {
+    "message": "Bescherming inschakelen",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Aangepaste locatie verwijderen",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Websitebescherming",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Feedback geven",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Meer info",
+    "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "VPN uitschakelen voor specifieke websites",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding1_body": {
+    "message": "Met de Firefox-extensie kunt u VPN-bescherming voor specifieke websites uitschakelen en voor de rest ingeschakeld houden.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Bekijk verschillende websites vanaf verschillende locaties",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "Nieuws uit Londen. Sport uit Sao Paulo. Winkelen vanuit Tokio. Stel websitespecifieke locaties in voor gepersonaliseerd navigeren.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Bescherming voor Firefox ‘aan’ houden",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Gebruik de extensie om VPN-bescherming voor Firefox in te schakelen – zelfs wanneer bescherming voor de rest van uw computer is uitgeschakeld.",
+    "description": "Body text in onboarding panel."
+  },
+  "next": {
+    "message": "Volgende",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Overslaan",
+    "description": "Label of button to skip onboarding."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Firefox-bescherming opnieuw inschakelen",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox is momenteel een ‘uitgezonderde app’ in de Mozilla VPN-toepassing. Open om deze extensie te gebruiken de toepassing, ga naar Instellingen > Uitgezonderde apps en verwijder Firefox.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "Bezoek de website en open de Mozilla VPN-extensie voor Firefox om websitespecifieke voorkeuren toe te voegen of te wijzigen. Stel vervolgens voorkeuren voor de website in. Uw voorkeuren zijn alleen van kracht als VPN-bescherming voor Firefox is ingeschakeld.",
+    "description": "Subtitle in the settings page."
+  },
+  "settingsPageTitle": {
+    "message": "Mozilla VPN-websitevoorkeuren",
+    "description": "Title for settings page tab."
+  },
+  "noSignal": {
+    "message": "Geen signaal",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Instabiel",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Verbinden…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Helpcentrum",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "Websitevoorkeuren",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Contact opnemen",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN uit voor website",
+    "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: locatie van Mozilla VPN-website",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
+  }
+}
