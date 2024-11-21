@@ -3,6 +3,10 @@
     "message": "Επέκταση Mozilla VPN",
     "description": "Name of the extension."
   },
+  "extensionDescription": {
+    "message": "Ενσωμάτωση του VPN στο Firefox: εξαιρέστε καρτέλες, καθορίστε τοποθεσίες ιστοτόπων και πολλά άλλα!",
+    "description": "Description of the extension."
+  },
   "back": {
     "message": "Πίσω",
     "description": "Alternative text attribute for back button."
@@ -23,6 +27,16 @@
     "message": "Προτιμήσεις ιστοτόπου",
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
+  "excludePageFor": {
+    "message": "Πάντα απενεργοποίηση της προστασίας VPN για το $ORIGIN$",
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
   "resetPageSettings": {
     "message": "Επαναφορά προτιμήσεων ιστοτόπου",
     "description": "Button text to reset all site specific settings."
@@ -34,6 +48,10 @@
   "vpnIsOff": {
     "message": "Η προστασία VPN για το Firefox είναι ανενεργή",
     "description": "Header to signal that VPN connection is disabled."
+  },
+  "extensionVpnIsOff": {
+    "message": "Το Mozilla VPN εξακολουθεί να είναι ενεργό και να προστατεύει τον υπολογιστή σας.",
+    "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
   },
   "vpnOffStatus": {
     "message": "Ανενεργό",
@@ -59,6 +77,10 @@
     "message": "Δεν έχετε ορίσει ακόμα προτιμήσεις ιστοτόπων",
     "description": "Headline shown when the user hasn’t set any website preferences."
   },
+  "noWebsitePreferencesSubText": {
+    "message": "Με την επέκταση για το Firefox, μπορείτε να απενεργοποιήσετε την προστασία του Mozilla VPN για έναν ιστότοπο ή να ορίσετε μια προσαρμοσμένη τοποθεσία. Για να το κάνετε αυτό, επισκεφτείτε έναν ιστότοπο, ανοίξτε την επέκταση και τροποποιήστε τις προτιμήσεις του ιστοτόπου.",
+    "description": "Subtext shown when there are no website preferences set by the user."
+  },
   "altTextRemoveWebsiteButton": {
     "message": "Κατάργηση κανόνα για το $ORIGIN$",
     "description": "Alternative text for the button that removes a website rule from the list of preferences.",
@@ -69,9 +91,20 @@
       }
     }
   },
+  "altTextOpenSettingsPage": {
+    "message": "Άνοιγμα σελίδας ρυθμίσεων",
+    "description": "Alternative text for the button that opens the Extensions Settings page."
+  },
   "searchServer": {
     "message": "Αναζήτηση τοποθεσιών",
     "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "titleSubscribeNow": {
+    "message": "Εγγραφείτε στο Mozilla VPN."
+  },
+  "bodySubscribeNow": {
+    "message": "Φαίνεται πως δεν διαθέτετε ακόμα συνδρομή στο Mozilla VPN. Εγγραφείτε στην υπηρεσία για να χρησιμοποιήσετε αυτήν την επέκταση.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
   },
   "btnSubscribeNow": {
     "message": "Εγγραφή τώρα",
@@ -81,12 +114,51 @@
     "message": "Λήψη βοήθειας",
     "description": "Text of a link pointing to a relevant help page."
   },
+  "headerOpenMozillaVPN": {
+    "message": "Άνοιγμα του Mozilla VPN",
+    "description": "Headline."
+  },
+  "headerSignedOut": {
+    "message": "Συνδεθείτε στην εφαρμογή του Mozilla VPN."
+  },
+  "bodySignedOut": {
+    "message": "Αυτήν τη στιγμή, έχετε αποσυνδεθεί από την εφαρμογή του Mozilla VPN. Για να χρησιμοποιήσετε την επέκταση του Mozilla VPN στο Firefox, ανοίξτε την εφαρμογή στον υπολογιστή σας και συνδεθείτε στον λογαριασμό σας."
+  },
+  "btnOpenVpn": {
+    "message": "Ανοίξτε το Mozilla VPN."
+  },
+  "headerNeedsUpdate": {
+    "message": "Ενημέρωση του Mozilla VPN",
+    "description": "This is the headline of an error panel."
+  },
+  "bodyNeedsUpdate": {
+    "message": "Για να χρησιμοποιήσετε αυτήν την επέκταση, θα πρέπει να διαθέτετε την πιο πρόσφατη εφαρμογή του Mozilla VPN.",
+    "description": "This is the body copy for an error panel."
+  },
+  "headerInstallMsg": {
+    "message": "Εγκατάσταση του Mozilla VPN",
+    "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "Για να χρησιμοποιήσετε την επέκταση του Mozilla VPN στο Firefox, ανοίξτε πρώτα την εφαρμογή του Mozilla VPN.",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "Για να χρησιμοποιήσετε αυτήν την επέκταση, κάντε πρώτα λήψη και εγκατάσταση του Mozilla VPN στον υπολογιστή σας."
+  },
+  "bodyInstallMsgFooter": {
+    "message": "Σημειώστε ότι το Mozilla VPN είναι μια συνδρομητική υπηρεσία επί πληρωμή.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
   "btnDownloadNow": {
     "message": "Λήψη τώρα",
     "description": "This is a call to action button to download the VPN."
   },
   "headerUnsupportedOSMessage": {
     "message": "Μη υποστηριζόμενη πλατφόρμα."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Εργαζόμαστε ώστε να προσφέρουμε σύντομα υποστήριξη για macOS και Linux!"
   },
   "turnOnProtection": {
     "message": "Ενεργοποίηση προστασίας",
@@ -108,6 +180,18 @@
     "message": "Μάθετε περισσότερα",
     "description": "Label of link that leads to SUMO."
   },
+  "onboarding1_title": {
+    "message": "Απενεργοποιήστε το VPN για συγκεκριμένους ιστοτόπους",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Δείτε διάφορους ιστοτόπους από διαφορετικές τοποθεσίες",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Διατηρήστε «ενεργή» την προστασία του Firefox",
+    "description": "Title in onboarding panel."
+  },
   "next": {
     "message": "Επόμενο",
     "description": "Label of button to progress to next onboarding panel."
@@ -119,6 +203,14 @@
   "headerReEnableFirefoxProtection": {
     "message": "Ενεργοποιήστε ξανά την προστασία του Firefox",
     "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Αυτήν τη στιγμή, το Firefox έχει οριστεί ως «εξαιρούμενη εφαρμογή» στην εφαρμογή του Mozilla VPN. Για να χρησιμοποιήσετε αυτήν την επέκταση, ανοίξτε την εφαρμογή, μεταβείτε στις Ρυθμίσεις > Εξαιρούμενες εφαρμογές και αφαιρέστε το Firefox.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "Για να προσθέσετε ή να αλλάξετε τις προτιμήσεις ενός συγκεκριμένου ιστοτόπου, επισκεφτείτε τον και ανοίξτε την επέκταση του Mozilla VPN στο Firefox. Έπειτα, ορίστε τις προτιμήσεις για τον ιστότοπο. Οι προτιμήσεις σας ισχύουν μόνο όταν είναι ενεργή η προστασία VPN για το Firefox.",
+    "description": "Subtitle in the settings page."
   },
   "settingsPageTitle": {
     "message": "Προτιμήσεις ιστοτόπων Mozilla VPN",
