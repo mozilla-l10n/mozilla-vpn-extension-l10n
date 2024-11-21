@@ -1,0 +1,52 @@
+{
+  "extensionName": {
+    "message": "Расширение Mozilla VPN",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Интегрируйте VPN в Firefox: Исключайте вкладки, настраивайте местоположение Сайтов и многое другое!",
+    "description": "Description of the extension."
+  },
+  "back": {
+    "message": "Назад",
+    "description": "Alternative text attribute for back button."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  },
+  "titleServerList": {
+    "message": "Местоположение веб-сайта",
+    "description": "Title for a dialog where users can set the location for a website."
+  },
+  "selectWebsiteLocation": {
+    "message": "Выберите местопололжение веб-сайта",
+    "description": "Button label."
+  },
+  "titlePageSettings": {
+    "message": "Настройки для этого веб-сайта",
+    "description": "The header for website specific settings, i.e. exclude a page from VPN."
+  },
+  "excludePageFor": {
+    "message": "Всегда отключать VPN-защиту для $ORIGIN$",
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "resetPageSettings": {
+    "message": "Сбросить настройки веб-сайта",
+    "description": "Button text to reset all site specific settings."
+  },
+  "vpnIsOn": {
+    "message": "VPN-защита для Firefox включена",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "VPN-защита для Firefox отключена",
+    "description": "Header to signal that VPN connection is disabled."
+  }
+}
