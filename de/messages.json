@@ -120,5 +120,160 @@
   },
   "headerSignedOut": {
     "message": "Melden Sie sich bei der Mozilla-VPN-App an."
+  },
+  "bodySignedOut": {
+    "message": "Sie sind derzeit von der Mozilla-VPN-App abgemeldet. Um die Firefox-Erweiterung von Mozilla-VPN zu verwenden, öffnen Sie die App auf Ihrem Computer und melden Sie sich mit Ihrem Konto an."
+  },
+  "btnOpenVpn": {
+    "message": "Mozilla VPN öffnen"
+  },
+  "headerNeedsUpdate": {
+    "message": "Mozilla VPN aktualisieren",
+    "description": "This is the headline of an error panel."
+  },
+  "bodyNeedsUpdate": {
+    "message": "Um diese Erweiterung verwenden zu können, muss die neueste Mozilla-VPN-Anwendung installiert sein.",
+    "description": "This is the body copy for an error panel."
+  },
+  "headerInstallMsg": {
+    "message": "Mozilla VPN installieren",
+    "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "Um die Firefox-Erweiterung von Mozilla VPN zu verwenden, öffnen Sie bitte zuerst die Mozilla-VPN-App.",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "Um diese Erweiterung zu verwenden, laden Sie zuerst die Mozilla-VPN-App herunter und installieren Sie diese auf Ihrem Computer."
+  },
+  "bodyInstallMsgFooter": {
+    "message": "Beachten Sie, dass Mozilla ein Dienst mit kostenpflichtigem Abonnement ist.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
+  "btnDownloadNow": {
+    "message": "Jetzt herunterladen",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Mozilla VPN-Standort verwenden"
+  },
+  "useDefaultLocationExplainer": {
+    "message": "Verwenden Sie denselben Standort wie die Mozilla-VPN-App, die diesen Computer schützt.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Nicht unterstützte Plattform"
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "Derzeit ist die Mozilla-VPN-Erweiterung nur für Windows-Geräte verfügbar."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Wir arbeiten daran, bald Unterstützung für macOS und Linux bereitzustellen!"
+  },
+  "turnOnProtection": {
+    "message": "Schutz aktivieren",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Benutzerdefinierten Standort entfernen",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Website-Schutz",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Feedback senden",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Weitere Informationen",
+    "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "VPN für bestimmte Websites deaktivieren",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding1_body": {
+    "message": "Mit der Firefox-Erweiterung können Sie den VPN-Schutz für bestimmte Websites deaktivieren, während Sie ihn für alles andere aktiviert lassen.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Sehen Sie sich unterschiedliche Websites von verschiedenen Standorten an",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "Nachrichten aus London. Sport aus São Paulo. Einkaufen in Japan. Legen Sie website-spezifische Adressen für personalisiertes Surfen fest.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Lassen Sie den Schutz für Firefox „aktiviert“.",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Verwenden Sie die Erweiterung, um den VPN-Schutz für Firefox zu aktivieren – auch wenn der Schutz für den Rest Ihres Computers deaktiviert ist.",
+    "description": "Body text in onboarding panel."
+  },
+  "next": {
+    "message": "Weiter",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Überspringen",
+    "description": "Label of button to skip onboarding."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Firefox-Schutz wieder aktivieren",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox ist derzeit eine „ausgeschlossene App“ in der Mozilla-VPN-Anwendung. Um diese Erweiterung zu verwenden, öffnen Sie die Anwendung, gehen Sie zu Einstellungen > Ausgeschlossene Apps und entfernen Sie Firefox.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "Um website-spezifische Einstellungen hinzuzufügen oder zu ändern, besuchen Sie die Website und öffnen Sie die Firefox-Erweiterung von Mozilla-VPN. Legen Sie dann Einstellungen für die Website fest. Ihre Einstellungen sind nur wirksam, wenn der VPN-Schutz für Firefox aktiviert ist.",
+    "description": "Subtitle in the settings page."
+  },
+  "settingsPageTitle": {
+    "message": "Mozilla-VPN-Website-Einstellungen",
+    "description": "Title for settings page tab."
+  },
+  "noSignal": {
+    "message": "Kein Signal",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Instabil",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Verbindung wird hergestellt…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Hilfezentrum",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "Website-Einstellungen",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Hilfe kontaktieren",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN für Website deaktiviert",
+    "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: Standort der Website für Mozilla VPN",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   }
 }
