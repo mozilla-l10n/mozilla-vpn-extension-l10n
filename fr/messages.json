@@ -1,4 +1,8 @@
 {
+  "extensionName": {
+    "message": "Extension Mozilla VPN",
+    "description": "Name of the extension."
+  },
   "back": {
     "message": "Retour",
     "description": "Alternative text attribute for back button."
@@ -79,6 +83,10 @@
     "message": "Rechercher un emplacement",
     "description": "Placeholder for the Input field where users can search the list of servers."
   },
+  "btnSubscribeNow": {
+    "message": "S’abonner maintenant",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
   "getHelp": {
     "message": "Obtenir de l’aide",
     "description": "Text of a link pointing to a relevant help page."
@@ -141,5 +149,55 @@
   "onboarding2_title": {
     "message": "Consultez différents sites web depuis différents emplacements",
     "description": "Title in onboarding panel."
+  },
+  "next": {
+    "message": "Suivant",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Ignorer",
+    "description": "Label of button to skip onboarding."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Réactiver la protection Firefox",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "settingsPageTitle": {
+    "message": "Préférences des sites web Mozilla VPN",
+    "description": "Title for settings page tab."
+  },
+  "noSignal": {
+    "message": "Aucun signal",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Instable",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Connexion…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Centre d’assistance",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Contacter l’assistance",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN désactivé pour ce site web",
+    "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$ : emplacement Mozilla VPN pour ce site web",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   }
 }
