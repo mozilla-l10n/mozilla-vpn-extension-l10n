@@ -154,8 +154,18 @@
     "message": "Λήψη τώρα",
     "description": "This is a call to action button to download the VPN."
   },
+  "defaultLocationHeader": {
+    "message": "Χρησιμοποιήστε την τοποθεσία του Mozilla VPN."
+  },
+  "useDefaultLocationExplainer": {
+    "message": "Χρησιμοποιήστε την ίδια τοποθεσία με την εφαρμογή του Mozilla VPN που προστατεύει αυτόν τον υπολογιστή.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
   "headerUnsupportedOSMessage": {
     "message": "Μη υποστηριζόμενη πλατφόρμα."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "Προς το παρόν, η επέκταση του Mozilla VPN είναι διαθέσιμη μόνο σε συσκευές με Windows."
   },
   "footnoteUnsupportedOSMessage": {
     "message": "Εργαζόμαστε ώστε να προσφέρουμε σύντομα υποστήριξη για macOS και Linux!"
@@ -184,13 +194,25 @@
     "message": "Απενεργοποιήστε το VPN για συγκεκριμένους ιστοτόπους",
     "description": "Title in onboarding panel."
   },
+  "onboarding1_body": {
+    "message": "Με την επέκταση για το Firefox, μπορείτε να απενεργοποιήσετε την προστασία VPN για συγκεκριμένους ιστοτόπους, διατηρώντας την ενεργή για οτιδήποτε άλλο.",
+    "description": "Body text in onboarding panel."
+  },
   "onboarding2_title": {
     "message": "Δείτε διάφορους ιστοτόπους από διαφορετικές τοποθεσίες",
     "description": "Title in onboarding panel."
   },
+  "onboarding2_body": {
+    "message": "Ειδήσεις από το Λονδίνο. Αθλητισμός από το Σάο Πάολο. Αγορές από το Τόκιο. Ορίστε την τοποθεσία συγκεκριμένων ιστοτόπων για εξατομικευμένη περιήγηση.",
+    "description": "Body text in onboarding panel."
+  },
   "onboarding3_title": {
     "message": "Διατηρήστε «ενεργή» την προστασία του Firefox",
     "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Χρησιμοποιήστε την επέκταση για να ενεργοποιήσετε την προστασία VPN για το Firefox, ακόμα κι όταν η προστασία είναι ανενεργή για τον υπόλοιπο υπολογιστή σας.",
+    "description": "Body text in onboarding panel."
   },
   "next": {
     "message": "Επόμενο",
