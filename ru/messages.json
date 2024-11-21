@@ -201,5 +201,79 @@
   "onboarding2_title": {
     "message": "Просматривайте разные веб-сайты из разных местоположений",
     "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "Новости из Лондона. Спортивные новости из Сан-Паулу. Покупки из Токио. Настройте местоположение веб-сайта для персонализированного просмотра.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Держать защиту для Firefox «вкл.»",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Используйте расширение, чтобы включить защиту VPN для Firefox — даже если защита отключена на вашем компьютере.",
+    "description": "Body text in onboarding panel."
+  },
+  "next": {
+    "message": "Далее",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Пропустить",
+    "description": "Label of button to skip onboarding."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Включить защиту Firefox снова",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox в настоящее время является «исключённым приложением» в приложении Mozilla VPN. Чтобы использовать это расширение, откройте его, перейдите в «Настройки» > «Исключённые приложения» и удалите Firefox.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "Чтобы добавить или изменить настройки для веб-сайтов, посетите сайт и откройте расширение Mozilla VPN для Firefox. Затем установите настройки для сайта. Ваши настройки действуют только при включении VPN-защиты для Firefox.",
+    "description": "Subtitle in the settings page."
+  },
+  "settingsPageTitle": {
+    "message": "Настройки веб-сайтов Mozilla VPN",
+    "description": "Title for settings page tab."
+  },
+  "noSignal": {
+    "message": "Нет сигнала",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Нестабильное",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Соединение…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Центр помощи",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "Настройки веб-сайтов",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Связаться с поддержкой",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN отключён для сайта",
+    "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$serverlocation$: Местоположение веб-сайта Mozilla VPN",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   }
 }
