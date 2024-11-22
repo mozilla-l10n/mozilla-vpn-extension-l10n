@@ -143,6 +143,13 @@
     "message": "Zo byšće rozšěrjenje Fiefox Mozilla VPN wužiwał, wočińće prošu najprjedy nałoženje Mozilla VPN.",
     "description": "Popup subtitle text."
   },
+  "bodyInstallMsg": {
+    "message": "Zo byšće tute rozšěrjenje wužiwał, sćehńće a instalujće najprjedy nałoženje Mozilla VPN na swojim ličaku."
+  },
+  "bodyInstallMsgFooter": {
+    "message": "Dźiwajće na to, zo Mozilla VPN je płaćomna abonementowa słužba.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
   "btnDownloadNow": {
     "message": "Nětko sćahnyć",
     "description": "This is a call to action button to download the VPN."
@@ -150,11 +157,18 @@
   "defaultLocationHeader": {
     "message": "Stejnišćo Mozilla VPN wužiwać."
   },
+  "useDefaultLocationExplainer": {
+    "message": "Wužiwajće samsne stejnišćo kaž nałoženje Mozilla VPN, kotrež tutón ličak škita.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
   "headerUnsupportedOSMessage": {
     "message": "Njepodpěrana platforma."
   },
   "bodyUnsupportedOSMessage": {
     "message": "Tuchwilu je rozšěrjenje Mozilla VPN jenož za graty Windows k dispoziciji."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Dźěłamy na to, zo bychmy bórze podpěru za macOS a Linux k dispoziciji stajili!"
   },
   "turnOnProtection": {
     "message": "Škit zmóžnić",
@@ -179,6 +193,10 @@
   "onboarding1_title": {
     "message": "VPN za wěste websydła znjemóžnić",
     "description": "Title in onboarding panel."
+  },
+  "onboarding1_body": {
+    "message": "Z rozšěrjenjom Firefox móžeće škit VPM za wěste websydła znjemóžnić, mjeztym zo jón za wšě druhe zmóžnjeny wostajeće.",
+    "description": "Body text in onboarding panel."
   },
   "onboarding2_title": {
     "message": "Wobhladajće sej rozdźělne websydła wot rozdźělnych stejnišćow",
