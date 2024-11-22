@@ -122,7 +122,7 @@
     "message": "Přizjewće so pola nałoženja Mozilla VPN."
   },
   "bodySignedOut": {
-    "message": "Sće tuchwilu z nałoženja Mozilla VPN wotzjewjeny. Zo byšće rozšěrjenje Fiefox Mozilla VPN wužiwał, wočińće nałoženja na swojim ličaku a přizjewće so pola swojeho konta."
+    "message": "Sće tuchwilu z nałoženja Mozilla VPN wotzjewjeny. Zo byšće rozšěrjenje Firefox Mozilla VPN wužiwał, wočińće nałoženje na swojim ličaku a přizjewće so pola swojeho konta."
   },
   "btnOpenVpn": {
     "message": "Mozilla VPN wočinić."
@@ -140,7 +140,7 @@
     "description": "Header if a VPN installation was not found."
   },
   "bodyOpenMsg": {
-    "message": "Zo byšće rozšěrjenje Fiefox Mozilla VPN wužiwał, wočińće prošu najprjedy nałoženje Mozilla VPN.",
+    "message": "Zo byšće rozšěrjenje Firefox Mozilla VPN wužiwał, wočińće prošu najprjedy nałoženje Mozilla VPN.",
     "description": "Popup subtitle text."
   },
   "bodyInstallMsg": {
