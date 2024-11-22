@@ -164,6 +164,12 @@
   "headerUnsupportedOSMessage": {
     "message": "Njepódprěta platforma."
   },
+  "bodyUnsupportedOSMessage": {
+    "message": "Tuchylu jo rozšyrjenje Mozilla VPN jano za rědy Windows k dispoziciji."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Źěłamy na to, aby skóro pódpěru za macOS a Linux k dispoziciji stajili!"
+  },
   "turnOnProtection": {
     "message": "Šćit zmóžniś",
     "description": "Button label."
@@ -188,9 +194,25 @@
     "message": "VPN za wěste websedła znjemóžniś",
     "description": "Title in onboarding panel."
   },
+  "onboarding1_body": {
+    "message": "Z rozšyrjenim Firefox móžośo šćit VPN za wěste websedła znjemóžniś, mjaztym až jen za wšykne druge zmóžnjony wóstajaśo.",
+    "description": "Body text in onboarding panel."
+  },
   "onboarding2_title": {
     "message": "Woglědajśo se rozdźělne websedła wót rozdźělnych stojnišćow",
     "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "Powěsći z Londona. Sport ze São Paulo. Nakupowanje w Tokiu. Nastajśo za websedła specifiske stojnišća za personalizěrowane pśeglědowanje.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Wóstajśo šćit za Firefox „zmóžnjony“",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Wužywajśo rozšyrjenje, aby šćit VPN za Firefox zmóžnił – samo gaby šćit był znjemóžnjony za zbytk licadła.",
+    "description": "Body text in onboarding panel."
   },
   "next": {
     "message": "Dalej",
@@ -203,6 +225,14 @@
   "headerReEnableFirefoxProtection": {
     "message": "Šćit Firefox zasej zmóžniś",
     "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox jo tuchylu „wuzamknjone nałoženje“ w nałoženju Mozilla VPN. Aby toś to rozšyrjenje wužywał, wócyńśo nałoženje a pśejźćo k Nastajenja > Wuzamknjone nałoženja a wótwónoźćo Firefox.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "Aby za websedła specifiske nastajenja pśidał abo změnił, woglědajśo se k sedłoju a wócyńśo rozšyrjenje Firefox Mozilla VPN. Póstajśo pón nastajenja za sedło. Waše nastajenja se jano wustatkuju, gaž šćit VPN za Firefox jo zmóžnjony.",
+    "description": "Subtitle in the settings page."
   },
   "settingsPageTitle": {
     "message": "Nastajenja websedła Mozilla VPN",
