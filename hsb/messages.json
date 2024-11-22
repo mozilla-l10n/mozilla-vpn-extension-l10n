@@ -24,7 +24,7 @@
     "description": "Button label."
   },
   "titlePageSettings": {
-    "message": "Nastajenja za tute websydła",
+    "message": "Nastajenja za tute websydło",
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
   "excludePageFor": {
