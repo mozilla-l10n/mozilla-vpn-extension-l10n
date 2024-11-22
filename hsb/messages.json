@@ -50,7 +50,7 @@
     "description": "Header to signal that VPN connection is disabled."
   },
   "extensionVpnIsOff": {
-    "message": "Mozilla VPN je hišće zmóžnjeny, zbytk wašeho ličak so škita.",
+    "message": "Mozilla VPN je hišće zmóžnjeny, zbytk wašeho ličaka so škita.",
     "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
   },
   "vpnOffStatus": {
