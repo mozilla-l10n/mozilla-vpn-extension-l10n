@@ -130,6 +130,9 @@
   "headerUnsupportedOSMessage": {
     "message": "Njepodpěrana platforma."
   },
+  "bodyUnsupportedOSMessage": {
+    "message": "Tuchwilu je rozšěrjenje Mozilla VPN jenož za graty Windows k dispoziciji."
+  },
   "turnOnProtection": {
     "message": "Škit zmóžnić",
     "description": "Button label."
@@ -157,5 +160,63 @@
   "onboarding2_title": {
     "message": "Wobhladajće sej rozdźělne websydła wot rozdźělnych stejnišćow",
     "description": "Title in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Wostajće škit za Firefox „zmóžnjeny“",
+    "description": "Title in onboarding panel."
+  },
+  "next": {
+    "message": "Dale",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Přeskočić",
+    "description": "Label of button to skip onboarding."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Škit Firefox zaso zmóžnić",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "settingsPageTitle": {
+    "message": "Nastajenja websydła Mozilla VPN",
+    "description": "Title for settings page tab."
+  },
+  "noSignal": {
+    "message": "Žadyn signal",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Njestabilny",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Zwjazuje so…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Centrum pomocy",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "Nastajenja websydła",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Z pomocu so do zwiska stajić",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN je za websydło znjemóžnjeny",
+    "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: Stejnišćo websydła Mozilla VPN",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   }
 }
