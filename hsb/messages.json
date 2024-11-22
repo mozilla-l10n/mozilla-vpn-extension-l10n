@@ -195,7 +195,7 @@
     "description": "Title in onboarding panel."
   },
   "onboarding1_body": {
-    "message": "Z rozšěrjenjom Firefox móžeće škit VPM za wěste websydła znjemóžnić, mjeztym zo jón za wšě druhe zmóžnjeny wostajeće.",
+    "message": "Z rozšěrjenjom Firefox móžeće škit VPN za wěste websydła znjemóžnić, mjeztym zo jón za wšě druhe zmóžnjeny wostajeće.",
     "description": "Body text in onboarding panel."
   },
   "onboarding2_title": {
@@ -203,7 +203,7 @@
     "description": "Title in onboarding panel."
   },
   "onboarding2_body": {
-    "message": "Powěsće z Londona. Sport ze São Paulo. Nakupowanje w Tokija. Nastajće za websydła specifiske stejnišća za personalizowane přehladowanje.",
+    "message": "Powěsće z Londona. Sport ze São Paulo. Nakupowanje w Tokiju. Nastajće za websydła specifiske stejnišća za personalizowane přehladowanje.",
     "description": "Body text in onboarding panel."
   },
   "onboarding3_title": {
@@ -231,7 +231,7 @@
     "description": "Body copy of error panel."
   },
   "settingsPageSubtitle": {
-    "message": "Zi byšće za websydła specifiske nastajenja přidał abo změnił, wopytajće sydło a wočińće rozšěrjenje Firefox Mozilla VPN. Postajće potom nastajenja za sydło. Waše nastajenja so jenož wuskutkuja, hdyž škit VPN za Firefox je zmóžnjeny.",
+    "message": "Zo byšće za websydła specifiske nastajenja přidał abo změnił, wopytajće sydło a wočińće rozšěrjenje Firefox Mozilla VPN. Postajće potom nastajenja za sydło. Waše nastajenja so jenož wuskutkuja, hdyž škit VPN za Firefox je zmóžnjeny.",
     "description": "Subtitle in the settings page."
   },
   "settingsPageTitle": {
