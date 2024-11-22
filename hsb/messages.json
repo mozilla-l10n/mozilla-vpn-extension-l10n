@@ -3,6 +3,10 @@
     "message": "Rozšěrjenje Mozilla VPN",
     "description": "Name of the extension."
   },
+  "extensionDescription": {
+    "message": "Integrujće VPN do Firefox: rajtarki wuzamknyć, stejnišća websydłow postajić a wjace!",
+    "description": "Description of the extension."
+  },
   "back": {
     "message": "Wróćo",
     "description": "Alternative text attribute for back button."
