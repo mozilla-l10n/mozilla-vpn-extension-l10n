@@ -69,6 +69,10 @@
     "message": "Škit websydła",
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   },
+  "headlineNoWebsitePreferences": {
+    "message": "Hišće njejsće nastajenja websydła postajił",
+    "description": "Headline shown when the user hasn’t set any website preferences."
+  },
   "altTextRemoveWebsiteButton": {
     "message": "Prawidło za $ORIGIN$ wotstronić",
     "description": "Alternative text for the button that removes a website rule from the list of preferences.",
@@ -82,5 +86,76 @@
   "altTextOpenSettingsPage": {
     "message": "Stronu nastajenjow wočinić",
     "description": "Alternative text for the button that opens the Extensions Settings page."
+  },
+  "searchServer": {
+    "message": "Stejnišća pytać",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "titleSubscribeNow": {
+    "message": "Mozilla VPN abonować."
+  },
+  "btnSubscribeNow": {
+    "message": "Nětko abonować",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
+  "getHelp": {
+    "message": "Pomoc sej wobstarać",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "headerOpenMozillaVPN": {
+    "message": "Mozilla VPN wočinić",
+    "description": "Headline."
+  },
+  "headerSignedOut": {
+    "message": "Přizjewće so pola nałoženja Mozilla VPN."
+  },
+  "btnOpenVpn": {
+    "message": "Mozilla VPN wočinić."
+  },
+  "headerNeedsUpdate": {
+    "message": "Mozilla VPN aktualizować",
+    "description": "This is the headline of an error panel."
+  },
+  "headerInstallMsg": {
+    "message": "Mozilla VPN instalować",
+    "description": "Header if a VPN installation was not found."
+  },
+  "btnDownloadNow": {
+    "message": "Nětko sćahnyć",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Stejnišćo Mozilla VPN wužiwać."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Njepodpěrana platforma."
+  },
+  "turnOnProtection": {
+    "message": "Škit zmóžnić",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Swójske stejnišćo wotstronić",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Škit websydła",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Komentar pósłać",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Dalše informacije",
+    "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "VPN za wěste websydła znjemóžnić",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Wobhladajće sej rozdźělne websydła wot rozdźělnych stejnišćow",
+    "description": "Title in onboarding panel."
   }
 }
