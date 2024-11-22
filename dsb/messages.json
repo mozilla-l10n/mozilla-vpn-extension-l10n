@@ -44,5 +44,172 @@
   "vpnIsOff": {
     "message": "Šćit VPN za Firefox jo znjemóžnjony",
     "description": "Header to signal that VPN connection is disabled."
+  },
+  "extensionVpnIsOff": {
+    "message": "Mozilla VPN jo hyšći zmóžnjony, zbytk wašogo licadła se šćita.",
+    "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
+  },
+  "vpnOffStatus": {
+    "message": "Znjemóžnjony",
+    "description": "Label indicating that the VPN is off."
+  },
+  "vpnOnStatus": {
+    "message": "Zmóžnjony",
+    "description": "Label indicating that the VPN is on."
+  },
+  "placeholderSearchWebsites": {
+    "message": "Websedła pytaś",
+    "description": "Placeholder text for the search input field to search websites."
+  },
+  "tableHeadingWebsite": {
+    "message": "Websedło",
+    "description": "Table heading for the column listing websites."
+  },
+  "tableHeadingVpnStatus": {
+    "message": "Šćit websedła",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "headlineNoWebsitePreferences": {
+    "message": "Hyšći njejsćo póstajił nastajenja websedła",
+    "description": "Headline shown when the user hasn’t set any website preferences."
+  },
+  "altTextRemoveWebsiteButton": {
+    "message": "Pšawidło za $ORIGIN$ wótwónoźeś",
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "altTextOpenSettingsPage": {
+    "message": "Bok nastajenjow wócyniś",
+    "description": "Alternative text for the button that opens the Extensions Settings page."
+  },
+  "searchServer": {
+    "message": "Stojnišća pytaś",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "titleSubscribeNow": {
+    "message": "Mozilla VPN aboněrowaś."
+  },
+  "btnSubscribeNow": {
+    "message": "Něnto aboněrowaś",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
+  "getHelp": {
+    "message": "Pomoc se wobstaraś",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "headerOpenMozillaVPN": {
+    "message": "Mozilla VPN wócyniś",
+    "description": "Headline."
+  },
+  "headerSignedOut": {
+    "message": "Pśizjawśo se pla nałoženja Mozilla VPN."
+  },
+  "btnOpenVpn": {
+    "message": "Mozilla VPN wócyniś."
+  },
+  "headerNeedsUpdate": {
+    "message": "Mozilla VPN aktualizěrowaś",
+    "description": "This is the headline of an error panel."
+  },
+  "headerInstallMsg": {
+    "message": "Mozilla VPN instalěrowaś",
+    "description": "Header if a VPN installation was not found."
+  },
+  "btnDownloadNow": {
+    "message": "Něnto ześěgnuś",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Stojnišćo Mozilla VPN wužywaś."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Njepódprěta platforma."
+  },
+  "turnOnProtection": {
+    "message": "Šćit zmóžniś",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Swójske stojnišćo wótwónoźeś",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Šćit websedła",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Komentar pósłaś",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Dalšne informacije",
+    "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "VPN za wěste websedła znjemóžniś",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Woglědajśo se rozdźělne websedła wót rozdźělnych stojnišćow",
+    "description": "Title in onboarding panel."
+  },
+  "next": {
+    "message": "Dalej",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Pśeskócyś",
+    "description": "Label of button to skip onboarding."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Šćit Firefox zasej zmóžniś",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "settingsPageTitle": {
+    "message": "Nastajenja websedła Mozilla VPN",
+    "description": "Title for settings page tab."
+  },
+  "noSignal": {
+    "message": "Žeden signal",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Njestabilny",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Zwězujo se…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Centrum pomocy",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "Nastajenja websedła",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Z pomocu se do zwiska stajiś",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN jo za websedło znjemóžnjony",
+    "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: Stojnišćo websedła Mozilla VPN",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   }
 }
