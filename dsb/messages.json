@@ -1,0 +1,48 @@
+{
+  "extensionName": {
+    "message": "Rozšyrjenje Mozilla VPN",
+    "description": "Name of the extension."
+  },
+  "back": {
+    "message": "Slědk",
+    "description": "Alternative text attribute for back button."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  },
+  "titleServerList": {
+    "message": "Stojnišćo websedła",
+    "description": "Title for a dialog where users can set the location for a website."
+  },
+  "selectWebsiteLocation": {
+    "message": "Stojnišćo websedła wubraś",
+    "description": "Button label."
+  },
+  "titlePageSettings": {
+    "message": "Nastajenja za toś to websedło",
+    "description": "The header for website specific settings, i.e. exclude a page from VPN."
+  },
+  "excludePageFor": {
+    "message": "Šćit VPN za $ORIGIN$ pśecej znjemóžniś",
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "resetPageSettings": {
+    "message": "Nastajenja websedła slědk stajiś",
+    "description": "Button text to reset all site specific settings."
+  },
+  "vpnIsOn": {
+    "message": "Šćit VPN za Firefox jo zmóžnjony",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "Šćit VPN za Firefox jo znjemóžnjony",
+    "description": "Header to signal that VPN connection is disabled."
+  }
+}
