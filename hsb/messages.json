@@ -102,6 +102,10 @@
   "titleSubscribeNow": {
     "message": "Mozilla VPN abonować."
   },
+  "bodySubscribeNow": {
+    "message": "Zda so, zo hišće njejsće Mozilla VPN abonował. Zo byšće tute rozšěrjenje wužiwał, abonujće jón prošu.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
   "btnSubscribeNow": {
     "message": "Nětko abonować",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
@@ -117,6 +121,9 @@
   "headerSignedOut": {
     "message": "Přizjewće so pola nałoženja Mozilla VPN."
   },
+  "bodySignedOut": {
+    "message": "Sće tuchwilu z nałoženja Mozilla VPN wotzjewjeny. Zo byšće rozšěrjenje Fiefox Mozilla VPN wužiwał, wočińće nałoženja na swojim ličaku a přizjewće so pola swojeho konta."
+  },
   "btnOpenVpn": {
     "message": "Mozilla VPN wočinić."
   },
@@ -124,9 +131,17 @@
     "message": "Mozilla VPN aktualizować",
     "description": "This is the headline of an error panel."
   },
+  "bodyNeedsUpdate": {
+    "message": "Zo byšće tute rozšěrjenje wužiwał, dyrbi najnowše nałoženje Mozilla VPN instalowane być.",
+    "description": "This is the body copy for an error panel."
+  },
   "headerInstallMsg": {
     "message": "Mozilla VPN instalować",
     "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "Zo byšće rozšěrjenje Fiefox Mozilla VPN wužiwał, wočińće prošu najprjedy nałoženje Mozilla VPN.",
+    "description": "Popup subtitle text."
   },
   "btnDownloadNow": {
     "message": "Nětko sćahnyć",
