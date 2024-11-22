@@ -202,9 +202,17 @@
     "message": "Wobhladajće sej rozdźělne websydła wot rozdźělnych stejnišćow",
     "description": "Title in onboarding panel."
   },
+  "onboarding2_body": {
+    "message": "Powěsće z Londona. Sport ze São Paulo. Nakupowanje w Tokija. Nastajće za websydła specifiske stejnišća za personalizowane přehladowanje.",
+    "description": "Body text in onboarding panel."
+  },
   "onboarding3_title": {
     "message": "Wostajće škit za Firefox „zmóžnjeny“",
     "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Wužiwajće rozšěrjenje, zo byšće škit VPN za Firefox zmóžnił – samo hdyž je škit za zbytk ličaka znjemóžnjeny.",
+    "description": "Body text in onboarding panel."
   },
   "next": {
     "message": "Dale",
@@ -217,6 +225,14 @@
   "headerReEnableFirefoxProtection": {
     "message": "Škit Firefox zaso zmóžnić",
     "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox je tuchwilu „wuzamknjene nałoženje“ w nałoženju Mozilla VPN. Zo byšće tute rozšěrjenje wužiwał, wočińće nałoženje a přeńdźće k Nastajenja > Wuzamknjene nałoženja a wotstrońće Firefox.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "Zi byšće za websydła specifiske nastajenja přidał abo změnił, wopytajće sydło a wočińće rozšěrjenje Firefox Mozilla VPN. Postajće potom nastajenja za sydło. Waše nastajenja so jenož wuskutkuja, hdyž škit VPN za Firefox je zmóžnjeny.",
+    "description": "Subtitle in the settings page."
   },
   "settingsPageTitle": {
     "message": "Nastajenja websydła Mozilla VPN",
