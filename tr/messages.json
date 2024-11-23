@@ -28,7 +28,7 @@
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
   "excludePageFor": {
-    "message": "$ORIDIN$ için VPN korumasını her zaman kapat",
+    "message": "$ORIGIN$ sitesinde VPN korumasını her zaman kapat",
     "description": "Setting to exclude a website from VPN.",
     "placeholders": {
       "origin": {
