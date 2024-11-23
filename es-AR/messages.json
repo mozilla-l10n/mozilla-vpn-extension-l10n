@@ -229,5 +229,37 @@
   "settingsPageSubtitle": {
     "message": "Para agregar o cambiar las preferencias específicas de un sitio web, visitá el sitio y abrí la extensión Mozilla VPN para Firefox. Después, configurá las preferencias para el sitio. Tus preferencias solo están activas cuando la protección de VPN para Firefox está habilitada.",
     "description": "Subtitle in the settings page."
+  },
+  "settingsPageTitle": {
+    "message": "Preferencias de sitios web de Mozilla VPN",
+    "description": "Title for settings page tab."
+  },
+  "noSignal": {
+    "message": "Sin señal",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Inestable",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Conectando…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Centro de ayuda",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "Preferencias de sitios web",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Contactar soporte",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN deshabilitada para el sitio web",
+    "description": "Aria label."
   }
 }
