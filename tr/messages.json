@@ -1,0 +1,279 @@
+{
+  "extensionName": {
+    "message": "Mozilla VPN Uzantısı",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Firefox'a VPN'i entegre edin: Sekmeleri hariç tutun, site konumlarını ayarlayın ve daha fazlasını yapın!",
+    "description": "Description of the extension."
+  },
+  "back": {
+    "message": "Geri",
+    "description": "Alternative text attribute for back button."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  },
+  "titleServerList": {
+    "message": "Web sitesi konumu",
+    "description": "Title for a dialog where users can set the location for a website."
+  },
+  "selectWebsiteLocation": {
+    "message": "Web sitesi konumu seç",
+    "description": "Button label."
+  },
+  "titlePageSettings": {
+    "message": "Bu site için tercihler",
+    "description": "The header for website specific settings, i.e. exclude a page from VPN."
+  },
+  "excludePageFor": {
+    "message": "$ORIDIN$ için VPN korumasını her zaman kapat",
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "resetPageSettings": {
+    "message": "Web sitesi tercihlerini sıfırla",
+    "description": "Button text to reset all site specific settings."
+  },
+  "vpnIsOn": {
+    "message": "Firefox için VPN koruması açık",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "Firefox için VPN koruması kapalı",
+    "description": "Header to signal that VPN connection is disabled."
+  },
+  "extensionVpnIsOff": {
+    "message": "Mozilla VPN hâlâ açık, bilgisayarınızın geri kalanını koruyor.",
+    "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
+  },
+  "vpnOffStatus": {
+    "message": "Kapalı",
+    "description": "Label indicating that the VPN is off."
+  },
+  "vpnOnStatus": {
+    "message": "Açık",
+    "description": "Label indicating that the VPN is on."
+  },
+  "placeholderSearchWebsites": {
+    "message": "Web sitelerinde ara",
+    "description": "Placeholder text for the search input field to search websites."
+  },
+  "tableHeadingWebsite": {
+    "message": "Web sitesi",
+    "description": "Table heading for the column listing websites."
+  },
+  "tableHeadingVpnStatus": {
+    "message": "Web sitesi koruması",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "headlineNoWebsitePreferences": {
+    "message": "Henüz herhangi bir web sitesi tercihi ayarlamadınız",
+    "description": "Headline shown when the user hasn’t set any website preferences."
+  },
+  "noWebsitePreferencesSubText": {
+    "message": "Firefox uzantısıyla bir web sitesi için Mozilla VPN korumasını kapatabilir veya özel bir konum belirleyebilirsiniz. Bunu yapmak için bir web sitesini ziyaret edin, uzantıyı açın ve web sitesi tercihlerini güncelleyin.",
+    "description": "Subtext shown when there are no website preferences set by the user."
+  },
+  "altTextRemoveWebsiteButton": {
+    "message": "$ORIDIN$ kuralını kaldır",
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "altTextOpenSettingsPage": {
+    "message": "Ayarlar sayfasını aç",
+    "description": "Alternative text for the button that opens the Extensions Settings page."
+  },
+  "searchServer": {
+    "message": "Konum ara",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "titleSubscribeNow": {
+    "message": "Mozilla VPN’e abone olun."
+  },
+  "bodySubscribeNow": {
+    "message": "Henüz Mozilla VPN abonesi değilsiniz. Bu uzantıyı kullanmak için lütfen abone olun.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "btnSubscribeNow": {
+    "message": "Şimdi abone ol",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
+  "getHelp": {
+    "message": "Yardım alın",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "headerOpenMozillaVPN": {
+    "message": "Mozilla VPN’i aç",
+    "description": "Headline."
+  },
+  "headerSignedOut": {
+    "message": "Mozilla VPN uygulamasında oturum açın."
+  },
+  "bodySignedOut": {
+    "message": "Şu anda Mozilla VPN uygulamasından çıkış yapmışsınız. Mozilla VPN Firefox eklentisini kullanmak için bilgisayarınızda uygulamayı açın ve hesabınıza giriş yapın."
+  },
+  "btnOpenVpn": {
+    "message": "Mozilla VPN’i açın."
+  },
+  "headerNeedsUpdate": {
+    "message": "Mozilla VPN’i güncelleyin",
+    "description": "This is the headline of an error panel."
+  },
+  "bodyNeedsUpdate": {
+    "message": "Bu uzantıyı kullanmak için Mozilla VPN uygulamasının en son sürümünü yüklemiş olmanız gerekir.",
+    "description": "This is the body copy for an error panel."
+  },
+  "headerInstallMsg": {
+    "message": "Mozilla VPN’i yükleyin",
+    "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "Mozilla VPN Firefox eklentisini kullanmak için lütfen önce Mozilla VPN uygulamasını açın.",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "Bu uzantıyı kullanmak için önce Mozilla VPN uygulamasını indirip bilgisayarınıza yükleyin."
+  },
+  "bodyInstallMsgFooter": {
+    "message": "Mozilla VPN'in ücretli bir abonelik hizmeti olduğunu unutmayın.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
+  "btnDownloadNow": {
+    "message": "Hemen indir",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Mozilla VPN konumunu kullan."
+  },
+  "useDefaultLocationExplainer": {
+    "message": "Bu bilgisayarı koruyan Mozilla VPN uygulamasıyla aynı konumu kullan.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Desteklenmeyen platform."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "Mozilla VPN uzantısı şu anda yalnızca Windows cihazlarda kullanılabilir."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Yakında macOS ve Linux’u desteklemek için çalışıyoruz!"
+  },
+  "turnOnProtection": {
+    "message": "Korumayı aç",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Özel konumu kaldır",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Web sitesi koruması",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Görüş bildir",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Daha fazla bilgi al",
+    "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "Belirli web siteleri için VPN’i kapat",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding1_body": {
+    "message": "Firefox uzantısıyla VPN korumasını belirli web siteleri için kapatırken diğer her şey için açık tutabilirsiniz.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Farklı konumlardaki web sitelerini görün",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "Londra’dan haberler. Sao Paulo’dan spor. Tokyo’dan alışveriş. Kişisel gezinti için web sitelerine özel konumları ayarlayın.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Firefox korumasını “açık” tut",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Bilgisayarınızın geri kalanında koruma kapalı olsa bile Firefox’ta VPN korumasını açmak için bu uzantıyı kullanabilirsiniz.",
+    "description": "Body text in onboarding panel."
+  },
+  "next": {
+    "message": "İleri",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Atla",
+    "description": "Label of button to skip onboarding."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Firefox korumasını yeniden etkinleştir",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox şu anda Mozilla VPN uygulamasında “hariç tutulan bir uygulama”. Bu uzantıyı kullanmak için uygulamayı açıp Ayarlar > Dışlanan Uygulamalar kısmına gidip Firefox’u kaldırın.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "Web sitesine özel tercihleri eklemek veya değiştirmek için siteyi ziyaret edip Mozilla VPN Firefox uzantısını açın. Ardından, site tercihlerini ayarlayın. Tercihleriniz yalnızca Firefox için VPN koruması açıksa etkili olur.",
+    "description": "Subtitle in the settings page."
+  },
+  "settingsPageTitle": {
+    "message": "Mozilla VPN web sitesi tercihleri",
+    "description": "Title for settings page tab."
+  },
+  "noSignal": {
+    "message": "Sinyal yok",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Stabil değil",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Bağlanıyor…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Yardım merkezi",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "Web sitesi tercihleri",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Destek birimine ulaş",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Web siteleri için Mozilla VPN",
+    "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCTION$: Mozilla VPN web sitesinin konumu",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
+  }
+}
