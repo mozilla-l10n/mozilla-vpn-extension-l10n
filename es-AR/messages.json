@@ -145,5 +145,89 @@
   "bodyInstallMsgFooter": {
     "message": "Tené en cuenta que Mozilla VPN es un servicio de suscripción de pago.",
     "description": "This is a footnote for “bodyInstallMsg”."
+  },
+  "btnDownloadNow": {
+    "message": "Descargar ahora",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Usar la ubicación de Mozilla VPN."
+  },
+  "useDefaultLocationExplainer": {
+    "message": "Usar la misma ubicación que la aplicación Mozilla VPN que está protegiendo esta computadora.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Plataforma no soportada."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "Actualmente, la extensión de Mozilla VPN solo está disponible en dispositivos Windows."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "¡Estamos trabajando para que pronto sea compatible con macOS y Linux!"
+  },
+  "turnOnProtection": {
+    "message": "Habilitar protección",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Eliminar ubicación personalizada",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Protección de sitios web",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Dar opinión",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Conocer más",
+    "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "Deshabilitar la VPN para sitios web específicos",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding1_body": {
+    "message": "Con la extensión de Firefox, podés deshabilitar la protección de VPN para sitios web específicos y mantenerla activada para todo lo demás.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Ver diferentes sitios web desde diferentes ubicaciones",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "Noticias desde Londres. Deportes desde San Pablo. Compras desde Tokio. Configurá ubicaciones específicas del sitio web para una navegación personalizada.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Mantener la protección para Firefox “habilitada”",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Usá la extensión para habilitar la protección de VPN en Firefox, incluso cuando la protección está deshabilitada para el resto de tu computadora.",
+    "description": "Body text in onboarding panel."
+  },
+  "next": {
+    "message": "Siguiente",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Omitir",
+    "description": "Label of button to skip onboarding."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Volver a habilitar la protección de Firefox",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox es actualmente una “aplicación excluida” en la aplicación de Mozilla VPN. Para usar esta extensión, abrí la aplicación y andá a Ajustes > Aplicaciones excluidas y eliminá Firefox.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "Para agregar o cambiar las preferencias específicas de un sitio web, visitá el sitio y abrí la extensión Mozilla VPN para Firefox. Después, configurá las preferencias para el sitio. Tus preferencias solo están activas cuando la protección de VPN para Firefox está habilitada.",
+    "description": "Subtitle in the settings page."
   }
 }
