@@ -10,5 +10,103 @@
   "productName": {
     "message": "Mozilla VPN",
     "description": "Name of the product."
+  },
+  "titleServerList": {
+    "message": "Staðsetning vefsvæðis",
+    "description": "Title for a dialog where users can set the location for a website."
+  },
+  "selectWebsiteLocation": {
+    "message": "Veldu staðsetningu vefsvæðis",
+    "description": "Button label."
+  },
+  "titlePageSettings": {
+    "message": "Kjörstillingar fyrir þetta vefsvæði",
+    "description": "The header for website specific settings, i.e. exclude a page from VPN."
+  },
+  "vpnOffStatus": {
+    "message": "Óvirkt",
+    "description": "Label indicating that the VPN is off."
+  },
+  "vpnOnStatus": {
+    "message": "Virkt",
+    "description": "Label indicating that the VPN is on."
+  },
+  "placeholderSearchWebsites": {
+    "message": "Leita að vefsvæðum",
+    "description": "Placeholder text for the search input field to search websites."
+  },
+  "tableHeadingWebsite": {
+    "message": "Vefsvæði",
+    "description": "Table heading for the column listing websites."
+  },
+  "tableHeadingVpnStatus": {
+    "message": "Varnir vefsvæðis",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "altTextRemoveWebsiteButton": {
+    "message": "Fjarlægja reglu fyrir $ORIGIN$",
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "altTextOpenSettingsPage": {
+    "message": "Opna stillingasíðu",
+    "description": "Alternative text for the button that opens the Extensions Settings page."
+  },
+  "searchServer": {
+    "message": "Leita að staðsetningum",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "titleSubscribeNow": {
+    "message": "Gerast áskrifandi að Mozilla VPN."
+  },
+  "btnSubscribeNow": {
+    "message": "Gerast áskrifandi núna",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
+  "getHelp": {
+    "message": "Fá aðstoð",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "headerOpenMozillaVPN": {
+    "message": "Opna Mozilla VPN",
+    "description": "Headline."
+  },
+  "btnOpenVpn": {
+    "message": "Opna Mozilla VPN."
+  },
+  "headerNeedsUpdate": {
+    "message": "Uppfæra Mozilla VPN",
+    "description": "This is the headline of an error panel."
+  },
+  "headerInstallMsg": {
+    "message": "Setja upp Mozilla VPN",
+    "description": "Header if a VPN installation was not found."
+  },
+  "btnDownloadNow": {
+    "message": "Sækja núna",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Nota Mozilla VPN staðsetningu."
+  },
+  "useDefaultLocationExplainer": {
+    "message": "Nota sömu staðsetningu og Mozilla VPN forritið sem verndar þessa tölvu.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Óstutt stýrikerfi."
+  },
+  "giveFeedback": {
+    "message": "Gefðu álit",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Fræðast meira",
+    "description": "Label of link that leads to SUMO."
   }
 }
