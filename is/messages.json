@@ -1,0 +1,14 @@
+{
+  "extensionName": {
+    "message": "Mozilla VPN-viðbót",
+    "description": "Name of the extension."
+  },
+  "back": {
+    "message": "Til baka",
+    "description": "Alternative text attribute for back button."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  }
+}
