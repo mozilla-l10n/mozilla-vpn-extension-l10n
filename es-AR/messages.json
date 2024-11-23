@@ -90,5 +90,60 @@
   "altTextOpenSettingsPage": {
     "message": "Abrir página de configuración",
     "description": "Alternative text for the button that opens the Extensions Settings page."
+  },
+  "searchServer": {
+    "message": "Buscar ubicaciones",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "titleSubscribeNow": {
+    "message": "Suscribite a Mozilla VPN."
+  },
+  "bodySubscribeNow": {
+    "message": "Parece que todavía no te suscribiste a Mozilla VPN. Para usar esta extensión, suscribite.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "btnSubscribeNow": {
+    "message": "Suscribirse ahora",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
+  "getHelp": {
+    "message": "Obtener ayuda",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "headerOpenMozillaVPN": {
+    "message": "Abrir Mozilla VPN",
+    "description": "Headline."
+  },
+  "headerSignedOut": {
+    "message": "Iniciar sesión en la aplicación de Mozilla VPN."
+  },
+  "bodySignedOut": {
+    "message": "En este momento está cerrada la sesión en la aplicación de Mozilla VPN. Para usar la extensión de Mozilla VPN para Firefox, abrí la aplicación en tu computadora e iniciá sesión en tu cuenta."
+  },
+  "btnOpenVpn": {
+    "message": "Abrir Mozilla VPN."
+  },
+  "headerNeedsUpdate": {
+    "message": "Actualizar Mozilla VPN",
+    "description": "This is the headline of an error panel."
+  },
+  "bodyNeedsUpdate": {
+    "message": "Para usar esta extensión, debés tener instalada la última aplicación de Mozilla VPN.",
+    "description": "This is the body copy for an error panel."
+  },
+  "headerInstallMsg": {
+    "message": "Instalar Mozilla VPN",
+    "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "Para usar la extensión Mozilla VPN para Firefox, primero abrí la aplicación Mozilla VPN.",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "Para usar esta extensión, primero descargá e instalá la aplicación Mozilla VPN en tu computadora."
+  },
+  "bodyInstallMsgFooter": {
+    "message": "Tené en cuenta que Mozilla VPN es un servicio de suscripción de pago.",
+    "description": "This is a footnote for “bodyInstallMsg”."
   }
 }
