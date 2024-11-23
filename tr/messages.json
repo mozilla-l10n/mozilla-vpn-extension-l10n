@@ -20,7 +20,7 @@
     "description": "Title for a dialog where users can set the location for a website."
   },
   "selectWebsiteLocation": {
-    "message": "Web sitesi konumu seç",
+    "message": "Web sitesi konumunu seçin",
     "description": "Button label."
   },
   "titlePageSettings": {
@@ -50,7 +50,7 @@
     "description": "Header to signal that VPN connection is disabled."
   },
   "extensionVpnIsOff": {
-    "message": "Mozilla VPN hâlâ açık, bilgisayarınızın geri kalanını koruyor.",
+    "message": "Mozilla VPN hâlâ açık ve bilgisayarınızdaki diğer uygulamaları koruyor.",
     "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
   },
   "vpnOffStatus": {
@@ -111,7 +111,7 @@
     "description": "Call to action button for users to subscribe to Mozilla VPN."
   },
   "getHelp": {
-    "message": "Yardım alın",
+    "message": "Yardım al",
     "description": "Text of a link pointing to a relevant help page."
   },
   "headerOpenMozillaVPN": {
@@ -119,20 +119,20 @@
     "description": "Headline."
   },
   "headerSignedOut": {
-    "message": "Mozilla VPN uygulamasında oturum açın."
+    "message": "Mozilla VPN uygulamasına giriş yapın."
   },
   "bodySignedOut": {
     "message": "Şu anda Mozilla VPN uygulamasından çıkış yapmışsınız. Mozilla VPN Firefox eklentisini kullanmak için bilgisayarınızda uygulamayı açın ve hesabınıza giriş yapın."
   },
   "btnOpenVpn": {
-    "message": "Mozilla VPN’i açın."
+    "message": "Mozilla VPN’i aç."
   },
   "headerNeedsUpdate": {
     "message": "Mozilla VPN’i güncelleyin",
     "description": "This is the headline of an error panel."
   },
   "bodyNeedsUpdate": {
-    "message": "Bu uzantıyı kullanmak için Mozilla VPN uygulamasının en son sürümünü yüklemiş olmanız gerekir.",
+    "message": "Bu uzantıyı kullanabilmeniz için Mozilla VPN uygulamasının en son sürümünün yüklü olması gerekir.",
     "description": "This is the body copy for an error panel."
   },
   "headerInstallMsg": {
@@ -140,18 +140,18 @@
     "description": "Header if a VPN installation was not found."
   },
   "bodyOpenMsg": {
-    "message": "Mozilla VPN Firefox eklentisini kullanmak için lütfen önce Mozilla VPN uygulamasını açın.",
+    "message": "Mozilla VPN Firefox uzantısını kullanmak için lütfen önce Mozilla VPN uygulamasını açın.",
     "description": "Popup subtitle text."
   },
   "bodyInstallMsg": {
-    "message": "Bu uzantıyı kullanmak için önce Mozilla VPN uygulamasını indirip bilgisayarınıza yükleyin."
+    "message": "Bu uzantıyı kullanmak için önce Mozilla VPN uygulamasını bilgisayarınıza indirip yükleyin."
   },
   "bodyInstallMsgFooter": {
-    "message": "Mozilla VPN'in ücretli bir abonelik hizmeti olduğunu unutmayın.",
+    "message": "Mozilla VPN’in ücretli bir abonelik hizmeti olduğunu unutmayın.",
     "description": "This is a footnote for “bodyInstallMsg”."
   },
   "btnDownloadNow": {
-    "message": "Hemen indir",
+    "message": "Şimdi indir",
     "description": "This is a call to action button to download the VPN."
   },
   "defaultLocationHeader": {
@@ -191,7 +191,7 @@
     "description": "Label of link that leads to SUMO."
   },
   "onboarding1_title": {
-    "message": "Belirli web siteleri için VPN’i kapat",
+    "message": "Belirli web siteleri için VPN’i kapatın",
     "description": "Title in onboarding panel."
   },
   "onboarding1_body": {
@@ -207,7 +207,7 @@
     "description": "Body text in onboarding panel."
   },
   "onboarding3_title": {
-    "message": "Firefox korumasını “açık” tut",
+    "message": "Firefox korumasını “açık” tutun",
     "description": "Title in onboarding panel."
   },
   "onboarding3_body": {
@@ -223,7 +223,7 @@
     "description": "Label of button to skip onboarding."
   },
   "headerReEnableFirefoxProtection": {
-    "message": "Firefox korumasını yeniden etkinleştir",
+    "message": "Firefox korumasını yeniden etkinleştirin",
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "bodyReEnableFirefoxProtection": {
@@ -263,11 +263,11 @@
     "description": "Link title."
   },
   "offForWebsite": {
-    "message": "Web siteleri için Mozilla VPN",
+    "message": "Web sitesi için Mozilla VPN kapalı",
     "description": "Aria label."
   },
   "websiteLocationLabel": {
-    "message": "$SERVERLOCTION$: Mozilla VPN web sitesinin konumu",
+    "message": "$SERVERLOCTION$: Mozilla VPN web sitesi konumu",
     "description": "Aria label for a flag icon representing the location of the VPN server",
     "placeholders": {
       "serverlocation": {
