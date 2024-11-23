@@ -76,6 +76,9 @@
     "message": "Opna Mozilla VPN",
     "description": "Headline."
   },
+  "headerSignedOut": {
+    "message": "Skráðu þig inn á Mozilla VPN-forritið."
+  },
   "btnOpenVpn": {
     "message": "Opna Mozilla VPN."
   },
@@ -101,6 +104,24 @@
   "headerUnsupportedOSMessage": {
     "message": "Óstutt stýrikerfi."
   },
+  "bodyUnsupportedOSMessage": {
+    "message": "Eins og er, þá er Mozilla VPN-viðbótin aðeins tiltæk á Windows-tækjum."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Við erum að vinna að því að koma með útgáfur fyrir macOS og Linux sem fyrst!"
+  },
+  "turnOnProtection": {
+    "message": "Kveikja á vörnum",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Fjarlægja sérsniðna staðsetningu",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Varnir vefsvæðis",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
   "giveFeedback": {
     "message": "Gefðu álit",
     "description": "Button label."
@@ -108,5 +129,45 @@
   "learnMore": {
     "message": "Fræðast meira",
     "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "Slökkva á VPN fyrir tiltekin vefsvæði",
+    "description": "Title in onboarding panel."
+  },
+  "next": {
+    "message": "Næsta",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Sleppa",
+    "description": "Label of button to skip onboarding."
+  },
+  "noSignal": {
+    "message": "Ekkert samband",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Óstöðugt",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Tengist…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Hjálparmiðstöð",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "Kjörstillingar vefsvæðis",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Hafa samband við aðstoðarteymi",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Slökkt á Mozilla VPN fyrir vefsvæði",
+    "description": "Aria label."
   }
 }
