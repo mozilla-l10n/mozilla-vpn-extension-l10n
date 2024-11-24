@@ -78,11 +78,11 @@
     "description": "Headline shown when the user hasn’t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
-    "message": "Firefox uzantısıyla bir web sitesi için Mozilla VPN korumasını kapatabilir veya özel bir konum belirleyebilirsiniz. Bunu yapmak için bir web sitesini ziyaret edin, uzantıyı açın ve web sitesi tercihlerini güncelleyin.",
+    "message": "Firefox uzantısıyla bir web sitesi için Mozilla VPN korumasını kapatabilir veya özel bir konum belirleyebilirsiniz. Bunu yapmak için bir web sitesini ziyaret edip uzantıyı açın ve web sitesi tercihlerini güncelleyin.",
     "description": "Subtext shown when there are no website preferences set by the user."
   },
   "altTextRemoveWebsiteButton": {
-    "message": "$ORIDIN$ kuralını kaldır",
+    "message": "$ORIGIN$ kuralını kaldır",
     "description": "Alternative text for the button that removes a website rule from the list of preferences.",
     "placeholders": {
       "origin": {
@@ -122,7 +122,7 @@
     "message": "Mozilla VPN uygulamasına giriş yapın."
   },
   "bodySignedOut": {
-    "message": "Şu anda Mozilla VPN uygulamasından çıkış yapmışsınız. Mozilla VPN Firefox eklentisini kullanmak için bilgisayarınızda uygulamayı açın ve hesabınıza giriş yapın."
+    "message": "Mozilla VPN uygulamasına henüz giriş yapmamışsınız. Mozilla VPN Firefox uzantısını kullanmak için bilgisayarınızda uygulamayı açıp hesabınıza giriş yapın."
   },
   "btnOpenVpn": {
     "message": "Mozilla VPN’i aç."
@@ -199,7 +199,7 @@
     "description": "Body text in onboarding panel."
   },
   "onboarding2_title": {
-    "message": "Farklı konumlardaki web sitelerini görün",
+    "message": "Farklı konumlardan farklı web sitelerini görün",
     "description": "Title in onboarding panel."
   },
   "onboarding2_body": {
@@ -267,7 +267,7 @@
     "description": "Aria label."
   },
   "websiteLocationLabel": {
-    "message": "$SERVERLOCTION$: Mozilla VPN web sitesi konumu",
+    "message": "$SERVERLOCATION$: Mozilla VPN web sitesi konumu",
     "description": "Aria label for a flag icon representing the location of the VPN server",
     "placeholders": {
       "serverlocation": {
