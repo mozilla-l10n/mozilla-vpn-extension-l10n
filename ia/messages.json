@@ -37,6 +37,22 @@
       }
     }
   },
+  "resetPageSettings": {
+    "message": "Reinitialisar preferentias del sito web",
+    "description": "Button text to reset all site specific settings."
+  },
+  "vpnIsOn": {
+    "message": "Protection VPN pro Firefox active",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "Protection VPN pro Firefox disactivate",
+    "description": "Header to signal that VPN connection is disabled."
+  },
+  "extensionVpnIsOff": {
+    "message": "Mozilla VPN es ancora active e protege le resto de tu computator.",
+    "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
+  },
   "vpnOffStatus": {
     "message": "Disactivate",
     "description": "Label indicating that the VPN is off."
