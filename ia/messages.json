@@ -190,6 +190,30 @@
     "message": "Pro saper plus",
     "description": "Label of link that leads to SUMO."
   },
+  "onboarding1_title": {
+    "message": "Disactivar le VPN pro specific sitos web",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding1_body": {
+    "message": "Con le extension de Firefox, tu pote disactivar le protection VPN pro specific sitos web, mantenente illo active pro toto le altero.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Vider differente sitos web ab positiones differente",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "Novas de London. Sports de Sancte Paulo. Compras de Tokyo. Configura positiones specific de sito web pro le navigation personalisate.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Mantener active la protection pro Firefox",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Usar le extension pro activar le protection VPN pro Firefox, mesmo quando protection es disactivate pro le resto de tu computator.",
+    "description": "Body text in onboarding panel."
+  },
   "next": {
     "message": "Sequente",
     "description": "Label of button to progress to next onboarding panel."
@@ -197,6 +221,22 @@
   "skip": {
     "message": "Saltar",
     "description": "Label of button to skip onboarding."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Re-activar le protection de Firefox",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox es actualmente un “app excludite” in le application Mozilla VPN. A usar iste extension, aperi le application e vade a parametros > Apps excludite e remove Firefox.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "A adder o cambiar le preferentias specific de sito web, visita le sito e aperi le Mozilla VPN Firefox extension. Pois, configura le preferentias pro le sito. Tu preferentias solo es active quando le protection VPN pro Firefox es active.",
+    "description": "Subtitle in the settings page."
+  },
+  "settingsPageTitle": {
+    "message": "Preferentias de sito web de Mozilla VPN",
+    "description": "Title for settings page tab."
   },
   "noSignal": {
     "message": "Sin signal",
@@ -214,8 +254,26 @@
     "message": "Centro de adjuta",
     "description": "Link title."
   },
+  "websitePreferences": {
+    "message": "Preferentias de sito web",
+    "description": "Link title."
+  },
   "contactSupport": {
     "message": "Contactar assistentia",
     "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN disactivate pro sito web",
+    "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: position del sito web de Mozilla VPN",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   }
 }
