@@ -157,6 +157,31 @@
   "defaultLocationHeader": {
     "message": "Usar le position de Mozilla VPN."
   },
+  "useDefaultLocationExplainer": {
+    "message": "Usar le mesme position que Mozilla VPN app protegente iste computator.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Platteforma non supportate."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "Actualmente, le extension Mozilla VPN es solo disponibile sur apparatos Windows."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Nos labora pro apportar le supporto pro macOS e Linux tosto!"
+  },
+  "turnOnProtection": {
+    "message": "Activar protection",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Remover le position personal",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Protection de sito web",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
   "giveFeedback": {
     "message": "Da tu opinion",
     "description": "Button label."
