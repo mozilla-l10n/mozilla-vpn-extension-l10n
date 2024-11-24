@@ -73,6 +73,10 @@
     "message": "Protection de sito web",
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   },
+  "headlineNoWebsitePreferences": {
+    "message": "Tu non ha configurate alcun preferentias de sito web ancora",
+    "description": "Headline shown when the user hasn’t set any website preferences."
+  },
   "altTextOpenSettingsPage": {
     "message": "Aperir le pagina del parametros",
     "description": "Alternative text for the button that opens the Extensions Settings page."
