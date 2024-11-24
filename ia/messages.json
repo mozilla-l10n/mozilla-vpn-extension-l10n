@@ -143,9 +143,19 @@
     "message": "Pro usar le extension de Firefox Mozilla VPN, per favor aperi le app Mozilla VPN primo.",
     "description": "Popup subtitle text."
   },
+  "bodyInstallMsg": {
+    "message": "Pro usar iste extension, primo discarga e installa le app Mozilla VPN sur tu computator."
+  },
+  "bodyInstallMsgFooter": {
+    "message": "Nota que Mozilla VPN es un servicio de abonamento pagate.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
   "btnDownloadNow": {
     "message": "Discargar ora",
     "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Usar le position de Mozilla VPN."
   },
   "giveFeedback": {
     "message": "Da tu opinion",
