@@ -77,6 +77,20 @@
     "message": "Tu non ha configurate alcun preferentias de sito web ancora",
     "description": "Headline shown when the user hasn’t set any website preferences."
   },
+  "noWebsitePreferencesSubText": {
+    "message": "Con le Firefox extension, tu pote disactivar le protection VPN pro specific sitos web, mantenente illo active pro toto le altero. Pro facer isto, visita un sito web, aperi le extension, e actualisa le preferentias del sito web.",
+    "description": "Subtext shown when there are no website preferences set by the user."
+  },
+  "altTextRemoveWebsiteButton": {
+    "message": "Remover regula pro $ORIGIN$",
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
   "altTextOpenSettingsPage": {
     "message": "Aperir le pagina del parametros",
     "description": "Alternative text for the button that opens the Extensions Settings page."
@@ -87,6 +101,10 @@
   },
   "titleSubscribeNow": {
     "message": "Subscriber a Mozilla VPN."
+  },
+  "bodySubscribeNow": {
+    "message": "Il pare que tu non es abonate a Mozilla VPN ancora. Pro usar iste extension, per favor abona te.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
   },
   "btnSubscribeNow": {
     "message": "Subscribe te ora",
@@ -100,6 +118,12 @@
     "message": "Aperir Mozilla VPN",
     "description": "Headline."
   },
+  "headerSignedOut": {
+    "message": "Accede al app Mozilla VPN."
+  },
+  "bodySignedOut": {
+    "message": "Tu es actualmente disconnectite del app Mozilla VPN. Pro usar le extension de Firefox Mozilla VPN, aperi le app sur tu computator e accede a tu conto."
+  },
   "btnOpenVpn": {
     "message": "Aperir Mozilla VPN."
   },
@@ -107,9 +131,17 @@
     "message": "Actualisar Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
+  "bodyNeedsUpdate": {
+    "message": "Pro usar iste extension, tu debe haber le ultime application Mozilla VPN installate.",
+    "description": "This is the body copy for an error panel."
+  },
   "headerInstallMsg": {
     "message": "Installar Mozilla VPN",
     "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "Pro usar le extension de Firefox Mozilla VPN, per favor aperi le app Mozilla VPN primo.",
+    "description": "Popup subtitle text."
   },
   "btnDownloadNow": {
     "message": "Discargar ora",
