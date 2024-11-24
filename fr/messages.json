@@ -37,6 +37,18 @@
     "message": "Réinitialiser les préférences du site",
     "description": "Button text to reset all site specific settings."
   },
+  "vpnIsOn": {
+    "message": "La protection VPN est activée pour Firefox",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "La protection VPN est désactivée pour Firefox",
+    "description": "Header to signal that VPN connection is disabled."
+  },
+  "extensionVpnIsOff": {
+    "message": "Mozilla VPN est toujours activé et protège le reste de votre ordinateur.",
+    "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
+  },
   "vpnOffStatus": {
     "message": "Désactivée",
     "description": "Label indicating that the VPN is off."
@@ -83,6 +95,13 @@
     "message": "Rechercher un emplacement",
     "description": "Placeholder for the Input field where users can search the list of servers."
   },
+  "titleSubscribeNow": {
+    "message": "Abonnez-vous à Mozilla VPN."
+  },
+  "bodySubscribeNow": {
+    "message": "Il semble que vous ne soyez pas encore abonné·e à Mozilla VPN. Pour utiliser cette extension, veuillez vous abonner.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
   "btnSubscribeNow": {
     "message": "S’abonner maintenant",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
@@ -97,6 +116,16 @@
   },
   "headerSignedOut": {
     "message": "Connectez-vous à l’application Mozilla VPN."
+  },
+  "bodySignedOut": {
+    "message": "Vous êtes actuellement déconnecté·e de l’application Mozilla VPN. Pour utiliser l’extension Mozilla VPN pour Firefox, ouvrez l’application sur votre ordinateur et connectez-vous à votre compte."
+  },
+  "btnOpenVpn": {
+    "message": "Ouvrir Mozilla VPN."
+  },
+  "headerNeedsUpdate": {
+    "message": "Mettre à jour Mozilla VPN",
+    "description": "This is the headline of an error panel."
   },
   "btnDownloadNow": {
     "message": "Télécharger",
