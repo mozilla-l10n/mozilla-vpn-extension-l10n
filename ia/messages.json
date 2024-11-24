@@ -1,0 +1,108 @@
+{
+  "extensionName": {
+    "message": "Extension Mozilla VPN",
+    "description": "Name of the extension."
+  },
+  "back": {
+    "message": "Retro",
+    "description": "Alternative text attribute for back button."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  },
+  "vpnOffStatus": {
+    "message": "Disactivate",
+    "description": "Label indicating that the VPN is off."
+  },
+  "vpnOnStatus": {
+    "message": "Active",
+    "description": "Label indicating that the VPN is on."
+  },
+  "placeholderSearchWebsites": {
+    "message": "Cercar sitos web",
+    "description": "Placeholder text for the search input field to search websites."
+  },
+  "tableHeadingWebsite": {
+    "message": "Sito web",
+    "description": "Table heading for the column listing websites."
+  },
+  "tableHeadingVpnStatus": {
+    "message": "Protection de sito web",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "altTextOpenSettingsPage": {
+    "message": "Aperir le pagina del parametros",
+    "description": "Alternative text for the button that opens the Extensions Settings page."
+  },
+  "searchServer": {
+    "message": "Cercar positiones",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "titleSubscribeNow": {
+    "message": "Subscriber a Mozilla VPN."
+  },
+  "btnSubscribeNow": {
+    "message": "Subscribe te ora",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
+  "getHelp": {
+    "message": "Obtener auxilio",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "headerOpenMozillaVPN": {
+    "message": "Aperir Mozilla VPN",
+    "description": "Headline."
+  },
+  "btnOpenVpn": {
+    "message": "Aperir Mozilla VPN."
+  },
+  "headerNeedsUpdate": {
+    "message": "Actualisar Mozilla VPN",
+    "description": "This is the headline of an error panel."
+  },
+  "headerInstallMsg": {
+    "message": "Installar Mozilla VPN",
+    "description": "Header if a VPN installation was not found."
+  },
+  "btnDownloadNow": {
+    "message": "Discargar ora",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "giveFeedback": {
+    "message": "Da tu opinion",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Pro saper plus",
+    "description": "Label of link that leads to SUMO."
+  },
+  "next": {
+    "message": "Sequente",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Saltar",
+    "description": "Label of button to skip onboarding."
+  },
+  "noSignal": {
+    "message": "Sin signal",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Instabile",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Connexion…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Centro de adjuta",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Contactar assistentia",
+    "description": "Link title."
+  }
+}
