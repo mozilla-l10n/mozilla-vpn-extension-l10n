@@ -4,7 +4,7 @@
     "description": "Name of the extension."
   },
   "extensionDescription": {
-    "message": "Firefox'a VPN'i entegre edin: Sekmeleri hariç tutun, site konumlarını ayarlayın ve daha fazlasını yapın!",
+    "message": "VPN’i Firefox’a entegre edin: Sekmeleri hariç tutun, site konumlarını ayarlayın ve daha fazlasını yapın.",
     "description": "Description of the extension."
   },
   "back": {
@@ -227,11 +227,11 @@
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "bodyReEnableFirefoxProtection": {
-    "message": "Firefox şu anda Mozilla VPN uygulamasında “hariç tutulan bir uygulama”. Bu uzantıyı kullanmak için uygulamayı açıp Ayarlar > Dışlanan Uygulamalar kısmına gidip Firefox’u kaldırın.",
+    "message": "Firefox şu anda Mozilla VPN uygulamasında “istisna” olarak ayarlı. Bu uzantıyı kullanmak için uygulamayı açıp Ayarlar > Uygulama istisnaları kısmına gidin ve Firefox’u kaldırın.",
     "description": "Body copy of error panel."
   },
   "settingsPageSubtitle": {
-    "message": "Web sitesine özel tercihleri eklemek veya değiştirmek için siteyi ziyaret edip Mozilla VPN Firefox uzantısını açın. Ardından, site tercihlerini ayarlayın. Tercihleriniz yalnızca Firefox için VPN koruması açıksa etkili olur.",
+    "message": "Web sitesine özel tercihleri eklemek veya değiştirmek için siteyi ziyaret edip Mozilla VPN Firefox uzantısını açın. Ardından site tercihlerini ayarlayın. Tercihleriniz yalnızca Firefox için VPN koruması açıksa etkili olur.",
     "description": "Subtitle in the settings page."
   },
   "settingsPageTitle": {
