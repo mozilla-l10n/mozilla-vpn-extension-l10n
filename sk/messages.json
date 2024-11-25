@@ -154,6 +154,38 @@
     "message": "Stiahnuť teraz",
     "description": "This is a call to action button to download the VPN."
   },
+  "defaultLocationHeader": {
+    "message": "Použiť umiestnenie z Mozilla VPN."
+  },
+  "useDefaultLocationExplainer": {
+    "message": "Použije rovnaké umiestnenie ako aplikácia Mozilla VPN, ktorá chráni tento počítač.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Nepodporovaná platforma."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "V súčasnosti je rozšírenie Mozilla VPN dostupné iba na zariadeniach so systémom Windows."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Pracujeme na tom, aby sme čoskoro priniesli podporu pre macOS a Linux!"
+  },
+  "turnOnProtection": {
+    "message": "Zapnúť ochranu",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Odstrániť vlastné umiestnenie",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Ochrana webových stránok",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Odoslať spätnú väzbu",
+    "description": "Button label."
+  },
   "learnMore": {
     "message": "Ďalšie informácie",
     "description": "Label of link that leads to SUMO."
@@ -170,6 +202,18 @@
     "message": "Pozrite si rôzne webové stránky z rôznych miest",
     "description": "Title in onboarding panel."
   },
+  "onboarding2_body": {
+    "message": "Správy z Londýna. Šport zo Sao Paula. Nakupovanie z Tokia. Nastavte si umiestnenia špecifické pre webové stránky a užívajte si prispôsobené prehliadanie.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Ponechajte si ochranu pre Firefox zapnutú",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Použite rozšírenie na zapnutie ochrany VPN pre Firefox – aj keď je ochrana pre zvyšok vášho počítača vypnutá.",
+    "description": "Body text in onboarding panel."
+  },
   "next": {
     "message": "Ďalej",
     "description": "Label of button to progress to next onboarding panel."
@@ -181,6 +225,26 @@
   "headerReEnableFirefoxProtection": {
     "message": "Znova povoľte ochranu Firefoxu",
     "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox je momentálne “vylúčená aplikácia” v aplikácii Mozilla VPN. Ak chcete použiť toto rozšírenie, otvorte aplikáciu a prejdite do časti Nastavenia > Vylúčené aplikácie a odstráňte Firefox.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "Ak chcete pridať alebo zmeniť preferencie špecifické pre konkrétny web, navštívte danú stránku a otvorte rozšírenie Mozilla VPN Firefox. Potom nastavte predvoľby pre stránku. Vaše predvoľby sú platné iba vtedy, keď je zapnutá ochrana VPN pre Firefox.",
+    "description": "Subtitle in the settings page."
+  },
+  "settingsPageTitle": {
+    "message": "Predvoľby webových stránok Mozilla VPN",
+    "description": "Title for settings page tab."
+  },
+  "noSignal": {
+    "message": "Žiadny signál",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Nestabilný",
+    "description": "Indicator text describing the status of the VPN."
   },
   "connecting": {
     "message": "Pripája sa…",
