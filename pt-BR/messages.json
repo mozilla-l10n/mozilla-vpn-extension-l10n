@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "Extensão Mozilla VPN",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Integre a VPN ao Firefox: Exclua abas, defina o local de sites e muito mais!",
+    "description": "Description of the extension."
+  },
+  "back": {
+    "message": "Voltar",
+    "description": "Alternative text attribute for back button."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  },
+  "titleServerList": {
+    "message": "Local do site",
+    "description": "Title for a dialog where users can set the location for a website."
+  }
+}
