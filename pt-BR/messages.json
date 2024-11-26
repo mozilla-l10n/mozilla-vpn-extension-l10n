@@ -128,6 +128,10 @@
     "message": "Para usar esta extensão, é preciso ter instalado a versão mais recente do aplicativo Mozilla VPN.",
     "description": "This is the body copy for an error panel."
   },
+  "bodyInstallMsgFooter": {
+    "message": "Observe que o Mozilla VPN é um serviço pago por assinatura.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
   "btnDownloadNow": {
     "message": "Baixar agora",
     "description": "This is a call to action button to download the VPN."
@@ -188,6 +192,18 @@
   "headerReEnableFirefoxProtection": {
     "message": "Reativar proteção no Firefox",
     "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "noSignal": {
+    "message": "Sem sinal",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Instável",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Conectando…",
+    "description": "Indicator text describing the status of the VPN."
   },
   "helpCenter": {
     "message": "Central de ajuda",
