@@ -184,6 +184,10 @@
     "message": "Bỏ qua",
     "description": "Label of button to skip onboarding."
   },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox hiện tại là “ứng dụng bị loại trừ” trong ứng dụng Mozilla VPN. Để sử dụng tiện ích mở rộng này, hãy mở ứng dụng và đi tới Cài đặt > Loại trừ ứng dụng và xoá Firefox.",
+    "description": "Body copy of error panel."
+  },
   "noSignal": {
     "message": "Không có tín hiệu",
     "description": "Indicator text describing the status of the VPN."
