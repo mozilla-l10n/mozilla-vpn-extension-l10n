@@ -42,11 +42,11 @@
     "description": "Button text to reset all site specific settings."
   },
   "vpnIsOn": {
-    "message": "A proteção de VPN do Firefox está ativada",
+    "message": "A proteção de VPN no Firefox está ativada",
     "description": "Header to signal that VPN connection is enabled."
   },
   "vpnIsOff": {
-    "message": "A proteção de VPN do Firefox está desativada",
+    "message": "A proteção de VPN no Firefox está desativada",
     "description": "Header to signal that VPN connection is disabled."
   },
   "extensionVpnIsOff": {
@@ -169,6 +169,14 @@
     "message": "Com a extensão do Firefox, você pode desativar a proteção de VPN em sites específicos, mantendo ativada em todo o resto.",
     "description": "Body text in onboarding panel."
   },
+  "onboarding2_title": {
+    "message": "Veja diversos sites a partir de diferentes locais",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Mantenha a proteção no Firefox “ativada”",
+    "description": "Title in onboarding panel."
+  },
   "next": {
     "message": "Avançar",
     "description": "Label of button to progress to next onboarding panel."
@@ -178,7 +186,7 @@
     "description": "Label of button to skip onboarding."
   },
   "headerReEnableFirefoxProtection": {
-    "message": "Reativar proteção do Firefox",
+    "message": "Reativar proteção no Firefox",
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "helpCenter": {
