@@ -18,5 +18,29 @@
   "titleServerList": {
     "message": "Local do site",
     "description": "Title for a dialog where users can set the location for a website."
+  },
+  "placeholderSearchWebsites": {
+    "message": "Pesquisar sites",
+    "description": "Placeholder text for the search input field to search websites."
+  },
+  "tableHeadingWebsite": {
+    "message": "Site",
+    "description": "Table heading for the column listing websites."
+  },
+  "tableHeadingVpnStatus": {
+    "message": "Proteção de sites",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "headlineNoWebsitePreferences": {
+    "message": "Você ainda não definiu nenhuma preferência de site",
+    "description": "Headline shown when the user hasn’t set any website preferences."
+  },
+  "getHelp": {
+    "message": "Obter ajuda",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "turnOnProtection": {
+    "message": "Ativar proteção",
+    "description": "Button label."
   }
 }
