@@ -98,17 +98,76 @@
   "titleSubscribeNow": {
     "message": "Assine o Mozilla VPN."
   },
+  "bodySubscribeNow": {
+    "message": "Parece que você ainda não tem uma assinatura do Mozilla VPN. Para usar esta extensão, assine.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "btnSubscribeNow": {
+    "message": "Assine já",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
   "getHelp": {
     "message": "Obter ajuda",
     "description": "Text of a link pointing to a relevant help page."
+  },
+  "headerOpenMozillaVPN": {
+    "message": "Abrir Mozilla VPN",
+    "description": "Headline."
+  },
+  "headerSignedOut": {
+    "message": "Entre no aplicativo Mozilla VPN."
+  },
+  "btnOpenVpn": {
+    "message": "Abra o Mozilla VPN."
+  },
+  "headerNeedsUpdate": {
+    "message": "Atualize o Mozilla VPN",
+    "description": "This is the headline of an error panel."
+  },
+  "bodyNeedsUpdate": {
+    "message": "Para usar esta extensão, é preciso ter instalado a versão mais recente do aplicativo Mozilla VPN.",
+    "description": "This is the body copy for an error panel."
+  },
+  "btnDownloadNow": {
+    "message": "Baixar agora",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Plataforma não suportada."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "Atualmente, a extensão Mozilla VPN só está disponível em dispositivos com Windows."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Estamos trabalhando para oferecer suporte a macOS e Linux em breve!"
   },
   "turnOnProtection": {
     "message": "Ativar proteção",
     "description": "Button label."
   },
+  "removeCustomLocation": {
+    "message": "Remover local personalizado",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Proteção do site",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Dê sua opinião",
+    "description": "Button label."
+  },
   "learnMore": {
     "message": "Saiba mais",
     "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "Desative a VPN em sites específicos",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding1_body": {
+    "message": "Com a extensão do Firefox, você pode desativar a proteção de VPN em sites específicos, mantendo ativada em todo o resto.",
+    "description": "Body text in onboarding panel."
   },
   "next": {
     "message": "Avançar",
