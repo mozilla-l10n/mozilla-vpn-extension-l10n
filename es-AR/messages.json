@@ -1,4 +1,8 @@
 {
+  "extensionName": {
+    "message": "Extensión de Mozilla VPN",
+    "description": "Name of the extension."
+  },
   "extensionDescription": {
     "message": "Integra la VPN en Firefox: ¡Excluí pestañas, configurá ubicaciones y más!",
     "description": "Description of the extension."
@@ -261,5 +265,15 @@
   "offForWebsite": {
     "message": "Mozilla VPN deshabilitada para el sitio web",
     "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: Ubicación del sitio web de Mozilla VPN",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   }
 }
