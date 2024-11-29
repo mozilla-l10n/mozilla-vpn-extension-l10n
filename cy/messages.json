@@ -3,6 +3,10 @@
     "message": "Estyniad Mozilla VPN",
     "description": "Name of the extension."
   },
+  "extensionDescription": {
+    "message": "Integreiddio VPN i Firefox: Eithrio Tabiau, gosod lleoliadau Gwefan a mwy!",
+    "description": "Description of the extension."
+  },
   "back": {
     "message": "Nôl",
     "description": "Alternative text attribute for back button."
@@ -36,5 +40,166 @@
   "resetPageSettings": {
     "message": "Ailosod dewisiadau gwefan",
     "description": "Button text to reset all site specific settings."
+  },
+  "vpnIsOn": {
+    "message": "Mae diogelu VPN ar gyfer Firefox ymlaen",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "Mae diogelu VPN ar gyfer Firefox wedi'i ddiffodd",
+    "description": "Header to signal that VPN connection is disabled."
+  },
+  "extensionVpnIsOff": {
+    "message": "Mae Mozilla VPN ymlaen o hyd, gan ddiogelu gweddill eich cyfrifiadur.",
+    "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
+  },
+  "vpnOffStatus": {
+    "message": "Diffodd",
+    "description": "Label indicating that the VPN is off."
+  },
+  "vpnOnStatus": {
+    "message": "Ymlaen",
+    "description": "Label indicating that the VPN is on."
+  },
+  "placeholderSearchWebsites": {
+    "message": "Chwilio gwefannau",
+    "description": "Placeholder text for the search input field to search websites."
+  },
+  "tableHeadingWebsite": {
+    "message": "Gwefan",
+    "description": "Table heading for the column listing websites."
+  },
+  "tableHeadingVpnStatus": {
+    "message": "Diogelu'r wefan",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "headlineNoWebsitePreferences": {
+    "message": "Nid ydych wedi gosod unrhyw ddewisiadau gwefan eto",
+    "description": "Headline shown when the user hasn’t set any website preferences."
+  },
+  "noWebsitePreferencesSubText": {
+    "message": "Gyda'r estyniad Firefox, gallwch chi ddiffodd amddiffyniad Mozilla VPN ar gyfer gwefan neu osod lleoliad cyfaddas. I wneud hyn, ewch i wefan, agorwch yr estyniad, a diweddarwch ddewisiadau'r wefan.",
+    "description": "Subtext shown when there are no website preferences set by the user."
+  },
+  "altTextRemoveWebsiteButton": {
+    "message": "Dileu rheol ar gyfer $ORIGIN$",
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "altTextOpenSettingsPage": {
+    "message": "Agor Tudalen Gosodiadau",
+    "description": "Alternative text for the button that opens the Extensions Settings page."
+  },
+  "searchServer": {
+    "message": "Chwilio lleoliadau",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "titleSubscribeNow": {
+    "message": "Tanysgrifiwch i Mozilla VPN."
+  },
+  "bodySubscribeNow": {
+    "message": "Mae'n edrych fel nad ydych chi wedi tanysgrifio i Mozilla VPN eto. I ddefnyddio'r estyniad hwn, tanysgrifiwch.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "btnSubscribeNow": {
+    "message": "Tanysgrifiwch nawr",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
+  "getHelp": {
+    "message": "Derbyn cymorth",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "headerOpenMozillaVPN": {
+    "message": "Agor Mozilla VPN",
+    "description": "Headline."
+  },
+  "headerSignedOut": {
+    "message": "Mewngofnodwch i ap Mozilla VPN."
+  },
+  "bodySignedOut": {
+    "message": "Rydych chi wedi allgofnodi o ap Mozilla VPN ar hyn o bryd. I ddefnyddio estyniad Mozilla VPN Firefox, agorwch yr ap ar eich cyfrifiadur a mewngofnodwch i'ch cyfrif."
+  },
+  "btnOpenVpn": {
+    "message": "Agor Mozilla VPN."
+  },
+  "headerNeedsUpdate": {
+    "message": "Diweddaru Mozilla VPN",
+    "description": "This is the headline of an error panel."
+  },
+  "bodyNeedsUpdate": {
+    "message": "Er mwyn defnyddio'r estyniad hwn, rhaid i chi gael y rhaglen Mozilla VPN diweddaraf wedi'i osod.",
+    "description": "This is the body copy for an error panel."
+  },
+  "headerInstallMsg": {
+    "message": "Gosod Mozilla VPN",
+    "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "I ddefnyddio estyniad Mozilla VPN Firefox, agorwch ap Mozilla VPN yn gyntaf.",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "I ddefnyddio'r estyniad hwn, yn gyntaf llwythwch a gosodwch ap Mozilla VPN ar eich cyfrifiadur."
+  },
+  "bodyInstallMsgFooter": {
+    "message": "Sylwch fod Mozilla VPN yn wasanaeth tanysgrifio taledig.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
+  "btnDownloadNow": {
+    "message": "Llwytho i lawr nawr",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Defnyddio lleoliad Mozilla VPN."
+  },
+  "useDefaultLocationExplainer": {
+    "message": "Defnyddiwch yr un lleoliad â'r ap Mozilla VPN sy'n diogelu'r cyfrifiadur hwn.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Llwyfan heb ei gefnogi."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "Ar hyn o bryd, dim ond ar ddyfeisiau Windows y mae estyniad Mozilla VPN ar gael."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Rydyn ni'n gweithio i ddod â chefnogaeth i macOS a Linux cyn hir!"
+  },
+  "turnOnProtection": {
+    "message": "Trowch y diogelu ymlaen",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Dileu lleoliad cyfaddas",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Diogelu'r wefan",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Rhoi adborth",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Darllen rhagor",
+    "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "Diffoddwch VPN ar gyfer gwefannau penodol",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding1_body": {
+    "message": "Gyda'r estyniad Firefox, gallwch chi ddiffodd amddiffyniad VPN ar gyfer gwefannau penodol, tra'n ei gadw ymlaen ar gyfer popeth arall.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Gweld gwahanol wefannau o wahanol leoliadau",
+    "description": "Title in onboarding panel."
   }
 }
