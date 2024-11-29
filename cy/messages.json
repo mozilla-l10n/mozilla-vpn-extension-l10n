@@ -28,7 +28,7 @@
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
   "excludePageFor": {
-    "message": "Diffoddwch amddiffyniad VPN bob tro ar gyfer $ORIGIN$",
+    "message": "Diffoddwch ddiogelu VPN bob tro ar gyfer $ORIGIN$",
     "description": "Setting to exclude a website from VPN.",
     "placeholders": {
       "origin": {
@@ -195,11 +195,85 @@
     "description": "Title in onboarding panel."
   },
   "onboarding1_body": {
-    "message": "Gyda'r estyniad Firefox, gallwch chi ddiffodd amddiffyniad VPN ar gyfer gwefannau penodol, tra'n ei gadw ymlaen ar gyfer popeth arall.",
+    "message": "Gyda'r estyniad Firefox, gallwch chi ddiffodd ddiogelu VPN ar gyfer gwefannau penodol, tra'n ei gadw ymlaen ar gyfer popeth arall.",
     "description": "Body text in onboarding panel."
   },
   "onboarding2_title": {
     "message": "Gweld gwahanol wefannau o wahanol leoliadau",
     "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "Newyddion o Lundain. Chwaraeon o Sao Paulo. Siopa o Tokyo. Gosodwch leoliadau gwefan-benodol ar gyfer pori personol.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Cadwch ddiogelu ar gyfer Firefox “ymlaen”",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Defnyddiwch yr estyniad i droi diogelu VPN ymlaen ar gyfer Firefox - hyd yn oed pan fydd diogelu i ffwrdd ar gyfer gweddill eich cyfrifiadur.",
+    "description": "Body text in onboarding panel."
+  },
+  "next": {
+    "message": "Nesaf",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Hepgor",
+    "description": "Label of button to skip onboarding."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Ail-alluogi diogelu Firefox",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Ar hyn o bryd mae Firefox yn “ap gwaharddedig” yn rhaglen Mozilla VPN. I ddefnyddio'r estyniad hwn, agorwch y rhaglen ac ewch i Gosodiadau > Apiau Eithriedig a thynnu Firefox.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "I ychwanegu neu newid dewisiadau gwefan-benodol, ewch i'r wefan ac agorwch estyniad Mozilla VPN Firefox. Yna, gosodwch y dewisiadau ar gyfer y wefan. Dim ond pan fydd diogelu VPN ar gyfer Firefox ymlaen y bydd eich dewisiadau'n dod i rym.",
+    "description": "Subtitle in the settings page."
+  },
+  "settingsPageTitle": {
+    "message": "Dewisiadau Gwefan Mozilla VPN",
+    "description": "Title for settings page tab."
+  },
+  "noSignal": {
+    "message": "Dim Signal",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Ansefydlog",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Yn cysylltu…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Canolfan gymorth",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "Dewisiadau gwefan",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Cysylltu â chefnogaeth",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN wedi'i ddiffodd ar gyfer gwefan",
+    "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: Lleoliad gwefan Mozilla VPN",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   }
 }
