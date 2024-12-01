@@ -1,0 +1,107 @@
+{
+  "extensionName": {
+    "message": "Rozšíření Mozilla VPN",
+    "description": "Name of the extension."
+  },
+  "back": {
+    "message": "Zpět",
+    "description": "Alternative text attribute for back button."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  },
+  "titleServerList": {
+    "message": "Umístění webové stránky",
+    "description": "Title for a dialog where users can set the location for a website."
+  },
+  "selectWebsiteLocation": {
+    "message": "Volba umístění webové stránky",
+    "description": "Button label."
+  },
+  "vpnOffStatus": {
+    "message": "Vypnuto",
+    "description": "Label indicating that the VPN is off."
+  },
+  "vpnOnStatus": {
+    "message": "Zapnuto",
+    "description": "Label indicating that the VPN is on."
+  },
+  "tableHeadingWebsite": {
+    "message": "Webová stránka",
+    "description": "Table heading for the column listing websites."
+  },
+  "tableHeadingVpnStatus": {
+    "message": "Ochrana webové stránky",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "getHelp": {
+    "message": "Získat pomoc",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "btnOpenVpn": {
+    "message": "Otevřít Mozilla VPN."
+  },
+  "headerNeedsUpdate": {
+    "message": "Aktualizace Mozilla VPN",
+    "description": "This is the headline of an error panel."
+  },
+  "headerInstallMsg": {
+    "message": "Nainstalujte si Mozilla VPN",
+    "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "Chcete-li použít rozšíření Mozilla VPN pro Firefox, otevřete nejprve aplikaci Mozilla VPN.",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "Chcete-li toto rozšíření používat, nejprve si do počítače stáhněte a nainstalujte aplikaci Mozilla VPN."
+  },
+  "bodyInstallMsgFooter": {
+    "message": "Upozorňujeme, že Mozilla VPN je placená služba s předplatným.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
+  "btnDownloadNow": {
+    "message": "Stáhnout",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Použít umístění z Mozilla VPN."
+  },
+  "websiteProtection": {
+    "message": "Ochrana webové stránky",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Zpětná vazba",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Zjistit více",
+    "description": "Label of link that leads to SUMO."
+  },
+  "next": {
+    "message": "Další",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Přeskočit",
+    "description": "Label of button to skip onboarding."
+  },
+  "noSignal": {
+    "message": "Žádný signál",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Nestabilní",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Připojování…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Centrum pomoci",
+    "description": "Link title."
+  }
+}
