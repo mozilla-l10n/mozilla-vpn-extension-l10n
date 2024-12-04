@@ -127,6 +127,25 @@
     "message": "Mettre à jour Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
+  "bodyNeedsUpdate": {
+    "message": "Pour utiliser cette extension, la dernière version de l’application Mozilla VPN doit être installée.",
+    "description": "This is the body copy for an error panel."
+  },
+  "headerInstallMsg": {
+    "message": "Installez Mozilla VPN",
+    "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "Pour utiliser l’extension Mozilla VPN pour Firefox, veuillez d’abord ouvrir l’application Mozilla VPN.",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "Pour utiliser cette extension, commencez par télécharger et installer l’application Mozilla VPN sur votre ordinateur."
+  },
+  "bodyInstallMsgFooter": {
+    "message": "Notez que Mozilla VPN est un service à abonnement payant.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
   "btnDownloadNow": {
     "message": "Télécharger",
     "description": "This is a call to action button to download the VPN."
@@ -178,6 +197,14 @@
   "onboarding2_title": {
     "message": "Consultez différents sites web depuis différents emplacements",
     "description": "Title in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Gardez la protection « activée » pour Firefox",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Utilisez l’extension pour activer la protection VPN pour Firefox, même si la protection est désactivée pour le reste de votre ordinateur.",
+    "description": "Body text in onboarding panel."
   },
   "next": {
     "message": "Suivant",
