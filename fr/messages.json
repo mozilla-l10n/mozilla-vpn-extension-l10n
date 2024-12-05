@@ -202,6 +202,10 @@
     "message": "Consultez différents sites web depuis différents emplacements",
     "description": "Title in onboarding panel."
   },
+  "onboarding2_body": {
+    "message": "L’actualité depuis Londres. Le sport depuis Sao Paulo. Les achats en ligne depuis Tokyo. Définissez des emplacements spécifiques pour des sites web et personnalisez votre navigation.",
+    "description": "Body text in onboarding panel."
+  },
   "onboarding3_title": {
     "message": "Gardez la protection « activée » pour Firefox",
     "description": "Title in onboarding panel."
