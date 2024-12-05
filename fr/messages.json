@@ -3,6 +3,10 @@
     "message": "Extension Mozilla VPN",
     "description": "Name of the extension."
   },
+  "extensionDescription": {
+    "message": "Intégrez le VPN à Firefox : excluez des onglets, définissez des emplacements de site et bien plus encore !",
+    "description": "Description of the extension."
+  },
   "back": {
     "message": "Retour",
     "description": "Alternative text attribute for back button."
@@ -218,6 +222,14 @@
     "message": "Réactiver la protection Firefox",
     "description": "Error panel title for when Firefox is an excluded app."
   },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox est actuellement une « application exclue » de l’application Mozilla VPN. Pour utiliser cette extension, ouvrez l’application et rendez-vous dans Paramètres > Applications exclues et supprimez Firefox.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "Pour ajouter ou modifier les préférences spécifiques d’un site web, visitez le site et ouvrez l’extension Mozilla VPN pour Firefox. Définissez ensuite les préférences du site. Vos préférences ne sont effectives que lorsque la protection VPN est activée pour Firefox.",
+    "description": "Subtitle in the settings page."
+  },
   "settingsPageTitle": {
     "message": "Préférences des sites web Mozilla VPN",
     "description": "Title for settings page tab."
@@ -236,6 +248,10 @@
   },
   "helpCenter": {
     "message": "Centre d’assistance",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "Préférences du site web",
     "description": "Link title."
   },
   "contactSupport": {
