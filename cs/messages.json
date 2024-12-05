@@ -114,12 +114,26 @@
     "message": "Získat pomoc",
     "description": "Text of a link pointing to a relevant help page."
   },
+  "headerOpenMozillaVPN": {
+    "message": "Otevřít Mozilla VPN",
+    "description": "Headline."
+  },
+  "headerSignedOut": {
+    "message": "Přihlaste se do aplikace Mozilla VPN."
+  },
+  "bodySignedOut": {
+    "message": "Právě jste se odhlásili z aplikace Mozilla VPN. Chcete-li používat rozšíření Mozilla VPN pro Firefox, otevřete aplikaci v počítači a přihlaste se ke svému účtu."
+  },
   "btnOpenVpn": {
     "message": "Otevřít Mozilla VPN."
   },
   "headerNeedsUpdate": {
     "message": "Aktualizace Mozilla VPN",
     "description": "This is the headline of an error panel."
+  },
+  "bodyNeedsUpdate": {
+    "message": "Abyste mohli toto rozšíření používat, musíte mít nainstalovanou nejnovější verzi aplikace Mozilla VPN.",
+    "description": "This is the body copy for an error panel."
   },
   "headerInstallMsg": {
     "message": "Nainstalujte si Mozilla VPN",
@@ -143,6 +157,27 @@
   "defaultLocationHeader": {
     "message": "Použít umístění z Mozilla VPN."
   },
+  "useDefaultLocationExplainer": {
+    "message": "Použije stejné umístění jako aplikace Mozilla VPN chránící tento počítač.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Nepodporovaná platforma."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "Rozšíření Mozilla VPN je v současné době dostupné pouze pro zařízení se systémem Windows."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Pracujeme na tom, abychom brzy přenesli podporu do systémů macOS a Linux!"
+  },
+  "turnOnProtection": {
+    "message": "Zapnout ochranu",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Odstranit vlastní umístění",
+    "description": "Button label."
+  },
   "websiteProtection": {
     "message": "Ochrana webové stránky",
     "description": "A subtitle that is followed by an off icon and the word 'Off'."
@@ -155,6 +190,30 @@
     "message": "Zjistit více",
     "description": "Label of link that leads to SUMO."
   },
+  "onboarding1_title": {
+    "message": "Vypnutí VPN pro konkrétní webové stránky",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding1_body": {
+    "message": "Pomocí rozšíření pro Firefox můžete vypnout ochranu VPN pro určité webové stránky a ponechat ji zapnutou pro všechny ostatní.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Zobrazení různých webových stránek z různých míst",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "Zprávy z Londýna. Sport ze Sao Paula. Nakupování z Tokia. Nastavte si místa na konkrétních webových stránkách pro personalizované procházení.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Ponechte si ochranu pro Firefox zapnutu",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Pomocí tohoto rozšíření můžete zapnout ochranu VPN ve Firefoxu, i když je ochrana ve zbytku počítače vypnutá.",
+    "description": "Body text in onboarding panel."
+  },
   "next": {
     "message": "Další",
     "description": "Label of button to progress to next onboarding panel."
@@ -162,6 +221,22 @@
   "skip": {
     "message": "Přeskočit",
     "description": "Label of button to skip onboarding."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Opětovné zapnutí ochrany prohlížeče Firefox",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox je v současné době “vyloučenou aplikací” v aplikaci Mozilla VPN. Chcete-li toto rozšíření používat, otevřete aplikaci, přejděte do Nastavení > Vyloučené aplikace a odstraňte Firefox.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "Chcete-li přidat nebo změnit předvolby konkrétní webové stránky, navštivte web a otevřete rozšíření Mozilla VPN pro Firefox. Poté nastavte předvolby pro danou stránku. Vaše předvolby jsou platné pouze tehdy, když je zapnutá ochrana VPN pro Firefox.",
+    "description": "Subtitle in the settings page."
+  },
+  "settingsPageTitle": {
+    "message": "Předvolby webových stránek pro Mozilla VPN",
+    "description": "Title for settings page tab."
   },
   "noSignal": {
     "message": "Žádný signál",
@@ -178,5 +253,27 @@
   "helpCenter": {
     "message": "Centrum pomoci",
     "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "Nastavení webové stránky",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Kontaktujte podporu",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN je pro webovou stránku vypnuta",
+    "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: umístění webové stránky v Mozilla VPN",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   }
 }
