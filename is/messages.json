@@ -23,6 +23,28 @@
     "message": "Kjörstillingar fyrir þetta vefsvæði",
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
+  "excludePageFor": {
+    "message": "Slökkva alltaf á VPN-vörn fyrir $ORIGIN$",
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "resetPageSettings": {
+    "message": "Frumstilla kjörstillingar vefsvæðis",
+    "description": "Button text to reset all site specific settings."
+  },
+  "vpnIsOn": {
+    "message": "Kveikt er á VPN-vörn fyrir Firefox",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "Slökkt er á VPN-vörn fyrir Firefox",
+    "description": "Header to signal that VPN connection is disabled."
+  },
   "vpnOffStatus": {
     "message": "Óvirkt",
     "description": "Label indicating that the VPN is off."
