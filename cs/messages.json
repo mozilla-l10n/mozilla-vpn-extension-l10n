@@ -3,6 +3,10 @@
     "message": "Rozšíření Mozilla VPN",
     "description": "Name of the extension."
   },
+  "extensionDescription": {
+    "message": "Integruje VPN do Firefoxu: vypněte ji pro konkrétní panely, nastavte si vlastní umístění a mnoho dalšího!",
+    "description": "Description of the extension."
+  },
   "back": {
     "message": "Zpět",
     "description": "Alternative text attribute for back button."
@@ -19,6 +23,36 @@
     "message": "Volba umístění webové stránky",
     "description": "Button label."
   },
+  "titlePageSettings": {
+    "message": "Předvolby pro tuto webovou stránku",
+    "description": "The header for website specific settings, i.e. exclude a page from VPN."
+  },
+  "excludePageFor": {
+    "message": "Vždy vypnout ochranu VPN pro $ORIGIN$",
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "resetPageSettings": {
+    "message": "Obnovit předvolby webové stránky",
+    "description": "Button text to reset all site specific settings."
+  },
+  "vpnIsOn": {
+    "message": "Ochrana VPN je pro Firefox zapnutá",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "Ochrana VPN je pro Firefox vypnutá",
+    "description": "Header to signal that VPN connection is disabled."
+  },
+  "extensionVpnIsOff": {
+    "message": "Mozilla VPN je stále zapnutá a chrání zbytek vašeho počítače.",
+    "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
+  },
   "vpnOffStatus": {
     "message": "Vypnuto",
     "description": "Label indicating that the VPN is off."
@@ -27,6 +61,10 @@
     "message": "Zapnuto",
     "description": "Label indicating that the VPN is on."
   },
+  "placeholderSearchWebsites": {
+    "message": "Hledat ve stránkách",
+    "description": "Placeholder text for the search input field to search websites."
+  },
   "tableHeadingWebsite": {
     "message": "Webová stránka",
     "description": "Table heading for the column listing websites."
@@ -34,6 +72,43 @@
   "tableHeadingVpnStatus": {
     "message": "Ochrana webové stránky",
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "headlineNoWebsitePreferences": {
+    "message": "Zatím jste nenastavili žádné předvolby webové stránky",
+    "description": "Headline shown when the user hasn’t set any website preferences."
+  },
+  "noWebsitePreferencesSubText": {
+    "message": "Pomocí rozšíření pro Firefox můžete vypnout ochranu Mozilla VPN pro webové stránky nebo nastavit vlastní umístění. To provedete tak, že navštívíte webovou stránku, otevřete rozšíření a aktualizujete předvolby webové stránky.",
+    "description": "Subtext shown when there are no website preferences set by the user."
+  },
+  "altTextRemoveWebsiteButton": {
+    "message": "Odstranit pravidlo pro $ORIGIN$",
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "altTextOpenSettingsPage": {
+    "message": "Otevřít nastavení",
+    "description": "Alternative text for the button that opens the Extensions Settings page."
+  },
+  "searchServer": {
+    "message": "Hledat umístění",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "titleSubscribeNow": {
+    "message": "Přihlaste se k předplatnému Mozilla VPN."
+  },
+  "bodySubscribeNow": {
+    "message": "Vypadá to, že ještě nejste přihlášeni k předplatnému služby Mozilla VPN. Chcete-li toto rozšíření používat, přihlaste se.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "btnSubscribeNow": {
+    "message": "Předplatit",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
   },
   "getHelp": {
     "message": "Získat pomoc",
