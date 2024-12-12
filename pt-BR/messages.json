@@ -128,6 +128,17 @@
     "message": "Para usar esta extensão, é preciso ter instalado a versão mais recente do aplicativo Mozilla VPN.",
     "description": "This is the body copy for an error panel."
   },
+  "headerInstallMsg": {
+    "message": "Instale o Mozilla VPN",
+    "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "Para usar a extensão do Firefox Mozilla VPN, primeiro abra o aplicativo Mozilla VPN.",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "Para usar esta extensão, primeiro baixe e instale o aplicativo Mozilla VPN no computador."
+  },
   "bodyInstallMsgFooter": {
     "message": "Observe que o Mozilla VPN é um serviço pago por assinatura.",
     "description": "This is a footnote for “bodyInstallMsg”."
@@ -135,6 +146,13 @@
   "btnDownloadNow": {
     "message": "Baixar agora",
     "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Usar local do Mozilla VPN."
+  },
+  "useDefaultLocationExplainer": {
+    "message": "Usar o mesmo local que o aplicativo Mozilla VPN para proteger este computador.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
   },
   "headerUnsupportedOSMessage": {
     "message": "Plataforma não suportada."
@@ -177,9 +195,17 @@
     "message": "Veja diversos sites a partir de diferentes locais",
     "description": "Title in onboarding panel."
   },
+  "onboarding2_body": {
+    "message": "Notícias de Londres. Esportes de São Paulo. Compras de Tóquio. Defina locais específicos por site para personalizar sua navegação.",
+    "description": "Body text in onboarding panel."
+  },
   "onboarding3_title": {
     "message": "Mantenha a proteção no Firefox “ativada”",
     "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Use a extensão para ativar a proteção VPN no Firefox, mesmo quando a proteção estiver desativada no restante do computador.",
+    "description": "Body text in onboarding panel."
   },
   "next": {
     "message": "Avançar",
@@ -192,6 +218,10 @@
   "headerReEnableFirefoxProtection": {
     "message": "Reativar proteção no Firefox",
     "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "O Firefox atualmente é um “aplicativo excluído” no aplicativo Mozilla VPN. Para usar esta extensão, abra o aplicativo, vá em Configurações > Exclusão de aplicativos e remova o Firefox da lista.",
+    "description": "Body copy of error panel."
   },
   "noSignal": {
     "message": "Sem sinal",
