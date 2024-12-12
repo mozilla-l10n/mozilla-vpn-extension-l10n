@@ -223,6 +223,14 @@
     "message": "O Firefox atualmente é um “aplicativo excluído” no aplicativo Mozilla VPN. Para usar esta extensão, abra o aplicativo, vá em Configurações > Exclusão de aplicativos e remova o Firefox da lista.",
     "description": "Body copy of error panel."
   },
+  "settingsPageSubtitle": {
+    "message": "Para adicionar ou alterar preferências específicas de um site, visite o site e abra a extensão Mozilla VPN Firefox. Depois defina as preferências para o site. Suas preferências só têm efeito quando a proteção VPN para Firefox está ativada.",
+    "description": "Subtitle in the settings page."
+  },
+  "settingsPageTitle": {
+    "message": "Preferências de sites do Mozilla VPN",
+    "description": "Title for settings page tab."
+  },
   "noSignal": {
     "message": "Sem sinal",
     "description": "Indicator text describing the status of the VPN."
@@ -239,8 +247,26 @@
     "message": "Central de ajuda",
     "description": "Link title."
   },
+  "websitePreferences": {
+    "message": "Preferências de sites",
+    "description": "Link title."
+  },
   "contactSupport": {
     "message": "Entre em contato com o suporte",
     "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN desativado por site",
+    "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: Local do Mozilla VPN por site",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   }
 }
