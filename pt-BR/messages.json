@@ -77,6 +77,10 @@
     "message": "Você ainda não definiu nenhuma preferência de site",
     "description": "Headline shown when the user hasn’t set any website preferences."
   },
+  "noWebsitePreferencesSubText": {
+    "message": "Com a extensão para Firefox, você pode desativar a proteção do Mozilla VPN em um site ou definir um local personalizado. Para fazer isso, visite o site, abra a extensão e altere as preferências para o site.",
+    "description": "Subtext shown when there are no website preferences set by the user."
+  },
   "altTextRemoveWebsiteButton": {
     "message": "Remover regra de $ORIGIN$",
     "description": "Alternative text for the button that removes a website rule from the list of preferences.",
@@ -116,6 +120,9 @@
   },
   "headerSignedOut": {
     "message": "Entre no aplicativo Mozilla VPN."
+  },
+  "bodySignedOut": {
+    "message": "No momento, você está desconectado do aplicativo Mozilla VPN. Para usar a extensão Mozilla VPN para Firefox, abra o aplicativo no computador e entre na sua conta."
   },
   "btnOpenVpn": {
     "message": "Abra o Mozilla VPN."
