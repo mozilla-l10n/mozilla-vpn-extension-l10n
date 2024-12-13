@@ -275,5 +275,17 @@
         "example": "Germany"
       }
     }
+  },
+  "howToFix": {
+    "message": "Como reparar",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Altere extensiones pote interferer con como functiona le extension Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Apprende que facer",
+    "description": "Link in banner alert"
   }
 }
