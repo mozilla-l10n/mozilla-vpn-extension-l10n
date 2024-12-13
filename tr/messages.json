@@ -275,5 +275,21 @@
         "example": "Germany"
       }
     }
+  },
+  "alert_conflictingProgram": {
+    "message": "Bilgisayarınızdaki bir program Mozilla VPN uzantısına neden oluyor olabilir.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Nasıl düzeltebilirim?",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Diğer uzantılar, Mozilla VPN uzantısının çalışmasını engelliyor olabilir.",
+    "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Ne yapmanız gerektiğini öğrenin",
+    "description": "Link in banner alert"
   }
 }
