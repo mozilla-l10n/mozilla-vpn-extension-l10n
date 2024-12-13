@@ -276,6 +276,10 @@
       }
     }
   },
+  "alert_conflictingProgram": {
+    "message": "Un programma sur tu computator pote causar problemas con le extension Mozilla VPN.",
+    "description": "Banner alert"
+  },
   "howToFix": {
     "message": "Como reparar",
     "description": "Link in banner alert"
