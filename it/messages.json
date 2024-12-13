@@ -11,23 +11,9 @@
     "message": "Indietro",
     "description": "Alternative text attribute for back button."
   },
-  "notificationTitle": {
-    "message": "Notifica clic",
-    "description": "Title of the click notification."
-  },
   "productName": {
     "message": "Mozilla VPN",
     "description": "Name of the product."
-  },
-  "notificationContent": {
-    "message": "Hai fatto clic su $URL$.",
-    "description": "Tells the user which link they clicked.",
-    "placeholders": {
-      "url": {
-        "content": "$1",
-        "example": "https://developer.mozilla.org"
-      }
-    }
   },
   "titleServerList": {
     "message": "Posizione per il sito web",
@@ -289,5 +275,21 @@
         "example": "Germany"
       }
     }
+  },
+  "alert_conflictingProgram": {
+    "message": "Un programma installato sul computer potrebbe causare problemi con l’estensione Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Come risolvere il problema",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Altre estensioni potrebbero interferire con il funzionamento dell’estensione Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Scopri cosa fare",
+    "description": "Link in banner alert"
   }
 }
