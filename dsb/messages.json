@@ -275,5 +275,21 @@
         "example": "Germany"
       }
     }
+  },
+  "alert_conflictingProgram": {
+    "message": "Program na wašom licadle snaź problemy z rozšyrjenim Mozilla VPN zawinujo.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Kak pórěźiś",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Druge rozšyrjenja mógu źěło rozšyrjenja Mozilla VPN kazyś.",
+    "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Zgóńśo, což musyśo cyniś",
+    "description": "Link in banner alert"
   }
 }
