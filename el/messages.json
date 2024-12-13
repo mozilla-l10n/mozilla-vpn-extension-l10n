@@ -275,5 +275,9 @@
         "example": "Germany"
       }
     }
+  },
+  "learnWhatToDo": {
+    "message": "Μάθετε τι να κάνετε",
+    "description": "Link in banner alert"
   }
 }
