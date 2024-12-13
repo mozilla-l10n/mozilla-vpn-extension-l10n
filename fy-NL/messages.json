@@ -275,5 +275,21 @@
         "example": "Germany"
       }
     }
+  },
+  "alert_conflictingProgram": {
+    "message": "In programma op jo kompjûter kin problemen feroarsaakje mei de Mozilla VPN-útwreiding.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Hoe’t jo dit oplosse kinne",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Oare útwreidingen fersteure mooglik de wurking fan de Mozilla VPN-útwreiding.",
+    "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Lês wat jo dwaan kinne",
+    "description": "Link in banner alert"
   }
 }
