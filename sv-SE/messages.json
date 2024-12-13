@@ -275,5 +275,21 @@
         "example": "Germany"
       }
     }
+  },
+  "alert_conflictingProgram": {
+    "message": "Ett program på din dator kan orsaka problem med tillägget Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Hur du åtgärdar",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Andra tillägg kan störa hur tillägget Mozilla VPN fungerar.",
+    "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Lär dig vad du ska göra",
+    "description": "Link in banner alert"
   }
 }
