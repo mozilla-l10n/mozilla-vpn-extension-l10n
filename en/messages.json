@@ -276,5 +276,21 @@
         "example": "Germany"
       }
     }
+  },
+  "alert_conflictingProgram": {
+    "message": "A program on your computer may be causing issues with the Mozilla VPN extension.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "How to fix",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Other extensions may be interfering with how the Mozilla VPN extension works.",
+    "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Learn what to do",
+    "description": "Link in banner alert"
   }
 }
