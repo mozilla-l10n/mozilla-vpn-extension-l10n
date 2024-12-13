@@ -275,5 +275,21 @@
         "example": "Germany"
       }
     }
+  },
+  "alert_conflictingProgram": {
+    "message": "您電腦上的某套軟體，可能會造成 Mozilla VPN 擴充套件的運作發生問題。",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "如何修正",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "其他的擴充套件可能會干擾 Mozilla VPN 擴充套件運作。",
+    "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "了解該做什麼",
+    "description": "Link in banner alert"
   }
 }
