@@ -223,6 +223,10 @@
     "message": "Skip",
     "description": "Label of button to skip onboarding."
   },
+  "done": {
+    "message": "Done",
+    "description": "Label of button in final onboarding panel."
+  },
   "headerReEnableFirefoxProtection": {
     "message": "Re-enable Firefox protection",
     "description": "Error panel title for when Firefox is an excluded app."
