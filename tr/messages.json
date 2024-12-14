@@ -277,7 +277,7 @@
     }
   },
   "alert_conflictingProgram": {
-    "message": "Bilgisayarınızdaki bir program Mozilla VPN uzantısına neden oluyor olabilir.",
+    "message": "Bilgisayarınızdaki bir program Mozilla VPN uzantısıyla ilgili sorunlara yol açıyor olabilir.",
     "description": "Banner alert"
   },
   "howToFix": {
@@ -285,11 +285,11 @@
     "description": "Link in banner alert"
   },
   "alert_conflictingExtensions": {
-    "message": "Diğer uzantılar, Mozilla VPN uzantısının çalışmasını engelliyor olabilir.",
+    "message": "Diğer uzantılar Mozilla VPN uzantısının çalışmasını engelliyor olabilir.",
     "description": "Banner alert"
   },
   "learnWhatToDo": {
-    "message": "Ne yapmanız gerektiğini öğrenin",
+    "message": "Yapmanız gerekenleri öğrenin",
     "description": "Link in banner alert"
   }
 }
