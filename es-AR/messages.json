@@ -275,5 +275,21 @@
         "example": "Germany"
       }
     }
+  },
+  "alert_conflictingProgram": {
+    "message": "Un programa en tu computadora puede estar causando problemas con la extensión de Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Cómo solucionarlo",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Otras extensiones pueden estar interfiriendo con el funcionamiento de la extensión de Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Conocer qué hacer",
+    "description": "Link in banner alert"
   }
 }
