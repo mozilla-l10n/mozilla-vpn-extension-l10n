@@ -275,5 +275,21 @@
         "example": "Germany"
       }
     }
+  },
+  "alert_conflictingProgram": {
+    "message": "Problémy s rozšírením Mozilla VPN môže spôsobovať program vo vašom počítači.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Ako to opraviť",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Iné rozšírenia môžu zasahovať do fungovania rozšírenia Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Zistite, čo robiť",
+    "description": "Link in banner alert"
   }
 }
