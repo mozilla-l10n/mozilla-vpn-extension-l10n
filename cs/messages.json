@@ -279,5 +279,17 @@
   "alert_conflictingProgram": {
     "message": "Problémy s rozšířením Mozilla VPN může způsobovat program ve vašem počítači.",
     "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Jak to opravit",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Jiná rozšíření mohou narušovat fungování rozšíření Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Přečtěte si, co dělat",
+    "description": "Link in banner alert"
   }
 }
