@@ -98,5 +98,33 @@
   "searchServer": {
     "message": "ਟਿਕਾਣਿਆਂ ਨੂੰ ਖੋਜੋ",
     "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "titleSubscribeNow": {
+    "message": "Mozilla VPN ਦੇ ਮੈਂਬਰ ਬਣੋ।"
+  },
+  "bodySubscribeNow": {
+    "message": "ਇੰਞ ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਹਾਲੇ Mozilla VPN ਲਈ ਮੈਂਬਰ ਨਹੀਂ ਬਣੇ ਹੋ। ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਵਰਤਣ ਲਈ ਮੈਂਬਰ ਬਣੋ।",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "btnSubscribeNow": {
+    "message": "ਹੁਣੇ ਮੈਂਬਰ ਬਣੋ",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
+  "getHelp": {
+    "message": "ਮਦਦ ਲਵੋ",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "headerOpenMozillaVPN": {
+    "message": "Mozilla VPN ਨੂੰ ਖੋਲ੍ਹੋ",
+    "description": "Headline."
+  },
+  "headerSignedOut": {
+    "message": "Mozilla VPN ਐਪ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।"
+  },
+  "bodySignedOut": {
+    "message": "ਤੁਸੀਂ ਇਸ ਵੇਲੇ Mozilla VPN ਐਪ ਵਿੱਚੋਂ ਸਾਈਨ ਆਉਟ ਹੋ। Mozilla VPN Firefox ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਵਰਤਣ ਲਈ ਆਪਣੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਐਪ ਨੂੰ ਖੋਲ੍ਹੋ ਅਤੇ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।"
+  },
+  "btnOpenVpn": {
+    "message": "Mozilla VPN ਨੂੰ ਖੋਲ੍ਹੋ।"
   }
 }
