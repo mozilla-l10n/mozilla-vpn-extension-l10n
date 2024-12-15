@@ -225,5 +225,71 @@
   "headerReEnableFirefoxProtection": {
     "message": "Volver a activar la protección de Firefox",
     "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox es actualmente una “aplicación excluida” en la aplicación de Mozilla VPN. Para usar esta extensión, abre la aplicación y vete a Ajustes > Aplicaciones excluidas y elimina Firefox.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "Para añadir o cambiar las preferencias específicas de un sitio web, visita el sitio y abre la extensión Mozilla VPN para Firefox. Después, configura las preferencias para el sitio. Tus preferencias solo están activas cuando la protección de VPN para Firefox está activada.",
+    "description": "Subtitle in the settings page."
+  },
+  "settingsPageTitle": {
+    "message": "Preferencias de sitios web de Mozilla VPN",
+    "description": "Title for settings page tab."
+  },
+  "noSignal": {
+    "message": "Sin señal",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Inestable",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Conectando…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Centro de ayuda",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "Preferencias de sitios web",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Contactar con la asistencia",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN desactivada para el sitio web",
+    "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: Ubicación del sitio web de Mozilla VPN",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
+  },
+  "alert_conflictingProgram": {
+    "message": "Un programa en tu ordenador puede estar causando problemas con la extensión de Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Cómo solucionarlo",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Otras extensiones pueden estar interfiriendo con el funcionamiento de la extensión de Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Descubre lo que debes hacer",
+    "description": "Link in banner alert"
   }
 }
