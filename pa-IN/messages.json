@@ -156,5 +156,100 @@
   },
   "defaultLocationHeader": {
     "message": "Mozilla VPN ਟਿਕਾਨੇ ਨੂੰ ਵਰਤੋਂ।"
+  },
+  "useDefaultLocationExplainer": {
+    "message": "ਉਹੀ ਟਿਕਾਣੇ ਨੂੰ ਵਰਤੋਂ, ਜਿਸ ਨਾਲ Mozilla VPN ਐਪ ਇਸ ਕੰਪਿਊਟਰ ਨੂੰ ਸੁਰੱਖਿਆ ਦੇ ਰਹੀ ਹੈ।",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "ਗ਼ੈਰ-ਸਹਾਇਕ ਪਲੇਟਫਾਰਮ।"
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "ਇਸ ਵੇਲੇ Mozilla VPN ਇਕਸਟੈਨਸ਼ਨ ਸਿਰਫ਼ Windows ਡਿਵਾਈਸਾਂ ਕੋਲ ਹੀ ਮੌਜੂਦ ਹੈ।"
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "ਅਸੀਂ ਛੇਤੀ ਹੀ macOS ਅਤੇ ਲੀਨਕਸ ਲਈ ਸਹਿਯੋਗ ਦੇਣ ਵਾਸਤੇ ਕੰਮ ਕਰ ਰਹੇ ਹਾਂ।"
+  },
+  "turnOnProtection": {
+    "message": "ਸੁਰੱਖਿਆ ਨੂੰ ਚਾਲੂ ਕਰੋ",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "ਕਸਟਮ ਟਿਕਾਣੇ ਨੂੰ ਹਟਾਓ",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "ਵੈੱਬਸਾਈਟ ਦੀ ਸੁਰੱਖਿਆ",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "ਸੁਝਾਅ ਦਿਓ",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "ਹੋਰ ਜਾਣੋ",
+    "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "ਖਾਸ ਵੈੱਬਸਾਈਟਾਂ ਲਈ VPN ਨੂੰ ਬੰਦ ਕਰੋ",
+    "description": "Title in onboarding panel."
+  },
+  "next": {
+    "message": "ਅੱਗੇ",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "ਛੱਡੋ",
+    "description": "Label of button to skip onboarding."
+  },
+  "settingsPageTitle": {
+    "message": "Mozilla VPN ਵੈੱਬਸਾਈਟ ਪਸੰਦਾਂ",
+    "description": "Title for settings page tab."
+  },
+  "noSignal": {
+    "message": "ਕੋਈ ਸਿਗਨਲ ਨਹੀਂ",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "ਅਸਥਿਰ",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "…ਕਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "ਮਦਦ ਕੇਂਦਰ",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "ਵੈੱਬਸਾਈਟ ਲਈ ਪਸੰਦਾਂ",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "ਸਹਾਇਤਾ ਟੀਮ ਨਾਲ ਸੰਪਰਕ ਕਰੋ",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "ਵੈੱਬਸਾਈਟ ਲਈ Mozilla VPN ਬੰਦ ਹੈ",
+    "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: ਵੈੱਬਸਾਈਟ ਵਾਸਤੇ Mozilla VPN ਟਿਕਾਣਾ",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
+  },
+  "howToFix": {
+    "message": "ਇਸ ਨੂੰ ਕਿਵੇਂ ਠੀਕ ਕਰੀਏ",
+    "description": "Link in banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "ਜਾਣੋ ਕਿ ਕੀ ਕਰੀਏ",
+    "description": "Link in banner alert"
   }
 }
