@@ -138,5 +138,60 @@
   "headerInstallMsg": {
     "message": "Instalar Mozilla VPN",
     "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "Para usar la extensión de Mozilla VPN para Firefox, primero abre la aplicación Mozilla VPN.",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "Para usar esta extensión, primero descarga e instala la aplicación Mozilla VPN en tu ordenador."
+  },
+  "bodyInstallMsgFooter": {
+    "message": "Ten en cuenta que Mozilla VPN es un servicio que requiere una suscripción de pago.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
+  "btnDownloadNow": {
+    "message": "Descargar ahora",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Usar la ubicación de Mozilla VPN."
+  },
+  "useDefaultLocationExplainer": {
+    "message": "Usar la misma ubicación que la aplicación Mozilla VPN que está protegiendo este ordenador.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Plataforma no compatible."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "Actualmente, la extensión de Mozilla VPN solo está disponible en dispositivos Windows."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "¡Estamos trabajando para que pronto sea compatible con macOS y Linux!"
+  },
+  "turnOnProtection": {
+    "message": "Activar protección",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Eliminar ubicación personalizada",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Protección de sitios web",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Enviar opinión",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Saber más",
+    "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "Desactivar la VPN para sitios web específicos",
+    "description": "Title in onboarding panel."
   }
 }
