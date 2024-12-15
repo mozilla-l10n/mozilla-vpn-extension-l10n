@@ -1,0 +1,102 @@
+{
+  "extensionName": {
+    "message": "Mozilla VPN ਇਕਸਟੈਨਸ਼ਨ",
+    "description": "Name of the extension."
+  },
+  "extensionDescription": {
+    "message": "Firefox ਵਿੱਚ VPN ਜੋੜੋ: ਟੈਬਾਂ ਨੂੰ ਅਲਹਿਦਾ ਰੱਖੋ, ਸਾਈਟ ਟਿਕਾਣੇ ਸੈੱਟ ਕਰੋ ਅਤੇ ਹੋਰ ਕੋਈ ਕੁਝ!",
+    "description": "Description of the extension."
+  },
+  "back": {
+    "message": "ਪਿੱਛੇ",
+    "description": "Alternative text attribute for back button."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  },
+  "titleServerList": {
+    "message": "ਵੈੱਬਸਾਈਟ ਲਈ ਟਿਕਾਣਾ",
+    "description": "Title for a dialog where users can set the location for a website."
+  },
+  "selectWebsiteLocation": {
+    "message": "ਵੈੱਬਸਾਈਟ ਲਈ ਟਿਕਾਣਾ ਚੁਣੋ",
+    "description": "Button label."
+  },
+  "titlePageSettings": {
+    "message": "ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਪਸੰਦਾਂ",
+    "description": "The header for website specific settings, i.e. exclude a page from VPN."
+  },
+  "excludePageFor": {
+    "message": "$ORIGIN$ ਵਾਸਤੇ VPN ਸੁਰੱਖਿਆ ਨੂੰ ਹਮੇਸ਼ਾਂ ਬੰਦ ਕਰੋ",
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "resetPageSettings": {
+    "message": "ਵੈੱਬਸਾਈਟ ਪਸੰਦਾਂ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕਰੋ",
+    "description": "Button text to reset all site specific settings."
+  },
+  "vpnIsOn": {
+    "message": "Firefox ਲਈ VPN ਸੁਰੱਖਿਆ ਨੂੰ ਚਾਲੂ ਕਰੋ",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "Firefox ਲਈ VPN ਸੁਰੱਖਿਆ ਨੂੰ ਬੰਦ ਕਰੋ",
+    "description": "Header to signal that VPN connection is disabled."
+  },
+  "extensionVpnIsOff": {
+    "message": "Mozilla VPN ਹਾਲੇ ਵੀ ਚਾਲੂ ਹੈ, ਆਪਣੇ ਸਾਰੇ ਕੰਪਿਊਟਰ ਨੂੰ ਵੀ ਸੁਰੱਖਿਅਤ ਬਣਾਓ।",
+    "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
+  },
+  "vpnOffStatus": {
+    "message": "ਬੰਦ",
+    "description": "Label indicating that the VPN is off."
+  },
+  "vpnOnStatus": {
+    "message": "ਚਾਲੂ",
+    "description": "Label indicating that the VPN is on."
+  },
+  "placeholderSearchWebsites": {
+    "message": "ਵੈੱਬਸਾਈਟ ਖੋਜ",
+    "description": "Placeholder text for the search input field to search websites."
+  },
+  "tableHeadingWebsite": {
+    "message": "ਵੈੱਬਸਾਈਟ",
+    "description": "Table heading for the column listing websites."
+  },
+  "tableHeadingVpnStatus": {
+    "message": "ਵੈੱਬਸਾਈਟ ਦੀ ਸੁਰੱਖਿਆ",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "headlineNoWebsitePreferences": {
+    "message": "ਤੁਸੀਂ ਹਾਲੇ ਕਿਸੇ ਵੀ ਵੈੱਬਸਾਈਟ ਲਈ ਪਸੰਦ ਸੈੱਟ ਨਹੀਂ ਕੀਤੀ ਹੈ",
+    "description": "Headline shown when the user hasn’t set any website preferences."
+  },
+  "noWebsitePreferencesSubText": {
+    "message": "Firefox ਇਕਸਟੈਨਸ਼ਨ ਨਾਲ ਤੁਸੀਂ ਕਿਸੇ ਵੈੱਬਸਾਈਟ ਲਈ Mozilla VPN ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਪਸੰਦੀਦਾ ਟਿਕਾਣਾ ਸੈੱਟ ਕਰ ਸਕਦੇ ਹੋ। ਇਹ ਕਰਨ ਲਈ ਵੈੱਬਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹੋ, ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਖੋਲ੍ਹੋ ਅਤੇ ਵੈੱਬਸਾਈਟ ਪਸੰਦਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ।",
+    "description": "Subtext shown when there are no website preferences set by the user."
+  },
+  "altTextRemoveWebsiteButton": {
+    "message": "$ORIGIN$ ਲਈ ਨਿਯਮ ਨੂੰ ਹਟਾਓ",
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "altTextOpenSettingsPage": {
+    "message": "ਸੈਟਿੰਗਾਂ ਸਫ਼ੇ ਨੂੰ ਖੋਲ੍ਹੋ",
+    "description": "Alternative text for the button that opens the Extensions Settings page."
+  },
+  "searchServer": {
+    "message": "ਟਿਕਾਣਿਆਂ ਨੂੰ ਖੋਜੋ",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  }
+}
