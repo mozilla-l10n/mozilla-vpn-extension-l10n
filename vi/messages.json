@@ -215,5 +215,21 @@
   "offForWebsite": {
     "message": "Mozilla VPN đã tắt cho trang web",
     "description": "Aria label."
+  },
+  "alert_conflictingProgram": {
+    "message": "Một chương trình trên máy tính của bạn có thể đang gây ra sự cố với tiện ích mở rộng Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Cách sửa",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Tiện ích mở rộng khác có thể can thiệp vào cách hoạt động của tiện ích mở rộng Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Tìm hiểu những gì cần làm",
+    "description": "Link in banner alert"
   }
 }
