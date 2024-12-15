@@ -193,5 +193,37 @@
   "onboarding1_title": {
     "message": "Desactivar la VPN para sitios web específicos",
     "description": "Title in onboarding panel."
+  },
+  "onboarding1_body": {
+    "message": "Con la extensión de Firefox, puedes desactivar la protección VPN para sitios web específicos y mantenerla activada para todo lo demás.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Ver diferentes sitios web desde diferentes ubicaciones",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "Noticias desde Londres. Deportes desde Sao Paulo. Compras desde Tokio. Pon ubicaciones específicas para sitios web y así navegar de forma personalizada.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Mantener la protección para Firefox “activada”",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Usa la extensión para activar la protección VPN en Firefox, incluso cuando esté desactivada para el resto de tu ordenador.",
+    "description": "Body text in onboarding panel."
+  },
+  "next": {
+    "message": "Siguiente",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Saltar",
+    "description": "Label of button to skip onboarding."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Volver a activar la protección de Firefox",
+    "description": "Error panel title for when Firefox is an excluded app."
   }
 }
