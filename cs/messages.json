@@ -275,5 +275,9 @@
         "example": "Germany"
       }
     }
+  },
+  "alert_conflictingProgram": {
+    "message": "Problémy s rozšířením Mozilla VPN může způsobovat program ve vašem počítači.",
+    "description": "Banner alert"
   }
 }
