@@ -126,5 +126,35 @@
   },
   "btnOpenVpn": {
     "message": "Mozilla VPN ਨੂੰ ਖੋਲ੍ਹੋ।"
+  },
+  "headerNeedsUpdate": {
+    "message": "Mozilla VPN ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ",
+    "description": "This is the headline of an error panel."
+  },
+  "bodyNeedsUpdate": {
+    "message": "ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਵਰਤਣ ਵਾਸਤੇ ਤੁਹਾਡੇ ਕੋਲ Mozilla VPN ਐਪਲੀਕੇਸ਼ਨ ਦਾ ਨਵਾਂ ਵਰਜ਼ਨ ਇੰਸਟਾਲ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
+    "description": "This is the body copy for an error panel."
+  },
+  "headerInstallMsg": {
+    "message": "Mozilla VPN ਇੰਸਟਾਲ ਕਰੋ",
+    "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "Mozilla VPN Firefox ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਵਰਤਣ ਲਈ ਪਹਿਲਾਂ Mozilla VPN ਐਪ ਨੂੰ ਪਹਿਲਾਂ ਵਰਤੋਂ।",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਵਰਤਣ ਲਈ ਪਹਿਲਾਂ ਆਪਣੇ ਕੰਪਿਊਟਰ ਉੱਤੇ Mozilla VPN ਐਪ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਕੇ ਇੰਸਟਾਲ ਕਰੋ।"
+  },
+  "bodyInstallMsgFooter": {
+    "message": "ਯਾਦ ਰੱਖੋ ਕਿ Mozilla VPN ਭੁਗਤਾਨ ਵਾਲੀ ਮੈਂਬਰ ਸੇਵਾ ਹੈ।",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
+  "btnDownloadNow": {
+    "message": "ਹੁਣੇ ਡਾਊਨਲੋਡ ਕਰੋ",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Mozilla VPN ਟਿਕਾਨੇ ਨੂੰ ਵਰਤੋਂ।"
   }
 }
