@@ -132,9 +132,9 @@
     "message": "Update Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
-  "bodyNeedsUpdate": {
-    "message": "In order to use this extension, you must have the latest Mozilla VPN application installed.",
-    "description": "This is the body copy for an error panel."
+  "bodyNeedsUpdate2": {
+    "message": "To use this extension, first download and install the latest Mozilla VPN app.",
+    "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
     "message": "Install Mozilla VPN",
