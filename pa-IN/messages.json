@@ -194,6 +194,26 @@
     "message": "ਖਾਸ ਵੈੱਬਸਾਈਟਾਂ ਲਈ VPN ਨੂੰ ਬੰਦ ਕਰੋ",
     "description": "Title in onboarding panel."
   },
+  "onboarding1_body": {
+    "message": "Firefox ਇਕਸਟੈਨਸ਼ਨ ਨਾਲ ਤੁਸੀਂ ਖਾਸ ਵੈੱਬਸਾਈਟਾਂ ਲਈ VPN ਸੁਰੱਖਿਆ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ, ਜਦ ਕਿ ਬਾਕੀਆਂ ਲਈ ਇਹ ਚਾਲੂ ਰਹੇ।",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "ਵੱਖ-ਵੱਖ ਟਿਕਾਣਿਆਂ ਤੋਂ ਵੱਖ-ਵੱਖ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਵੇਖੋ",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "ਦਿੱਲੀ ਤੋਂ ਖ਼ਬਰਾਂ। ਮੈਲਬੋਰਨ ਤੋਂ ਕ੍ਰਿਕਟ। ਡੁਬਈ ਤੋਂ ਖਰੀਦਦਾਰੀ। ਆਪਣੇ ਢੰਗ ਨਾਲ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ ਵੈੱਬਸਾਈਟ ਲਈ ਖਾਸ ਟਿਕਾਣਾ ਸੈੱਟ ਕਰੋ।",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Firefox ਲਈ ਸੁਰੱਖਿਆ “ਚਾਲੂ” ਰੱਖੋ",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "ਫਾਇਰਫਾਕਸ ਲਈ VPN ਸੁਰੱਖਿਆ ਨੂੰ ਚਾਲੂ ਕਰਨ ਲਈ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਵਰਤੋਂ — ਭਾਵੇਂ ਤੁਹਾਡੇ ਸਾਰੇ ਕੰਪਿਊਟਰ ਲਈ ਸੁਰੱਖਿਆ ਨੂੰ ਬੰਦ ਕੀਤਾ ਹੋਵੇ।",
+    "description": "Body text in onboarding panel."
+  },
   "next": {
     "message": "ਅੱਗੇ",
     "description": "Label of button to progress to next onboarding panel."
@@ -201,6 +221,14 @@
   "skip": {
     "message": "ਛੱਡੋ",
     "description": "Label of button to skip onboarding."
+  },
+  "done": {
+    "message": "ਮੁਕੰਮਲ",
+    "description": "Label of button in final onboarding panel."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Firefox ਸੁਰੱਖਿਆ ਨੂੰ ਮੁੜ-ਸਮਰੱਥ ਕਰੋ",
+    "description": "Error panel title for when Firefox is an excluded app."
   },
   "settingsPageTitle": {
     "message": "Mozilla VPN ਵੈੱਬਸਾਈਟ ਪਸੰਦਾਂ",
@@ -243,6 +271,10 @@
         "example": "Germany"
       }
     }
+  },
+  "alert_conflictingProgram": {
+    "message": "ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਕੋਈ ਪ੍ਰੋਗਰਾਮ Mozilla VPN ਇਕਸਟੈਨਸ਼ਨ ਨਾਲ ਮਸਲਾ ਖੜ੍ਹਾ ਕਰਦਾ ਹੋ ਸਕਦਾ ਹੈ।",
+    "description": "Banner alert"
   },
   "howToFix": {
     "message": "ਇਸ ਨੂੰ ਕਿਵੇਂ ਠੀਕ ਕਰੀਏ",
