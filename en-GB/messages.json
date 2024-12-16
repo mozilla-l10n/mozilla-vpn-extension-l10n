@@ -222,6 +222,10 @@
     "message": "Skip",
     "description": "Label of button to skip onboarding."
   },
+  "done": {
+    "message": "Done",
+    "description": "Label of button in final onboarding panel."
+  },
   "headerReEnableFirefoxProtection": {
     "message": "Re-enable Firefox protection",
     "description": "Error panel title for when Firefox is an excluded app."
@@ -275,5 +279,21 @@
         "example": "Germany"
       }
     }
+  },
+  "alert_conflictingProgram": {
+    "message": "A programme on your computer may be causing issues with the Mozilla VPN extension.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "How to fix",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Other extensions may be interfering with how the Mozilla VPN extension works.",
+    "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Learn what to do",
+    "description": "Link in banner alert"
   }
 }
