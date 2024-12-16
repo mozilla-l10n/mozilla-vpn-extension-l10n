@@ -275,5 +275,17 @@
         "example": "Germany"
       }
     }
+  },
+  "alert_conflictingProgram": {
+    "message": "Gall rhaglen ar eich cyfrifiadur fod yn achosi problemau gydag estyniad Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Sut i drwsio",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Gall estyniadau eraill fod yn ymyrryd â sut mae estyniad Mozilla VPN yn gweithio.",
+    "description": "Banner alert"
   }
 }
