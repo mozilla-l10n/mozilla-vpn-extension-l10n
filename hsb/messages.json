@@ -222,6 +222,10 @@
     "message": "Přeskočić",
     "description": "Label of button to skip onboarding."
   },
+  "done": {
+    "message": "Dokónčeny",
+    "description": "Label of button in final onboarding panel."
+  },
   "headerReEnableFirefoxProtection": {
     "message": "Škit Firefox zaso zmóžnić",
     "description": "Error panel title for when Firefox is an excluded app."
