@@ -222,6 +222,10 @@
     "message": "略過",
     "description": "Label of button to skip onboarding."
   },
+  "done": {
+    "message": "完成",
+    "description": "Label of button in final onboarding panel."
+  },
   "headerReEnableFirefoxProtection": {
     "message": "重新開啟 Firefox 保護",
     "description": "Error panel title for when Firefox is an excluded app."
