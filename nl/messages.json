@@ -222,6 +222,10 @@
     "message": "Overslaan",
     "description": "Label of button to skip onboarding."
   },
+  "done": {
+    "message": "Gereed",
+    "description": "Label of button in final onboarding panel."
+  },
   "headerReEnableFirefoxProtection": {
     "message": "Firefox-bescherming opnieuw inschakelen",
     "description": "Error panel title for when Firefox is an excluded app."
