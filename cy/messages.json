@@ -222,6 +222,10 @@
     "message": "Hepgor",
     "description": "Label of button to skip onboarding."
   },
+  "done": {
+    "message": "Gorffen",
+    "description": "Label of button in final onboarding panel."
+  },
   "headerReEnableFirefoxProtection": {
     "message": "Ail-alluogi diogelu Firefox",
     "description": "Error panel title for when Firefox is an excluded app."
@@ -287,5 +291,9 @@
   "alert_conflictingExtensions": {
     "message": "Gall estyniadau eraill fod yn ymyrryd â sut mae estyniad Mozilla VPN yn gweithio.",
     "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Dyma beth i'w wneud",
+    "description": "Link in banner alert"
   }
 }
