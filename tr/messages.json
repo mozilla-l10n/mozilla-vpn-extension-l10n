@@ -222,6 +222,10 @@
     "message": "Atla",
     "description": "Label of button to skip onboarding."
   },
+  "done": {
+    "message": "Tamam",
+    "description": "Label of button in final onboarding panel."
+  },
   "headerReEnableFirefoxProtection": {
     "message": "Firefox korumasını yeniden etkinleştirin",
     "description": "Error panel title for when Firefox is an excluded app."
