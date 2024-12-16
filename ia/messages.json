@@ -222,6 +222,10 @@
     "message": "Saltar",
     "description": "Label of button to skip onboarding."
   },
+  "done": {
+    "message": "Facite",
+    "description": "Label of button in final onboarding panel."
+  },
   "headerReEnableFirefoxProtection": {
     "message": "Re-activar le protection de Firefox",
     "description": "Error panel title for when Firefox is an excluded app."
