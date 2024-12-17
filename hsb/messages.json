@@ -131,9 +131,9 @@
     "message": "Mozilla VPN aktualizować",
     "description": "This is the headline of an error panel."
   },
-  "bodyNeedsUpdate": {
-    "message": "Zo byšće tute rozšěrjenje wužiwał, dyrbi najnowše nałoženje Mozilla VPN instalowane być.",
-    "description": "This is the body copy for an error panel."
+  "bodyNeedsUpdate2": {
+    "message": "Zo byšće tute rozšěrjenje wužiwał, sćehńće a instalujće najprjedy najnowše nałoženje Mozilla VPN.",
+    "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
     "message": "Mozilla VPN instalować",
@@ -295,5 +295,13 @@
   "learnWhatToDo": {
     "message": "Zhońće, štož dyrbiće činić",
     "description": "Link in banner alert"
+  },
+  "telemetry_screen_header": {
+    "message": "Pomhajće nam rozšěrjenje polěpšować",
+    "description": "Header for the Telemetry Opt-In Screen"
+  },
+  "telemetry_toggle_text": {
+    "message": "Techniske daty a daty interakcije dźělić",
+    "description": "Label for the Telemetry Opt-In toggle"
   }
 }
