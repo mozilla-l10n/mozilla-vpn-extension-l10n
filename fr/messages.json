@@ -131,6 +131,10 @@
     "message": "Mettre à jour Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
+  "bodyNeedsUpdate2": {
+    "message": "Pour utiliser cette extension, commencez par télécharger et installer la dernière version de l’application Mozilla VPN.",
+    "description": "This is body copy for an error message."
+  },
   "headerInstallMsg": {
     "message": "Installez Mozilla VPN",
     "description": "Header if a VPN installation was not found."
@@ -218,6 +222,10 @@
     "message": "Ignorer",
     "description": "Label of button to skip onboarding."
   },
+  "done": {
+    "message": "Terminé",
+    "description": "Label of button in final onboarding panel."
+  },
   "headerReEnableFirefoxProtection": {
     "message": "Réactiver la protection Firefox",
     "description": "Error panel title for when Firefox is an excluded app."
@@ -272,8 +280,42 @@
       }
     }
   },
+  "alert_conflictingProgram": {
+    "message": "Un programme installé sur votre ordinateur pourrait causer des problèmes avec l’extension Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Résolution des problèmes",
+    "description": "Link in banner alert"
+  },
   "alert_conflictingExtensions": {
     "message": "D’autres extensions peuvent interférer avec la façon dont l’extension Mozilla VPN fonctionne.",
     "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Consulter la marche à suivre",
+    "description": "Link in banner alert"
+  },
+  "telemetry_screen_header": {
+    "message": "Aidez-nous à améliorer l’extension",
+    "description": "Header for the Telemetry Opt-In Screen"
+  },
+  "telemetry_toggle_text": {
+    "message": "Partager des données techniques et d’interaction",
+    "description": "Label for the Telemetry Opt-In toggle"
+  },
+  "telemetry_screen_descr": {
+    "message": "Aidez-nous à améliorer les fonctionnalités et les performances en partageant des données telles que votre configuration matérielle et la façon dont vous utilisez l’extension. Nous ne collectons jamais de données sur les sites que vous visitez. Apprenez-en davantage dans la $NOTICE$.",
+    "description": "Body of the Telemetry Opt-In Message. $NOTICE$ is replaced by a link to the privacy notice for Mozilla Subscription Services, using the string privacy_notice_link_name as the link text.",
+    "placeholders": {
+      "notice": {
+        "content": "$1",
+        "example": "Mozilla Subscription Services Privacy Notice"
+      }
+    }
+  },
+  "privacy_notice_link_name": {
+    "message": "Politique de confidentialité des services d’abonnement de Mozilla",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
   }
 }
