@@ -295,5 +295,27 @@
   "learnWhatToDo": {
     "message": "Zgóńśo, což musyśo cyniś",
     "description": "Link in banner alert"
+  },
+  "telemetry_screen_header": {
+    "message": "Pomagajśo nam rozšyrjenje pólěpšowaś",
+    "description": "Header for the Telemetry Opt-In Screen"
+  },
+  "telemetry_toggle_text": {
+    "message": "Techniske daty a daty interakcije źěliś",
+    "description": "Label for the Telemetry Opt-In toggle"
+  },
+  "telemetry_screen_descr": {
+    "message": "Źělśo daty ako wašu hardwarowu konfiguraciju a kak rozšyrjenje wužywaśo, aby nam funkcije a wugbaśe pólěpšył. Daty wó sedłach, ku kótarymž se woglědujośo, nigda njegromaźimy. Dalšne informacije w $NOTICE$.",
+    "description": "Body of the Telemetry Opt-In Message. $NOTICE$ is replaced by a link to the privacy notice for Mozilla Subscription Services, using the string privacy_notice_link_name as the link text.",
+    "placeholders": {
+      "notice": {
+        "content": "$1",
+        "example": "Mozilla Subscription Services Privacy Notice"
+      }
+    }
+  },
+  "privacy_notice_link_name": {
+    "message": "Pokazka priwatnosći za abonementne słužby Mozilla",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
   }
 }
