@@ -307,7 +307,7 @@
   },
   "telemetry_screen_descr":{
     "message": "Help us improve features and performance by sharing data such as your hardware configuration and how you use the extension. We never collect data about the sites you visit. Learn more in the $NOTICE$.",
-    "description": "Body of the Telemetry Opt-In Message",
+    "description": "Body of the Telemetry Opt-In Message. $NOTICE$ is replaced by a link to the privacy notice for Mozilla Subscription Services, using the string privacy_notice_link_name as the link text.",
     "placeholders": {
       "notice": {
         "content": "$1",
@@ -318,6 +318,6 @@
   "privacy_notice_link_name": 
   {
     "message": "Mozilla Subscription Services Privacy Notice",
-    "description": "Link Title used in 'telemetry_screen_descr'"
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
   }
 }
