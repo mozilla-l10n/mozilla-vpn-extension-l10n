@@ -313,5 +313,9 @@
         "example": "Mozilla Subscription Services Privacy Notice"
       }
     }
+  },
+  "privacy_notice_link_name": {
+    "message": "Уведомление о конфиденциальности сервисов Mozilla",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
   }
 }
