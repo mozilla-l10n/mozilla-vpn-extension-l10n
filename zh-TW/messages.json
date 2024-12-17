@@ -131,9 +131,9 @@
     "message": "更新 Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
-  "bodyNeedsUpdate": {
-    "message": "若要使用此擴充套件，必須安裝最新版的 Mozilla VPN 應用程式。",
-    "description": "This is the body copy for an error panel."
+  "bodyNeedsUpdate2": {
+    "message": "若要使用此擴充套件，請先下載安裝最新版 Mozilla VPN 應用程式。",
+    "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
     "message": "安裝 Mozilla VPN",
