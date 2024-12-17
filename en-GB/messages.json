@@ -131,9 +131,9 @@
     "message": "Update Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
-  "bodyNeedsUpdate": {
-    "message": "In order to use this extension, you must have the latest Mozilla VPN application installed.",
-    "description": "This is the body copy for an error panel."
+  "bodyNeedsUpdate2": {
+    "message": "To use this extension, first download and install the latest Mozilla VPN app.",
+    "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
     "message": "Install Mozilla VPN",
@@ -295,5 +295,27 @@
   "learnWhatToDo": {
     "message": "Learn what to do",
     "description": "Link in banner alert"
+  },
+  "telemetry_screen_header": {
+    "message": "Help us improve the extension",
+    "description": "Header for the Telemetry Opt-In Screen"
+  },
+  "telemetry_toggle_text": {
+    "message": "Share technical and interaction data",
+    "description": "Label for the Telemetry Opt-In toggle"
+  },
+  "telemetry_screen_descr": {
+    "message": "Help us improve features and performance by sharing data such as your hardware configuration and how you use the extension. We never collect data about the sites you visit. Learn more in the $NOTICE$.",
+    "description": "Body of the Telemetry Opt-In Message. $NOTICE$ is replaced by a link to the privacy notice for Mozilla Subscription Services, using the string privacy_notice_link_name as the link text.",
+    "placeholders": {
+      "notice": {
+        "content": "$1",
+        "example": "Mozilla Subscription Services Privacy Notice"
+      }
+    }
+  },
+  "privacy_notice_link_name": {
+    "message": "Mozilla Subscription Services Privacy Notice",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
   }
 }
