@@ -314,5 +314,10 @@
         "example": "Mozilla Subscription Services Privacy Notice"
       }
     }
+  },
+  "privacy_notice_link_name": 
+  {
+    "message": "Mozilla Subscription Services Privacy Notice",
+    "description": "Link Title used in 'telemetry_screen_descr'"
   }
 }
