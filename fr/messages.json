@@ -131,10 +131,6 @@
     "message": "Mettre à jour Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
-  "bodyNeedsUpdate": {
-    "message": "Pour utiliser cette extension, la dernière version de l’application Mozilla VPN doit être installée.",
-    "description": "This is the body copy for an error panel."
-  },
   "headerInstallMsg": {
     "message": "Installez Mozilla VPN",
     "description": "Header if a VPN installation was not found."
@@ -275,5 +271,9 @@
         "example": "Germany"
       }
     }
+  },
+  "alert_conflictingExtensions": {
+    "message": "D’autres extensions peuvent interférer avec la façon dont l’extension Mozilla VPN fonctionne.",
+    "description": "Banner alert"
   }
 }
