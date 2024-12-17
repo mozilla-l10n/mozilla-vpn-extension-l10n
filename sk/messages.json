@@ -131,6 +131,10 @@
     "message": "Aktualizácia Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
+  "bodyNeedsUpdate2": {
+    "message": "Ak chcete použiť toto rozšírenie, najprv si stiahnite a nainštalujte najnovšiu aplikáciu Mozilla VPN.",
+    "description": "This is body copy for an error message."
+  },
   "headerInstallMsg": {
     "message": "Nainštalujte si Mozilla VPN",
     "description": "Header if a VPN installation was not found."
@@ -291,5 +295,27 @@
   "learnWhatToDo": {
     "message": "Zistite, čo robiť",
     "description": "Link in banner alert"
+  },
+  "telemetry_screen_header": {
+    "message": "Pomôžte nám vylepšiť rozšírenie",
+    "description": "Header for the Telemetry Opt-In Screen"
+  },
+  "telemetry_toggle_text": {
+    "message": "Zdieľať technické údaje a údaje o interakcii",
+    "description": "Label for the Telemetry Opt-In toggle"
+  },
+  "telemetry_screen_descr": {
+    "message": "Pomôžte nám zlepšiť funkcie a výkon zdieľaním údajov, ako je vaša hardvérová konfigurácia a spôsob používania rozšírenia. Nikdy nezhromažďujeme údaje o stránkach, ktoré navštívite. Ďalšie informácie nájdete v $NOTICE$.",
+    "description": "Body of the Telemetry Opt-In Message. $NOTICE$ is replaced by a link to the privacy notice for Mozilla Subscription Services, using the string privacy_notice_link_name as the link text.",
+    "placeholders": {
+      "notice": {
+        "content": "$1",
+        "example": "Mozilla Subscription Services Privacy Notice"
+      }
+    }
+  },
+  "privacy_notice_link_name": {
+    "message": "Oznámení o ochrane osobných údajov predplatiteľských služieb Mozilly",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
   }
 }
