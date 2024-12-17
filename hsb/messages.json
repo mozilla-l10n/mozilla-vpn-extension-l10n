@@ -303,5 +303,19 @@
   "telemetry_toggle_text": {
     "message": "Techniske daty a daty interakcije dźělić",
     "description": "Label for the Telemetry Opt-In toggle"
+  },
+  "telemetry_screen_descr": {
+    "message": "Dźělće daty kaž wašu hardwarowu konfiguraciju a kak rozšěrjenje wužiwaće, zo byšće nam funkcije a wukon polěpšił. Daty wo sydłach, kotrež wopytujeće, ženje njehromadźimy. Dalše informacije w $NOTICE$.",
+    "description": "Body of the Telemetry Opt-In Message. $NOTICE$ is replaced by a link to the privacy notice for Mozilla Subscription Services, using the string privacy_notice_link_name as the link text.",
+    "placeholders": {
+      "notice": {
+        "content": "$1",
+        "example": "Mozilla Subscription Services Privacy Notice"
+      }
+    }
+  },
+  "privacy_notice_link_name": {
+    "message": "Pokazka priwatnosće za abonementowe słužby Mozilla",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
   }
 }
