@@ -131,10 +131,6 @@
     "message": "Actualizar Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
-  "bodyNeedsUpdate": {
-    "message": "Para usar esta extensión, debés tener instalada la última aplicación de Mozilla VPN.",
-    "description": "This is the body copy for an error panel."
-  },
   "headerInstallMsg": {
     "message": "Instalar Mozilla VPN",
     "description": "Header if a VPN installation was not found."
@@ -221,6 +217,10 @@
   "skip": {
     "message": "Omitir",
     "description": "Label of button to skip onboarding."
+  },
+  "done": {
+    "message": "Listo",
+    "description": "Label of button in final onboarding panel."
   },
   "headerReEnableFirefoxProtection": {
     "message": "Volver a habilitar la protección de Firefox",
