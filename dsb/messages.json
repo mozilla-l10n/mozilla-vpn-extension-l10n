@@ -131,9 +131,9 @@
     "message": "Mozilla VPN aktualizěrowaś",
     "description": "This is the headline of an error panel."
   },
-  "bodyNeedsUpdate": {
-    "message": "Aby toś to rozšyrjenje wužywał, musy nejnowše nałoženje Mozilla VPN instalěrowane byś.",
-    "description": "This is the body copy for an error panel."
+  "bodyNeedsUpdate2": {
+    "message": "Aby toś to rozšyrjenje wužywał, ześěgniśo a instalěrujśo nejpjerwjej nejnowše nałoženje Mozilla VPN.",
+    "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
     "message": "Mozilla VPN instalěrowaś",
