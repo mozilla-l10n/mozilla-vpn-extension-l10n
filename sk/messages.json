@@ -131,10 +131,6 @@
     "message": "Aktualizácia Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
-  "bodyNeedsUpdate": {
-    "message": "Ak chcete použiť toto rozšírenie, musíte mať nainštalovanú najnovšiu aplikáciu Mozilla VPN.",
-    "description": "This is the body copy for an error panel."
-  },
   "headerInstallMsg": {
     "message": "Nainštalujte si Mozilla VPN",
     "description": "Header if a VPN installation was not found."
@@ -221,6 +217,10 @@
   "skip": {
     "message": "Preskočiť",
     "description": "Label of button to skip onboarding."
+  },
+  "done": {
+    "message": "Hotovo",
+    "description": "Label of button in final onboarding panel."
   },
   "headerReEnableFirefoxProtection": {
     "message": "Znova povoľte ochranu Firefoxu",
