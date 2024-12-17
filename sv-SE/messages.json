@@ -131,10 +131,6 @@
     "message": "Uppdatera Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
-  "bodyNeedsUpdate": {
-    "message": "För att kunna använda det här tillägget måste du ha den senaste Mozilla VPN-applikationen installerad.",
-    "description": "This is the body copy for an error panel."
-  },
   "headerInstallMsg": {
     "message": "Installera Mozilla VPN",
     "description": "Header if a VPN installation was not found."
@@ -221,6 +217,10 @@
   "skip": {
     "message": "Hoppa över",
     "description": "Label of button to skip onboarding."
+  },
+  "done": {
+    "message": "Klar",
+    "description": "Label of button in final onboarding panel."
   },
   "headerReEnableFirefoxProtection": {
     "message": "Återaktivera skyddet av Firefox",
