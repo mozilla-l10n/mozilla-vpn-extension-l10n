@@ -131,6 +131,10 @@
     "message": "Uppdatera Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
+  "bodyNeedsUpdate2": {
+    "message": "För att använda detta tillägg, ladda ner och installera den senaste Mozilla VPN-appen.",
+    "description": "This is body copy for an error message."
+  },
   "headerInstallMsg": {
     "message": "Installera Mozilla VPN",
     "description": "Header if a VPN installation was not found."
@@ -291,5 +295,27 @@
   "learnWhatToDo": {
     "message": "Lär dig vad du ska göra",
     "description": "Link in banner alert"
+  },
+  "telemetry_screen_header": {
+    "message": "Hjälp oss att förbättra tillägget",
+    "description": "Header for the Telemetry Opt-In Screen"
+  },
+  "telemetry_toggle_text": {
+    "message": "Dela teknisk data och interaktionsdata",
+    "description": "Label for the Telemetry Opt-In toggle"
+  },
+  "telemetry_screen_descr": {
+    "message": "Hjälp oss att förbättra funktioner och prestanda genom att dela data som din hårdvarukonfiguration och hur du använder tillägget. Vi samlar aldrig in uppgifter om de webbplatser du besöker. Läs mer i $NOTICE$.",
+    "description": "Body of the Telemetry Opt-In Message. $NOTICE$ is replaced by a link to the privacy notice for Mozilla Subscription Services, using the string privacy_notice_link_name as the link text.",
+    "placeholders": {
+      "notice": {
+        "content": "$1",
+        "example": "Mozilla Subscription Services Privacy Notice"
+      }
+    }
+  },
+  "privacy_notice_link_name": {
+    "message": "Sekretesspolicy för Mozilla-prenumerationstjänster",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
   }
 }
