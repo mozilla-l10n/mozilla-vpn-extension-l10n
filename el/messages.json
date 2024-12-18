@@ -131,10 +131,6 @@
     "message": "Ενημέρωση του Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
-  "bodyNeedsUpdate": {
-    "message": "Για να χρησιμοποιήσετε αυτήν την επέκταση, θα πρέπει να διαθέτετε την πιο πρόσφατη εφαρμογή του Mozilla VPN.",
-    "description": "This is the body copy for an error panel."
-  },
   "headerInstallMsg": {
     "message": "Εγκατάσταση του Mozilla VPN",
     "description": "Header if a VPN installation was not found."
@@ -222,6 +218,10 @@
     "message": "Παράλειψη",
     "description": "Label of button to skip onboarding."
   },
+  "done": {
+    "message": "Τέλος",
+    "description": "Label of button in final onboarding panel."
+  },
   "headerReEnableFirefoxProtection": {
     "message": "Ενεργοποιήστε ξανά την προστασία του Firefox",
     "description": "Error panel title for when Firefox is an excluded app."
@@ -279,5 +279,9 @@
   "learnWhatToDo": {
     "message": "Μάθετε τι να κάνετε",
     "description": "Link in banner alert"
+  },
+  "privacy_notice_link_name": {
+    "message": "Σημείωση απορρήτου συνδρομητικών υπηρεσιών Mozilla",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
   }
 }
