@@ -191,5 +191,21 @@
   "offForWebsite": {
     "message": "Slökkt á Mozilla VPN fyrir vefsvæði",
     "description": "Aria label."
+  },
+  "alert_conflictingProgram": {
+    "message": "Forrit á tölvunni þinni gæti verið að valda vandamálum með Mozilla VPN forritsaukanum.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Hvernig er hægt að laga þetta",
+    "description": "Link in banner alert"
+  },
+  "telemetry_screen_header": {
+    "message": "Hjálpaðu okkur að bæta forritsaukann",
+    "description": "Header for the Telemetry Opt-In Screen"
+  },
+  "telemetry_toggle_text": {
+    "message": "Deila tækni- og samskiptagögnum",
+    "description": "Label for the Telemetry Opt-In toggle"
   }
 }
