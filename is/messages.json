@@ -156,6 +156,10 @@
     "message": "Slökkva á VPN fyrir tiltekin vefsvæði",
     "description": "Title in onboarding panel."
   },
+  "onboarding3_title": {
+    "message": "Halda VPN-vörn fyrir Firefox virkri",
+    "description": "Title in onboarding panel."
+  },
   "next": {
     "message": "Næsta",
     "description": "Label of button to progress to next onboarding panel."
