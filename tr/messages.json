@@ -301,7 +301,7 @@
     "description": "Header for the Telemetry Opt-In Screen"
   },
   "telemetry_toggle_text": {
-    "message": "Teknik verileri ve etkileşim verilerini paylaşma",
+    "message": "Teknik verileri ve etkileşim verilerini paylaş",
     "description": "Label for the Telemetry Opt-In toggle"
   },
   "telemetry_screen_descr": {
