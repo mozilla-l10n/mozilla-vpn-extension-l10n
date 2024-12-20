@@ -131,9 +131,9 @@
     "message": "Atualize o Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
-  "bodyNeedsUpdate": {
-    "message": "Para usar esta extensão, é preciso ter instalado a versão mais recente do aplicativo Mozilla VPN.",
-    "description": "This is the body copy for an error panel."
+  "bodyNeedsUpdate2": {
+    "message": "Para usar esta extensão, primeiro baixe e instale a versão mais recente do aplicativo Mozilla VPN.",
+    "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
     "message": "Instale o Mozilla VPN",
@@ -295,5 +295,13 @@
   "learnWhatToDo": {
     "message": "Saiba o que fazer",
     "description": "Link in banner alert"
+  },
+  "telemetry_screen_header": {
+    "message": "Ajude-nos a melhorar a extensão",
+    "description": "Header for the Telemetry Opt-In Screen"
+  },
+  "telemetry_toggle_text": {
+    "message": "Compartilhar dados técnicos e de interação",
+    "description": "Label for the Telemetry Opt-In toggle"
   }
 }
