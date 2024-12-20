@@ -132,7 +132,7 @@
     "description": "This is the headline of an error panel."
   },
   "bodyNeedsUpdate2": {
-    "message": "Bu uzantıyı kullanmak için önce en son Mozilla VPN uygulamasını indirip yükleyin.",
+    "message": "Bu uzantıyı kullanmak için Mozilla VPN uygulamasının son sürümünü indirip yükleyin.",
     "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
@@ -305,7 +305,7 @@
     "description": "Label for the Telemetry Opt-In toggle"
   },
   "telemetry_screen_descr": {
-    "message": "Donanım yapılandırmanız ve uzantıyı kullanma şekliniz gibi verileri paylaşarak özellikleri ve performansı geliştirmemize yardımcı olun. Ziyaret ettiğiniz siteler hakkında asla veri toplamıyoruz. $NOTICE$ adresinden daha fazla bilgi alın.",
+    "message": "Donanım yapılandırmanız ve uzantıyı kullanma şekliniz gibi verileri paylaşarak özellikleri ve performansı geliştirmemize yardımcı olun. Ziyaret ettiğiniz siteler hakkında asla veri toplamıyoruz. $NOTICE$ adresinden ayrıntılı bilgi alabilirsiniz.",
     "description": "Body of the Telemetry Opt-In Message. $NOTICE$ is replaced by a link to the privacy notice for Mozilla Subscription Services, using the string privacy_notice_link_name as the link text.",
     "placeholders": {
       "notice": {
