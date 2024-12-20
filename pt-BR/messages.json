@@ -303,5 +303,19 @@
   "telemetry_toggle_text": {
     "message": "Compartilhar dados técnicos e de interação",
     "description": "Label for the Telemetry Opt-In toggle"
+  },
+  "telemetry_screen_descr": {
+    "message": "Ajude-nos a melhorar recursos e desempenho compartilhando dados como configuração de hardware e como você usa a extensão. Nunca coletamos dados sobre os sites que você visita. Saiba mais no $NOTICE$.",
+    "description": "Body of the Telemetry Opt-In Message. $NOTICE$ is replaced by a link to the privacy notice for Mozilla Subscription Services, using the string privacy_notice_link_name as the link text.",
+    "placeholders": {
+      "notice": {
+        "content": "$1",
+        "example": "Mozilla Subscription Services Privacy Notice"
+      }
+    }
+  },
+  "privacy_notice_link_name": {
+    "message": "Aviso de privacidade dos serviços de assinatura da Mozilla",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
   }
 }
