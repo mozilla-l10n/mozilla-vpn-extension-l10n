@@ -299,5 +299,29 @@
   "telemetry_toggle_text": {
     "message": "Sdílet technické údaje a údaje o interakci",
     "description": "Label for the Telemetry Opt-In toggle"
+  },
+  "privacy_notice_link_name": {
+    "message": "Oznámení o ochraně osobních údajů předplacených služeb Mozilla",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "viewPrivacyPolicy": {
+    "message": "Zobrazit zásady ochrany osobních údajů",
+    "description": "Privacy policy link"
+  },
+  "thankYouForAdding": {
+    "message": "Děkujeme za přidání rozšíření Mozilla VPN",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "Chcete-li pokračovat k rozšíření, vyberte logo Mozilla VPN na panelu nástrojů Firefoxu.",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
+  "optionalDataCollection": {
+    "message": "Volitelný sběr dat",
+    "description": "Subtitle on the telemetry consent screen"
+  },
+  "telemetryListHeader": {
+    "message": "Mezi volitelné údaje, které shromažďujeme, patří:",
+    "description": "Headline for a list describing the type of data collected by the extension"
   }
 }
