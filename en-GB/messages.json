@@ -296,26 +296,60 @@
     "message": "Learn what to do",
     "description": "Link in banner alert"
   },
-  "telemetry_screen_header": {
-    "message": "Help us improve the extension",
-    "description": "Header for the Telemetry Opt-In Screen"
-  },
   "telemetry_toggle_text": {
     "message": "Share technical and interaction data",
     "description": "Label for the Telemetry Opt-In toggle"
   },
-  "telemetry_screen_descr": {
-    "message": "Help us improve features and performance by sharing data such as your hardware configuration and how you use the extension. We never collect data about the sites you visit. Learn more in the $NOTICE$.",
-    "description": "Body of the Telemetry Opt-In Message. $NOTICE$ is replaced by a link to the privacy notice for Mozilla Subscription Services, using the string privacy_notice_link_name as the link text.",
-    "placeholders": {
-      "notice": {
-        "content": "$1",
-        "example": "Mozilla Subscription Services Privacy Notice"
-      }
-    }
-  },
   "privacy_notice_link_name": {
     "message": "Mozilla Subscription Services Privacy Notice",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "first-install-body": {
+    "message": "To help us improve features and performance and resolve issues quickly, you can choose to allow the Mozilla VPN extension to collect data. The data we collect will never be tied to you and we never collect data about the sites you visit. Data collection does not impact how the extension works.",
+    "description": "Body copy on the telemetry consent screen"
+  },
+  "privacyPolicyIntro": {
+    "message": "Full details of the data we collect are available in our privacy policy.",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
+  },
+  "viewPrivacyPolicy": {
+    "message": "View privacy policy",
+    "description": "Privacy policy link"
+  },
+  "thankYouForAdding": {
+    "message": "Thank you for adding the Mozilla VPN extension",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "To continue to the extension, select the Mozilla VPN logo in the Firefox toolbar.",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
+  "optionalDataCollection": {
+    "message": "Optional data collection",
+    "description": "Subtitle on the telemetry consent screen"
+  },
+  "telemetryListHeader": {
+    "message": "The optional data we collect includes:",
+    "description": "Headline for a list describing the type of data collected by the extension"
+  },
+  "technicalData": {
+    "message": "Technical data, such as browser version, extension version, and error details so we can track and fix errors efficiently.",
+    "description": "Description of technical data, found on telemetry consent screen."
+  },
+  "interactionData": {
+    "message": "Interaction data, such as the number of websites excluded from VPN protection, the number of web sites with a location preference, and how often protection is turned on and off.",
+    "description": "Description of interaction data, found on the telemetry consent screen."
+  },
+  "telemetryOptOutInstructions": {
+    "message": "If you don’t want to allow the Mozilla VPN extension to collect data, untick the box. You can also change this setting any time in the extension, under Settings.",
+    "description": "Opt out instructions on the telemetry consent screen"
+  },
+  "telemetryCheckboxLabel": {
+    "message": "Allow Mozilla to collect technical and interaction data",
+    "description": "Checkbox label"
+  },
+  "telemetrySettingsCheckboxLabel": {
+    "message": "This data helps us improve features and performance. It includes data about your device, hardware configuration, and how you use the Mozilla VPN extension.",
+    "description": "Checkbox label on the settings page"
   }
 }
