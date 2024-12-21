@@ -296,26 +296,60 @@
     "message": "Lär dig vad du ska göra",
     "description": "Link in banner alert"
   },
-  "telemetry_screen_header": {
-    "message": "Hjälp oss att förbättra tillägget",
-    "description": "Header for the Telemetry Opt-In Screen"
-  },
   "telemetry_toggle_text": {
     "message": "Dela teknisk data och interaktionsdata",
     "description": "Label for the Telemetry Opt-In toggle"
   },
-  "telemetry_screen_descr": {
-    "message": "Hjälp oss att förbättra funktioner och prestanda genom att dela data som din hårdvarukonfiguration och hur du använder tillägget. Vi samlar aldrig in uppgifter om de webbplatser du besöker. Läs mer i $NOTICE$.",
-    "description": "Body of the Telemetry Opt-In Message. $NOTICE$ is replaced by a link to the privacy notice for Mozilla Subscription Services, using the string privacy_notice_link_name as the link text.",
-    "placeholders": {
-      "notice": {
-        "content": "$1",
-        "example": "Mozilla Subscription Services Privacy Notice"
-      }
-    }
-  },
   "privacy_notice_link_name": {
     "message": "Sekretesspolicy för Mozilla-prenumerationstjänster",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "first-install-body": {
+    "message": "För att hjälpa oss att förbättra funktioner och prestanda och lösa problem snabbt, kan du välja att låta Mozilla VPN-tillägget samla in data. Den data vi samlar in kommer aldrig att vara knuten till dig och vi samlar aldrig in data om de webbplatser du besöker. Datainsamling påverkar inte hur tillägget fungerar.",
+    "description": "Body copy on the telemetry consent screen"
+  },
+  "privacyPolicyIntro": {
+    "message": "Fullständig information om de uppgifter vi samlar in finns i vår sekretesspolicy.",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
+  },
+  "viewPrivacyPolicy": {
+    "message": "Visa sekretesspolicy",
+    "description": "Privacy policy link"
+  },
+  "thankYouForAdding": {
+    "message": "Tack för att du la till tillägget Mozilla VPN",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "För att fortsätta till tillägget, välj Mozilla VPN-logotypen i verktygsfältet i Firefox.",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
+  "optionalDataCollection": {
+    "message": "Valfri datainsamling",
+    "description": "Subtitle on the telemetry consent screen"
+  },
+  "telemetryListHeader": {
+    "message": "De valfria uppgifter vi samlar in inkluderar:",
+    "description": "Headline for a list describing the type of data collected by the extension"
+  },
+  "technicalData": {
+    "message": "Teknisk data, såsom webbläsarversion, tilläggsversion och felinformation så att vi kan spåra och åtgärda fel effektivt.",
+    "description": "Description of technical data, found on telemetry consent screen."
+  },
+  "interactionData": {
+    "message": "Interaktionsdata, till exempel antalet webbplatser som uteslutits från VPN-skydd, antalet webbplatser med en platsinställning och hur ofta skyddet slås på och av.",
+    "description": "Description of interaction data, found on the telemetry consent screen."
+  },
+  "telemetryOptOutInstructions": {
+    "message": "Om du inte vill tillåta Mozilla VPN-tillägget att samla in data, avmarkera rutan. Du kan också ändra den här inställningen när som helst i tillägget, under Inställningar.",
+    "description": "Opt out instructions on the telemetry consent screen"
+  },
+  "telemetryCheckboxLabel": {
+    "message": "Tillåt Mozilla att samla in teknisk data och interaktionsdata",
+    "description": "Checkbox label"
+  },
+  "telemetrySettingsCheckboxLabel": {
+    "message": "Denna data hjälper oss att förbättra funktioner och prestanda. Den innehåller data om din enhet, hårdvarukonfiguration och hur du använder Mozilla VPN-tillägget.",
+    "description": "Checkbox label on the settings page"
   }
 }
