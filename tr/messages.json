@@ -296,26 +296,60 @@
     "message": "Yapmanız gerekenleri öğrenin",
     "description": "Link in banner alert"
   },
-  "telemetry_screen_header": {
-    "message": "Uzantıyı geliştirmemize yardım edin",
-    "description": "Header for the Telemetry Opt-In Screen"
-  },
   "telemetry_toggle_text": {
     "message": "Teknik verileri ve etkileşim verilerini paylaş",
     "description": "Label for the Telemetry Opt-In toggle"
   },
-  "telemetry_screen_descr": {
-    "message": "Donanım yapılandırmanız ve uzantıyı kullanma şekliniz gibi verileri paylaşarak özellikleri ve performansı geliştirmemize yardımcı olun. Ziyaret ettiğiniz siteler hakkında asla veri toplamıyoruz. $NOTICE$ adresinden ayrıntılı bilgi alabilirsiniz.",
-    "description": "Body of the Telemetry Opt-In Message. $NOTICE$ is replaced by a link to the privacy notice for Mozilla Subscription Services, using the string privacy_notice_link_name as the link text.",
-    "placeholders": {
-      "notice": {
-        "content": "$1",
-        "example": "Mozilla Subscription Services Privacy Notice"
-      }
-    }
-  },
   "privacy_notice_link_name": {
     "message": "Mozilla Abonelik Hizmetleri Gizlilik Bildirimi",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "first-install-body": {
+    "message": "Özellikleri ve performansı geliştirmemize ve sorunları hızlı bir şekilde çözmemize yardımcı olmak için Mozilla VPN uzantısının veri toplamasına izin verebilirsiniz. Topladığımız veriler asla sizinle ilişkilendirilmeyecek ve ziyaret ettiğiniz siteler hakkında asla veri toplamıyoruz. Veri toplama, uzantının çalışma şeklini etkilemez.",
+    "description": "Body copy on the telemetry consent screen"
+  },
+  "privacyPolicyIntro": {
+    "message": "Topladığımız verilerle ilgili tüm ayrıntıları gizlilik ilkelerimizde bulabilirsiniz.",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
+  },
+  "viewPrivacyPolicy": {
+    "message": "Gizlilik politikasını göster",
+    "description": "Privacy policy link"
+  },
+  "thankYouForAdding": {
+    "message": "Mozilla VPN uzantısını eklediğiniz için teşekkür ederiz",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "Uzantıya devam etmek için Firefox araç çubuğundan Mozilla VPN logosunu seçin.",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
+  "optionalDataCollection": {
+    "message": "İsteğe bağlı veri toplama",
+    "description": "Subtitle on the telemetry consent screen"
+  },
+  "telemetryListHeader": {
+    "message": "Topladığımız isteğe bağlı veriler şunları içeriyor:",
+    "description": "Headline for a list describing the type of data collected by the extension"
+  },
+  "technicalData": {
+    "message": "Hataları takip edip düzeltebilmemiz için tarayıcı sürümü, uzantı sürümü ve hata ayrıntıları gibi teknik veriler.",
+    "description": "Description of technical data, found on telemetry consent screen."
+  },
+  "interactionData": {
+    "message": "VPN korumasından hariç tutulan web sitelerinin sayısı, konum tercihi olan web sitelerinin sayısı ve korumanın ne sıklıkta açılıp kapatıldığı gibi etkileşim verileri. ",
+    "description": "Description of interaction data, found on the telemetry consent screen."
+  },
+  "telemetryOptOutInstructions": {
+    "message": "Mozilla VPN uzantısının veri toplamasına izin vermek istemiyorsanız kutunun işaretini kaldırın. Ayrıca bu ayarı istediğiniz zaman uzantının Ayarlar bölümünden değiştirebilirsiniz.",
+    "description": "Opt out instructions on the telemetry consent screen"
+  },
+  "telemetryCheckboxLabel": {
+    "message": "Mozilla’nın teknik ve etkileşim verilerini toplamasına izin ver",
+    "description": "Checkbox label"
+  },
+  "telemetrySettingsCheckboxLabel": {
+    "message": "Bu veriler, özellikleri ve performansı geliştirmemize yardımcı olur. Cihazınız, donanım yapılandırmanız ve Mozilla VPN uzantısını nasıl kullandığınız hakkındaki verileri içerir.",
+    "description": "Checkbox label on the settings page"
   }
 }
