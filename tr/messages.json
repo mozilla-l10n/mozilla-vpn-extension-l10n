@@ -345,7 +345,7 @@
     "description": "Opt out instructions on the telemetry consent screen"
   },
   "telemetryCheckboxLabel": {
-    "message": "Mozilla’nın teknik ve etkileşim verilerini toplamasına izin ver",
+    "message": "Mozilla’nın teknik verileri ve etkileşim verilerini toplamasına izin ver",
     "description": "Checkbox label"
   },
   "telemetrySettingsCheckboxLabel": {
