@@ -109,10 +109,6 @@
     "message": "Cập nhật Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
-  "bodyNeedsUpdate": {
-    "message": "Để sử dụng tiện ích mở rộng này, bạn phải cài đặt ứng dụng Mozilla VPN mới nhất.",
-    "description": "This is the body copy for an error panel."
-  },
   "headerInstallMsg": {
     "message": "Cài đặt Mozilla VPN",
     "description": "Header if a VPN installation was not found."
@@ -176,6 +172,10 @@
     "message": "Tin tức từ Luân Đôn. Thể thao từ Sao Paulo. Mua sắm từ Tokyo. Đặt địa điểm dành riêng cho trang web để duyệt cá nhân hóa.",
     "description": "Body text in onboarding panel."
   },
+  "onboarding3_body": {
+    "message": "Sử dụng tiện ích mở rộng để bật tính năng VPN cho Firefox — ngay cả khi tính năng bảo vệ bị tắt đối với phần còn lại của máy tính của bạn.",
+    "description": "Body text in onboarding panel."
+  },
   "next": {
     "message": "Tiếp",
     "description": "Label of button to progress to next onboarding panel."
@@ -183,6 +183,10 @@
   "skip": {
     "message": "Bỏ qua",
     "description": "Label of button to skip onboarding."
+  },
+  "done": {
+    "message": "Xong",
+    "description": "Label of button in final onboarding panel."
   },
   "bodyReEnableFirefoxProtection": {
     "message": "Firefox hiện tại là “ứng dụng bị loại trừ” trong ứng dụng Mozilla VPN. Để sử dụng tiện ích mở rộng này, hãy mở ứng dụng và đi tới Cài đặt > Loại trừ ứng dụng và xoá Firefox.",
