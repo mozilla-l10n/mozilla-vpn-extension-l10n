@@ -296,26 +296,60 @@
     "message": "Zgóńśo, což musyśo cyniś",
     "description": "Link in banner alert"
   },
-  "telemetry_screen_header": {
-    "message": "Pomagajśo nam rozšyrjenje pólěpšowaś",
-    "description": "Header for the Telemetry Opt-In Screen"
-  },
   "telemetry_toggle_text": {
     "message": "Techniske daty a daty interakcije źěliś",
     "description": "Label for the Telemetry Opt-In toggle"
   },
-  "telemetry_screen_descr": {
-    "message": "Źělśo daty ako wašu hardwarowu konfiguraciju a kak rozšyrjenje wužywaśo, aby nam funkcije a wugbaśe pólěpšył. Daty wó sedłach, ku kótarymž se woglědujośo, nigda njegromaźimy. Dalšne informacije w $NOTICE$.",
-    "description": "Body of the Telemetry Opt-In Message. $NOTICE$ is replaced by a link to the privacy notice for Mozilla Subscription Services, using the string privacy_notice_link_name as the link text.",
-    "placeholders": {
-      "notice": {
-        "content": "$1",
-        "example": "Mozilla Subscription Services Privacy Notice"
-      }
-    }
-  },
   "privacy_notice_link_name": {
     "message": "Pokazka priwatnosći za abonementne słužby Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "first-install-body": {
+    "message": "Aby nam pomagał, funkcije a wugbaśe pólěpšowaś a problemy malsnjej rozwězaś, móžośo rozšyrjenjeju Mozilla VPN dowóliś, daty gromaźiś. Daty, kótarež gromaźimy, se z wami njezwěžu a njegromaźimy nigda daty wó sedłach, ku kótarymž se woglědujośo. Gromaźenje datow wliw na to njama, kak rozšyrjenje funkcioněrujo.",
+    "description": "Body copy on the telemetry consent screen"
+  },
+  "privacyPolicyIntro": {
+    "message": "Dopołne drobnostki wó datach, kótarež gromaźimy, su w našych pšawidłach priwatnosći k dispoziciji.",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
+  },
+  "viewPrivacyPolicy": {
+    "message": "Pšawidła priwatnosći pokazaś",
+    "description": "Privacy policy link"
+  },
+  "thankYouForAdding": {
+    "message": "Wjeliki źěk, až sćo pśidał rozšyrjenje Mozilla VPN",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "Aby z rozšyrjenim pókšacował, wubjeŕśo logo Mozilla VPN w symbolowej rědce Firefox.",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
+  "optionalDataCollection": {
+    "message": "Opcionalne gromaźenje datow",
+    "description": "Subtitle on the telemetry consent screen"
+  },
+  "telemetryListHeader": {
+    "message": "K opcionalnym datam, kótarež gromaźimy, słušaju:",
+    "description": "Headline for a list describing the type of data collected by the extension"
+  },
+  "technicalData": {
+    "message": "Techniske daty, ako na pśikład wersija wobglědowaka, wersija rozšyrjenja a drobnostki wó zmólkach, móžomy tak slědowaś a zmólki eficientnje wótwónoźeś.",
+    "description": "Description of technical data, found on telemetry consent screen."
+  },
+  "interactionData": {
+    "message": "Daty interakcije, na pśikład licba websedłow, kótarež su ze šćita VPN wuzamknjone, licba websedłow ze městneju preferencu a kak cesto se šćit zmóžnja a znjemóžnja.",
+    "description": "Description of interaction data, found on the telemetry consent screen."
+  },
+  "telemetryOptOutInstructions": {
+    "message": "Jolic njocośo rozšyrjenjeju Mozilla VPN gromaźenje datow dowóliś, wótwónoźćo kokulku z kašćika. Móžośo teke toś to nastajenje kuždy cas w nastajenjach rozšyrjenja změniś.",
+    "description": "Opt out instructions on the telemetry consent screen"
+  },
+  "telemetryCheckboxLabel": {
+    "message": "Mozilla dowóliś, techniske daty a daty interakcije gromaźiś",
+    "description": "Checkbox label"
+  },
+  "telemetrySettingsCheckboxLabel": {
+    "message": "Toś te daty nam pomagaju, funkcije a wugbaśe pólěpšowaś. K nim słušaju daty wó wašom rěźe, hardwarowej konfiguraciji a kak rozšyrjenje Mozilla VPN wužywaśo.",
+    "description": "Checkbox label on the settings page"
   }
 }
