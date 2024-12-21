@@ -296,26 +296,60 @@
     "message": "Scopri cosa fare",
     "description": "Link in banner alert"
   },
-  "telemetry_screen_header": {
-    "message": "Aiutaci a migliorare l’estensione",
-    "description": "Header for the Telemetry Opt-In Screen"
-  },
   "telemetry_toggle_text": {
     "message": "Condividi dati tecnici e di interazione",
     "description": "Label for the Telemetry Opt-In toggle"
   },
-  "telemetry_screen_descr": {
-    "message": "Aiutaci a migliorare le caratteristiche e le prestazioni condividendo dati come la configurazione dell’hardware e il modo in cui utilizzi l’estensione. Non raccogliamo mai dati sui siti visitati. Ulteriori informazioni nell’$NOTICE$.",
-    "description": "Body of the Telemetry Opt-In Message. $NOTICE$ is replaced by a link to the privacy notice for Mozilla Subscription Services, using the string privacy_notice_link_name as the link text.",
-    "placeholders": {
-      "notice": {
-        "content": "$1",
-        "example": "Mozilla Subscription Services Privacy Notice"
-      }
-    }
-  },
   "privacy_notice_link_name": {
     "message": "informativa sulla privacy dei servizi in abbonamento Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "first-install-body": {
+    "message": "Per aiutarci a migliorare funzionalità e prestazioni, nonché risolvere rapidamente problemi, puoi scegliere di consentire all’estensione Mozilla VPN di raccogliere dati. I dati che raccogliamo non saranno mai collegati a te e non raccogliamo mai dati sui siti che visiti. La raccolta dei dati non influisce sul funzionamento dell’estensione.",
+    "description": "Body copy on the telemetry consent screen"
+  },
+  "privacyPolicyIntro": {
+    "message": "Tutti i dettagli sui dati che raccogliamo sono disponibili nella nostra informativa sulla privacy.",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
+  },
+  "viewPrivacyPolicy": {
+    "message": "Visualizza l’informativa sulla privacy",
+    "description": "Privacy policy link"
+  },
+  "thankYouForAdding": {
+    "message": "Grazie per aver installato l’estensione Mozilla VPN",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "Per continuare con l’estensione, seleziona il logo Mozilla VPN nella barra degli strumenti di Firefox.",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
+  "optionalDataCollection": {
+    "message": "Raccolta dati facoltativa",
+    "description": "Subtitle on the telemetry consent screen"
+  },
+  "telemetryListHeader": {
+    "message": "I dati facoltativi che raccogliamo includono:",
+    "description": "Headline for a list describing the type of data collected by the extension"
+  },
+  "technicalData": {
+    "message": "Dati tecnici, come versione del browser, versione dell’estensione e dettagli sugli errori, in modo da poter tracciare e correggere gli errori in modo efficiente.",
+    "description": "Description of technical data, found on telemetry consent screen."
+  },
+  "interactionData": {
+    "message": "Dati di interazione, come il numero di siti web esclusi dalla protezione VPN, il numero di siti web con una preferenza relativa all posizione, la frequenza con cui la protezione viene attivata e disattivata.",
+    "description": "Description of interaction data, found on the telemetry consent screen."
+  },
+  "telemetryOptOutInstructions": {
+    "message": "Se non desideri consentire all’estensione Mozilla VPN di raccogliere dati, deseleziona la casella. Puoi modificare questa impostazione in qualsiasi momento nelle impostazioni dell’estensione.",
+    "description": "Opt out instructions on the telemetry consent screen"
+  },
+  "telemetryCheckboxLabel": {
+    "message": "Consenti a Mozilla di raccogliere dati tecnici e di interazione",
+    "description": "Checkbox label"
+  },
+  "telemetrySettingsCheckboxLabel": {
+    "message": "Questi dati ci aiutano a migliorare funzionalità e prestazioni. Sono inclusi dati sul dispositivo, sulla configurazione hardware e su come utilizzi l’estensione Mozilla VPN.",
+    "description": "Checkbox label on the settings page"
   }
 }
