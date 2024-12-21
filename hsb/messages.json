@@ -336,8 +336,20 @@
     "message": "Techniske daty, kaž na přikład wersija wobhladowaka, wersija rozšěrjenja a podrobnosće wo zmylkach, móžemy tak slědować a zmylki eficientnje wotstronić.",
     "description": "Description of technical data, found on telemetry consent screen."
   },
+  "interactionData": {
+    "message": "Daty interakcije, na přikład ličba websydłow, kotrež su ze škita VPN wuzamknjene, ličba websydłow ze stejnišćowej preferencu a kak husto so škit zmóžnja a znjemóžnja.",
+    "description": "Description of interaction data, found on the telemetry consent screen."
+  },
+  "telemetryOptOutInstructions": {
+    "message": "Jeli nochceće rozšěrjenju Mozilla VPN hromadźenje datow dowolić, wotstrońće hóčku z kašćika. Móžeće tež tute nastajenje kóždy čas w nastajenjach rozšěrjenja změnić.",
+    "description": "Opt out instructions on the telemetry consent screen"
+  },
   "telemetryCheckboxLabel": {
     "message": "Mozilla dowolić, techniske daty a daty interakcije hromadźić",
     "description": "Checkbox label"
+  },
+  "telemetrySettingsCheckboxLabel": {
+    "message": "Tute daty nam pomhaja, funkcije a wukon polěpšować. K nim słušeja daty wo wašim graće, hardwarowej konfiguraciji a kak rozšěrjenje Mozilla VPN wužiwaće.",
+    "description": "Checkbox label on the settings page"
   }
 }
