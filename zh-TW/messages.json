@@ -296,26 +296,32 @@
     "message": "了解該做什麼",
     "description": "Link in banner alert"
   },
-  "telemetry_screen_header": {
-    "message": "幫助我們改善本擴充套件",
-    "description": "Header for the Telemetry Opt-In Screen"
-  },
   "telemetry_toggle_text": {
     "message": "分享技術與互動資料",
     "description": "Label for the Telemetry Opt-In toggle"
   },
-  "telemetry_screen_descr": {
-    "message": "請分享您的硬體設定、如何使用本擴充套件等資料，幫助我們改善功能與效能。我們絕對不會收集您造訪過哪些網站的資料，此外也可瞭解完整的 $NOTICE$。",
-    "description": "Body of the Telemetry Opt-In Message. $NOTICE$ is replaced by a link to the privacy notice for Mozilla Subscription Services, using the string privacy_notice_link_name as the link text.",
-    "placeholders": {
-      "notice": {
-        "content": "$1",
-        "example": "Mozilla Subscription Services Privacy Notice"
-      }
-    }
-  },
   "privacy_notice_link_name": {
     "message": "Mozilla 訂閱服務隱私權公告",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "viewPrivacyPolicy": {
+    "message": "檢視隱私權保護政策",
+    "description": "Privacy policy link"
+  },
+  "thankYouForAdding": {
+    "message": "感謝您安裝 Mozilla VPN 擴充套件",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "optionalDataCollection": {
+    "message": "選擇性資料收集",
+    "description": "Subtitle on the telemetry consent screen"
+  },
+  "telemetryListHeader": {
+    "message": "我們會收集的選擇性資料，包含下列項目：",
+    "description": "Headline for a list describing the type of data collected by the extension"
+  },
+  "telemetryCheckboxLabel": {
+    "message": "允許 Mozilla 收集技術與互動資料",
+    "description": "Checkbox label"
   }
 }
