@@ -304,6 +304,10 @@
     "message": "Pokazka priwatnosće za abonementowe słužby Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
+  "privacyPolicyIntro": {
+    "message": "Dospołne podrobnosće wo datach, kotrež hromadźimy, su w našich prawidłach priwatnosće k dispoziciji.",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
+  },
   "viewPrivacyPolicy": {
     "message": "Prawidła priwatnosće pokazać",
     "description": "Privacy policy link"
@@ -323,6 +327,10 @@
   "telemetryListHeader": {
     "message": "K opcionalnym datam, kotrež hromadźimy, słušeja:",
     "description": "Headline for a list describing the type of data collected by the extension"
+  },
+  "technicalData": {
+    "message": "Techniske daty, kaž na přikład wersija wobhladowaka, wersija rozšěrjenja a podrobnosće wo zmylkach, móžemy tak slědować a zmylki eficientnje wotstronić.",
+    "description": "Description of technical data, found on telemetry consent screen."
   },
   "telemetryCheckboxLabel": {
     "message": "Mozilla dowolić, techniske daty a daty interakcije hromadźić",
