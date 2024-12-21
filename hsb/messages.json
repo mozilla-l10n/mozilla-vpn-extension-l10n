@@ -304,6 +304,10 @@
     "message": "Pokazka priwatnosće za abonementowe słužby Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
+  "first-install-body": {
+    "message": "Zo byšće nam pomhał, funkcije a wukon polěpšować a problemy spěšnje rozrisać, móžeće rozšěrjenju Mozilla VPN dowolić, daty hromadźić. Daty, kotrež hromadźimy, so z wami njezwjazaja a njehromadźimy ženje daty wo sydłach, kotrež wopytujeće. Hromadźenje datow wliw na to nima, kak rozšěrjenje funguje.",
+    "description": "Body copy on the telemetry consent screen"
+  },
   "privacyPolicyIntro": {
     "message": "Dospołne podrobnosće wo datach, kotrež hromadźimy, su w našich prawidłach priwatnosće k dispoziciji.",
     "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
