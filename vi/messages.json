@@ -109,6 +109,10 @@
     "message": "Cập nhật Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
+  "bodyNeedsUpdate2": {
+    "message": "Để sử dụng tiện ích mở rộng này, trước tiên hãy tải xuống và cài đặt ứng dụng Mozilla VPN mới nhất.",
+    "description": "This is body copy for an error message."
+  },
   "headerInstallMsg": {
     "message": "Cài đặt Mozilla VPN",
     "description": "Header if a VPN installation was not found."
@@ -235,5 +239,61 @@
   "learnWhatToDo": {
     "message": "Tìm hiểu những gì cần làm",
     "description": "Link in banner alert"
+  },
+  "telemetry_toggle_text": {
+    "message": "Gửi dữ liệu kỹ thuật và tương tác",
+    "description": "Label for the Telemetry Opt-In toggle"
+  },
+  "privacy_notice_link_name": {
+    "message": "Thông báo về quyền riêng tư của dịch vụ đăng ký Mozilla",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "first-install-body": {
+    "message": "Để giúp chúng tôi cải thiện các tính năng và hiệu suất cũng như giải quyết vấn đề nhanh chóng, bạn có thể chọn cho phép tiện ích mở rộng Mozilla VPN thu thập dữ liệu. Dữ liệu chúng tôi thu thập sẽ không bao giờ ràng buộc với bạn và chúng tôi không bao giờ thu thập dữ liệu về các trang web bạn truy cập. Việc thu thập dữ liệu không ảnh hưởng đến cách hoạt động của tiện ích mở rộng.",
+    "description": "Body copy on the telemetry consent screen"
+  },
+  "privacyPolicyIntro": {
+    "message": "Chi tiết đầy đủ về dữ liệu chúng tôi thu thập có sẵn trong chính sách riêng tư của chúng tôi.",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
+  },
+  "viewPrivacyPolicy": {
+    "message": "Xem chính sách riêng tư",
+    "description": "Privacy policy link"
+  },
+  "thankYouForAdding": {
+    "message": "Cảm ơn bạn đã thêm tiện ích mở rộng Mozilla VPN",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "Để tiếp tục với tiện ích mở rộng, hãy chọn biểu tượng Mozilla VPN trên thanh công cụ của Firefox.",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
+  "optionalDataCollection": {
+    "message": "Thu thập dữ liệu không bắt buộc",
+    "description": "Subtitle on the telemetry consent screen"
+  },
+  "telemetryListHeader": {
+    "message": "Dữ liệu tùy chọn mà chúng tôi thu thập bao gồm:",
+    "description": "Headline for a list describing the type of data collected by the extension"
+  },
+  "technicalData": {
+    "message": "Dữ liệu kỹ thuật như phiên bản trình duyệt, phiên bản tiện ích mở rộng và chi tiết lỗi để chúng tôi có thể theo dõi và sửa lỗi một cách hiệu quả.",
+    "description": "Description of technical data, found on telemetry consent screen."
+  },
+  "interactionData": {
+    "message": "Dữ liệu tương tác, chẳng hạn như số lượng trang web được loại trừ khỏi VPN, số lượng trang web có tùy chọn địa điểm và tần suất bật và tắt tính năng bảo vệ.",
+    "description": "Description of interaction data, found on the telemetry consent screen."
+  },
+  "telemetryOptOutInstructions": {
+    "message": "Nếu bạn không muốn cho phép tiện ích mở rộng Mozilla VPN thu thập dữ liệu, hãy bỏ chọn ô này. Bạn cũng có thể thay đổi cài đặt này bất kỳ lúc nào trong tiện ích mở rộng, trong phần Cài đặt.",
+    "description": "Opt out instructions on the telemetry consent screen"
+  },
+  "telemetryCheckboxLabel": {
+    "message": "Cho phép Mozilla thu thập dữ liệu kỹ thuật và tương tác",
+    "description": "Checkbox label"
+  },
+  "telemetrySettingsCheckboxLabel": {
+    "message": "Dữ liệu này giúp chúng tôi cải thiện các tính năng và hiệu suất. Nó bao gồm dữ liệu về thiết bị của bạn, cấu hình phần cứng và cách bạn sử dụng tiện ích mở rộng Mozilla VPN.",
+    "description": "Checkbox label on the settings page"
   }
 }
