@@ -339,5 +339,17 @@
   "interactionData": {
     "message": "Данные взаимодействия, такие как количество веб-сайтов, исключенных из защиты VPN, количество веб-сайтов с предпочтениями местоположения, а также частота включения и отключения защиты.",
     "description": "Description of interaction data, found on the telemetry consent screen."
+  },
+  "telemetryOptOutInstructions": {
+    "message": "Если вы не хотите разрешать собирать данные расширению Mozilla VPN, снимите флажок. Вы также можете изменить этот параметр в любое время в расширении в разделе «Настройки».",
+    "description": "Opt out instructions on the telemetry consent screen"
+  },
+  "telemetryCheckboxLabel": {
+    "message": "Разрешить Mozilla собирать технические данные и данные взаимодействия",
+    "description": "Checkbox label"
+  },
+  "telemetrySettingsCheckboxLabel": {
+    "message": "Эти данные помогают нам улучшить возможности и производительность. Они включает в себя данные о вашем устройстве, конфигурации оборудования и как вы используете расширение Mozilla VPN.",
+    "description": "Checkbox label on the settings page"
   }
 }
