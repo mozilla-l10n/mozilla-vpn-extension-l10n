@@ -338,7 +338,7 @@
     "description": "Description of technical data, found on telemetry consent screen."
   },
   "interactionData": {
-    "message": "Interaction data, such as the number of websites excluded from VPN protection, the number of websites with a location preference, and how often protection is turned on and off. ",
+    "message": "Interaction data, such as the number of websites excluded from VPN protection, the number of websites with a location preference, and how often protection is turned on and off.",
     "description": "Description of interaction data, found on the telemetry consent screen."
   },
   "telemetryOptOutInstructions": {
