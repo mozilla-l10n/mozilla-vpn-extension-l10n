@@ -296,26 +296,48 @@
     "message": "Узнайте, что нужно сделать",
     "description": "Link in banner alert"
   },
-  "telemetry_screen_header": {
-    "message": "Помогите нам улучшить расширение",
-    "description": "Header for the Telemetry Opt-In Screen"
-  },
   "telemetry_toggle_text": {
     "message": "Поделитесь техническими данными и данными взаимодействия",
     "description": "Label for the Telemetry Opt-In toggle"
   },
-  "telemetry_screen_descr": {
-    "message": "Помогите нам улучшить возможности и производительность, поделившись данными, такими как конфигурация вашего оборудования и то, как вы используете расширение. Мы никогда не собираем данные о посещаемых вами сайтах. Узнайте больше в $NOTICE$.",
-    "description": "Body of the Telemetry Opt-In Message. $NOTICE$ is replaced by a link to the privacy notice for Mozilla Subscription Services, using the string privacy_notice_link_name as the link text.",
-    "placeholders": {
-      "notice": {
-        "content": "$1",
-        "example": "Mozilla Subscription Services Privacy Notice"
-      }
-    }
-  },
   "privacy_notice_link_name": {
     "message": "Уведомление о конфиденциальности сервисов Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "first-install-body": {
+    "message": "Чтобы помочь нам улучшить функции и производительность и быстро решить проблемы, вы можете разрешить расширению Mozilla VPN собирать данные. Данные, которые мы собираем, никогда не будут связаны с вами, и мы никогда не собираем данные о посещаемых вами сайтах. Сбор данных не влияет на работу расширения.",
+    "description": "Body copy on the telemetry consent screen"
+  },
+  "privacyPolicyIntro": {
+    "message": "Полный список данных, которые мы собираем, доступен в нашей политике конфиденциальности.",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
+  },
+  "viewPrivacyPolicy": {
+    "message": "Просмотреть политику конфиденциальности",
+    "description": "Privacy policy link"
+  },
+  "thankYouForAdding": {
+    "message": "Спасибо за добавление расширения Mozilla VPN",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "Чтобы перейти к расширению, выберите логотип Mozilla VPN на панели инструментов Firefox.",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
+  "optionalDataCollection": {
+    "message": "Необязательный сбор данных",
+    "description": "Subtitle on the telemetry consent screen"
+  },
+  "telemetryListHeader": {
+    "message": "Необязательные данные, которые мы собираем, включают:",
+    "description": "Headline for a list describing the type of data collected by the extension"
+  },
+  "technicalData": {
+    "message": "Технические данные, такие как версия браузера, версия расширения и сведения об ошибках для эффективного отслеживания и исправления ошибок.",
+    "description": "Description of technical data, found on telemetry consent screen."
+  },
+  "interactionData": {
+    "message": "Данные взаимодействия, такие как количество веб-сайтов, исключенных из защиты VPN, количество веб-сайтов с предпочтениями местоположения, а также частота включения и отключения защиты.",
+    "description": "Description of interaction data, found on the telemetry consent screen."
   }
 }
