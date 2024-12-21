@@ -131,9 +131,9 @@
     "message": "Aktualizace Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
-  "bodyNeedsUpdate": {
-    "message": "Abyste mohli toto rozšíření používat, musíte mít nainstalovanou nejnovější verzi aplikace Mozilla VPN.",
-    "description": "This is the body copy for an error panel."
+  "bodyNeedsUpdate2": {
+    "message": "Chcete-li toto rozšíření používat, nejprve si stáhněte a nainstalujte nejnovější aplikaci Mozilla VPN.",
+    "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
     "message": "Nainstalujte si Mozilla VPN",
@@ -295,5 +295,9 @@
   "learnWhatToDo": {
     "message": "Přečtěte si, co dělat",
     "description": "Link in banner alert"
+  },
+  "telemetry_toggle_text": {
+    "message": "Sdílet technické údaje a údaje o interakci",
+    "description": "Label for the Telemetry Opt-In toggle"
   }
 }
