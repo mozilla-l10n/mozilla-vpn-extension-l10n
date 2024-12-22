@@ -343,5 +343,9 @@
   "telemetryCheckboxLabel": {
     "message": "允許 Mozilla 收集技術與互動資料",
     "description": "Checkbox label"
+  },
+  "telemetrySettingsCheckboxLabel": {
+    "message": "此資料可幫助我們改善套件的功能與效能，當中包含您的裝置、硬體配置，以及如何使用 Mozilla VPN 擴充套件的相關資訊。",
+    "description": "Checkbox label on the settings page"
   }
 }
