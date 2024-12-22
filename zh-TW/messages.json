@@ -304,6 +304,10 @@
     "message": "Mozilla 訂閱服務隱私權公告",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
+  "privacyPolicyIntro": {
+    "message": "有關我們會收集哪些資料的完整資訊，請參考隱私權保護政策。",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
+  },
   "viewPrivacyPolicy": {
     "message": "檢視隱私權保護政策",
     "description": "Privacy policy link"
