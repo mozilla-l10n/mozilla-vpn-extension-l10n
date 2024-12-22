@@ -329,7 +329,7 @@
     "description": "Subtitle on the telemetry consent screen"
   },
   "telemetryListHeader": {
-    "message": "Topladığımız isteğe bağlı veriler şunları içeriyor:",
+    "message": "Topladığımız isteğe bağlı veriler şunları içerir:",
     "description": "Headline for a list describing the type of data collected by the extension"
   },
   "technicalData": {
