@@ -328,6 +328,18 @@
     "message": "我們會收集的選擇性資料，包含下列項目：",
     "description": "Headline for a list describing the type of data collected by the extension"
   },
+  "technicalData": {
+    "message": "技術資料，諸如瀏覽器版本、擴充套件版本、發生錯誤的詳細資訊，讓我們能更有效率找到問題，並修正錯誤。",
+    "description": "Description of technical data, found on telemetry consent screen."
+  },
+  "interactionData": {
+    "message": "互動資料，諸如排除使用 VPN 保護連線的網站數量、設定位置偏好的網站數量、開關保護的頻率等資訊。",
+    "description": "Description of interaction data, found on the telemetry consent screen."
+  },
+  "telemetryOptOutInstructions": {
+    "message": "若您不希望 Mozilla VPN 收集任何資料，請取消勾選該項目。您也可以隨時到擴充套件的「設定」畫面調整此設定。",
+    "description": "Opt out instructions on the telemetry consent screen"
+  },
   "telemetryCheckboxLabel": {
     "message": "允許 Mozilla 收集技術與互動資料",
     "description": "Checkbox label"
