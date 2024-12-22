@@ -309,7 +309,7 @@
     "description": "Body copy on the telemetry consent screen"
   },
   "privacyPolicyIntro": {
-    "message": "Topladığımız verilerle ilgili tüm ayrıntıları gizlilik ilkelerimizde bulabilirsiniz.",
+    "message": "Topladığımız verilerle ilgili tüm ayrıntıları gizlilik politikamızda bulabilirsiniz.",
     "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
   },
   "viewPrivacyPolicy": {
@@ -337,7 +337,7 @@
     "description": "Description of technical data, found on telemetry consent screen."
   },
   "interactionData": {
-    "message": "VPN korumasından hariç tutulan web sitelerinin sayısı, konum tercihi olan web sitelerinin sayısı ve korumanın ne sıklıkta açılıp kapatıldığı gibi etkileşim verileri. ",
+    "message": "VPN korumasından hariç tutulan web sitelerinin sayısı, konum tercihi olan web sitelerinin sayısı ve korumanın ne sıklıkta açılıp kapatıldığı gibi etkileşim verileri.",
     "description": "Description of interaction data, found on the telemetry consent screen."
   },
   "telemetryOptOutInstructions": {
