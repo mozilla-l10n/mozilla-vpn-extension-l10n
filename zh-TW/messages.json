@@ -316,6 +316,10 @@
     "message": "感謝您安裝 Mozilla VPN 擴充套件",
     "description": "Headline on the telemetry consent screen"
   },
+  "toContinueToTheExtension": {
+    "message": "若要前往擴充套件，請點擊 Firefox 工具列中的 Mozilla VPN 圖示。",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
   "optionalDataCollection": {
     "message": "選擇性資料收集",
     "description": "Subtitle on the telemetry consent screen"
