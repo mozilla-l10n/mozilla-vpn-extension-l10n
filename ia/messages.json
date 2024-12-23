@@ -131,10 +131,6 @@
     "message": "Actualisar Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
-  "bodyNeedsUpdate": {
-    "message": "Pro usar iste extension, tu debe haber le ultime application Mozilla VPN installate.",
-    "description": "This is the body copy for an error panel."
-  },
   "headerInstallMsg": {
     "message": "Installar Mozilla VPN",
     "description": "Header if a VPN installation was not found."
@@ -295,5 +291,17 @@
   "learnWhatToDo": {
     "message": "Apprende que facer",
     "description": "Link in banner alert"
+  },
+  "telemetry_toggle_text": {
+    "message": "Compartir datos technic e de interaction",
+    "description": "Label for the Telemetry Opt-In toggle"
+  },
+  "privacy_notice_link_name": {
+    "message": "Aviso de confidentialitate re le servicios de abonamento de Mozilla",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "first-install-body": {
+    "message": "Pro adjutar nos a meliorar functiones e prestation, e resolver problemas rapidemente, tu pote seliger de permitter al extension Mozilla VPN de colliger datos. Le datos que nos collige jammais sera ligate a te e nos jammais colligera datos re le sitos que tu visita. Le collection de datos non ha impacto sur como le extension functiona.",
+    "description": "Body copy on the telemetry consent screen"
   }
 }
