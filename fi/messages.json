@@ -1,0 +1,104 @@
+{
+  "extensionName": {
+    "message": "Mozilla VPN -laajennus",
+    "description": "Name of the extension."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  },
+  "vpnOffStatus": {
+    "message": "Pois",
+    "description": "Label indicating that the VPN is off."
+  },
+  "vpnOnStatus": {
+    "message": "Päällä",
+    "description": "Label indicating that the VPN is on."
+  },
+  "titleSubscribeNow": {
+    "message": "Tilaa Mozilla VPN."
+  },
+  "btnSubscribeNow": {
+    "message": "Tilaa nyt",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
+  "getHelp": {
+    "message": "Tuki",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "headerOpenMozillaVPN": {
+    "message": "Avaa Mozilla VPN",
+    "description": "Headline."
+  },
+  "headerSignedOut": {
+    "message": "Kirjaudu sisään Mozilla VPN -sovellukseen."
+  },
+  "btnOpenVpn": {
+    "message": "Avaa Mozilla VPN."
+  },
+  "headerNeedsUpdate": {
+    "message": "Päivitä Mozilla VPN",
+    "description": "This is the headline of an error panel."
+  },
+  "bodyNeedsUpdate2": {
+    "message": "Käytä tätä laajennusta lataamalla ja asentamalla ensin uusin Mozilla VPN -sovellus.",
+    "description": "This is body copy for an error message."
+  },
+  "headerInstallMsg": {
+    "message": "Asenna Mozilla VPN",
+    "description": "Header if a VPN installation was not found."
+  },
+  "btnDownloadNow": {
+    "message": "Lataa nyt",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Alustaa ei tueta."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "Tällä hetkellä Mozilla VPN -laajennus on saatavilla vain Windows-laitteille."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Pyrimme tuomaan tuen macOS:lle ja Linuxille pian!"
+  },
+  "turnOnProtection": {
+    "message": "Kytke suojaus päälle",
+    "description": "Button label."
+  },
+  "giveFeedback": {
+    "message": "Anna palautetta",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Lue lisää",
+    "description": "Label of link that leads to SUMO."
+  },
+  "next": {
+    "message": "Seuraava",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Ohita",
+    "description": "Label of button to skip onboarding."
+  },
+  "done": {
+    "message": "Valmis",
+    "description": "Label of button in final onboarding panel."
+  },
+  "noSignal": {
+    "message": "Ei signaalia",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Epävakaa",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Yhdistetään…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Ohjekeskus",
+    "description": "Link title."
+  }
+}
