@@ -27,9 +27,27 @@
     "message": "Tuỳ chọn cho trang web này",
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
+  "excludePageFor": {
+    "message": "Luôn tắt VPN đối với $ORIGIN$",
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
   "resetPageSettings": {
     "message": "Đặt lại tuỳ chọn trang web",
     "description": "Button text to reset all site specific settings."
+  },
+  "vpnIsOn": {
+    "message": "VPN đang bật trên Firefox",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "VPN đang tắt trên Firefox",
+    "description": "Header to signal that VPN connection is disabled."
   },
   "extensionVpnIsOff": {
     "message": "Mozilla VPN vẫn bật, bảo vệ phần còn lại của máy tính của bạn.",
@@ -148,6 +166,10 @@
   "footnoteUnsupportedOSMessage": {
     "message": "Chúng tôi đang nỗ lực để sớm hỗ trợ trên macOS và Linux!"
   },
+  "turnOnProtection": {
+    "message": "Bật chế độ bảo vệ",
+    "description": "Button label."
+  },
   "removeCustomLocation": {
     "message": "Xoá địa điểm tuỳ chỉnh",
     "description": "Button label."
@@ -191,6 +213,10 @@
   "done": {
     "message": "Xong",
     "description": "Label of button in final onboarding panel."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Bật lại chế độ bảo vệ cho Firefox",
+    "description": "Error panel title for when Firefox is an excluded app."
   },
   "bodyReEnableFirefoxProtection": {
     "message": "Firefox hiện tại là “ứng dụng bị loại trừ” trong ứng dụng Mozilla VPN. Để sử dụng tiện ích mở rộng này, hãy mở ứng dụng và đi tới Cài đặt > Loại trừ ứng dụng và xoá Firefox.",
