@@ -222,6 +222,14 @@
     "message": "Firefox hiện tại là “ứng dụng bị loại trừ” trong ứng dụng Mozilla VPN. Để sử dụng tiện ích mở rộng này, hãy mở ứng dụng và đi tới Cài đặt > Loại trừ ứng dụng và xoá Firefox.",
     "description": "Body copy of error panel."
   },
+  "settingsPageSubtitle": {
+    "message": "Để thêm hoặc thay đổi các tùy chọn dành riêng cho trang web, hãy truy cập trang web và mở tiện ích Mozilla VPN Firefox. Sau đó, đặt tùy chọn cho trang web. Tùy chọn của bạn chỉ có hiệu lực khi tính năng VPN cho Firefox được bật.",
+    "description": "Subtitle in the settings page."
+  },
+  "settingsPageTitle": {
+    "message": "Tùy chọn Mozilla VPN cho web",
+    "description": "Title for settings page tab."
+  },
   "noSignal": {
     "message": "Không có tín hiệu",
     "description": "Indicator text describing the status of the VPN."
@@ -249,6 +257,16 @@
   "offForWebsite": {
     "message": "Mozilla VPN đã tắt cho trang web",
     "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: vị trí máy chủ Mozilla VPN",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   },
   "alert_conflictingProgram": {
     "message": "Một chương trình trên máy tính của bạn có thể đang gây ra sự cố với tiện ích mở rộng Mozilla VPN.",
