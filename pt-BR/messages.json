@@ -296,26 +296,36 @@
     "message": "Saiba o que fazer",
     "description": "Link in banner alert"
   },
-  "telemetry_screen_header": {
-    "message": "Ajude-nos a melhorar a extensão",
-    "description": "Header for the Telemetry Opt-In Screen"
-  },
   "telemetry_toggle_text": {
     "message": "Compartilhar dados técnicos e de interação",
     "description": "Label for the Telemetry Opt-In toggle"
   },
-  "telemetry_screen_descr": {
-    "message": "Ajude-nos a melhorar recursos e desempenho compartilhando dados como configuração de hardware e como você usa a extensão. Nunca coletamos dados sobre os sites que você visita. Saiba mais no $NOTICE$.",
-    "description": "Body of the Telemetry Opt-In Message. $NOTICE$ is replaced by a link to the privacy notice for Mozilla Subscription Services, using the string privacy_notice_link_name as the link text.",
-    "placeholders": {
-      "notice": {
-        "content": "$1",
-        "example": "Mozilla Subscription Services Privacy Notice"
-      }
-    }
-  },
   "privacy_notice_link_name": {
     "message": "Aviso de privacidade dos serviços de assinatura da Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "privacyPolicyIntro": {
+    "message": "Detalhes completos dos dados que coletamos estão disponíveis em nossa política de privacidade.",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
+  },
+  "viewPrivacyPolicy": {
+    "message": "Ver a política de privacidade",
+    "description": "Privacy policy link"
+  },
+  "thankYouForAdding": {
+    "message": "Obrigado por adicionar a extensão Mozilla VPN",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "Para seguir para a extensão, clique no logotipo do Mozilla VPN na barra de ferramentas do Firefox.",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
+  "optionalDataCollection": {
+    "message": "Coleta de dados opcional",
+    "description": "Subtitle on the telemetry consent screen"
+  },
+  "telemetryListHeader": {
+    "message": "Os dados opcionais que coletamos incluem:",
+    "description": "Headline for a list describing the type of data collected by the extension"
   }
 }
