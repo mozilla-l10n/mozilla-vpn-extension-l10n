@@ -327,5 +327,9 @@
   "telemetryListHeader": {
     "message": "Os dados opcionais que coletamos incluem:",
     "description": "Headline for a list describing the type of data collected by the extension"
+  },
+  "technicalData": {
+    "message": "Dados técnicos, como versão do navegador, versão de extensões e detalhes de erros, para podermos acompanhar e corrigir os erros de forma eficiente.",
+    "description": "Description of technical data, found on telemetry consent screen."
   }
 }
