@@ -343,5 +343,13 @@
   "telemetryOptOutInstructions": {
     "message": "Si no querés que la extensión de Mozilla VPN recopile datos, desmarcá la casilla. También podés cambiar esta configuración en cualquier momento en la extensión, en Ajustes.",
     "description": "Opt out instructions on the telemetry consent screen"
+  },
+  "telemetryCheckboxLabel": {
+    "message": "Permitir que Mozilla recolecte datos técnicos y de interacción",
+    "description": "Checkbox label"
+  },
+  "telemetrySettingsCheckboxLabel": {
+    "message": "Estos datos nos ayudan a mejorar las funciones y el rendimiento. Se incluyen datos sobre tu dispositivo, la configuración del hardware y cómo usás la extensión de Mozilla VPN.",
+    "description": "Checkbox label on the settings page"
   }
 }
