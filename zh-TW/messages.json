@@ -304,6 +304,10 @@
     "message": "Mozilla 訂閱服務隱私權公告",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
+  "first-install-body": {
+    "message": "您可以選擇同意 Mozilla VPN 擴充套件收集部分資料，以幫助我們改進功能與效能，並且能更快修正問題。我們收集的資料不會與您的個人身分相關聯，也絕對不會收集任何您造訪的網站的相關資訊。就算您不願意提供該資料，也不會影響本套件的功能使用。",
+    "description": "Body copy on the telemetry consent screen"
+  },
   "privacyPolicyIntro": {
     "message": "有關我們會收集哪些資料的完整資訊，請參考隱私權保護政策。",
     "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
