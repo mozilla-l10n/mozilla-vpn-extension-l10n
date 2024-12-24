@@ -296,26 +296,20 @@
     "message": "Lês wat jo dwaan kinne",
     "description": "Link in banner alert"
   },
-  "telemetry_screen_header": {
-    "message": "Help ús de útwreiding te ferbetterjen",
-    "description": "Header for the Telemetry Opt-In Screen"
-  },
   "telemetry_toggle_text": {
     "message": "Technyske en ynteraksjegegevens diele",
     "description": "Label for the Telemetry Opt-In toggle"
   },
-  "telemetry_screen_descr": {
-    "message": "Help ús funksjes en prestaasjes te ferbetterjen troch gegevens te dielen, lykas jo hardwarekonfiguraasje en hoe’t jo de útwreiding brûke. Wy sammelje nea gegevens oer de websites dy’t jo besykje. Mear ynfo yn de $NOTICE$.",
-    "description": "Body of the Telemetry Opt-In Message. $NOTICE$ is replaced by a link to the privacy notice for Mozilla Subscription Services, using the string privacy_notice_link_name as the link text.",
-    "placeholders": {
-      "notice": {
-        "content": "$1",
-        "example": "Mozilla Subscription Services Privacy Notice"
-      }
-    }
-  },
   "privacy_notice_link_name": {
     "message": "Privacyferklearring foar Mozilla Subscription Services",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "viewPrivacyPolicy": {
+    "message": "Privacybelied besjen",
+    "description": "Privacy policy link"
+  },
+  "optionalDataCollection": {
+    "message": "Opsjonele gegevenssammeling",
+    "description": "Subtitle on the telemetry consent screen"
   }
 }
