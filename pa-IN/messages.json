@@ -131,9 +131,9 @@
     "message": "Mozilla VPN ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ",
     "description": "This is the headline of an error panel."
   },
-  "bodyNeedsUpdate": {
-    "message": "ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਵਰਤਣ ਵਾਸਤੇ ਤੁਹਾਡੇ ਕੋਲ Mozilla VPN ਐਪਲੀਕੇਸ਼ਨ ਦਾ ਨਵਾਂ ਵਰਜ਼ਨ ਇੰਸਟਾਲ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ।",
-    "description": "This is the body copy for an error panel."
+  "bodyNeedsUpdate2": {
+    "message": "ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਵਰਤਣ ਲਈ ਪਹਿਲਾਂ ਨਵੀਂ Mozilla VPN ਐਪ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਕੇ ਇੰਸਟਾਲ ਕਰੋ।",
+    "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
     "message": "Mozilla VPN ਇੰਸਟਾਲ ਕਰੋ",
@@ -283,5 +283,37 @@
   "learnWhatToDo": {
     "message": "ਜਾਣੋ ਕਿ ਕੀ ਕਰੀਏ",
     "description": "Link in banner alert"
+  },
+  "telemetry_toggle_text": {
+    "message": "ਤਕਨੀਕੀ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟੇ ਨੂੰ ਸਾਂਝਾ ਕਰੋ",
+    "description": "Label for the Telemetry Opt-In toggle"
+  },
+  "privacy_notice_link_name": {
+    "message": "Mozilla ਮੈਂਬਰੀ ਸੇਵਾ ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "privacyPolicyIntro": {
+    "message": "ਸਾਡੇ ਵਲੋਂ ਇਕੱਤਰ ਕੀਤੇ ਜਾਂਦੇ ਡਾਟੇ ਦੇ ਪੂਰੇ ਵੇਰਵੇ ਸਾਡੀ ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਵਿੱਚ ਮੌਜੂਦ ਹਨ।",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
+  },
+  "viewPrivacyPolicy": {
+    "message": "ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਨੂੰ ਵੇਖੋ",
+    "description": "Privacy policy link"
+  },
+  "thankYouForAdding": {
+    "message": "Mozilla VPN ਇਕਸਟੈਨਸ਼ਨ ਜੋੜਨ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "ਇਕਸਟੈਨਸ਼ਨ ਵਰਤਣਾ ਜਾਰੀ ਰੱਖਣ ਵਾਸਤੇ Firefox ਟੂਲਬਾਰ ਵਿੱਚੋਂ Mozilla VPN ਨੂੰ ਚੁਣੋ।",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
+  "optionalDataCollection": {
+    "message": "ਚੋਣਵੀਂ ਡਾਟਾ ਇਕੱਤਰਤਾ",
+    "description": "Subtitle on the telemetry consent screen"
+  },
+  "telemetryListHeader": {
+    "message": "ਸਾਡੇ ਵਲੋਂ ਇਕੱਤਰ ਕੀਤੇ ਜਾਂਦੇ ਚੋਣਵੇਂ ਡਾਟੇ ਵਿੱਚ ਸ਼ਾਮਲ ਹੈ:",
+    "description": "Headline for a list describing the type of data collected by the extension"
   }
 }
