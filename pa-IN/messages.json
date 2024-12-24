@@ -315,5 +315,25 @@
   "telemetryListHeader": {
     "message": "ਸਾਡੇ ਵਲੋਂ ਇਕੱਤਰ ਕੀਤੇ ਜਾਂਦੇ ਚੋਣਵੇਂ ਡਾਟੇ ਵਿੱਚ ਸ਼ਾਮਲ ਹੈ:",
     "description": "Headline for a list describing the type of data collected by the extension"
+  },
+  "technicalData": {
+    "message": "ਤਕਨੀਕੀ ਡਾਟਾ ਜਿਵੇਂ ਕਿ ਬਰਾਊਜ਼ਰ ਵਰਜ਼ਨ, ਇਕਸਟੈਨਸ਼ਨ ਵਰਜ਼ਨ ਅਤੇ ਗਲਤੀ ਵੇਰਵੇ, ਤਾਂ ਕਿ ਅਸੀਂ ਗਲਤੀਆਂ ਦੀ ਟੋਹਰ ਪ੍ਰਭਾਵੀ ਢੰਗ ਨਾਲ ਲੈ ਕੇ ਠੀਕ ਕਰ ਸਕੀਏ।",
+    "description": "Description of technical data, found on telemetry consent screen."
+  },
+  "interactionData": {
+    "message": "ਤਾਲਮੇਲ ਡਾਟਾ, ਜਿਵੇਂ ਕਿ VPN ਸੁਰੱਖਿਆ ਤੋਂ ਅਲਹਿਦਾ ਕੀਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਦੀ ਗਿਣਤੀ, ਟਿਕਾਣਾ ਪਸੰਦ ਵਾਲੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਦੀ ਗਿਣਤੀ ਅਤੇ ਸੁਰੱਖਿਆ ਨੂੰ ਕਿੰਨੀ ਕੁ ਵਾਰ ਚਾਲੂ ਅਤੇ ਬੰਦ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।",
+    "description": "Description of interaction data, found on the telemetry consent screen."
+  },
+  "telemetryOptOutInstructions": {
+    "message": "ਜੇ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ ਕਿ Mozilla VPN ਇਕਸਟੈਨਸ਼ਨ ਡਾਟੇ ਨੂੰ ਇਕੱਤਰ ਨਾ ਕਰੇ ਤਾਂ ਬਾਕਸ ਦੀ ਚੋਣ ਨਾ ਕਰੋ। ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾ ਕੇ ਇਕਸਟੈਨਸ਼ਨ ਵਿੱਚੋਂ ਕਿਸੇ ਵੀ ਵੇਲੇ ਇਸ ਸੈਟਿੰਗ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ।",
+    "description": "Opt out instructions on the telemetry consent screen"
+  },
+  "telemetryCheckboxLabel": {
+    "message": "Mozilla ਨੂੰ ਤਕਨੀਕੀ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟਾ ਇਕੱਤਰ ਕਰਨ ਦੀ ਮਨਜ਼ੂਰੀ ਦਿਓ",
+    "description": "Checkbox label"
+  },
+  "telemetrySettingsCheckboxLabel": {
+    "message": "ਇਹ ਡਾਟਾ ਫ਼ੀਚਰ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਸੁਧਾਰਨ ਲਈ ਸਾਡੀ ਮਦਦ ਕਰਦਾ ਹੈ। ਇਸ ਵਿੱਚ ਤੁਹਾਡੇ ਡਿਵਾਈਸ, ਹਾਰਡਵੇਅਰ ਸੰਰਚਨਾ ਅਤੇ ਤੁਸੀਂ Mozilla VPN ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਕਿਵੇਂ ਵਰਤਦੇ ਹੋ ਦੇ ਬਾਰੇ ਡਾਟਾ ਸ਼ਾਮਲ ਹੈ।",
+    "description": "Checkbox label on the settings page"
   }
 }
