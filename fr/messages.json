@@ -304,6 +304,10 @@
     "message": "Politique de confidentialité des services d’abonnement de Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
+  "first-install-body": {
+    "message": "Pour nous aider à améliorer les fonctionnalités et les performances et à résoudre rapidement les problèmes, vous pouvez choisir d’autoriser l’extension Mozilla VPN à collecter des données. Les données que nous collectons ne seront jamais associées à votre identité et nous ne collectons jamais de données sur les sites que vous visitez. La collecte de données n’affecte pas le fonctionnement de l’extension.",
+    "description": "Body copy on the telemetry consent screen"
+  },
   "privacyPolicyIntro": {
     "message": "Le détail des données que nous collectons est disponible dans notre politique de confidentialité.",
     "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
