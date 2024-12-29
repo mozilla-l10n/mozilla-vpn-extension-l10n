@@ -168,6 +168,10 @@
     "message": "Sleppa",
     "description": "Label of button to skip onboarding."
   },
+  "done": {
+    "message": "Lokið",
+    "description": "Label of button in final onboarding panel."
+  },
   "noSignal": {
     "message": "Ekkert samband",
     "description": "Indicator text describing the status of the VPN."
@@ -203,10 +207,6 @@
   "howToFix": {
     "message": "Hvernig er hægt að laga þetta",
     "description": "Link in banner alert"
-  },
-  "telemetry_screen_header": {
-    "message": "Hjálpaðu okkur að bæta forritsaukann",
-    "description": "Header for the Telemetry Opt-In Screen"
   },
   "telemetry_toggle_text": {
     "message": "Deila tækni- og samskiptagögnum",
