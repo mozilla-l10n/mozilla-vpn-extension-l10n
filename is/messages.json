@@ -211,5 +211,17 @@
   "telemetry_toggle_text": {
     "message": "Deila tækni- og samskiptagögnum",
     "description": "Label for the Telemetry Opt-In toggle"
+  },
+  "viewPrivacyPolicy": {
+    "message": "Skoða stefnu vegna meðferðar persónuupplýsinga",
+    "description": "Privacy policy link"
+  },
+  "optionalDataCollection": {
+    "message": "Valkvæð gagnasöfnun",
+    "description": "Subtitle on the telemetry consent screen"
+  },
+  "telemetryCheckboxLabel": {
+    "message": "Leyfa Mozilla að safna tækni- og samskiptagögnum",
+    "description": "Checkbox label"
   }
 }
