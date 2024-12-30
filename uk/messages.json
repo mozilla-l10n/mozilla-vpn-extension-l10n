@@ -1,0 +1,6 @@
+{
+  "noWebsitePreferencesSubText": {
+    "message": "За допомогою розширення Firefox ви можете вимкнути захист Mozilla VPN для вебсайту або встановити спеціальне розташування. Для цього відвідайте вебсайт, відкрийте розширення та оновіть налаштування сайту.",
+    "description": "Subtext shown when there are no website preferences set by the user."
+  }
+}
