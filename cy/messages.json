@@ -303,5 +303,53 @@
   "privacy_notice_link_name": {
     "message": "Hysbysiad Preifatrwydd Gwasanaethau Tanysgrifio Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "first-install-body": {
+    "message": "Er mwyn ein helpu i wella nodweddion a pherfformiad a datrys problemau yn gyflym, gallwch ddewis caniatáu estyniad Mozilla VPN i gasglu data. Ni fydd y data rydym yn ei gasglu byth yn gysylltiedig â chi a fyddwn ni byth yn casglu data am y gwefannau rydych yn ymweld â nhw. Nid yw casglu data yn effeithio ar sut mae'r estyniad yn gweithio.",
+    "description": "Body copy on the telemetry consent screen"
+  },
+  "privacyPolicyIntro": {
+    "message": "Mae manylion llawn y data rydym yn ei gasglu ar gael yn ein polisi preifatrwydd.",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
+  },
+  "viewPrivacyPolicy": {
+    "message": "Gweld y polisi preifatrwydd",
+    "description": "Privacy policy link"
+  },
+  "thankYouForAdding": {
+    "message": "Diolch am ychwanegu estyniad Mozilla VPN",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "I barhau i'r estyniad, dewiswch logo Mozilla VPN ym mar offer Firefox.",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
+  "optionalDataCollection": {
+    "message": "Casglu data dewisol",
+    "description": "Subtitle on the telemetry consent screen"
+  },
+  "telemetryListHeader": {
+    "message": "Mae’r data dewisol rydym yn ei gasglu'n cynnwys:",
+    "description": "Headline for a list describing the type of data collected by the extension"
+  },
+  "technicalData": {
+    "message": "Data technegol, fel fersiwn porwr, fersiwn estyniad, a manylion gwallau fel y gallwn olrhain a thrwsio gwallau yn effeithlon.",
+    "description": "Description of technical data, found on telemetry consent screen."
+  },
+  "interactionData": {
+    "message": "Data rhyngweithio, megis nifer y gwefannau sydd wedi'u heithrio rhag ddiogelwch y VPN, nifer y gwefannau sydd â dewis lleoliad, a pha mor aml y caiff diogelwch ei droi ymlaen ac i ffwrdd.",
+    "description": "Description of interaction data, found on the telemetry consent screen."
+  },
+  "telemetryOptOutInstructions": {
+    "message": "Os nad ydych chi am ganiatáu i estyniad Mozilla VPN gasglu data, dad-diciwch y blwch. Gallwch hefyd newid y gosodiad hwn unrhyw bryd yn yr estyniad, o dan Gosodiadau.",
+    "description": "Opt out instructions on the telemetry consent screen"
+  },
+  "telemetryCheckboxLabel": {
+    "message": "Caniatáu i Mozilla gasglu data technegol a rhyngweithio",
+    "description": "Checkbox label"
+  },
+  "telemetrySettingsCheckboxLabel": {
+    "message": "Mae'r data hwn yn ein helpu i wella nodweddion a pherfformiad. Mae'n cynnwys data am eich dyfais, ffurfweddiad caledwedd, a sut rydych chi'n defnyddio estyniad Mozilla VPN.",
+    "description": "Checkbox label on the settings page"
   }
 }
