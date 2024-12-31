@@ -131,9 +131,9 @@
     "message": "Diweddaru Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
-  "bodyNeedsUpdate": {
-    "message": "Er mwyn defnyddio'r estyniad hwn, rhaid i chi gael y rhaglen Mozilla VPN diweddaraf wedi'i osod.",
-    "description": "This is the body copy for an error panel."
+  "bodyNeedsUpdate2": {
+    "message": "I ddefnyddio'r estyniad hwn, yn gyntaf llwythwch i lawr a gosod yr ap Mozilla VPN diweddaraf.",
+    "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
     "message": "Gosod Mozilla VPN",
@@ -295,5 +295,13 @@
   "learnWhatToDo": {
     "message": "Dyma beth i'w wneud",
     "description": "Link in banner alert"
+  },
+  "telemetry_toggle_text": {
+    "message": "Rhannu data technegol a rhyngweithio",
+    "description": "Label for the Telemetry Opt-In toggle"
+  },
+  "privacy_notice_link_name": {
+    "message": "Hysbysiad Preifatrwydd Gwasanaethau Tanysgrifio Mozilla",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
   }
 }
