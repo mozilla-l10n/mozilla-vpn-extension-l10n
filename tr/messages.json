@@ -321,7 +321,7 @@
     "description": "Headline on the telemetry consent screen"
   },
   "toContinueToTheExtension": {
-    "message": "Uzantıya devam etmek için Firefox araç çubuğundan Mozilla VPN logosunu seçin.",
+    "message": "Uzantıyı kullanmak için Firefox araç çubuğundan Mozilla VPN logosunu seçin.",
     "description": "Blurb at the bottom of the telemetry consent screen"
   },
   "optionalDataCollection": {
@@ -333,7 +333,7 @@
     "description": "Headline for a list describing the type of data collected by the extension"
   },
   "technicalData": {
-    "message": "Hataları takip edip düzeltebilmemiz için tarayıcı sürümü, uzantı sürümü ve hata ayrıntıları gibi teknik veriler.",
+    "message": "Hataları izleyip düzeltebilmemiz için tarayıcı sürümü, uzantı sürümü ve hata ayrıntıları gibi teknik veriler.",
     "description": "Description of technical data, found on telemetry consent screen."
   },
   "interactionData": {
