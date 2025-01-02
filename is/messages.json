@@ -3,6 +3,10 @@
     "message": "Mozilla VPN-viðbót",
     "description": "Name of the extension."
   },
+  "extensionDescription": {
+    "message": "Samþættu VPN við Firefox: Útilokaðu flipa, stilltu staðsetningu vefsvæða og fleira!",
+    "description": "Description of the extension."
+  },
   "back": {
     "message": "Til baka",
     "description": "Alternative text attribute for back button."
@@ -45,6 +49,10 @@
     "message": "Slökkt er á VPN-vörn fyrir Firefox",
     "description": "Header to signal that VPN connection is disabled."
   },
+  "extensionVpnIsOff": {
+    "message": "Enn er kveikt á Mozilla VPN, verndar restina af tölvunni þinni.",
+    "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
+  },
   "vpnOffStatus": {
     "message": "Óvirkt",
     "description": "Label indicating that the VPN is off."
@@ -64,6 +72,10 @@
   "tableHeadingVpnStatus": {
     "message": "Varnir vefsvæðis",
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "headlineNoWebsitePreferences": {
+    "message": "Þú hefur ennþá ekki stillt nein vefsvæði",
+    "description": "Headline shown when the user hasn’t set any website preferences."
   },
   "altTextRemoveWebsiteButton": {
     "message": "Fjarlægja reglu fyrir $ORIGIN$",
@@ -172,6 +184,10 @@
     "message": "Lokið",
     "description": "Label of button in final onboarding panel."
   },
+  "headerReEnableFirefoxProtection": {
+    "message": "Virkja aftur Firefox-verndina",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
   "noSignal": {
     "message": "Ekkert samband",
     "description": "Indicator text describing the status of the VPN."
@@ -206,6 +222,10 @@
   },
   "howToFix": {
     "message": "Hvernig er hægt að laga þetta",
+    "description": "Link in banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Lærðu hvað þarf að gera",
     "description": "Link in banner alert"
   },
   "telemetry_toggle_text": {
