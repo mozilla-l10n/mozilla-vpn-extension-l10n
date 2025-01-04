@@ -3,6 +3,10 @@
     "message": "Mozilla VPN -laajennus",
     "description": "Name of the extension."
   },
+  "extensionDescription": {
+    "message": "Integroi VPN Firefoxiin: aseta ohituspoikkeuksia välilehdille, määritä sivustojen sijainnit ja paljon muuta!",
+    "description": "Description of the extension."
+  },
   "back": {
     "message": "Edellinen",
     "description": "Alternative text attribute for back button."
