@@ -283,5 +283,13 @@
   "privacy_notice_link_name": {
     "message": "Σημείωση απορρήτου συνδρομητικών υπηρεσιών Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "viewPrivacyPolicy": {
+    "message": "Προβολή πολιτικής απορρήτου",
+    "description": "Privacy policy link"
+  },
+  "optionalDataCollection": {
+    "message": "Συλλογή προαιρετικών δεδομένων",
+    "description": "Subtitle on the telemetry consent screen"
   }
 }
