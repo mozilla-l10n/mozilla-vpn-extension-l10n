@@ -69,6 +69,10 @@
     "message": "Trang web",
     "description": "Table heading for the column listing websites."
   },
+  "tableHeadingVpnStatus": {
+    "message": "Bảo vệ trang web",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
   "headlineNoWebsitePreferences": {
     "message": "Bạn chưa đặt bất kỳ tùy chọn trang web nào",
     "description": "Headline shown when the user hasn’t set any website preferences."
@@ -174,6 +178,10 @@
     "message": "Xoá địa điểm tuỳ chỉnh",
     "description": "Button label."
   },
+  "websiteProtection": {
+    "message": "Bảo vệ trang web",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
   "giveFeedback": {
     "message": "Gửi phản hồi",
     "description": "Button label."
@@ -197,6 +205,10 @@
   "onboarding2_body": {
     "message": "Tin tức từ Luân Đôn. Thể thao từ Sao Paulo. Mua sắm từ Tokyo. Đặt địa điểm dành riêng cho trang web để duyệt cá nhân hóa.",
     "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Luôn “bật” chế độ bảo vệ cho Firefox",
+    "description": "Title in onboarding panel."
   },
   "onboarding3_body": {
     "message": "Sử dụng tiện ích mở rộng để bật tính năng VPN cho Firefox — ngay cả khi tính năng bảo vệ bị tắt đối với phần còn lại của máy tính của bạn.",
