@@ -236,9 +236,21 @@
     "message": "Skoða stefnu vegna meðferðar persónuupplýsinga",
     "description": "Privacy policy link"
   },
+  "thankYouForAdding": {
+    "message": "Þakka þér fyrir að bæta við Mozilla VPN forritsaukanum",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "Til að fara áfram í viðbótina skaltu velja Mozilla VPN merkið á Firefox-verkfærastikunni.",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
   "optionalDataCollection": {
     "message": "Valkvæð gagnasöfnun",
     "description": "Subtitle on the telemetry consent screen"
+  },
+  "telemetryListHeader": {
+    "message": "Valfrjálsu gögnin sem við söfnum eru:",
+    "description": "Headline for a list describing the type of data collected by the extension"
   },
   "telemetryCheckboxLabel": {
     "message": "Leyfa Mozilla að safna tækni- og samskiptagögnum",
