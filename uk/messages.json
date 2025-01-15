@@ -3,6 +3,10 @@
     "message": "Розширення Mozilla VPN",
     "description": "Name of the extension."
   },
+  "extensionDescription": {
+    "message": "Інтегруйте VPN у Firefox: додавайте винятки для вкладок, налаштовуйте розташування для сайтів тощо!",
+    "description": "Description of the extension."
+  },
   "back": {
     "message": "Назад",
     "description": "Alternative text attribute for back button."
@@ -10,6 +14,18 @@
   "productName": {
     "message": "Mozilla VPN",
     "description": "Name of the product."
+  },
+  "titleServerList": {
+    "message": "Розташування вебсайту",
+    "description": "Title for a dialog where users can set the location for a website."
+  },
+  "selectWebsiteLocation": {
+    "message": "Вибрати розташування вебсайту",
+    "description": "Button label."
+  },
+  "titlePageSettings": {
+    "message": "Налаштування для цього вебсайту",
+    "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
   "excludePageFor": {
     "message": "Завжди вимикати захист VPN для $ORIGIN$",
@@ -21,6 +37,10 @@
       }
     }
   },
+  "resetPageSettings": {
+    "message": "Скинути налаштування вебсайту",
+    "description": "Button text to reset all site specific settings."
+  },
   "vpnIsOn": {
     "message": "VPN для Firefox увімкнено",
     "description": "Header to signal that VPN connection is enabled."
@@ -28,6 +48,10 @@
   "vpnIsOff": {
     "message": "VPN для Firefox вимкнено",
     "description": "Header to signal that VPN connection is disabled."
+  },
+  "extensionVpnIsOff": {
+    "message": "Mozilla VPN все ще працює та захищає ваш комп'ютер.",
+    "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
   },
   "vpnOffStatus": {
     "message": "Вимкнено",
@@ -37,9 +61,35 @@
     "message": "Увімкнено",
     "description": "Label indicating that the VPN is on."
   },
+  "placeholderSearchWebsites": {
+    "message": "Пошук вебсайтів",
+    "description": "Placeholder text for the search input field to search websites."
+  },
+  "tableHeadingWebsite": {
+    "message": "Вебсайт",
+    "description": "Table heading for the column listing websites."
+  },
+  "tableHeadingVpnStatus": {
+    "message": "Захист вебсайту",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "headlineNoWebsitePreferences": {
+    "message": "Ви ще не налаштували жодного вебсайту",
+    "description": "Headline shown when the user hasn’t set any website preferences."
+  },
   "noWebsitePreferencesSubText": {
     "message": "За допомогою розширення Firefox ви можете вимкнути захист Mozilla VPN для вебсайту або встановити спеціальне розташування. Для цього відвідайте вебсайт, відкрийте розширення та оновіть налаштування сайту.",
     "description": "Subtext shown when there are no website preferences set by the user."
+  },
+  "altTextRemoveWebsiteButton": {
+    "message": "Вилучити правило для $ORIGIN$",
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
   },
   "altTextOpenSettingsPage": {
     "message": "Відкрити сторінку налаштувань",
@@ -49,19 +99,120 @@
     "message": "Пошук розташування",
     "description": "Placeholder for the Input field where users can search the list of servers."
   },
+  "titleSubscribeNow": {
+    "message": "Передплатити Mozilla VPN."
+  },
+  "bodySubscribeNow": {
+    "message": "Схоже, ви ще не передплатили Mozilla VPN. Щоб використовувати це розширення, придбайте передплату.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "btnSubscribeNow": {
+    "message": "Передплатити",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
   "getHelp": {
     "message": "Отримати допомогу",
     "description": "Text of a link pointing to a relevant help page."
   },
+  "headerOpenMozillaVPN": {
+    "message": "Відкрити Mozilla VPN",
+    "description": "Headline."
+  },
+  "headerSignedOut": {
+    "message": "Виконайте вхід у програмі Mozilla VPN."
+  },
+  "bodySignedOut": {
+    "message": "Зараз ви вийшли з програми Mozilla VPN. Щоб використовувати розширення Mozilla VPN для Firefox, відкрийте програму на комп'ютері та ввійдіть у свій обліковий запис."
+  },
+  "btnOpenVpn": {
+    "message": "Відкрити Mozilla VPN."
+  },
+  "headerNeedsUpdate": {
+    "message": "Оновіть Mozilla VPN",
+    "description": "This is the headline of an error panel."
+  },
+  "bodyNeedsUpdate2": {
+    "message": "Щоб використовувати це розширення, спершу завантажте і встановіть найновішу версію програми Mozilla VPN.",
+    "description": "This is body copy for an error message."
+  },
   "headerInstallMsg": {
     "message": "Встановіть Mozilla VPN",
     "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "Щоб користуватися розширенням Mozilla VPN для Firefox, спершу відкрийте програму Mozilla VPN.",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "Щоб користуватися цим розширенням, спершу завантажте і встановіть програму Mozilla VPN на свій комп'ютер."
+  },
+  "bodyInstallMsgFooter": {
+    "message": "Зауважте, що Mozilla VPN – це послуга з передплатою.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
+  "btnDownloadNow": {
+    "message": "Завантажити",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Використовувати розташування Mozilla VPN."
+  },
+  "useDefaultLocationExplainer": {
+    "message": "Використовувати те саме розташування, що й програма Mozilla VPN, яка захищає цей комп'ютер.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Платформа не підтримується."
   },
   "bodyUnsupportedOSMessage": {
     "message": "Наразі розширення Mozilla VPN доступне лише на пристроях Windows."
   },
   "footnoteUnsupportedOSMessage": {
     "message": "Ми працюємо над тим, щоб незабаром забезпечити підтримку macOS і Linux!"
+  },
+  "turnOnProtection": {
+    "message": "Увімкнути захист",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Вилучити власне розташування",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Захист вебсайту",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Надіслати відгук",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Докладніше",
+    "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "Вимкніть VPN для певних вебсайтів",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding1_body": {
+    "message": "За допомогою розширення Firefox ви можете вимкнути захист VPN для певних вебсайтів, залишивши його для всіх інших.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Переглядайте різні вебсайти з різних розташувань",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "Новини з Лондона, спортивні події Сан-Паулу, покупки з Токіо. Налаштуйте розташування для окремих вебсайтів для персоналізованого перегляду.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Постійний захист для Firefox",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Використовуйте розширення, щоб увімкнути захист VPN для Firefox, навіть якщо захист для комп'ютера вимкнено.",
+    "description": "Body text in onboarding panel."
   },
   "next": {
     "message": "Далі",
@@ -71,9 +222,25 @@
     "message": "Пропустити",
     "description": "Label of button to skip onboarding."
   },
+  "done": {
+    "message": "Виконано",
+    "description": "Label of button in final onboarding panel."
+  },
   "headerReEnableFirefoxProtection": {
     "message": "Знову ввімкніть захист Firefox",
     "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox наразі додано до винятків у програмі Mozilla VPN. Щоб користуватися цим розширенням, відкрийте програму, перейдіть до меню Налаштування > Програми-винятки та вилучіть Firefox.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "Щоб додати або змінити налаштування певного вебсайту, потрібно відвідати його та відкрити розширення Mozilla VPN для Firefox. Потім налаштуйте параметри для сайту. Ваші налаштування діють лише тоді, коли для Firefox увімкнено захист VPN.",
+    "description": "Subtitle in the settings page."
+  },
+  "settingsPageTitle": {
+    "message": "Налаштування вебсайтів Mozilla VPN",
+    "description": "Title for settings page tab."
   },
   "noSignal": {
     "message": "Немає сигналу",
@@ -91,9 +258,27 @@
     "message": "Довідка",
     "description": "Link title."
   },
+  "websitePreferences": {
+    "message": "Налаштування вебсайтів",
+    "description": "Link title."
+  },
   "contactSupport": {
     "message": "Звернутися до служби підтримки",
     "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN вимкнено для вебсайту",
+    "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: розташування вебсайту Mozilla VPN",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   },
   "alert_conflictingProgram": {
     "message": "Програма на вашому комп'ютері може спричиняти проблеми з розширенням Mozilla VPN.",
@@ -111,12 +296,60 @@
     "message": "Дізнайтеся, що робити",
     "description": "Link in banner alert"
   },
+  "telemetry_toggle_text": {
+    "message": "Ділитися технічними й аналітичними даними",
+    "description": "Label for the Telemetry Opt-In toggle"
+  },
+  "privacy_notice_link_name": {
+    "message": "Положення про приватність послуг передплати Mozilla",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "first-install-body": {
+    "message": "Щоб допомогти нам покращити функції та продуктивність, а також швидко вирішувати проблеми, ви можете дозволити розширенню Mozilla VPN збирати дані. Ці дані ніколи не будуть пов'язані з вами, і ми ніколи не збираємо інформацію про сайти, які ви відвідуєте. Збір даних не впливає на роботу розширення.",
+    "description": "Body copy on the telemetry consent screen"
+  },
+  "privacyPolicyIntro": {
+    "message": "Повна інформація про дані, які ми збираємо, доступна в нашій політиці приватності.",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
+  },
   "viewPrivacyPolicy": {
     "message": "Ознайомитися з політикою приватності",
     "description": "Privacy policy link"
   },
+  "thankYouForAdding": {
+    "message": "Дякуємо, що додали розширення Mozilla VPN",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "Щоб почати роботу з розширенням, виберіть логотип Mozilla VPN на панелі інструментів Firefox.",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
   "optionalDataCollection": {
     "message": "Необов'язковий збір даних",
     "description": "Subtitle on the telemetry consent screen"
+  },
+  "telemetryListHeader": {
+    "message": "Необов'язкові дані, які ми збираємо, включають:",
+    "description": "Headline for a list describing the type of data collected by the extension"
+  },
+  "technicalData": {
+    "message": "Технічні дані, як-от версія браузера, версія розширення та відомості про помилки, щоб ми могли ефективно відстежувати й усувати проблеми.",
+    "description": "Description of technical data, found on telemetry consent screen."
+  },
+  "interactionData": {
+    "message": "Дані про взаємодію, зокрема кількість вебсайтів, доданих до винятків захисту VPN, кількість вебсайтів з налаштуваннями розташування, а також частота ввімкнення та вимкнення захисту.",
+    "description": "Description of interaction data, found on the telemetry consent screen."
+  },
+  "telemetryOptOutInstructions": {
+    "message": "Якщо ви не хочете дозволяти розширенню Mozilla VPN збирати дані, приберіть позначку. Крім того, це налаштування можна змінити коли завгодно в налаштуваннях розширення.",
+    "description": "Opt out instructions on the telemetry consent screen"
+  },
+  "telemetryCheckboxLabel": {
+    "message": "Дозволити Mozilla збирати технічні й аналітичні дані",
+    "description": "Checkbox label"
+  },
+  "telemetrySettingsCheckboxLabel": {
+    "message": "Ці дані допомагають нам вдосконалювати функції та продуктивність. Вони включають інформацію про ваш пристрій, конфігурацію обладнання і спосіб використання розширення Mozilla VPN.",
+    "description": "Checkbox label on the settings page"
   }
 }
