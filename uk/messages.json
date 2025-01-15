@@ -1,7 +1,79 @@
 {
+  "extensionName": {
+    "message": "Розширення Mozilla VPN",
+    "description": "Name of the extension."
+  },
+  "back": {
+    "message": "Назад",
+    "description": "Alternative text attribute for back button."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  },
+  "excludePageFor": {
+    "message": "Завжди вимикати захист VPN для $ORIGIN$",
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "origin": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "vpnIsOn": {
+    "message": "VPN для Firefox увімкнено",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "VPN для Firefox вимкнено",
+    "description": "Header to signal that VPN connection is disabled."
+  },
+  "vpnOffStatus": {
+    "message": "Вимкнено",
+    "description": "Label indicating that the VPN is off."
+  },
+  "vpnOnStatus": {
+    "message": "Увімкнено",
+    "description": "Label indicating that the VPN is on."
+  },
   "noWebsitePreferencesSubText": {
     "message": "За допомогою розширення Firefox ви можете вимкнути захист Mozilla VPN для вебсайту або встановити спеціальне розташування. Для цього відвідайте вебсайт, відкрийте розширення та оновіть налаштування сайту.",
     "description": "Subtext shown when there are no website preferences set by the user."
+  },
+  "altTextOpenSettingsPage": {
+    "message": "Відкрити сторінку налаштувань",
+    "description": "Alternative text for the button that opens the Extensions Settings page."
+  },
+  "searchServer": {
+    "message": "Пошук розташування",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "getHelp": {
+    "message": "Отримати допомогу",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "headerInstallMsg": {
+    "message": "Встановіть Mozilla VPN",
+    "description": "Header if a VPN installation was not found."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "Наразі розширення Mozilla VPN доступне лише на пристроях Windows."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Ми працюємо над тим, щоб незабаром забезпечити підтримку macOS і Linux!"
+  },
+  "next": {
+    "message": "Далі",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Пропустити",
+    "description": "Label of button to skip onboarding."
+  },
+  "contactSupport": {
+    "message": "Звернутися до служби підтримки",
+    "description": "Link title."
   },
   "alert_conflictingProgram": {
     "message": "Програма на вашому комп'ютері може спричиняти проблеми з розширенням Mozilla VPN.",
