@@ -71,6 +71,26 @@
     "message": "Пропустити",
     "description": "Label of button to skip onboarding."
   },
+  "headerReEnableFirefoxProtection": {
+    "message": "Знову ввімкніть захист Firefox",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "noSignal": {
+    "message": "Немає сигналу",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Нестабільне",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "З'єднання…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Довідка",
+    "description": "Link title."
+  },
   "contactSupport": {
     "message": "Звернутися до служби підтримки",
     "description": "Link title."
