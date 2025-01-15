@@ -2,5 +2,29 @@
   "noWebsitePreferencesSubText": {
     "message": "За допомогою розширення Firefox ви можете вимкнути захист Mozilla VPN для вебсайту або встановити спеціальне розташування. Для цього відвідайте вебсайт, відкрийте розширення та оновіть налаштування сайту.",
     "description": "Subtext shown when there are no website preferences set by the user."
+  },
+  "alert_conflictingProgram": {
+    "message": "Програма на вашому комп'ютері може спричиняти проблеми з розширенням Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Як виправити",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Інші розширення можуть перешкоджати роботі розширення Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Дізнайтеся, що робити",
+    "description": "Link in banner alert"
+  },
+  "viewPrivacyPolicy": {
+    "message": "Ознайомитися з політикою приватності",
+    "description": "Privacy policy link"
+  },
+  "optionalDataCollection": {
+    "message": "Необов'язковий збір даних",
+    "description": "Subtitle on the telemetry consent screen"
   }
 }
