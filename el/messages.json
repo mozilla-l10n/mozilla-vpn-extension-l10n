@@ -131,6 +131,10 @@
     "message": "Ενημέρωση του Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
+  "bodyNeedsUpdate2": {
+    "message": "Για να χρησιμοποιήσετε αυτήν την επέκταση, κάντε πρώτα λήψη και εγκατάσταση της πιο πρόσφατης εφαρμογής του Mozilla VPN.",
+    "description": "This is body copy for an error message."
+  },
   "headerInstallMsg": {
     "message": "Εγκατάσταση του Mozilla VPN",
     "description": "Header if a VPN installation was not found."
@@ -276,9 +280,25 @@
       }
     }
   },
+  "alert_conflictingProgram": {
+    "message": "Ένα πρόγραμμα στον υπολογιστή σας ενδέχεται να προκαλεί προβλήματα με την επέκταση του Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Τρόποι διόρθωσης",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Άλλες επεκτάσεις ενδέχεται να επηρεάζουν τον τρόπο λειτουργίας της επέκτασης του Mozilla VPN.",
+    "description": "Banner alert"
+  },
   "learnWhatToDo": {
     "message": "Μάθετε τι να κάνετε",
     "description": "Link in banner alert"
+  },
+  "telemetry_toggle_text": {
+    "message": "Κοινοποίηση τεχνικών δεδομένων και δεδομένων αλληλεπίδρασης",
+    "description": "Label for the Telemetry Opt-In toggle"
   },
   "privacy_notice_link_name": {
     "message": "Σημείωση απορρήτου συνδρομητικών υπηρεσιών Mozilla",
