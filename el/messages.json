@@ -304,12 +304,52 @@
     "message": "Σημείωση απορρήτου συνδρομητικών υπηρεσιών Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
+  "first-install-body": {
+    "message": "Για να μας βοηθήσετε να βελτιώσουμε τις λειτουργίες και επιδόσεις, καθώς και για την ταχεία επίλυση ζητημάτων, μπορείτε να επιτρέψετε στην επέκταση του Mozilla VPN τη συλλογή δεδομένων. Τα δεδομένα που συλλέγουμε δεν θα συνδέονται ποτέ με εσάς καθώς δε συλλέγουμε ποτέ δεδομένα για ιστοτόπους που επισκέπτεστε. Η συλλογή δεδομένων δεν επηρεάζει τον τρόπο λειτουργίας της επέκτασης.",
+    "description": "Body copy on the telemetry consent screen"
+  },
+  "privacyPolicyIntro": {
+    "message": "Οι πλήρεις λεπτομέρειες των δεδομένων που συλλέγουμε είναι διαθέσιμες στην πολιτική απορρήτου μας.",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
+  },
   "viewPrivacyPolicy": {
     "message": "Προβολή πολιτικής απορρήτου",
     "description": "Privacy policy link"
   },
+  "thankYouForAdding": {
+    "message": "Σας ευχαριστούμε που προσθέσατε την επέκταση Mozilla VPN",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "Για να συνεχίσετε στην επέκταση, επιλέξτε το λογότυπο του Mozilla VPN στη γραμμή εργαλείων του Firefox.",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
   "optionalDataCollection": {
     "message": "Συλλογή προαιρετικών δεδομένων",
     "description": "Subtitle on the telemetry consent screen"
+  },
+  "telemetryListHeader": {
+    "message": "Τα προαιρετικά δεδομένα που συλλέγουμε συμπεριλαμβάνουν:",
+    "description": "Headline for a list describing the type of data collected by the extension"
+  },
+  "technicalData": {
+    "message": "Τεχνικά δεδομένα, όπως η έκδοση του προγράμματος περιήγησης, η έκδοση επέκτασης και οι λεπτομέρειες σφαλμάτων, ώστε να μπορούμε να παρακολουθούμε και να διορθώνουμε αποτελεσματικά τα σφάλματα.",
+    "description": "Description of technical data, found on telemetry consent screen."
+  },
+  "interactionData": {
+    "message": "Δεδομένα αλληλεπίδρασης, όπως ο αριθμός ιστοτόπων που εξαιρούνται από την προστασία VPN, ο αριθμός ιστοτόπων με προτίμηση τοποθεσίας και η συχνότητα ενεργοποίησης και απενεργοποίησης της προστασίας.",
+    "description": "Description of interaction data, found on the telemetry consent screen."
+  },
+  "telemetryOptOutInstructions": {
+    "message": "Αν δεν θέλετε να επιτρέψετε στην επέκταση του Mozilla VPN τη συλλογή δεδομένων, καταργήστε την επιλογή. Μπορείτε επίσης να αλλάξετε αυτήν τη ρύθμιση ανά πάσα στιγμή στην επέκταση, από τις Ρυθμίσεις.",
+    "description": "Opt out instructions on the telemetry consent screen"
+  },
+  "telemetryCheckboxLabel": {
+    "message": "Να επιτρέπεται στη Mozilla η συλλογή τεχνικών δεδομένων και δεδομένων αλληλεπίδρασης",
+    "description": "Checkbox label"
+  },
+  "telemetrySettingsCheckboxLabel": {
+    "message": "Αυτά τα δεδομένα βοηθούν να βελτιώσουμε τις λειτουργίες και τις επιδόσεις. Περιλαμβάνονται δεδομένα για τη συσκευή σας, τις ρυθμίσεις του υλικού σας και τον τρόπο χρήσης της επέκτασης Mozilla VPN.",
+    "description": "Checkbox label on the settings page"
   }
 }
