@@ -1,9 +1,8 @@
 {
-  "extensionName": {
-    "message": "Mozilla VPN Extension",
+  "extensionName2": {
+    "message": "Mozilla VPN Companion Extension",
     "description": "Name of the extension."
   },
-
   "extensionDescription": {
     "message": "Integrate VPN into Firefox: Exclude Tabs, set Site locations and more!",
     "description": "Description of the extension."
