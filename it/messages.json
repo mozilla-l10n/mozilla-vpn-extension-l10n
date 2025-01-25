@@ -349,7 +349,7 @@
     "description": "Checkbox label"
   },
   "telemetrySettingsCheckboxLabel": {
-    "message": "Questi dati ci aiutano a migliorare funzionalità e prestazioni. Sono inclusi dati sul dispositivo, sulla configurazione hardware e su come utilizzi l’estensione Mozilla VPN.",
+    "message": "Questi dati ci aiutano a migliorare funzionalità e prestazioni. Sono inclusi dati sul tuo dispositivo, sulla sua configurazione hardware e su come utilizzi l’estensione Mozilla VPN.",
     "description": "Checkbox label on the settings page"
   }
 }
