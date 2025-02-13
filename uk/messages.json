@@ -351,5 +351,13 @@
   "telemetrySettingsCheckboxLabel": {
     "message": "Ці дані допомагають нам вдосконалювати функції та продуктивність. Вони включають інформацію про ваш пристрій, конфігурацію обладнання і спосіб використання розширення Mozilla VPN.",
     "description": "Checkbox label on the settings page"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Увімкнути захист для Firefox",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "messageSplitTunnelBody": {
+    "message": "Firefox наразі додано до винятків у програмі Mozilla VPN. Щоб користуватися цим розширенням, відкрийте програму, перейдіть до меню Налаштування > Програми-винятки та вилучіть Firefox.",
+    "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }
