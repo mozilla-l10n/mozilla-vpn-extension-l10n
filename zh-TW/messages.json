@@ -351,5 +351,13 @@
   "telemetrySettingsCheckboxLabel": {
     "message": "此資料可幫助我們改善套件的功能與效能，當中包含您的裝置、硬體配置，以及如何使用 Mozilla VPN 擴充套件的相關資訊。",
     "description": "Checkbox label on the settings page"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "開啟 Firefox 的保護",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "messageSplitTunnelBody": {
+    "message": "Firefox 目前是 Mozilla VPN 當中的「排除的應用程式」。若要使用此擴充套件，請開啟 VPN 程式，然後到「設定 > 排除的應用程式」當中移除 Firefox。",
+    "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }
