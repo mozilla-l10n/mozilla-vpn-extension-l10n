@@ -351,5 +351,13 @@
   "telemetrySettingsCheckboxLabel": {
     "message": "Эти данные помогают нам улучшить возможности и производительность. Они включает в себя данные о вашем устройстве, конфигурации оборудования и как вы используете расширение Mozilla VPN.",
     "description": "Checkbox label on the settings page"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Включить защиту для Firefox",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "messageSplitTunnelBody": {
+    "message": "Firefox в настоящее время является «исключённым приложением» в приложении Mozilla VPN. Чтобы использовать это расширение, откройте его, перейдите в «Настройки» > «Исключённые приложения» и удалите Firefox.",
+    "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }
