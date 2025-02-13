@@ -351,5 +351,13 @@
   "telemetrySettingsCheckboxLabel": {
     "message": "Tute daty nam pomhaja, funkcije a wukon polěpšować. K nim słušeja daty wo wašim graće, hardwarowej konfiguraciji a kak rozšěrjenje Mozilla VPN wužiwaće.",
     "description": "Checkbox label on the settings page"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Škit za Firefox zmóžnić",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "messageSplitTunnelBody": {
+    "message": "Firefox je tuchwilu „wuzamknjene nałoženje“ w nałoženju Mozilla VPN. Zo byšće tute rozšěrjenje wužiwał, wočińće nałoženje a přeńdźće k Nastajenja > Wuzamknjene nałoženja a wotstrońće Firefox.",
+    "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }
