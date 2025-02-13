@@ -351,5 +351,13 @@
   "telemetrySettingsCheckboxLabel": {
     "message": "Bu veriler, özellikleri ve performansı geliştirmemize yardımcı olur. Cihazınız, donanım yapılandırmanız ve Mozilla VPN uzantısını nasıl kullandığınızla ilgili verileri içerir.",
     "description": "Checkbox label on the settings page"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Firefox’ta korumayı etkinleştir",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "messageSplitTunnelBody": {
+    "message": "Firefox şu anda Mozilla VPN uygulamasında “istisna” olarak ayarlı. Bu uzantıyı kullanmak için uygulamayı açıp Ayarlar > Uygulama istisnaları kısmına gidin ve Firefox’u kaldırın.",
+    "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }

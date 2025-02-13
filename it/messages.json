@@ -351,5 +351,13 @@
   "telemetrySettingsCheckboxLabel": {
     "message": "Questi dati ci aiutano a migliorare funzionalità e prestazioni. Sono inclusi dati sul tuo dispositivo, sulla sua configurazione hardware e su come utilizzi l’estensione Mozilla VPN.",
     "description": "Checkbox label on the settings page"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Attiva protezione per Firefox",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "messageSplitTunnelBody": {
+    "message": "Firefox è attualmente una “app esclusa” nell’applicazione Mozilla VPN. Per utilizzare questa estensione, apri l’applicazione, vai in Impostazioni > App escluse e rimuovi Firefox.",
+    "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }
