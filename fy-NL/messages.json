@@ -351,5 +351,13 @@
   "telemetrySettingsCheckboxLabel": {
     "message": "Dizze gegevens helpe ús funksjes en prestaasjes te ferbetterjen. It omfettet gegevens oer jo apparaat, hardwarekonfiguraasje, en hoe’t jo de Mozilla VPN-útwreiding brûke.",
     "description": "Checkbox label on the settings page"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Beskerming foar Firefox ynskeakelje",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "messageSplitTunnelBody": {
+    "message": "Firefox is op dit stuit in ‘útsûndere app’ yn de Mozilla VPN-tapassing. Iepenje om dizze útwreiding te brûken de tapassing, gean nei Ynstellingen > Utsûndere apps en smyt Firefox fuort.",
+    "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }

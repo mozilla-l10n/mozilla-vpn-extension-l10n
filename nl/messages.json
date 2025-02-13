@@ -351,5 +351,13 @@
   "telemetrySettingsCheckboxLabel": {
     "message": "Deze gegevens helpen ons functies en prestaties te verbeteren. Het omvat gegevens over uw apparaat, hardwareconfiguratie en hoe u de Mozilla VPN-extensie gebruikt.",
     "description": "Checkbox label on the settings page"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Bescherming voor Firefox inschakelen",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "messageSplitTunnelBody": {
+    "message": "Firefox is momenteel een ‘uitgezonderde app’ in de Mozilla VPN-toepassing. Open om deze extensie te gebruiken de toepassing, ga naar Instellingen > Uitgezonderde apps en verwijder Firefox.",
+    "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }
