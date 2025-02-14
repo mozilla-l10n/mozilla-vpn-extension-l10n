@@ -351,5 +351,13 @@
   "telemetrySettingsCheckboxLabel": {
     "message": "Denna data hjälper oss att förbättra funktioner och prestanda. Den innehåller data om din enhet, hårdvarukonfiguration och hur du använder Mozilla VPN-tillägget.",
     "description": "Checkbox label on the settings page"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Aktivera skydd för Firefox",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "messageSplitTunnelBody": {
+    "message": "Firefox är för närvarande en ”utesluten app” i Mozilla VPN-applikationen. För att använda tillägget, öppna applikationen och gå till Inställningar > Uteslutna appar och ta bort Firefox.",
+    "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }
