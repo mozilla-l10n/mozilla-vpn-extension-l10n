@@ -335,5 +335,9 @@
   "telemetrySettingsCheckboxLabel": {
     "message": "ਇਹ ਡਾਟਾ ਫ਼ੀਚਰ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਸੁਧਾਰਨ ਲਈ ਸਾਡੀ ਮਦਦ ਕਰਦਾ ਹੈ। ਇਸ ਵਿੱਚ ਤੁਹਾਡੇ ਡਿਵਾਈਸ, ਹਾਰਡਵੇਅਰ ਸੰਰਚਨਾ ਅਤੇ ਤੁਸੀਂ Mozilla VPN ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਕਿਵੇਂ ਵਰਤਦੇ ਹੋ ਦੇ ਬਾਰੇ ਡਾਟਾ ਸ਼ਾਮਲ ਹੈ।",
     "description": "Checkbox label on the settings page"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Firefox ਲਈ ਸੁਰੱਖਿਆ ਸਮਰੱਥ ਕਰੋ",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }
