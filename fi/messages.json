@@ -57,6 +57,10 @@
     "message": "Päällä",
     "description": "Label indicating that the VPN is on."
   },
+  "placeholderSearchWebsites": {
+    "message": "Etsi sivustoja",
+    "description": "Placeholder text for the search input field to search websites."
+  },
   "tableHeadingWebsite": {
     "message": "Sivusto",
     "description": "Table heading for the column listing websites."
@@ -205,6 +209,10 @@
   "done": {
     "message": "Valmis",
     "description": "Label of button in final onboarding panel."
+  },
+  "settingsPageTitle": {
+    "message": "Mozilla VPN:n sivustoasetukset",
+    "description": "Title for settings page tab."
   },
   "noSignal": {
     "message": "Ei signaalia",
