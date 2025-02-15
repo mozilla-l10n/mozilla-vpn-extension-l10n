@@ -351,5 +351,13 @@
   "telemetrySettingsCheckboxLabel": {
     "message": "Αυτά τα δεδομένα βοηθούν να βελτιώσουμε τις λειτουργίες και τις επιδόσεις. Περιλαμβάνονται δεδομένα για τη συσκευή σας, τις ρυθμίσεις του υλικού σας και τον τρόπο χρήσης της επέκτασης Mozilla VPN.",
     "description": "Checkbox label on the settings page"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Ενεργοποίηση προστασίας για το Firefox",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "messageSplitTunnelBody": {
+    "message": "Αυτήν τη στιγμή, το Firefox έχει οριστεί ως «εξαιρούμενη εφαρμογή» στην εφαρμογή του Mozilla VPN. Για να χρησιμοποιήσετε αυτήν την επέκταση, ανοίξτε την εφαρμογή, μεταβείτε στις Ρυθμίσεις > Εξαιρούμενες εφαρμογές και αφαιρέστε το Firefox.",
+    "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }
