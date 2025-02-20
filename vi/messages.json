@@ -351,5 +351,9 @@
   "telemetrySettingsCheckboxLabel": {
     "message": "Dữ liệu này giúp chúng tôi cải thiện các tính năng và hiệu suất. Nó bao gồm dữ liệu về thiết bị của bạn, cấu hình phần cứng và cách bạn sử dụng tiện ích mở rộng Mozilla VPN.",
     "description": "Checkbox label on the settings page"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Bật chế độ bảo vệ cho Firefox",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }
