@@ -351,5 +351,13 @@
   "telemetrySettingsCheckboxLabel": {
     "message": "Mae'r data hwn yn ein helpu i wella nodweddion a pherfformiad. Mae'n cynnwys data am eich dyfais, ffurfweddiad caledwedd, a sut rydych chi'n defnyddio estyniad Mozilla VPN.",
     "description": "Checkbox label on the settings page"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Galluogi diogelu ar gyfer Firefox",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "messageSplitTunnelBody": {
+    "message": "Ar hyn o bryd mae Firefox yn “ap gwaharddedig” yn rhaglen Mozilla VPN. I ddefnyddio'r estyniad hwn, agorwch y rhaglen ac ewch i Gosodiadau > Apiau Eithriedig a thynnu Firefox.",
+    "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }
