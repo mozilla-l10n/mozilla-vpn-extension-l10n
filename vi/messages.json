@@ -355,5 +355,9 @@
   "messageSplitTunnelHeader": {
     "message": "Bật chế độ bảo vệ cho Firefox",
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "messageSplitTunnelBody": {
+    "message": "Firefox hiện tại là “ứng dụng bị loại trừ” trong ứng dụng Mozilla VPN. Để sử dụng tiện ích mở rộng này, hãy mở ứng dụng, đi đến Cài đặt và xoá Firefox trong danh sách Loại trừ ứng dụng.",
+    "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }
