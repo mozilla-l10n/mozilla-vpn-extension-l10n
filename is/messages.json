@@ -124,6 +124,10 @@
     "message": "Setja upp Mozilla VPN",
     "description": "Header if a VPN installation was not found."
   },
+  "bodyInstallMsgFooter": {
+    "message": "Athugaðu að Mozilla VPN er greidd áskriftarþjónusta.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
   "btnDownloadNow": {
     "message": "Sækja núna",
     "description": "This is a call to action button to download the VPN."
@@ -216,6 +220,16 @@
     "message": "Slökkt á Mozilla VPN fyrir vefsvæði",
     "description": "Aria label."
   },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: Staðsetning Mozilla VPN vefsívæðis",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "serverlocation": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
+  },
   "alert_conflictingProgram": {
     "message": "Forrit á tölvunni þinni gæti verið að valda vandamálum með Mozilla VPN forritsaukanum.",
     "description": "Banner alert"
@@ -223,6 +237,10 @@
   "howToFix": {
     "message": "Hvernig er hægt að laga þetta",
     "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Aðrar viðbætur gætu truflað hvernig Mozilla VPN forritsaukinn virkar.",
+    "description": "Banner alert"
   },
   "learnWhatToDo": {
     "message": "Lærðu hvað þarf að gera",
@@ -255,5 +273,13 @@
   "telemetryCheckboxLabel": {
     "message": "Leyfa Mozilla að safna tækni- og samskiptagögnum",
     "description": "Checkbox label"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Virkja varnir fyrir Firefox",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "messageSplitTunnelBody": {
+    "message": "Firefox er sem stendur „útilokað forrit“ í Mozilla VPN-forritinu. Til að nota þessa viðbót skaltu opna forritið og fara í Stillingar > Útilokuð forrit og fjarlægja Firefox.",
+    "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }
