@@ -90,6 +90,14 @@
   "titleSubscribeNow": {
     "message": "\u8a02\u95b1 Mozilla VPN\u3002"
   },
+  "bodySubscribeNow2": {
+    "message": "\u627e\u4e0d\u5230\u65bc Mozilla VPN \u61c9\u7528\u7a0b\u5f0f\u767b\u5165\u7684\u5e33\u865f\u7684\u8a02\u95b1\u7d00\u9304\u3002",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "footerSubscribeNow": {
+    "message": "\u82e5\u8981\u4f7f\u7528\u6b64\u64f4\u5145\u5957\u4ef6\uff0c\u8acb\u8a02\u95b1\u3002",
+    "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
+  },
   "btnSubscribeNow": {
     "message": "\u7acb\u5373\u8a02\u95b1",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
