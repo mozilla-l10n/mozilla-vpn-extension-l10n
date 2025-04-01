@@ -90,6 +90,14 @@
   "titleSubscribeNow": {
     "message": "Mozilla VPN\u2019e abone olun."
   },
+  "bodySubscribeNow2": {
+    "message": "Mozilla VPN uygulamas\u0131na giri\u015f yapt\u0131\u011f\u0131n\u0131z hesaba ba\u011fl\u0131 bir abonelik bulamad\u0131k.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "footerSubscribeNow": {
+    "message": "Bu uzant\u0131y\u0131 kullanmak i\u00e7in l\u00fctfen abone olun.",
+    "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
+  },
   "btnSubscribeNow": {
     "message": "\u015eimdi abone ol",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
