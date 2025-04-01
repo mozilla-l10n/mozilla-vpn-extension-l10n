@@ -90,6 +90,14 @@
   "titleSubscribeNow": {
     "message": "Subscribe to Mozilla VPN."
   },
+  "bodySubscribeNow2": {
+    "message": "We couldn\u2019t find a subscription tied to the account you used to sign in on the Mozilla VPN app.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "footerSubscribeNow": {
+    "message": "To use this extension, please subscribe.",
+    "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
+  },
   "btnSubscribeNow": {
     "message": "Subscribe now",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
