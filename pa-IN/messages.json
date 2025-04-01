@@ -1,14 +1,14 @@
 {
   "extensionName": {
-    "message": "Mozilla VPN ਇਕਸਟੈਨਸ਼ਨ",
+    "message": "Mozilla VPN \u0a07\u0a15\u0a38\u0a1f\u0a48\u0a28\u0a36\u0a28",
     "description": "Name of the extension."
   },
   "extensionDescription": {
-    "message": "Firefox ਵਿੱਚ VPN ਜੋੜੋ: ਟੈਬਾਂ ਨੂੰ ਅਲਹਿਦਾ ਰੱਖੋ, ਸਾਈਟ ਟਿਕਾਣੇ ਸੈੱਟ ਕਰੋ ਅਤੇ ਹੋਰ ਕੋਈ ਕੁਝ!",
+    "message": "Firefox \u0a35\u0a3f\u0a71\u0a1a VPN \u0a1c\u0a4b\u0a5c\u0a4b: \u0a1f\u0a48\u0a2c\u0a3e\u0a02 \u0a28\u0a42\u0a70 \u0a05\u0a32\u0a39\u0a3f\u0a26\u0a3e \u0a30\u0a71\u0a16\u0a4b, \u0a38\u0a3e\u0a08\u0a1f \u0a1f\u0a3f\u0a15\u0a3e\u0a23\u0a47 \u0a38\u0a48\u0a71\u0a1f \u0a15\u0a30\u0a4b \u0a05\u0a24\u0a47 \u0a39\u0a4b\u0a30 \u0a15\u0a4b\u0a08 \u0a15\u0a41\u0a1d!",
     "description": "Description of the extension."
   },
   "back": {
-    "message": "ਪਿੱਛੇ",
+    "message": "\u0a2a\u0a3f\u0a71\u0a1b\u0a47",
     "description": "Alternative text attribute for back button."
   },
   "productName": {
@@ -16,328 +16,306 @@
     "description": "Name of the product."
   },
   "titleServerList": {
-    "message": "ਵੈੱਬਸਾਈਟ ਲਈ ਟਿਕਾਣਾ",
+    "message": "\u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f \u0a32\u0a08 \u0a1f\u0a3f\u0a15\u0a3e\u0a23\u0a3e",
     "description": "Title for a dialog where users can set the location for a website."
   },
   "selectWebsiteLocation": {
-    "message": "ਵੈੱਬਸਾਈਟ ਲਈ ਟਿਕਾਣਾ ਚੁਣੋ",
+    "message": "\u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f \u0a32\u0a08 \u0a1f\u0a3f\u0a15\u0a3e\u0a23\u0a3e \u0a1a\u0a41\u0a23\u0a4b",
     "description": "Button label."
   },
   "titlePageSettings": {
-    "message": "ਇਸ ਵੈੱਬਸਾਈਟ ਲਈ ਪਸੰਦਾਂ",
+    "message": "\u0a07\u0a38 \u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f \u0a32\u0a08 \u0a2a\u0a38\u0a70\u0a26\u0a3e\u0a02",
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
   "excludePageFor": {
-    "message": "$ORIGIN$ ਵਾਸਤੇ VPN ਸੁਰੱਖਿਆ ਨੂੰ ਹਮੇਸ਼ਾਂ ਬੰਦ ਕਰੋ",
-    "description": "Setting to exclude a website from VPN.",
-    "placeholders": {
-      "origin": {
-        "content": "$1",
-        "example": "developer.mozilla.org"
-      }
-    }
+    "message": "$ORIGIN$ \u0a35\u0a3e\u0a38\u0a24\u0a47 VPN \u0a38\u0a41\u0a30\u0a71\u0a16\u0a3f\u0a06 \u0a28\u0a42\u0a70 \u0a39\u0a2e\u0a47\u0a36\u0a3e\u0a02 \u0a2c\u0a70\u0a26 \u0a15\u0a30\u0a4b",
+    "description": "Setting to exclude a website from VPN."
   },
   "resetPageSettings": {
-    "message": "ਵੈੱਬਸਾਈਟ ਪਸੰਦਾਂ ਨੂੰ ਮੁੜ-ਸੈੱਟ ਕਰੋ",
+    "message": "\u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f \u0a2a\u0a38\u0a70\u0a26\u0a3e\u0a02 \u0a28\u0a42\u0a70 \u0a2e\u0a41\u0a5c-\u0a38\u0a48\u0a71\u0a1f \u0a15\u0a30\u0a4b",
     "description": "Button text to reset all site specific settings."
   },
   "vpnIsOn": {
-    "message": "Firefox ਲਈ VPN ਸੁਰੱਖਿਆ ਨੂੰ ਚਾਲੂ ਕਰੋ",
+    "message": "Firefox \u0a32\u0a08 VPN \u0a38\u0a41\u0a30\u0a71\u0a16\u0a3f\u0a06 \u0a28\u0a42\u0a70 \u0a1a\u0a3e\u0a32\u0a42 \u0a15\u0a30\u0a4b",
     "description": "Header to signal that VPN connection is enabled."
   },
   "vpnIsOff": {
-    "message": "Firefox ਲਈ VPN ਸੁਰੱਖਿਆ ਨੂੰ ਬੰਦ ਕਰੋ",
+    "message": "Firefox \u0a32\u0a08 VPN \u0a38\u0a41\u0a30\u0a71\u0a16\u0a3f\u0a06 \u0a28\u0a42\u0a70 \u0a2c\u0a70\u0a26 \u0a15\u0a30\u0a4b",
     "description": "Header to signal that VPN connection is disabled."
   },
   "extensionVpnIsOff": {
-    "message": "Mozilla VPN ਹਾਲੇ ਵੀ ਚਾਲੂ ਹੈ, ਆਪਣੇ ਸਾਰੇ ਕੰਪਿਊਟਰ ਨੂੰ ਵੀ ਸੁਰੱਖਿਅਤ ਬਣਾਓ।",
+    "message": "Mozilla VPN \u0a39\u0a3e\u0a32\u0a47 \u0a35\u0a40 \u0a1a\u0a3e\u0a32\u0a42 \u0a39\u0a48, \u0a06\u0a2a\u0a23\u0a47 \u0a38\u0a3e\u0a30\u0a47 \u0a15\u0a70\u0a2a\u0a3f\u0a0a\u0a1f\u0a30 \u0a28\u0a42\u0a70 \u0a35\u0a40 \u0a38\u0a41\u0a30\u0a71\u0a16\u0a3f\u0a05\u0a24 \u0a2c\u0a23\u0a3e\u0a13\u0964",
     "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
   },
   "vpnOffStatus": {
-    "message": "ਬੰਦ",
+    "message": "\u0a2c\u0a70\u0a26",
     "description": "Label indicating that the VPN is off."
   },
   "vpnOnStatus": {
-    "message": "ਚਾਲੂ",
+    "message": "\u0a1a\u0a3e\u0a32\u0a42",
     "description": "Label indicating that the VPN is on."
   },
   "placeholderSearchWebsites": {
-    "message": "ਵੈੱਬਸਾਈਟ ਖੋਜ",
+    "message": "\u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f \u0a16\u0a4b\u0a1c",
     "description": "Placeholder text for the search input field to search websites."
   },
   "tableHeadingWebsite": {
-    "message": "ਵੈੱਬਸਾਈਟ",
+    "message": "\u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f",
     "description": "Table heading for the column listing websites."
   },
   "tableHeadingVpnStatus": {
-    "message": "ਵੈੱਬਸਾਈਟ ਦੀ ਸੁਰੱਖਿਆ",
+    "message": "\u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f \u0a26\u0a40 \u0a38\u0a41\u0a30\u0a71\u0a16\u0a3f\u0a06",
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   },
   "headlineNoWebsitePreferences": {
-    "message": "ਤੁਸੀਂ ਹਾਲੇ ਕਿਸੇ ਵੀ ਵੈੱਬਸਾਈਟ ਲਈ ਪਸੰਦ ਸੈੱਟ ਨਹੀਂ ਕੀਤੀ ਹੈ",
-    "description": "Headline shown when the user hasn’t set any website preferences."
+    "message": "\u0a24\u0a41\u0a38\u0a40\u0a02 \u0a39\u0a3e\u0a32\u0a47 \u0a15\u0a3f\u0a38\u0a47 \u0a35\u0a40 \u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f \u0a32\u0a08 \u0a2a\u0a38\u0a70\u0a26 \u0a38\u0a48\u0a71\u0a1f \u0a28\u0a39\u0a40\u0a02 \u0a15\u0a40\u0a24\u0a40 \u0a39\u0a48",
+    "description": "Headline shown when the user hasn\u2019t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
-    "message": "Firefox ਇਕਸਟੈਨਸ਼ਨ ਨਾਲ ਤੁਸੀਂ ਕਿਸੇ ਵੈੱਬਸਾਈਟ ਲਈ Mozilla VPN ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ ਜਾਂ ਪਸੰਦੀਦਾ ਟਿਕਾਣਾ ਸੈੱਟ ਕਰ ਸਕਦੇ ਹੋ। ਇਹ ਕਰਨ ਲਈ ਵੈੱਬਸਾਈਟ ਨੂੰ ਖੋਲ੍ਹੋ, ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਖੋਲ੍ਹੋ ਅਤੇ ਵੈੱਬਸਾਈਟ ਪਸੰਦਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ।",
+    "message": "Firefox \u0a07\u0a15\u0a38\u0a1f\u0a48\u0a28\u0a36\u0a28 \u0a28\u0a3e\u0a32 \u0a24\u0a41\u0a38\u0a40\u0a02 \u0a15\u0a3f\u0a38\u0a47 \u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f \u0a32\u0a08 Mozilla VPN \u0a28\u0a42\u0a70 \u0a2c\u0a70\u0a26 \u0a15\u0a30 \u0a38\u0a15\u0a26\u0a47 \u0a39\u0a4b \u0a1c\u0a3e\u0a02 \u0a2a\u0a38\u0a70\u0a26\u0a40\u0a26\u0a3e \u0a1f\u0a3f\u0a15\u0a3e\u0a23\u0a3e \u0a38\u0a48\u0a71\u0a1f \u0a15\u0a30 \u0a38\u0a15\u0a26\u0a47 \u0a39\u0a4b\u0964 \u0a07\u0a39 \u0a15\u0a30\u0a28 \u0a32\u0a08 \u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f \u0a28\u0a42\u0a70 \u0a16\u0a4b\u0a32\u0a4d\u0a39\u0a4b, \u0a07\u0a15\u0a38\u0a1f\u0a48\u0a28\u0a38\u0a3c\u0a28 \u0a28\u0a42\u0a70 \u0a16\u0a4b\u0a32\u0a4d\u0a39\u0a4b \u0a05\u0a24\u0a47 \u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f \u0a2a\u0a38\u0a70\u0a26\u0a3e\u0a02 \u0a28\u0a42\u0a70 \u0a05\u0a71\u0a2a\u0a21\u0a47\u0a1f \u0a15\u0a30\u0a4b\u0964",
     "description": "Subtext shown when there are no website preferences set by the user."
   },
   "altTextRemoveWebsiteButton": {
-    "message": "$ORIGIN$ ਲਈ ਨਿਯਮ ਨੂੰ ਹਟਾਓ",
-    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
-    "placeholders": {
-      "origin": {
-        "content": "$1",
-        "example": "developer.mozilla.org"
-      }
-    }
+    "message": "$ORIGIN$ \u0a32\u0a08 \u0a28\u0a3f\u0a2f\u0a2e \u0a28\u0a42\u0a70 \u0a39\u0a1f\u0a3e\u0a13",
+    "description": "Alternative text for the button that removes a website rule from the list of preferences."
   },
   "altTextOpenSettingsPage": {
-    "message": "ਸੈਟਿੰਗਾਂ ਸਫ਼ੇ ਨੂੰ ਖੋਲ੍ਹੋ",
+    "message": "\u0a38\u0a48\u0a1f\u0a3f\u0a70\u0a17\u0a3e\u0a02 \u0a38\u0a5e\u0a47 \u0a28\u0a42\u0a70 \u0a16\u0a4b\u0a32\u0a4d\u0a39\u0a4b",
     "description": "Alternative text for the button that opens the Extensions Settings page."
   },
   "searchServer": {
-    "message": "ਟਿਕਾਣਿਆਂ ਨੂੰ ਖੋਜੋ",
+    "message": "\u0a1f\u0a3f\u0a15\u0a3e\u0a23\u0a3f\u0a06\u0a02 \u0a28\u0a42\u0a70 \u0a16\u0a4b\u0a1c\u0a4b",
     "description": "Placeholder for the Input field where users can search the list of servers."
   },
   "titleSubscribeNow": {
-    "message": "Mozilla VPN ਦੇ ਮੈਂਬਰ ਬਣੋ।"
-  },
-  "bodySubscribeNow": {
-    "message": "ਇੰਞ ਜਾਪਦਾ ਹੈ ਕਿ ਤੁਸੀਂ ਹਾਲੇ Mozilla VPN ਲਈ ਮੈਂਬਰ ਨਹੀਂ ਬਣੇ ਹੋ। ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਵਰਤਣ ਲਈ ਮੈਂਬਰ ਬਣੋ।",
-    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+    "message": "Mozilla VPN \u0a26\u0a47 \u0a2e\u0a48\u0a02\u0a2c\u0a30 \u0a2c\u0a23\u0a4b\u0964"
   },
   "btnSubscribeNow": {
-    "message": "ਹੁਣੇ ਮੈਂਬਰ ਬਣੋ",
+    "message": "\u0a39\u0a41\u0a23\u0a47 \u0a2e\u0a48\u0a02\u0a2c\u0a30 \u0a2c\u0a23\u0a4b",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
   },
   "getHelp": {
-    "message": "ਮਦਦ ਲਵੋ",
+    "message": "\u0a2e\u0a26\u0a26 \u0a32\u0a35\u0a4b",
     "description": "Text of a link pointing to a relevant help page."
   },
   "headerOpenMozillaVPN": {
-    "message": "Mozilla VPN ਨੂੰ ਖੋਲ੍ਹੋ",
+    "message": "Mozilla VPN \u0a28\u0a42\u0a70 \u0a16\u0a4b\u0a32\u0a4d\u0a39\u0a4b",
     "description": "Headline."
   },
   "headerSignedOut": {
-    "message": "Mozilla VPN ਐਪ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।"
+    "message": "Mozilla VPN \u0a10\u0a2a \u0a35\u0a3f\u0a71\u0a1a \u0a38\u0a3e\u0a08\u0a28 \u0a07\u0a28 \u0a15\u0a30\u0a4b\u0964"
   },
   "bodySignedOut": {
-    "message": "ਤੁਸੀਂ ਇਸ ਵੇਲੇ Mozilla VPN ਐਪ ਵਿੱਚੋਂ ਸਾਈਨ ਆਉਟ ਹੋ। Mozilla VPN Firefox ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਵਰਤਣ ਲਈ ਆਪਣੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਐਪ ਨੂੰ ਖੋਲ੍ਹੋ ਅਤੇ ਆਪਣੇ ਖਾਤੇ ਵਿੱਚ ਸਾਈਨ ਇਨ ਕਰੋ।"
+    "message": "\u0a24\u0a41\u0a38\u0a40\u0a02 \u0a07\u0a38 \u0a35\u0a47\u0a32\u0a47 Mozilla VPN \u0a10\u0a2a \u0a35\u0a3f\u0a71\u0a1a\u0a4b\u0a02 \u0a38\u0a3e\u0a08\u0a28 \u0a06\u0a09\u0a1f \u0a39\u0a4b\u0964 Mozilla VPN Firefox \u0a07\u0a15\u0a38\u0a1f\u0a48\u0a28\u0a36\u0a28 \u0a28\u0a42\u0a70 \u0a35\u0a30\u0a24\u0a23 \u0a32\u0a08 \u0a06\u0a2a\u0a23\u0a47 \u0a15\u0a70\u0a2a\u0a3f\u0a0a\u0a1f\u0a30 \u0a09\u0a71\u0a24\u0a47 \u0a10\u0a2a \u0a28\u0a42\u0a70 \u0a16\u0a4b\u0a32\u0a4d\u0a39\u0a4b \u0a05\u0a24\u0a47 \u0a06\u0a2a\u0a23\u0a47 \u0a16\u0a3e\u0a24\u0a47 \u0a35\u0a3f\u0a71\u0a1a \u0a38\u0a3e\u0a08\u0a28 \u0a07\u0a28 \u0a15\u0a30\u0a4b\u0964"
   },
   "btnOpenVpn": {
-    "message": "Mozilla VPN ਨੂੰ ਖੋਲ੍ਹੋ।"
+    "message": "Mozilla VPN \u0a28\u0a42\u0a70 \u0a16\u0a4b\u0a32\u0a4d\u0a39\u0a4b\u0964"
   },
   "headerNeedsUpdate": {
-    "message": "Mozilla VPN ਨੂੰ ਅੱਪਡੇਟ ਕਰੋ",
+    "message": "Mozilla VPN \u0a28\u0a42\u0a70 \u0a05\u0a71\u0a2a\u0a21\u0a47\u0a1f \u0a15\u0a30\u0a4b",
     "description": "This is the headline of an error panel."
   },
   "bodyNeedsUpdate2": {
-    "message": "ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਵਰਤਣ ਲਈ ਪਹਿਲਾਂ ਨਵੀਂ Mozilla VPN ਐਪ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਕੇ ਇੰਸਟਾਲ ਕਰੋ।",
+    "message": "\u0a07\u0a38 \u0a07\u0a15\u0a38\u0a1f\u0a48\u0a28\u0a36\u0a28 \u0a28\u0a42\u0a70 \u0a35\u0a30\u0a24\u0a23 \u0a32\u0a08 \u0a2a\u0a39\u0a3f\u0a32\u0a3e\u0a02 \u0a28\u0a35\u0a40\u0a02 Mozilla VPN \u0a10\u0a2a \u0a28\u0a42\u0a70 \u0a21\u0a3e\u0a0a\u0a28\u0a32\u0a4b\u0a21 \u0a15\u0a30\u0a15\u0a47 \u0a07\u0a70\u0a38\u0a1f\u0a3e\u0a32 \u0a15\u0a30\u0a4b\u0964",
     "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
-    "message": "Mozilla VPN ਇੰਸਟਾਲ ਕਰੋ",
+    "message": "Mozilla VPN \u0a07\u0a70\u0a38\u0a1f\u0a3e\u0a32 \u0a15\u0a30\u0a4b",
     "description": "Header if a VPN installation was not found."
   },
   "bodyOpenMsg": {
-    "message": "Mozilla VPN Firefox ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਵਰਤਣ ਲਈ ਪਹਿਲਾਂ Mozilla VPN ਐਪ ਨੂੰ ਪਹਿਲਾਂ ਵਰਤੋਂ।",
+    "message": "Mozilla VPN Firefox \u0a07\u0a15\u0a38\u0a1f\u0a48\u0a28\u0a36\u0a28 \u0a28\u0a42\u0a70 \u0a35\u0a30\u0a24\u0a23 \u0a32\u0a08 \u0a2a\u0a39\u0a3f\u0a32\u0a3e\u0a02 Mozilla VPN \u0a10\u0a2a \u0a28\u0a42\u0a70 \u0a2a\u0a39\u0a3f\u0a32\u0a3e\u0a02 \u0a35\u0a30\u0a24\u0a4b\u0a02\u0964",
     "description": "Popup subtitle text."
   },
   "bodyInstallMsg": {
-    "message": "ਇਸ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਵਰਤਣ ਲਈ ਪਹਿਲਾਂ ਆਪਣੇ ਕੰਪਿਊਟਰ ਉੱਤੇ Mozilla VPN ਐਪ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਕੇ ਇੰਸਟਾਲ ਕਰੋ।"
+    "message": "\u0a07\u0a38 \u0a07\u0a15\u0a38\u0a1f\u0a48\u0a28\u0a36\u0a28 \u0a28\u0a42\u0a70 \u0a35\u0a30\u0a24\u0a23 \u0a32\u0a08 \u0a2a\u0a39\u0a3f\u0a32\u0a3e\u0a02 \u0a06\u0a2a\u0a23\u0a47 \u0a15\u0a70\u0a2a\u0a3f\u0a0a\u0a1f\u0a30 \u0a09\u0a71\u0a24\u0a47 Mozilla VPN \u0a10\u0a2a \u0a28\u0a42\u0a70 \u0a21\u0a3e\u0a0a\u0a28\u0a32\u0a4b\u0a21 \u0a15\u0a30\u0a15\u0a47 \u0a07\u0a70\u0a38\u0a1f\u0a3e\u0a32 \u0a15\u0a30\u0a4b\u0964"
   },
   "bodyInstallMsgFooter": {
-    "message": "ਯਾਦ ਰੱਖੋ ਕਿ Mozilla VPN ਭੁਗਤਾਨ ਵਾਲੀ ਮੈਂਬਰ ਸੇਵਾ ਹੈ।",
-    "description": "This is a footnote for “bodyInstallMsg”."
+    "message": "\u0a2f\u0a3e\u0a26 \u0a30\u0a71\u0a16\u0a4b \u0a15\u0a3f Mozilla VPN \u0a2d\u0a41\u0a17\u0a24\u0a3e\u0a28 \u0a35\u0a3e\u0a32\u0a40 \u0a2e\u0a48\u0a02\u0a2c\u0a30 \u0a38\u0a47\u0a35\u0a3e \u0a39\u0a48\u0964",
+    "description": "This is a footnote for \u201cbodyInstallMsg\u201d."
   },
   "btnDownloadNow": {
-    "message": "ਹੁਣੇ ਡਾਊਨਲੋਡ ਕਰੋ",
+    "message": "\u0a39\u0a41\u0a23\u0a47 \u0a21\u0a3e\u0a0a\u0a28\u0a32\u0a4b\u0a21 \u0a15\u0a30\u0a4b",
     "description": "This is a call to action button to download the VPN."
   },
   "defaultLocationHeader": {
-    "message": "Mozilla VPN ਟਿਕਾਨੇ ਨੂੰ ਵਰਤੋਂ।"
+    "message": "Mozilla VPN \u0a1f\u0a3f\u0a15\u0a3e\u0a28\u0a47 \u0a28\u0a42\u0a70 \u0a35\u0a30\u0a24\u0a4b\u0a02\u0964"
   },
   "useDefaultLocationExplainer": {
-    "message": "ਉਹੀ ਟਿਕਾਣੇ ਨੂੰ ਵਰਤੋਂ, ਜਿਸ ਨਾਲ Mozilla VPN ਐਪ ਇਸ ਕੰਪਿਊਟਰ ਨੂੰ ਸੁਰੱਖਿਆ ਦੇ ਰਹੀ ਹੈ।",
-    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+    "message": "\u0a09\u0a39\u0a40 \u0a1f\u0a3f\u0a15\u0a3e\u0a23\u0a47 \u0a28\u0a42\u0a70 \u0a35\u0a30\u0a24\u0a4b\u0a02, \u0a1c\u0a3f\u0a38 \u0a28\u0a3e\u0a32 Mozilla VPN \u0a10\u0a2a \u0a07\u0a38 \u0a15\u0a70\u0a2a\u0a3f\u0a0a\u0a1f\u0a30 \u0a28\u0a42\u0a70 \u0a38\u0a41\u0a30\u0a71\u0a16\u0a3f\u0a06 \u0a26\u0a47 \u0a30\u0a39\u0a40 \u0a39\u0a48\u0964",
+    "description": "Explanation of what \u201cUse default Mozilla VPN Location\u201d means."
   },
   "headerUnsupportedOSMessage": {
-    "message": "ਗ਼ੈਰ-ਸਹਾਇਕ ਪਲੇਟਫਾਰਮ।"
+    "message": "\u0a17\u0a3c\u0a48\u0a30-\u0a38\u0a39\u0a3e\u0a07\u0a15 \u0a2a\u0a32\u0a47\u0a1f\u0a2b\u0a3e\u0a30\u0a2e\u0964"
   },
   "bodyUnsupportedOSMessage": {
-    "message": "ਇਸ ਵੇਲੇ Mozilla VPN ਇਕਸਟੈਨਸ਼ਨ ਸਿਰਫ਼ Windows ਡਿਵਾਈਸਾਂ ਕੋਲ ਹੀ ਮੌਜੂਦ ਹੈ।"
+    "message": "\u0a07\u0a38 \u0a35\u0a47\u0a32\u0a47 Mozilla VPN \u0a07\u0a15\u0a38\u0a1f\u0a48\u0a28\u0a36\u0a28 \u0a38\u0a3f\u0a30\u0a5e Windows \u0a21\u0a3f\u0a35\u0a3e\u0a08\u0a38\u0a3e\u0a02 \u0a15\u0a4b\u0a32 \u0a39\u0a40 \u0a2e\u0a4c\u0a1c\u0a42\u0a26 \u0a39\u0a48\u0964"
   },
   "footnoteUnsupportedOSMessage": {
-    "message": "ਅਸੀਂ ਛੇਤੀ ਹੀ macOS ਅਤੇ ਲੀਨਕਸ ਲਈ ਸਹਿਯੋਗ ਦੇਣ ਵਾਸਤੇ ਕੰਮ ਕਰ ਰਹੇ ਹਾਂ।"
+    "message": "\u0a05\u0a38\u0a40\u0a02 \u0a1b\u0a47\u0a24\u0a40 \u0a39\u0a40 macOS \u0a05\u0a24\u0a47 \u0a32\u0a40\u0a28\u0a15\u0a38 \u0a32\u0a08 \u0a38\u0a39\u0a3f\u0a2f\u0a4b\u0a17 \u0a26\u0a47\u0a23 \u0a35\u0a3e\u0a38\u0a24\u0a47 \u0a15\u0a70\u0a2e \u0a15\u0a30 \u0a30\u0a39\u0a47 \u0a39\u0a3e\u0a02\u0964"
   },
   "turnOnProtection": {
-    "message": "ਸੁਰੱਖਿਆ ਨੂੰ ਚਾਲੂ ਕਰੋ",
+    "message": "\u0a38\u0a41\u0a30\u0a71\u0a16\u0a3f\u0a06 \u0a28\u0a42\u0a70 \u0a1a\u0a3e\u0a32\u0a42 \u0a15\u0a30\u0a4b",
     "description": "Button label."
   },
   "removeCustomLocation": {
-    "message": "ਕਸਟਮ ਟਿਕਾਣੇ ਨੂੰ ਹਟਾਓ",
+    "message": "\u0a15\u0a38\u0a1f\u0a2e \u0a1f\u0a3f\u0a15\u0a3e\u0a23\u0a47 \u0a28\u0a42\u0a70 \u0a39\u0a1f\u0a3e\u0a13",
     "description": "Button label."
   },
   "websiteProtection": {
-    "message": "ਵੈੱਬਸਾਈਟ ਦੀ ਸੁਰੱਖਿਆ",
+    "message": "\u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f \u0a26\u0a40 \u0a38\u0a41\u0a30\u0a71\u0a16\u0a3f\u0a06",
     "description": "A subtitle that is followed by an off icon and the word 'Off'."
   },
   "giveFeedback": {
-    "message": "ਸੁਝਾਅ ਦਿਓ",
+    "message": "\u0a38\u0a41\u0a1d\u0a3e\u0a05 \u0a26\u0a3f\u0a13",
     "description": "Button label."
   },
   "learnMore": {
-    "message": "ਹੋਰ ਜਾਣੋ",
+    "message": "\u0a39\u0a4b\u0a30 \u0a1c\u0a3e\u0a23\u0a4b",
     "description": "Label of link that leads to SUMO."
   },
   "onboarding1_title": {
-    "message": "ਖਾਸ ਵੈੱਬਸਾਈਟਾਂ ਲਈ VPN ਨੂੰ ਬੰਦ ਕਰੋ",
+    "message": "\u0a16\u0a3e\u0a38 \u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f\u0a3e\u0a02 \u0a32\u0a08 VPN \u0a28\u0a42\u0a70 \u0a2c\u0a70\u0a26 \u0a15\u0a30\u0a4b",
     "description": "Title in onboarding panel."
   },
   "onboarding1_body": {
-    "message": "Firefox ਇਕਸਟੈਨਸ਼ਨ ਨਾਲ ਤੁਸੀਂ ਖਾਸ ਵੈੱਬਸਾਈਟਾਂ ਲਈ VPN ਸੁਰੱਖਿਆ ਨੂੰ ਬੰਦ ਕਰ ਸਕਦੇ ਹੋ, ਜਦ ਕਿ ਬਾਕੀਆਂ ਲਈ ਇਹ ਚਾਲੂ ਰਹੇ।",
+    "message": "Firefox \u0a07\u0a15\u0a38\u0a1f\u0a48\u0a28\u0a36\u0a28 \u0a28\u0a3e\u0a32 \u0a24\u0a41\u0a38\u0a40\u0a02 \u0a16\u0a3e\u0a38 \u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f\u0a3e\u0a02 \u0a32\u0a08 VPN \u0a38\u0a41\u0a30\u0a71\u0a16\u0a3f\u0a06 \u0a28\u0a42\u0a70 \u0a2c\u0a70\u0a26 \u0a15\u0a30 \u0a38\u0a15\u0a26\u0a47 \u0a39\u0a4b, \u0a1c\u0a26 \u0a15\u0a3f \u0a2c\u0a3e\u0a15\u0a40\u0a06\u0a02 \u0a32\u0a08 \u0a07\u0a39 \u0a1a\u0a3e\u0a32\u0a42 \u0a30\u0a39\u0a47\u0964",
     "description": "Body text in onboarding panel."
   },
   "onboarding2_title": {
-    "message": "ਵੱਖ-ਵੱਖ ਟਿਕਾਣਿਆਂ ਤੋਂ ਵੱਖ-ਵੱਖ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਵੇਖੋ",
+    "message": "\u0a35\u0a71\u0a16-\u0a35\u0a71\u0a16 \u0a1f\u0a3f\u0a15\u0a3e\u0a23\u0a3f\u0a06\u0a02 \u0a24\u0a4b\u0a02 \u0a35\u0a71\u0a16-\u0a35\u0a71\u0a16 \u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f\u0a3e\u0a02 \u0a28\u0a42\u0a70 \u0a35\u0a47\u0a16\u0a4b",
     "description": "Title in onboarding panel."
   },
   "onboarding2_body": {
-    "message": "ਦਿੱਲੀ ਤੋਂ ਖ਼ਬਰਾਂ। ਮੈਲਬੋਰਨ ਤੋਂ ਕ੍ਰਿਕਟ। ਡੁਬਈ ਤੋਂ ਖਰੀਦਦਾਰੀ। ਆਪਣੇ ਢੰਗ ਨਾਲ ਬਰਾਊਜ਼ ਕਰਨ ਲਈ ਵੈੱਬਸਾਈਟ ਲਈ ਖਾਸ ਟਿਕਾਣਾ ਸੈੱਟ ਕਰੋ।",
+    "message": "\u0a26\u0a3f\u0a71\u0a32\u0a40 \u0a24\u0a4b\u0a02 \u0a16\u0a3c\u0a2c\u0a30\u0a3e\u0a02\u0964 \u0a2e\u0a48\u0a32\u0a2c\u0a4b\u0a30\u0a28 \u0a24\u0a4b\u0a02 \u0a15\u0a4d\u0a30\u0a3f\u0a15\u0a1f\u0964 \u0a21\u0a41\u0a2c\u0a08 \u0a24\u0a4b\u0a02 \u0a16\u0a30\u0a40\u0a26\u0a26\u0a3e\u0a30\u0a40\u0964 \u0a06\u0a2a\u0a23\u0a47 \u0a22\u0a70\u0a17 \u0a28\u0a3e\u0a32 \u0a2c\u0a30\u0a3e\u0a0a\u0a1c\u0a3c \u0a15\u0a30\u0a28 \u0a32\u0a08 \u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f \u0a32\u0a08 \u0a16\u0a3e\u0a38 \u0a1f\u0a3f\u0a15\u0a3e\u0a23\u0a3e \u0a38\u0a48\u0a71\u0a1f \u0a15\u0a30\u0a4b\u0964",
     "description": "Body text in onboarding panel."
   },
   "onboarding3_title": {
-    "message": "Firefox ਲਈ ਸੁਰੱਖਿਆ “ਚਾਲੂ” ਰੱਖੋ",
+    "message": "Firefox \u0a32\u0a08 \u0a38\u0a41\u0a30\u0a71\u0a16\u0a3f\u0a06 \u201c\u0a1a\u0a3e\u0a32\u0a42\u201d \u0a30\u0a71\u0a16\u0a4b",
     "description": "Title in onboarding panel."
   },
   "onboarding3_body": {
-    "message": "ਫਾਇਰਫਾਕਸ ਲਈ VPN ਸੁਰੱਖਿਆ ਨੂੰ ਚਾਲੂ ਕਰਨ ਲਈ ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਵਰਤੋਂ — ਭਾਵੇਂ ਤੁਹਾਡੇ ਸਾਰੇ ਕੰਪਿਊਟਰ ਲਈ ਸੁਰੱਖਿਆ ਨੂੰ ਬੰਦ ਕੀਤਾ ਹੋਵੇ।",
+    "message": "\u0a2b\u0a3e\u0a07\u0a30\u0a2b\u0a3e\u0a15\u0a38 \u0a32\u0a08 VPN \u0a38\u0a41\u0a30\u0a71\u0a16\u0a3f\u0a06 \u0a28\u0a42\u0a70 \u0a1a\u0a3e\u0a32\u0a42 \u0a15\u0a30\u0a28 \u0a32\u0a08 \u0a07\u0a15\u0a38\u0a1f\u0a48\u0a28\u0a36\u0a28 \u0a28\u0a42\u0a70 \u0a35\u0a30\u0a24\u0a4b\u0a02 \u2014 \u0a2d\u0a3e\u0a35\u0a47\u0a02 \u0a24\u0a41\u0a39\u0a3e\u0a21\u0a47 \u0a38\u0a3e\u0a30\u0a47 \u0a15\u0a70\u0a2a\u0a3f\u0a0a\u0a1f\u0a30 \u0a32\u0a08 \u0a38\u0a41\u0a30\u0a71\u0a16\u0a3f\u0a06 \u0a28\u0a42\u0a70 \u0a2c\u0a70\u0a26 \u0a15\u0a40\u0a24\u0a3e \u0a39\u0a4b\u0a35\u0a47\u0964",
     "description": "Body text in onboarding panel."
   },
   "next": {
-    "message": "ਅੱਗੇ",
+    "message": "\u0a05\u0a71\u0a17\u0a47",
     "description": "Label of button to progress to next onboarding panel."
   },
   "skip": {
-    "message": "ਛੱਡੋ",
+    "message": "\u0a1b\u0a71\u0a21\u0a4b",
     "description": "Label of button to skip onboarding."
   },
   "done": {
-    "message": "ਮੁਕੰਮਲ",
+    "message": "\u0a2e\u0a41\u0a15\u0a70\u0a2e\u0a32",
     "description": "Label of button in final onboarding panel."
   },
   "headerReEnableFirefoxProtection": {
-    "message": "Firefox ਸੁਰੱਖਿਆ ਨੂੰ ਮੁੜ-ਸਮਰੱਥ ਕਰੋ",
+    "message": "Firefox \u0a38\u0a41\u0a30\u0a71\u0a16\u0a3f\u0a06 \u0a28\u0a42\u0a70 \u0a2e\u0a41\u0a5c-\u0a38\u0a2e\u0a30\u0a71\u0a25 \u0a15\u0a30\u0a4b",
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "settingsPageTitle": {
-    "message": "Mozilla VPN ਵੈੱਬਸਾਈਟ ਪਸੰਦਾਂ",
+    "message": "Mozilla VPN \u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f \u0a2a\u0a38\u0a70\u0a26\u0a3e\u0a02",
     "description": "Title for settings page tab."
   },
   "noSignal": {
-    "message": "ਕੋਈ ਸਿਗਨਲ ਨਹੀਂ",
+    "message": "\u0a15\u0a4b\u0a08 \u0a38\u0a3f\u0a17\u0a28\u0a32 \u0a28\u0a39\u0a40\u0a02",
     "description": "Indicator text describing the status of the VPN."
   },
   "unstable": {
-    "message": "ਅਸਥਿਰ",
+    "message": "\u0a05\u0a38\u0a25\u0a3f\u0a30",
     "description": "Indicator text describing the status of the VPN."
   },
   "connecting": {
-    "message": "…ਕਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ",
+    "message": "\u2026\u0a15\u0a28\u0a48\u0a15\u0a1f \u0a15\u0a40\u0a24\u0a3e \u0a1c\u0a3e \u0a30\u0a3f\u0a39\u0a3e \u0a39\u0a48",
     "description": "Indicator text describing the status of the VPN."
   },
   "helpCenter": {
-    "message": "ਮਦਦ ਕੇਂਦਰ",
+    "message": "\u0a2e\u0a26\u0a26 \u0a15\u0a47\u0a02\u0a26\u0a30",
     "description": "Link title."
   },
   "websitePreferences": {
-    "message": "ਵੈੱਬਸਾਈਟ ਲਈ ਪਸੰਦਾਂ",
+    "message": "\u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f \u0a32\u0a08 \u0a2a\u0a38\u0a70\u0a26\u0a3e\u0a02",
     "description": "Link title."
   },
   "contactSupport": {
-    "message": "ਸਹਾਇਤਾ ਟੀਮ ਨਾਲ ਸੰਪਰਕ ਕਰੋ",
+    "message": "\u0a38\u0a39\u0a3e\u0a07\u0a24\u0a3e \u0a1f\u0a40\u0a2e \u0a28\u0a3e\u0a32 \u0a38\u0a70\u0a2a\u0a30\u0a15 \u0a15\u0a30\u0a4b",
     "description": "Link title."
   },
   "offForWebsite": {
-    "message": "ਵੈੱਬਸਾਈਟ ਲਈ Mozilla VPN ਬੰਦ ਹੈ",
+    "message": "\u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f \u0a32\u0a08 Mozilla VPN \u0a2c\u0a70\u0a26 \u0a39\u0a48",
     "description": "Aria label."
   },
   "websiteLocationLabel": {
-    "message": "$SERVERLOCATION$: ਵੈੱਬਸਾਈਟ ਵਾਸਤੇ Mozilla VPN ਟਿਕਾਣਾ",
-    "description": "Aria label for a flag icon representing the location of the VPN server",
-    "placeholders": {
-      "serverlocation": {
-        "content": "$1",
-        "example": "Germany"
-      }
-    }
+    "message": "$SERVERLOCATION$: \u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f \u0a35\u0a3e\u0a38\u0a24\u0a47 Mozilla VPN \u0a1f\u0a3f\u0a15\u0a3e\u0a23\u0a3e",
+    "description": "Aria label for a flag icon representing the location of the VPN server"
   },
   "alert_conflictingProgram": {
-    "message": "ਤੁਹਾਡੇ ਕੰਪਿਊਟਰ ਉੱਤੇ ਕੋਈ ਪ੍ਰੋਗਰਾਮ Mozilla VPN ਇਕਸਟੈਨਸ਼ਨ ਨਾਲ ਮਸਲਾ ਖੜ੍ਹਾ ਕਰਦਾ ਹੋ ਸਕਦਾ ਹੈ।",
+    "message": "\u0a24\u0a41\u0a39\u0a3e\u0a21\u0a47 \u0a15\u0a70\u0a2a\u0a3f\u0a0a\u0a1f\u0a30 \u0a09\u0a71\u0a24\u0a47 \u0a15\u0a4b\u0a08 \u0a2a\u0a4d\u0a30\u0a4b\u0a17\u0a30\u0a3e\u0a2e Mozilla VPN \u0a07\u0a15\u0a38\u0a1f\u0a48\u0a28\u0a36\u0a28 \u0a28\u0a3e\u0a32 \u0a2e\u0a38\u0a32\u0a3e \u0a16\u0a5c\u0a4d\u0a39\u0a3e \u0a15\u0a30\u0a26\u0a3e \u0a39\u0a4b \u0a38\u0a15\u0a26\u0a3e \u0a39\u0a48\u0964",
     "description": "Banner alert"
   },
   "howToFix": {
-    "message": "ਇਸ ਨੂੰ ਕਿਵੇਂ ਠੀਕ ਕਰੀਏ",
+    "message": "\u0a07\u0a38 \u0a28\u0a42\u0a70 \u0a15\u0a3f\u0a35\u0a47\u0a02 \u0a20\u0a40\u0a15 \u0a15\u0a30\u0a40\u0a0f",
     "description": "Link in banner alert"
   },
   "learnWhatToDo": {
-    "message": "ਜਾਣੋ ਕਿ ਕੀ ਕਰੀਏ",
+    "message": "\u0a1c\u0a3e\u0a23\u0a4b \u0a15\u0a3f \u0a15\u0a40 \u0a15\u0a30\u0a40\u0a0f",
     "description": "Link in banner alert"
   },
   "telemetry_toggle_text": {
-    "message": "ਤਕਨੀਕੀ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟੇ ਨੂੰ ਸਾਂਝਾ ਕਰੋ",
+    "message": "\u0a24\u0a15\u0a28\u0a40\u0a15\u0a40 \u0a05\u0a24\u0a47 \u0a24\u0a3e\u0a32\u0a2e\u0a47\u0a32 \u0a21\u0a3e\u0a1f\u0a47 \u0a28\u0a42\u0a70 \u0a38\u0a3e\u0a02\u0a1d\u0a3e \u0a15\u0a30\u0a4b",
     "description": "Label for the Telemetry Opt-In toggle"
   },
   "privacy_notice_link_name": {
-    "message": "Mozilla ਮੈਂਬਰੀ ਸੇਵਾ ਪਰਦੇਦਾਰੀ ਸੂਚਨਾ",
+    "message": "Mozilla \u0a2e\u0a48\u0a02\u0a2c\u0a30\u0a40 \u0a38\u0a47\u0a35\u0a3e \u0a2a\u0a30\u0a26\u0a47\u0a26\u0a3e\u0a30\u0a40 \u0a38\u0a42\u0a1a\u0a28\u0a3e",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
   "privacyPolicyIntro": {
-    "message": "ਸਾਡੇ ਵਲੋਂ ਇਕੱਤਰ ਕੀਤੇ ਜਾਂਦੇ ਡਾਟੇ ਦੇ ਪੂਰੇ ਵੇਰਵੇ ਸਾਡੀ ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਵਿੱਚ ਮੌਜੂਦ ਹਨ।",
+    "message": "\u0a38\u0a3e\u0a21\u0a47 \u0a35\u0a32\u0a4b\u0a02 \u0a07\u0a15\u0a71\u0a24\u0a30 \u0a15\u0a40\u0a24\u0a47 \u0a1c\u0a3e\u0a02\u0a26\u0a47 \u0a21\u0a3e\u0a1f\u0a47 \u0a26\u0a47 \u0a2a\u0a42\u0a30\u0a47 \u0a35\u0a47\u0a30\u0a35\u0a47 \u0a38\u0a3e\u0a21\u0a40 \u0a2a\u0a30\u0a26\u0a47\u0a26\u0a3e\u0a30\u0a40 \u0a28\u0a40\u0a24\u0a40 \u0a35\u0a3f\u0a71\u0a1a \u0a2e\u0a4c\u0a1c\u0a42\u0a26 \u0a39\u0a28\u0964",
     "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
   },
   "viewPrivacyPolicy": {
-    "message": "ਪਰਦੇਦਾਰੀ ਨੀਤੀ ਨੂੰ ਵੇਖੋ",
+    "message": "\u0a2a\u0a30\u0a26\u0a47\u0a26\u0a3e\u0a30\u0a40 \u0a28\u0a40\u0a24\u0a40 \u0a28\u0a42\u0a70 \u0a35\u0a47\u0a16\u0a4b",
     "description": "Privacy policy link"
   },
   "thankYouForAdding": {
-    "message": "Mozilla VPN ਇਕਸਟੈਨਸ਼ਨ ਜੋੜਨ ਲਈ ਤੁਹਾਡਾ ਧੰਨਵਾਦ ਹੈ",
+    "message": "Mozilla VPN \u0a07\u0a15\u0a38\u0a1f\u0a48\u0a28\u0a36\u0a28 \u0a1c\u0a4b\u0a5c\u0a28 \u0a32\u0a08 \u0a24\u0a41\u0a39\u0a3e\u0a21\u0a3e \u0a27\u0a70\u0a28\u0a35\u0a3e\u0a26 \u0a39\u0a48",
     "description": "Headline on the telemetry consent screen"
   },
   "toContinueToTheExtension": {
-    "message": "ਇਕਸਟੈਨਸ਼ਨ ਵਰਤਣਾ ਜਾਰੀ ਰੱਖਣ ਵਾਸਤੇ Firefox ਟੂਲਬਾਰ ਵਿੱਚੋਂ Mozilla VPN ਨੂੰ ਚੁਣੋ।",
+    "message": "\u0a07\u0a15\u0a38\u0a1f\u0a48\u0a28\u0a36\u0a28 \u0a35\u0a30\u0a24\u0a23\u0a3e \u0a1c\u0a3e\u0a30\u0a40 \u0a30\u0a71\u0a16\u0a23 \u0a35\u0a3e\u0a38\u0a24\u0a47 Firefox \u0a1f\u0a42\u0a32\u0a2c\u0a3e\u0a30 \u0a35\u0a3f\u0a71\u0a1a\u0a4b\u0a02 Mozilla VPN \u0a28\u0a42\u0a70 \u0a1a\u0a41\u0a23\u0a4b\u0964",
     "description": "Blurb at the bottom of the telemetry consent screen"
   },
   "optionalDataCollection": {
-    "message": "ਚੋਣਵੀਂ ਡਾਟਾ ਇਕੱਤਰਤਾ",
+    "message": "\u0a1a\u0a4b\u0a23\u0a35\u0a40\u0a02 \u0a21\u0a3e\u0a1f\u0a3e \u0a07\u0a15\u0a71\u0a24\u0a30\u0a24\u0a3e",
     "description": "Subtitle on the telemetry consent screen"
   },
   "telemetryListHeader": {
-    "message": "ਸਾਡੇ ਵਲੋਂ ਇਕੱਤਰ ਕੀਤੇ ਜਾਂਦੇ ਚੋਣਵੇਂ ਡਾਟੇ ਵਿੱਚ ਸ਼ਾਮਲ ਹੈ:",
+    "message": "\u0a38\u0a3e\u0a21\u0a47 \u0a35\u0a32\u0a4b\u0a02 \u0a07\u0a15\u0a71\u0a24\u0a30 \u0a15\u0a40\u0a24\u0a47 \u0a1c\u0a3e\u0a02\u0a26\u0a47 \u0a1a\u0a4b\u0a23\u0a35\u0a47\u0a02 \u0a21\u0a3e\u0a1f\u0a47 \u0a35\u0a3f\u0a71\u0a1a \u0a36\u0a3e\u0a2e\u0a32 \u0a39\u0a48:",
     "description": "Headline for a list describing the type of data collected by the extension"
   },
   "technicalData": {
-    "message": "ਤਕਨੀਕੀ ਡਾਟਾ ਜਿਵੇਂ ਕਿ ਬਰਾਊਜ਼ਰ ਵਰਜ਼ਨ, ਇਕਸਟੈਨਸ਼ਨ ਵਰਜ਼ਨ ਅਤੇ ਗਲਤੀ ਵੇਰਵੇ, ਤਾਂ ਕਿ ਅਸੀਂ ਗਲਤੀਆਂ ਦੀ ਟੋਹਰ ਪ੍ਰਭਾਵੀ ਢੰਗ ਨਾਲ ਲੈ ਕੇ ਠੀਕ ਕਰ ਸਕੀਏ।",
+    "message": "\u0a24\u0a15\u0a28\u0a40\u0a15\u0a40 \u0a21\u0a3e\u0a1f\u0a3e \u0a1c\u0a3f\u0a35\u0a47\u0a02 \u0a15\u0a3f \u0a2c\u0a30\u0a3e\u0a0a\u0a5b\u0a30 \u0a35\u0a30\u0a5b\u0a28, \u0a07\u0a15\u0a38\u0a1f\u0a48\u0a28\u0a36\u0a28 \u0a35\u0a30\u0a5b\u0a28 \u0a05\u0a24\u0a47 \u0a17\u0a32\u0a24\u0a40 \u0a35\u0a47\u0a30\u0a35\u0a47, \u0a24\u0a3e\u0a02 \u0a15\u0a3f \u0a05\u0a38\u0a40\u0a02 \u0a17\u0a32\u0a24\u0a40\u0a06\u0a02 \u0a26\u0a40 \u0a1f\u0a4b\u0a39\u0a30 \u0a2a\u0a4d\u0a30\u0a2d\u0a3e\u0a35\u0a40 \u0a22\u0a70\u0a17 \u0a28\u0a3e\u0a32 \u0a32\u0a48 \u0a15\u0a47 \u0a20\u0a40\u0a15 \u0a15\u0a30 \u0a38\u0a15\u0a40\u0a0f\u0964",
     "description": "Description of technical data, found on telemetry consent screen."
   },
   "interactionData": {
-    "message": "ਤਾਲਮੇਲ ਡਾਟਾ, ਜਿਵੇਂ ਕਿ VPN ਸੁਰੱਖਿਆ ਤੋਂ ਅਲਹਿਦਾ ਕੀਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਦੀ ਗਿਣਤੀ, ਟਿਕਾਣਾ ਪਸੰਦ ਵਾਲੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਦੀ ਗਿਣਤੀ ਅਤੇ ਸੁਰੱਖਿਆ ਨੂੰ ਕਿੰਨੀ ਕੁ ਵਾਰ ਚਾਲੂ ਅਤੇ ਬੰਦ ਕੀਤਾ ਜਾਂਦਾ ਹੈ।",
+    "message": "\u0a24\u0a3e\u0a32\u0a2e\u0a47\u0a32 \u0a21\u0a3e\u0a1f\u0a3e, \u0a1c\u0a3f\u0a35\u0a47\u0a02 \u0a15\u0a3f VPN \u0a38\u0a41\u0a30\u0a71\u0a16\u0a3f\u0a06 \u0a24\u0a4b\u0a02 \u0a05\u0a32\u0a39\u0a3f\u0a26\u0a3e \u0a15\u0a40\u0a24\u0a40\u0a06\u0a02 \u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f\u0a3e\u0a02 \u0a26\u0a40 \u0a17\u0a3f\u0a23\u0a24\u0a40, \u0a1f\u0a3f\u0a15\u0a3e\u0a23\u0a3e \u0a2a\u0a38\u0a70\u0a26 \u0a35\u0a3e\u0a32\u0a40\u0a06\u0a02 \u0a35\u0a48\u0a71\u0a2c\u0a38\u0a3e\u0a08\u0a1f\u0a3e\u0a02 \u0a26\u0a40 \u0a17\u0a3f\u0a23\u0a24\u0a40 \u0a05\u0a24\u0a47 \u0a38\u0a41\u0a30\u0a71\u0a16\u0a3f\u0a06 \u0a28\u0a42\u0a70 \u0a15\u0a3f\u0a70\u0a28\u0a40 \u0a15\u0a41 \u0a35\u0a3e\u0a30 \u0a1a\u0a3e\u0a32\u0a42 \u0a05\u0a24\u0a47 \u0a2c\u0a70\u0a26 \u0a15\u0a40\u0a24\u0a3e \u0a1c\u0a3e\u0a02\u0a26\u0a3e \u0a39\u0a48\u0964",
     "description": "Description of interaction data, found on the telemetry consent screen."
   },
   "telemetryOptOutInstructions": {
-    "message": "ਜੇ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ ਕਿ Mozilla VPN ਇਕਸਟੈਨਸ਼ਨ ਡਾਟੇ ਨੂੰ ਇਕੱਤਰ ਨਾ ਕਰੇ ਤਾਂ ਬਾਕਸ ਦੀ ਚੋਣ ਨਾ ਕਰੋ। ਤੁਸੀਂ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾ ਕੇ ਇਕਸਟੈਨਸ਼ਨ ਵਿੱਚੋਂ ਕਿਸੇ ਵੀ ਵੇਲੇ ਇਸ ਸੈਟਿੰਗ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ।",
+    "message": "\u0a1c\u0a47 \u0a24\u0a41\u0a38\u0a40\u0a02 \u0a1a\u0a3e\u0a39\u0a41\u0a70\u0a26\u0a47 \u0a39\u0a4b \u0a15\u0a3f Mozilla VPN \u0a07\u0a15\u0a38\u0a1f\u0a48\u0a28\u0a36\u0a28 \u0a21\u0a3e\u0a1f\u0a47 \u0a28\u0a42\u0a70 \u0a07\u0a15\u0a71\u0a24\u0a30 \u0a28\u0a3e \u0a15\u0a30\u0a47 \u0a24\u0a3e\u0a02 \u0a2c\u0a3e\u0a15\u0a38 \u0a26\u0a40 \u0a1a\u0a4b\u0a23 \u0a28\u0a3e \u0a15\u0a30\u0a4b\u0964 \u0a24\u0a41\u0a38\u0a40\u0a02 \u0a38\u0a48\u0a1f\u0a3f\u0a70\u0a17\u0a3e\u0a02 \u0a35\u0a3f\u0a71\u0a1a \u0a1c\u0a3e \u0a15\u0a47 \u0a07\u0a15\u0a38\u0a1f\u0a48\u0a28\u0a36\u0a28 \u0a35\u0a3f\u0a71\u0a1a\u0a4b\u0a02 \u0a15\u0a3f\u0a38\u0a47 \u0a35\u0a40 \u0a35\u0a47\u0a32\u0a47 \u0a07\u0a38 \u0a38\u0a48\u0a1f\u0a3f\u0a70\u0a17 \u0a28\u0a42\u0a70 \u0a2c\u0a26\u0a32 \u0a38\u0a15\u0a26\u0a47 \u0a39\u0a4b\u0964",
     "description": "Opt out instructions on the telemetry consent screen"
   },
   "telemetryCheckboxLabel": {
-    "message": "Mozilla ਨੂੰ ਤਕਨੀਕੀ ਅਤੇ ਤਾਲਮੇਲ ਡਾਟਾ ਇਕੱਤਰ ਕਰਨ ਦੀ ਮਨਜ਼ੂਰੀ ਦਿਓ",
+    "message": "Mozilla \u0a28\u0a42\u0a70 \u0a24\u0a15\u0a28\u0a40\u0a15\u0a40 \u0a05\u0a24\u0a47 \u0a24\u0a3e\u0a32\u0a2e\u0a47\u0a32 \u0a21\u0a3e\u0a1f\u0a3e \u0a07\u0a15\u0a71\u0a24\u0a30 \u0a15\u0a30\u0a28 \u0a26\u0a40 \u0a2e\u0a28\u0a5b\u0a42\u0a30\u0a40 \u0a26\u0a3f\u0a13",
     "description": "Checkbox label"
   },
   "telemetrySettingsCheckboxLabel": {
-    "message": "ਇਹ ਡਾਟਾ ਫ਼ੀਚਰ ਅਤੇ ਕਾਰਗੁਜ਼ਾਰੀ ਸੁਧਾਰਨ ਲਈ ਸਾਡੀ ਮਦਦ ਕਰਦਾ ਹੈ। ਇਸ ਵਿੱਚ ਤੁਹਾਡੇ ਡਿਵਾਈਸ, ਹਾਰਡਵੇਅਰ ਸੰਰਚਨਾ ਅਤੇ ਤੁਸੀਂ Mozilla VPN ਇਕਸਟੈਨਸ਼ਨ ਨੂੰ ਕਿਵੇਂ ਵਰਤਦੇ ਹੋ ਦੇ ਬਾਰੇ ਡਾਟਾ ਸ਼ਾਮਲ ਹੈ।",
+    "message": "\u0a07\u0a39 \u0a21\u0a3e\u0a1f\u0a3e \u0a2b\u0a3c\u0a40\u0a1a\u0a30 \u0a05\u0a24\u0a47 \u0a15\u0a3e\u0a30\u0a17\u0a41\u0a5b\u0a3e\u0a30\u0a40 \u0a38\u0a41\u0a27\u0a3e\u0a30\u0a28 \u0a32\u0a08 \u0a38\u0a3e\u0a21\u0a40 \u0a2e\u0a26\u0a26 \u0a15\u0a30\u0a26\u0a3e \u0a39\u0a48\u0964 \u0a07\u0a38 \u0a35\u0a3f\u0a71\u0a1a \u0a24\u0a41\u0a39\u0a3e\u0a21\u0a47 \u0a21\u0a3f\u0a35\u0a3e\u0a08\u0a38, \u0a39\u0a3e\u0a30\u0a21\u0a35\u0a47\u0a05\u0a30 \u0a38\u0a70\u0a30\u0a1a\u0a28\u0a3e \u0a05\u0a24\u0a47 \u0a24\u0a41\u0a38\u0a40\u0a02 Mozilla VPN \u0a07\u0a15\u0a38\u0a1f\u0a48\u0a28\u0a36\u0a28 \u0a28\u0a42\u0a70 \u0a15\u0a3f\u0a35\u0a47\u0a02 \u0a35\u0a30\u0a24\u0a26\u0a47 \u0a39\u0a4b \u0a26\u0a47 \u0a2c\u0a3e\u0a30\u0a47 \u0a21\u0a3e\u0a1f\u0a3e \u0a36\u0a3e\u0a2e\u0a32 \u0a39\u0a48\u0964",
     "description": "Checkbox label on the settings page"
   },
   "messageSplitTunnelHeader": {
-    "message": "Firefox ਲਈ ਸੁਰੱਖਿਆ ਸਮਰੱਥ ਕਰੋ",
+    "message": "Firefox \u0a32\u0a08 \u0a38\u0a41\u0a30\u0a71\u0a16\u0a3f\u0a06 \u0a38\u0a2e\u0a30\u0a71\u0a25 \u0a15\u0a30\u0a4b",
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }

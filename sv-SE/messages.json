@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "Mozilla VPN-tillägg",
+    "message": "Mozilla VPN-till\u00e4gg",
     "description": "Name of the extension."
   },
   "extensionDescription": {
@@ -20,37 +20,31 @@
     "description": "Title for a dialog where users can set the location for a website."
   },
   "selectWebsiteLocation": {
-    "message": "Välj webbplatsens plats",
+    "message": "V\u00e4lj webbplatsens plats",
     "description": "Button label."
   },
   "titlePageSettings": {
-    "message": "Inställningar för den här webbplatsen",
+    "message": "Inst\u00e4llningar f\u00f6r den h\u00e4r webbplatsen",
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
   "excludePageFor": {
-    "message": "Stäng alltid av VPN-skydd för $ORIGIN$",
-    "description": "Setting to exclude a website from VPN.",
-    "placeholders": {
-      "origin": {
-        "content": "$1",
-        "example": "developer.mozilla.org"
-      }
-    }
+    "message": "St\u00e4ng alltid av VPN-skydd f\u00f6r $ORIGIN$",
+    "description": "Setting to exclude a website from VPN."
   },
   "resetPageSettings": {
-    "message": "Återställ webbplatsens inställningar",
+    "message": "\u00c5terst\u00e4ll webbplatsens inst\u00e4llningar",
     "description": "Button text to reset all site specific settings."
   },
   "vpnIsOn": {
-    "message": "VPN-skydd för Firefox är på",
+    "message": "VPN-skydd f\u00f6r Firefox \u00e4r p\u00e5",
     "description": "Header to signal that VPN connection is enabled."
   },
   "vpnIsOff": {
-    "message": "VPN-skydd för Firefox är avstängt",
+    "message": "VPN-skydd f\u00f6r Firefox \u00e4r avst\u00e4ngt",
     "description": "Header to signal that VPN connection is disabled."
   },
   "extensionVpnIsOff": {
-    "message": "Mozilla VPN är fortfarande på och skyddar resten av din dator.",
+    "message": "Mozilla VPN \u00e4r fortfarande p\u00e5 och skyddar resten av din dator.",
     "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
   },
   "vpnOffStatus": {
@@ -58,11 +52,11 @@
     "description": "Label indicating that the VPN is off."
   },
   "vpnOnStatus": {
-    "message": "På",
+    "message": "P\u00e5",
     "description": "Label indicating that the VPN is on."
   },
   "placeholderSearchWebsites": {
-    "message": "Sök webbplatser",
+    "message": "S\u00f6k webbplatser",
     "description": "Placeholder text for the search input field to search websites."
   },
   "tableHeadingWebsite": {
@@ -74,65 +68,55 @@
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   },
   "headlineNoWebsitePreferences": {
-    "message": "Du har inte angett några webbplatsinställningar än",
-    "description": "Headline shown when the user hasn’t set any website preferences."
+    "message": "Du har inte angett n\u00e5gra webbplatsinst\u00e4llningar \u00e4n",
+    "description": "Headline shown when the user hasn\u2019t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
-    "message": "Med tillägget för Firefox kan du stänga av Mozilla VPN-skydd för en webbplats eller ange en anpassad plats. För att göra detta, besök en webbplats, öppna tillägget och uppdatera webbplatsens inställningar.",
+    "message": "Med till\u00e4gget f\u00f6r Firefox kan du st\u00e4nga av Mozilla VPN-skydd f\u00f6r en webbplats eller ange en anpassad plats. F\u00f6r att g\u00f6ra detta, bes\u00f6k en webbplats, \u00f6ppna till\u00e4gget och uppdatera webbplatsens inst\u00e4llningar.",
     "description": "Subtext shown when there are no website preferences set by the user."
   },
   "altTextRemoveWebsiteButton": {
-    "message": "Ta bort regel för $ORIGIN$",
-    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
-    "placeholders": {
-      "origin": {
-        "content": "$1",
-        "example": "developer.mozilla.org"
-      }
-    }
+    "message": "Ta bort regel f\u00f6r $ORIGIN$",
+    "description": "Alternative text for the button that removes a website rule from the list of preferences."
   },
   "altTextOpenSettingsPage": {
-    "message": "Öppna inställningssidan",
+    "message": "\u00d6ppna inst\u00e4llningssidan",
     "description": "Alternative text for the button that opens the Extensions Settings page."
   },
   "searchServer": {
-    "message": "Sök platser",
+    "message": "S\u00f6k platser",
     "description": "Placeholder for the Input field where users can search the list of servers."
   },
   "titleSubscribeNow": {
-    "message": "Prenumerera på Mozilla VPN."
-  },
-  "bodySubscribeNow": {
-    "message": "Det ser ut som att du inte prenumererar på Mozilla VPN ännu. Om du vill använda tillägget måste du prenumerera.",
-    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+    "message": "Prenumerera p\u00e5 Mozilla VPN."
   },
   "btnSubscribeNow": {
     "message": "Prenumerera nu",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
   },
   "getHelp": {
-    "message": "Få hjälp",
+    "message": "F\u00e5 hj\u00e4lp",
     "description": "Text of a link pointing to a relevant help page."
   },
   "headerOpenMozillaVPN": {
-    "message": "Öppna Mozilla VPN",
+    "message": "\u00d6ppna Mozilla VPN",
     "description": "Headline."
   },
   "headerSignedOut": {
     "message": "Logga in till Mozilla VPN-appen."
   },
   "bodySignedOut": {
-    "message": "Du är för närvarande utloggad från Mozilla VPN-appen. För att använda tillägget Mozilla VPN Firefox, öppna appen på din dator och logga in på ditt konto."
+    "message": "Du \u00e4r f\u00f6r n\u00e4rvarande utloggad fr\u00e5n Mozilla VPN-appen. F\u00f6r att anv\u00e4nda till\u00e4gget Mozilla VPN Firefox, \u00f6ppna appen p\u00e5 din dator och logga in p\u00e5 ditt konto."
   },
   "btnOpenVpn": {
-    "message": "Öppna Mozilla VPN."
+    "message": "\u00d6ppna Mozilla VPN."
   },
   "headerNeedsUpdate": {
     "message": "Uppdatera Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
   "bodyNeedsUpdate2": {
-    "message": "För att använda detta tillägg, ladda ner och installera den senaste Mozilla VPN-appen.",
+    "message": "F\u00f6r att anv\u00e4nda detta till\u00e4gg, ladda ner och installera den senaste Mozilla VPN-appen.",
     "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
@@ -140,38 +124,38 @@
     "description": "Header if a VPN installation was not found."
   },
   "bodyOpenMsg": {
-    "message": "För att använda tillägget Mozilla VPN Firefox, öppna appen Mozilla VPN först.",
+    "message": "F\u00f6r att anv\u00e4nda till\u00e4gget Mozilla VPN Firefox, \u00f6ppna appen Mozilla VPN f\u00f6rst.",
     "description": "Popup subtitle text."
   },
   "bodyInstallMsg": {
-    "message": "För att använda det här tillägget, ladda ner och installera appen Mozilla VPN på din dator."
+    "message": "F\u00f6r att anv\u00e4nda det h\u00e4r till\u00e4gget, ladda ner och installera appen Mozilla VPN p\u00e5 din dator."
   },
   "bodyInstallMsgFooter": {
-    "message": "Observera att Mozilla VPN är en betald prenumerationstjänst.",
-    "description": "This is a footnote for “bodyInstallMsg”."
+    "message": "Observera att Mozilla VPN \u00e4r en betald prenumerationstj\u00e4nst.",
+    "description": "This is a footnote for \u201cbodyInstallMsg\u201d."
   },
   "btnDownloadNow": {
-    "message": "Hämta nu",
+    "message": "H\u00e4mta nu",
     "description": "This is a call to action button to download the VPN."
   },
   "defaultLocationHeader": {
-    "message": "Använd Mozilla VPN-plats."
+    "message": "Anv\u00e4nd Mozilla VPN-plats."
   },
   "useDefaultLocationExplainer": {
-    "message": "Använd samma plats som Mozilla VPN-appen som skyddar den här datorn.",
-    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+    "message": "Anv\u00e4nd samma plats som Mozilla VPN-appen som skyddar den h\u00e4r datorn.",
+    "description": "Explanation of what \u201cUse default Mozilla VPN Location\u201d means."
   },
   "headerUnsupportedOSMessage": {
-    "message": "Plattformen stöds inte."
+    "message": "Plattformen st\u00f6ds inte."
   },
   "bodyUnsupportedOSMessage": {
-    "message": "För närvarande är tillägget Mozilla VPN endast tillgängligt på Windows-enheter."
+    "message": "F\u00f6r n\u00e4rvarande \u00e4r till\u00e4gget Mozilla VPN endast tillg\u00e4ngligt p\u00e5 Windows-enheter."
   },
   "footnoteUnsupportedOSMessage": {
-    "message": "Vi jobbar på att få stöd till macOS och Linux snart!"
+    "message": "Vi jobbar p\u00e5 att f\u00e5 st\u00f6d till macOS och Linux snart!"
   },
   "turnOnProtection": {
-    "message": "Slå på skydd",
+    "message": "Sl\u00e5 p\u00e5 skydd",
     "description": "Button label."
   },
   "removeCustomLocation": {
@@ -183,43 +167,43 @@
     "description": "A subtitle that is followed by an off icon and the word 'Off'."
   },
   "giveFeedback": {
-    "message": "Ge återkoppling",
+    "message": "Ge \u00e5terkoppling",
     "description": "Button label."
   },
   "learnMore": {
-    "message": "Läs mer",
+    "message": "L\u00e4s mer",
     "description": "Label of link that leads to SUMO."
   },
   "onboarding1_title": {
-    "message": "Stäng av VPN för specifika webbplatser",
+    "message": "St\u00e4ng av VPN f\u00f6r specifika webbplatser",
     "description": "Title in onboarding panel."
   },
   "onboarding1_body": {
-    "message": "Med tillägget för Firefox kan du stänga av VPN-skydd för specifika webbplatser och samtidigt behålla den på för allt annat.",
+    "message": "Med till\u00e4gget f\u00f6r Firefox kan du st\u00e4nga av VPN-skydd f\u00f6r specifika webbplatser och samtidigt beh\u00e5lla den p\u00e5 f\u00f6r allt annat.",
     "description": "Body text in onboarding panel."
   },
   "onboarding2_title": {
-    "message": "Se olika webbplatser från olika platser",
+    "message": "Se olika webbplatser fr\u00e5n olika platser",
     "description": "Title in onboarding panel."
   },
   "onboarding2_body": {
-    "message": "Nyheter från London. Sport från Sao Paulo. Shopping från Tokyo. Ange webbplatsspecifika platser för personlig surfning.",
+    "message": "Nyheter fr\u00e5n London. Sport fr\u00e5n Sao Paulo. Shopping fr\u00e5n Tokyo. Ange webbplatsspecifika platser f\u00f6r personlig surfning.",
     "description": "Body text in onboarding panel."
   },
   "onboarding3_title": {
-    "message": "Behåll skyddet för Firefox “på”",
+    "message": "Beh\u00e5ll skyddet f\u00f6r Firefox \u201cp\u00e5\u201d",
     "description": "Title in onboarding panel."
   },
   "onboarding3_body": {
-    "message": "Använd tillägget för att aktivera VPN-skydd för Firefox — även när skyddet är avstängt för resten av din dator.",
+    "message": "Anv\u00e4nd till\u00e4gget f\u00f6r att aktivera VPN-skydd f\u00f6r Firefox \u2014 \u00e4ven n\u00e4r skyddet \u00e4r avst\u00e4ngt f\u00f6r resten av din dator.",
     "description": "Body text in onboarding panel."
   },
   "next": {
-    "message": "Nästa",
+    "message": "N\u00e4sta",
     "description": "Label of button to progress to next onboarding panel."
   },
   "skip": {
-    "message": "Hoppa över",
+    "message": "Hoppa \u00f6ver",
     "description": "Label of button to skip onboarding."
   },
   "done": {
@@ -227,19 +211,19 @@
     "description": "Label of button in final onboarding panel."
   },
   "headerReEnableFirefoxProtection": {
-    "message": "Återaktivera skyddet av Firefox",
+    "message": "\u00c5teraktivera skyddet av Firefox",
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "bodyReEnableFirefoxProtection": {
-    "message": "Firefox är för närvarande en ”utesluten app” i Mozilla VPN-applikationen. För att använda tillägget, öppna applikationen och gå till Inställningar > Uteslutna appar och ta bort Firefox.",
+    "message": "Firefox \u00e4r f\u00f6r n\u00e4rvarande en \u201dutesluten app\u201d i Mozilla VPN-applikationen. F\u00f6r att anv\u00e4nda till\u00e4gget, \u00f6ppna applikationen och g\u00e5 till Inst\u00e4llningar > Uteslutna appar och ta bort Firefox.",
     "description": "Body copy of error panel."
   },
   "settingsPageSubtitle": {
-    "message": "För att lägga till eller ändra webbplatsspecifika inställningar, besök webbplatsen och öppna tillägget Mozilla VPN Firefox. Ange sedan inställningar för webbplatsen. Dina inställningar gäller endast när VPN-skydd för Firefox är på.",
+    "message": "F\u00f6r att l\u00e4gga till eller \u00e4ndra webbplatsspecifika inst\u00e4llningar, bes\u00f6k webbplatsen och \u00f6ppna till\u00e4gget Mozilla VPN Firefox. Ange sedan inst\u00e4llningar f\u00f6r webbplatsen. Dina inst\u00e4llningar g\u00e4ller endast n\u00e4r VPN-skydd f\u00f6r Firefox \u00e4r p\u00e5.",
     "description": "Subtitle in the settings page."
   },
   "settingsPageTitle": {
-    "message": "Mozilla VPN inställningar för webbplatsen",
+    "message": "Mozilla VPN inst\u00e4llningar f\u00f6r webbplatsen",
     "description": "Title for settings page tab."
   },
   "noSignal": {
@@ -251,15 +235,15 @@
     "description": "Indicator text describing the status of the VPN."
   },
   "connecting": {
-    "message": "Ansluter…",
+    "message": "Ansluter\u2026",
     "description": "Indicator text describing the status of the VPN."
   },
   "helpCenter": {
-    "message": "Hjälpcenter",
+    "message": "Hj\u00e4lpcenter",
     "description": "Link title."
   },
   "websitePreferences": {
-    "message": "Webbplatsinställningar",
+    "message": "Webbplatsinst\u00e4llningar",
     "description": "Link title."
   },
   "contactSupport": {
@@ -267,33 +251,27 @@
     "description": "Link title."
   },
   "offForWebsite": {
-    "message": "Mozilla VPN avstängd för webbplatsen",
+    "message": "Mozilla VPN avst\u00e4ngd f\u00f6r webbplatsen",
     "description": "Aria label."
   },
   "websiteLocationLabel": {
     "message": "$SERVERLOCATION$: Mozilla VPN webbplatsens plats",
-    "description": "Aria label for a flag icon representing the location of the VPN server",
-    "placeholders": {
-      "serverlocation": {
-        "content": "$1",
-        "example": "Germany"
-      }
-    }
+    "description": "Aria label for a flag icon representing the location of the VPN server"
   },
   "alert_conflictingProgram": {
-    "message": "Ett program på din dator kan orsaka problem med tillägget Mozilla VPN.",
+    "message": "Ett program p\u00e5 din dator kan orsaka problem med till\u00e4gget Mozilla VPN.",
     "description": "Banner alert"
   },
   "howToFix": {
-    "message": "Hur du åtgärdar",
+    "message": "Hur du \u00e5tg\u00e4rdar",
     "description": "Link in banner alert"
   },
   "alert_conflictingExtensions": {
-    "message": "Andra tillägg kan störa hur tillägget Mozilla VPN fungerar.",
+    "message": "Andra till\u00e4gg kan st\u00f6ra hur till\u00e4gget Mozilla VPN fungerar.",
     "description": "Banner alert"
   },
   "learnWhatToDo": {
-    "message": "Lär dig vad du ska göra",
+    "message": "L\u00e4r dig vad du ska g\u00f6ra",
     "description": "Link in banner alert"
   },
   "telemetry_toggle_text": {
@@ -301,15 +279,15 @@
     "description": "Label for the Telemetry Opt-In toggle"
   },
   "privacy_notice_link_name": {
-    "message": "Sekretesspolicy för Mozilla-prenumerationstjänster",
+    "message": "Sekretesspolicy f\u00f6r Mozilla-prenumerationstj\u00e4nster",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
   "first-install-body": {
-    "message": "För att hjälpa oss att förbättra funktioner och prestanda och lösa problem snabbt, kan du välja att låta Mozilla VPN-tillägget samla in data. Den data vi samlar in kommer aldrig att vara knuten till dig och vi samlar aldrig in data om de webbplatser du besöker. Datainsamling påverkar inte hur tillägget fungerar.",
+    "message": "F\u00f6r att hj\u00e4lpa oss att f\u00f6rb\u00e4ttra funktioner och prestanda och l\u00f6sa problem snabbt, kan du v\u00e4lja att l\u00e5ta Mozilla VPN-till\u00e4gget samla in data. Den data vi samlar in kommer aldrig att vara knuten till dig och vi samlar aldrig in data om de webbplatser du bes\u00f6ker. Datainsamling p\u00e5verkar inte hur till\u00e4gget fungerar.",
     "description": "Body copy on the telemetry consent screen"
   },
   "privacyPolicyIntro": {
-    "message": "Fullständig information om de uppgifter vi samlar in finns i vår sekretesspolicy.",
+    "message": "Fullst\u00e4ndig information om de uppgifter vi samlar in finns i v\u00e5r sekretesspolicy.",
     "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
   },
   "viewPrivacyPolicy": {
@@ -317,11 +295,11 @@
     "description": "Privacy policy link"
   },
   "thankYouForAdding": {
-    "message": "Tack för att du la till tillägget Mozilla VPN",
+    "message": "Tack f\u00f6r att du la till till\u00e4gget Mozilla VPN",
     "description": "Headline on the telemetry consent screen"
   },
   "toContinueToTheExtension": {
-    "message": "För att fortsätta till tillägget, välj Mozilla VPN-logotypen i verktygsfältet i Firefox.",
+    "message": "F\u00f6r att forts\u00e4tta till till\u00e4gget, v\u00e4lj Mozilla VPN-logotypen i verktygsf\u00e4ltet i Firefox.",
     "description": "Blurb at the bottom of the telemetry consent screen"
   },
   "optionalDataCollection": {
@@ -333,31 +311,31 @@
     "description": "Headline for a list describing the type of data collected by the extension"
   },
   "technicalData": {
-    "message": "Teknisk data, såsom webbläsarversion, tilläggsversion och felinformation så att vi kan spåra och åtgärda fel effektivt.",
+    "message": "Teknisk data, s\u00e5som webbl\u00e4sarversion, till\u00e4ggsversion och felinformation s\u00e5 att vi kan sp\u00e5ra och \u00e5tg\u00e4rda fel effektivt.",
     "description": "Description of technical data, found on telemetry consent screen."
   },
   "interactionData": {
-    "message": "Interaktionsdata, till exempel antalet webbplatser som uteslutits från VPN-skydd, antalet webbplatser med en platsinställning och hur ofta skyddet slås på och av.",
+    "message": "Interaktionsdata, till exempel antalet webbplatser som uteslutits fr\u00e5n VPN-skydd, antalet webbplatser med en platsinst\u00e4llning och hur ofta skyddet sl\u00e5s p\u00e5 och av.",
     "description": "Description of interaction data, found on the telemetry consent screen."
   },
   "telemetryOptOutInstructions": {
-    "message": "Om du inte vill tillåta Mozilla VPN-tillägget att samla in data, avmarkera rutan. Du kan också ändra den här inställningen när som helst i tillägget, under Inställningar.",
+    "message": "Om du inte vill till\u00e5ta Mozilla VPN-till\u00e4gget att samla in data, avmarkera rutan. Du kan ocks\u00e5 \u00e4ndra den h\u00e4r inst\u00e4llningen n\u00e4r som helst i till\u00e4gget, under Inst\u00e4llningar.",
     "description": "Opt out instructions on the telemetry consent screen"
   },
   "telemetryCheckboxLabel": {
-    "message": "Tillåt Mozilla att samla in teknisk data och interaktionsdata",
+    "message": "Till\u00e5t Mozilla att samla in teknisk data och interaktionsdata",
     "description": "Checkbox label"
   },
   "telemetrySettingsCheckboxLabel": {
-    "message": "Denna data hjälper oss att förbättra funktioner och prestanda. Den innehåller data om din enhet, hårdvarukonfiguration och hur du använder Mozilla VPN-tillägget.",
+    "message": "Denna data hj\u00e4lper oss att f\u00f6rb\u00e4ttra funktioner och prestanda. Den inneh\u00e5ller data om din enhet, h\u00e5rdvarukonfiguration och hur du anv\u00e4nder Mozilla VPN-till\u00e4gget.",
     "description": "Checkbox label on the settings page"
   },
   "messageSplitTunnelHeader": {
-    "message": "Aktivera skydd för Firefox",
+    "message": "Aktivera skydd f\u00f6r Firefox",
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "messageSplitTunnelBody": {
-    "message": "Firefox är för närvarande en ”utesluten app” i Mozilla VPN-applikationen. För att använda tillägget, öppna applikationen och gå till Inställningar > Uteslutna appar och ta bort Firefox.",
+    "message": "Firefox \u00e4r f\u00f6r n\u00e4rvarande en \u201dutesluten app\u201d i Mozilla VPN-applikationen. F\u00f6r att anv\u00e4nda till\u00e4gget, \u00f6ppna applikationen och g\u00e5 till Inst\u00e4llningar > Uteslutna appar och ta bort Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }

@@ -4,7 +4,7 @@
     "description": "Name of the extension."
   },
   "extensionDescription": {
-    "message": "Yntegrearje VPN yn Firefox: slút ljepblêden út, stel websitelokaasjes yn en mear!",
+    "message": "Yntegrearje VPN yn Firefox: sl\u00fat ljepbl\u00eaden \u00fat, stel websitelokaasjes yn en mear!",
     "description": "Description of the extension."
   },
   "back": {
@@ -28,14 +28,8 @@
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
   "excludePageFor": {
-    "message": "VPN-beskerming altyd útskeakelje foar $ORIGIN$",
-    "description": "Setting to exclude a website from VPN.",
-    "placeholders": {
-      "origin": {
-        "content": "$1",
-        "example": "developer.mozilla.org"
-      }
-    }
+    "message": "VPN-beskerming altyd \u00fatskeakelje foar $ORIGIN$",
+    "description": "Setting to exclude a website from VPN."
   },
   "resetPageSettings": {
     "message": "Websitefoarkarren opnij inisjalisearje",
@@ -46,11 +40,11 @@
     "description": "Header to signal that VPN connection is enabled."
   },
   "vpnIsOff": {
-    "message": "VPN-beskerming foar Firefox is út",
+    "message": "VPN-beskerming foar Firefox is \u00fat",
     "description": "Header to signal that VPN connection is disabled."
   },
   "extensionVpnIsOff": {
-    "message": "Mozilla VPN is noch hieltyd ynskeakele en beskermet de rest fan jo kompjûter.",
+    "message": "Mozilla VPN is noch hieltyd ynskeakele en beskermet de rest fan jo kompj\u00fbter.",
     "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
   },
   "vpnOffStatus": {
@@ -75,21 +69,15 @@
   },
   "headlineNoWebsitePreferences": {
     "message": "Jo hawwe noch gjin websitefoarkarren ynsteld",
-    "description": "Headline shown when the user hasn’t set any website preferences."
+    "description": "Headline shown when the user hasn\u2019t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
-    "message": "Mei de Firefox-útwreiding kinne jo Mozilla VPN-beskerming foar in website útskeakelje of in oanpaste lokaasje ynstelle. Besykje hjirfoar in website, iepenje de útwreiding en wurkje de websitefoarkarren by.",
+    "message": "Mei de Firefox-\u00fatwreiding kinne jo Mozilla VPN-beskerming foar in website \u00fatskeakelje of in oanpaste lokaasje ynstelle. Besykje hjirfoar in website, iepenje de \u00fatwreiding en wurkje de websitefoarkarren by.",
     "description": "Subtext shown when there are no website preferences set by the user."
   },
   "altTextRemoveWebsiteButton": {
     "message": "Regel foar $ORIGIN$ fuortsmite",
-    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
-    "placeholders": {
-      "origin": {
-        "content": "$1",
-        "example": "developer.mozilla.org"
-      }
-    }
+    "description": "Alternative text for the button that removes a website rule from the list of preferences."
   },
   "altTextOpenSettingsPage": {
     "message": "Ynstellingenside iepenje",
@@ -101,10 +89,6 @@
   },
   "titleSubscribeNow": {
     "message": "Abonnearje op Mozilla VPN."
-  },
-  "bodySubscribeNow": {
-    "message": "It liket derop dat jo noch net abonnearre binne op Mozilla VPN. Abonnearje jo om dizze útwreiding te brûken.",
-    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
   },
   "btnSubscribeNow": {
     "message": "No abonnearje",
@@ -122,7 +106,7 @@
     "message": "Oanmelde by de Mozilla VPN-app."
   },
   "bodySignedOut": {
-    "message": "Jo binne op dit stuit ôfmeld by de Mozilla VPN-app. Iepenje de app op jo kompjûter en meld jo oan by jo account om de Mozilla VPN-útwreiding foar Firefox te brûken."
+    "message": "Jo binne op dit stuit \u00f4fmeld by de Mozilla VPN-app. Iepenje de app op jo kompj\u00fbter en meld jo oan by jo account om de Mozilla VPN-\u00fatwreiding foar Firefox te br\u00fbken."
   },
   "btnOpenVpn": {
     "message": "Mozilla VPN iepenje."
@@ -132,7 +116,7 @@
     "description": "This is the headline of an error panel."
   },
   "bodyNeedsUpdate2": {
-    "message": "Download en ynstallearje earst de nijste Mozilla VPN-app om dizze útwreiding te brûken.",
+    "message": "Download en ynstallearje earst de nijste Mozilla VPN-app om dizze \u00fatwreiding te br\u00fbken.",
     "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
@@ -140,32 +124,32 @@
     "description": "Header if a VPN installation was not found."
   },
   "bodyOpenMsg": {
-    "message": "Iepenje earst de Mozilla VPN-app om de Mozilla VPN-útwreiding foar Firefox te brûken.",
+    "message": "Iepenje earst de Mozilla VPN-app om de Mozilla VPN-\u00fatwreiding foar Firefox te br\u00fbken.",
     "description": "Popup subtitle text."
   },
   "bodyInstallMsg": {
-    "message": "Download en ynstallearje earst de Mozilla VPN-app op jo kompjûter om dizze útwreiding te brûken."
+    "message": "Download en ynstallearje earst de Mozilla VPN-app op jo kompj\u00fbter om dizze \u00fatwreiding te br\u00fbken."
   },
   "bodyInstallMsgFooter": {
     "message": "Merk op dat Mozilla VPN in betelle abonnemintstsjinst is.",
-    "description": "This is a footnote for “bodyInstallMsg”."
+    "description": "This is a footnote for \u201cbodyInstallMsg\u201d."
   },
   "btnDownloadNow": {
     "message": "No downloade",
     "description": "This is a call to action button to download the VPN."
   },
   "defaultLocationHeader": {
-    "message": "Mozilla VPN-lokaasje brûke."
+    "message": "Mozilla VPN-lokaasje br\u00fbke."
   },
   "useDefaultLocationExplainer": {
-    "message": "Deselde lokaasje as de Mozilla VPN-app dy’t dizze kompjûter beskermet brûke.",
-    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+    "message": "Deselde lokaasje as de Mozilla VPN-app dy\u2019t dizze kompj\u00fbter beskermet br\u00fbke.",
+    "description": "Explanation of what \u201cUse default Mozilla VPN Location\u201d means."
   },
   "headerUnsupportedOSMessage": {
     "message": "Net-stipe platfoarm."
   },
   "bodyUnsupportedOSMessage": {
-    "message": "Op it stuit is de Mozilla VPN-útwreiding allinnich beskikber op Windows-apparaten."
+    "message": "Op it stuit is de Mozilla VPN-\u00fatwreiding allinnich beskikber op Windows-apparaten."
   },
   "footnoteUnsupportedOSMessage": {
     "message": "Wy wurkje deroan om ynkoarten stipe foar macOS en Linux te bieden!"
@@ -191,27 +175,27 @@
     "description": "Label of link that leads to SUMO."
   },
   "onboarding1_title": {
-    "message": "VPN útskeakelje foar spesifike websites",
+    "message": "VPN \u00fatskeakelje foar spesifike websites",
     "description": "Title in onboarding panel."
   },
   "onboarding1_body": {
-    "message": "Mei de Firefox-útwreiding kinne jo VPN-beskerming foar spesifike websites útskeakelje wylst jo it ynskeakele hâlde foar de rest.",
+    "message": "Mei de Firefox-\u00fatwreiding kinne jo VPN-beskerming foar spesifike websites \u00fatskeakelje wylst jo it ynskeakele h\u00e2lde foar de rest.",
     "description": "Body text in onboarding panel."
   },
   "onboarding2_title": {
-    "message": "Besjoch ferskate websites fan ferskate lokaasjes ôf",
+    "message": "Besjoch ferskate websites fan ferskate lokaasjes \u00f4f",
     "description": "Title in onboarding panel."
   },
   "onboarding2_body": {
-    "message": "Nijs út Londen. Sport út Sao Paulo. Winkelje fan Tokio út. Stel websitespesifike lokaasjes yn foar personalisearre sneupen.",
+    "message": "Nijs \u00fat Londen. Sport \u00fat Sao Paulo. Winkelje fan Tokio \u00fat. Stel websitespesifike lokaasjes yn foar personalisearre sneupen.",
     "description": "Body text in onboarding panel."
   },
   "onboarding3_title": {
-    "message": "Beskerming foar Firefox ‘oan’ hâlde",
+    "message": "Beskerming foar Firefox \u2018oan\u2019 h\u00e2lde",
     "description": "Title in onboarding panel."
   },
   "onboarding3_body": {
-    "message": "Brûk de útwreiding om VPN-beskerming foar Firefox yn te skeakeljen – sels as beskerming foar de rest fan jo kompjûter útskeakele is.",
+    "message": "Br\u00fbk de \u00fatwreiding om VPN-beskerming foar Firefox yn te skeakeljen \u2013 sels as beskerming foar de rest fan jo kompj\u00fbter \u00fatskeakele is.",
     "description": "Body text in onboarding panel."
   },
   "next": {
@@ -231,11 +215,11 @@
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "bodyReEnableFirefoxProtection": {
-    "message": "Firefox is op dit stuit in ‘útsûndere app’ yn de Mozilla VPN-tapassing. Iepenje om dizze útwreiding te brûken de tapassing, gean nei Ynstellingen > Utsûndere apps en smyt Firefox fuort.",
+    "message": "Firefox is op dit stuit in \u2018\u00fats\u00fbndere app\u2019 yn de Mozilla VPN-tapassing. Iepenje om dizze \u00fatwreiding te br\u00fbken de tapassing, gean nei Ynstellingen > Uts\u00fbndere apps en smyt Firefox fuort.",
     "description": "Body copy of error panel."
   },
   "settingsPageSubtitle": {
-    "message": "Besykje de website en iepenje de Mozilla VPN-útwreiding foar Firefox om websitespesifike foarkaren ta te foegjen of te wizigjen. Stel dernei foarkarren foar de website yn. Jo foarkarren binne allinnich fan tapassing as VPN-beskerming foar Firefox ynskeakele is.",
+    "message": "Besykje de website en iepenje de Mozilla VPN-\u00fatwreiding foar Firefox om websitespesifike foarkaren ta te foegjen of te wizigjen. Stel dernei foarkarren foar de website yn. Jo foarkarren binne allinnich fan tapassing as VPN-beskerming foar Firefox ynskeakele is.",
     "description": "Subtitle in the settings page."
   },
   "settingsPageTitle": {
@@ -251,7 +235,7 @@
     "description": "Indicator text describing the status of the VPN."
   },
   "connecting": {
-    "message": "Ferbine…",
+    "message": "Ferbine\u2026",
     "description": "Indicator text describing the status of the VPN."
   },
   "helpCenter": {
@@ -267,33 +251,27 @@
     "description": "Link title."
   },
   "offForWebsite": {
-    "message": "Mozilla VPN út foar website",
+    "message": "Mozilla VPN \u00fat foar website",
     "description": "Aria label."
   },
   "websiteLocationLabel": {
     "message": "$SERVERLOCATION$: lokaasje fan Mozilla VPN-website",
-    "description": "Aria label for a flag icon representing the location of the VPN server",
-    "placeholders": {
-      "serverlocation": {
-        "content": "$1",
-        "example": "Germany"
-      }
-    }
+    "description": "Aria label for a flag icon representing the location of the VPN server"
   },
   "alert_conflictingProgram": {
-    "message": "In programma op jo kompjûter kin problemen feroarsaakje mei de Mozilla VPN-útwreiding.",
+    "message": "In programma op jo kompj\u00fbter kin problemen feroarsaakje mei de Mozilla VPN-\u00fatwreiding.",
     "description": "Banner alert"
   },
   "howToFix": {
-    "message": "Hoe’t jo dit oplosse kinne",
+    "message": "Hoe\u2019t jo dit oplosse kinne",
     "description": "Link in banner alert"
   },
   "alert_conflictingExtensions": {
-    "message": "Oare útwreidingen fersteure mooglik de wurking fan de Mozilla VPN-útwreiding.",
+    "message": "Oare \u00fatwreidingen fersteure mooglik de wurking fan de Mozilla VPN-\u00fatwreiding.",
     "description": "Banner alert"
   },
   "learnWhatToDo": {
-    "message": "Lês wat jo dwaan kinne",
+    "message": "L\u00eas wat jo dwaan kinne",
     "description": "Link in banner alert"
   },
   "telemetry_toggle_text": {
@@ -305,11 +283,11 @@
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
   "first-install-body": {
-    "message": "Om ús te helpen funksjes en prestaasjes te ferbetterjen en problemen fluch op te lossen, kinne jo kieze om de Mozilla VPN-útwreiding ta te stean om gegevens te sammeljen. De gegevens dy’t wy sammelje sille nea oan jo keppele wurde en wy sammelje nea gegevens oer de siden dy’t jo besykje. Gegevenssammeling hat gjin ynfloed op hoe’t de útwreiding wurket.",
+    "message": "Om \u00fas te helpen funksjes en prestaasjes te ferbetterjen en problemen fluch op te lossen, kinne jo kieze om de Mozilla VPN-\u00fatwreiding ta te stean om gegevens te sammeljen. De gegevens dy\u2019t wy sammelje sille nea oan jo keppele wurde en wy sammelje nea gegevens oer de siden dy\u2019t jo besykje. Gegevenssammeling hat gjin ynfloed op hoe\u2019t de \u00fatwreiding wurket.",
     "description": "Body copy on the telemetry consent screen"
   },
   "privacyPolicyIntro": {
-    "message": "Folsleine details fan de gegevens dy’t wy sammelje binne beskikber yn ús privacybelied.",
+    "message": "Folsleine details fan de gegevens dy\u2019t wy sammelje binne beskikber yn \u00fas privacybelied.",
     "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
   },
   "viewPrivacyPolicy": {
@@ -317,11 +295,11 @@
     "description": "Privacy policy link"
   },
   "thankYouForAdding": {
-    "message": "Tank foar it tafoegjen fan de Mozilla VPN-útwreiding",
+    "message": "Tank foar it tafoegjen fan de Mozilla VPN-\u00fatwreiding",
     "description": "Headline on the telemetry consent screen"
   },
   "toContinueToTheExtension": {
-    "message": "Om troch te gean nei de útwreiding, selektearje it Mozilla VPN-logo yn de Firefox-arkbalke.",
+    "message": "Om troch te gean nei de \u00fatwreiding, selektearje it Mozilla VPN-logo yn de Firefox-arkbalke.",
     "description": "Blurb at the bottom of the telemetry consent screen"
   },
   "optionalDataCollection": {
@@ -329,19 +307,19 @@
     "description": "Subtitle on the telemetry consent screen"
   },
   "telemetryListHeader": {
-    "message": "De opsjonele gegevens dy’t wy sammelje omfetsje:",
+    "message": "De opsjonele gegevens dy\u2019t wy sammelje omfetsje:",
     "description": "Headline for a list describing the type of data collected by the extension"
   },
   "technicalData": {
-    "message": "Technyske gegevens, lykas browserferzje, útwreidingsferzje en flaterdetails, sadat wy flaters effisjint folgje en reparearje kinne.",
+    "message": "Technyske gegevens, lykas browserferzje, \u00fatwreidingsferzje en flaterdetails, sadat wy flaters effisjint folgje en reparearje kinne.",
     "description": "Description of technical data, found on telemetry consent screen."
   },
   "interactionData": {
-    "message": "Ynteraksjegegevens, lykas it oantal websiden útsletten fan VPN-beskerming, it oantal websiden mei in lokaasjefoarkar en hoe faaks beskerming yn- en útskeakele wurdt.",
+    "message": "Ynteraksjegegevens, lykas it oantal websiden \u00fatsletten fan VPN-beskerming, it oantal websiden mei in lokaasjefoarkar en hoe faaks beskerming yn- en \u00fatskeakele wurdt.",
     "description": "Description of interaction data, found on the telemetry consent screen."
   },
   "telemetryOptOutInstructions": {
-    "message": "As jo de Mozilla VPN-útwreiding net tastean wolle gegevens te sammeljen, deselektearje dan it fekje. Jo kinne dizze ynstelling ek op elk momint wizigje yn de útwreiding, ûnder Ynstellingen.",
+    "message": "As jo de Mozilla VPN-\u00fatwreiding net tastean wolle gegevens te sammeljen, deselektearje dan it fekje. Jo kinne dizze ynstelling ek op elk momint wizigje yn de \u00fatwreiding, \u00fbnder Ynstellingen.",
     "description": "Opt out instructions on the telemetry consent screen"
   },
   "telemetryCheckboxLabel": {
@@ -349,7 +327,7 @@
     "description": "Checkbox label"
   },
   "telemetrySettingsCheckboxLabel": {
-    "message": "Dizze gegevens helpe ús funksjes en prestaasjes te ferbetterjen. It omfettet gegevens oer jo apparaat, hardwarekonfiguraasje, en hoe’t jo de Mozilla VPN-útwreiding brûke.",
+    "message": "Dizze gegevens helpe \u00fas funksjes en prestaasjes te ferbetterjen. It omfettet gegevens oer jo apparaat, hardwarekonfiguraasje, en hoe\u2019t jo de Mozilla VPN-\u00fatwreiding br\u00fbke.",
     "description": "Checkbox label on the settings page"
   },
   "messageSplitTunnelHeader": {
@@ -357,7 +335,7 @@
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "messageSplitTunnelBody": {
-    "message": "Firefox is op dit stuit in ‘útsûndere app’ yn de Mozilla VPN-tapassing. Iepenje om dizze útwreiding te brûken de tapassing, gean nei Ynstellingen > Utsûndere apps en smyt Firefox fuort.",
+    "message": "Firefox is op dit stuit in \u2018\u00fats\u00fbndere app\u2019 yn de Mozilla VPN-tapassing. Iepenje om dizze \u00fatwreiding te br\u00fbken de tapassing, gean nei Ynstellingen > Uts\u00fbndere apps en smyt Firefox fuort.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }

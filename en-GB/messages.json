@@ -29,13 +29,7 @@
   },
   "excludePageFor": {
     "message": "Always turn off VPN protection for $ORIGIN$",
-    "description": "Setting to exclude a website from VPN.",
-    "placeholders": {
-      "origin": {
-        "content": "$1",
-        "example": "developer.mozilla.org"
-      }
-    }
+    "description": "Setting to exclude a website from VPN."
   },
   "resetPageSettings": {
     "message": "Reset web site preferences",
@@ -74,8 +68,8 @@
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   },
   "headlineNoWebsitePreferences": {
-    "message": "You haven’t set any web site preferences yet",
-    "description": "Headline shown when the user hasn’t set any website preferences."
+    "message": "You haven\u2019t set any web site preferences yet",
+    "description": "Headline shown when the user hasn\u2019t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
     "message": "With the Firefox extension, you can turn off Mozilla VPN protection for a web site or set a custom location. To do this, visit a web site, open the extension, and update the web site preferences.",
@@ -83,13 +77,7 @@
   },
   "altTextRemoveWebsiteButton": {
     "message": "Remove rule for $ORIGIN$",
-    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
-    "placeholders": {
-      "origin": {
-        "content": "$1",
-        "example": "developer.mozilla.org"
-      }
-    }
+    "description": "Alternative text for the button that removes a website rule from the list of preferences."
   },
   "altTextOpenSettingsPage": {
     "message": "Open Settings Page",
@@ -101,10 +89,6 @@
   },
   "titleSubscribeNow": {
     "message": "Subscribe to Mozilla VPN."
-  },
-  "bodySubscribeNow": {
-    "message": "It looks like you’re not subscribed to Mozilla VPN yet. To use this extension, please subscribe.",
-    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
   },
   "btnSubscribeNow": {
     "message": "Subscribe now",
@@ -122,7 +106,7 @@
     "message": "Sign in to the Mozilla VPN app."
   },
   "bodySignedOut": {
-    "message": "You’re currently signed out of the Mozilla VPN app. To use the Mozilla VPN Firefox extension, open the app on your computer and sign in to your account."
+    "message": "You\u2019re currently signed out of the Mozilla VPN app. To use the Mozilla VPN Firefox extension, open the app on your computer and sign in to your account."
   },
   "btnOpenVpn": {
     "message": "Open Mozilla VPN."
@@ -148,7 +132,7 @@
   },
   "bodyInstallMsgFooter": {
     "message": "Note that Mozilla VPN is a paid subscription service.",
-    "description": "This is a footnote for “bodyInstallMsg”."
+    "description": "This is a footnote for \u201cbodyInstallMsg\u201d."
   },
   "btnDownloadNow": {
     "message": "Download now",
@@ -159,7 +143,7 @@
   },
   "useDefaultLocationExplainer": {
     "message": "Use the same location as the Mozilla VPN app protecting this computer.",
-    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+    "description": "Explanation of what \u201cUse default Mozilla VPN Location\u201d means."
   },
   "headerUnsupportedOSMessage": {
     "message": "Unsupported platform."
@@ -168,7 +152,7 @@
     "message": "Currently, the Mozilla VPN extension is only available on Windows devices."
   },
   "footnoteUnsupportedOSMessage": {
-    "message": "We’re working to bring support to macOS and Linux soon!"
+    "message": "We\u2019re working to bring support to macOS and Linux soon!"
   },
   "turnOnProtection": {
     "message": "Turn on protection",
@@ -207,11 +191,11 @@
     "description": "Body text in onboarding panel."
   },
   "onboarding3_title": {
-    "message": "Keep protection for Firefox “on”",
+    "message": "Keep protection for Firefox \u201con\u201d",
     "description": "Title in onboarding panel."
   },
   "onboarding3_body": {
-    "message": "Use the extension to turn on VPN protection for Firefox — even when protection is off for the rest of your computer.",
+    "message": "Use the extension to turn on VPN protection for Firefox \u2014 even when protection is off for the rest of your computer.",
     "description": "Body text in onboarding panel."
   },
   "next": {
@@ -231,7 +215,7 @@
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "bodyReEnableFirefoxProtection": {
-    "message": "Firefox is currently an “excluded app” in the Mozilla VPN application. To use this extension, open the application and go to Settings > Excluded Apps and remove Firefox.",
+    "message": "Firefox is currently an \u201cexcluded app\u201d in the Mozilla VPN application. To use this extension, open the application and go to Settings > Excluded Apps and remove Firefox.",
     "description": "Body copy of error panel."
   },
   "settingsPageSubtitle": {
@@ -251,7 +235,7 @@
     "description": "Indicator text describing the status of the VPN."
   },
   "connecting": {
-    "message": "Connecting…",
+    "message": "Connecting\u2026",
     "description": "Indicator text describing the status of the VPN."
   },
   "helpCenter": {
@@ -272,13 +256,7 @@
   },
   "websiteLocationLabel": {
     "message": "$SERVERLOCATION$: Mozilla VPN web site location",
-    "description": "Aria label for a flag icon representing the location of the VPN server",
-    "placeholders": {
-      "serverlocation": {
-        "content": "$1",
-        "example": "Germany"
-      }
-    }
+    "description": "Aria label for a flag icon representing the location of the VPN server"
   },
   "alert_conflictingProgram": {
     "message": "A programme on your computer may be causing issues with the Mozilla VPN extension.",
@@ -341,7 +319,7 @@
     "description": "Description of interaction data, found on the telemetry consent screen."
   },
   "telemetryOptOutInstructions": {
-    "message": "If you don’t want to allow the Mozilla VPN extension to collect data, untick the box. You can also change this setting any time in the extension, under Settings.",
+    "message": "If you don\u2019t want to allow the Mozilla VPN extension to collect data, untick the box. You can also change this setting any time in the extension, under Settings.",
     "description": "Opt out instructions on the telemetry consent screen"
   },
   "telemetryCheckboxLabel": {
@@ -357,7 +335,7 @@
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "messageSplitTunnelBody": {
-    "message": "Firefox is currently an “excluded app” in the Mozilla VPN application. To use this extension, open the application and go to Settings > Excluded Apps and remove Firefox.",
+    "message": "Firefox is currently an \u201cexcluded app\u201d in the Mozilla VPN application. To use this extension, open the application and go to Settings > Excluded Apps and remove Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }

@@ -29,13 +29,7 @@
   },
   "excludePageFor": {
     "message": "Sempre disactivar le protection VPN pro $ORIGIN$",
-    "description": "Setting to exclude a website from VPN.",
-    "placeholders": {
-      "origin": {
-        "content": "$1",
-        "example": "developer.mozilla.org"
-      }
-    }
+    "description": "Setting to exclude a website from VPN."
   },
   "resetPageSettings": {
     "message": "Reinitialisar preferentias del sito web",
@@ -75,7 +69,7 @@
   },
   "headlineNoWebsitePreferences": {
     "message": "Tu non ha configurate alcun preferentias de sito web ancora",
-    "description": "Headline shown when the user hasn’t set any website preferences."
+    "description": "Headline shown when the user hasn\u2019t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
     "message": "Con le Firefox extension, tu pote disactivar le protection VPN pro specific sitos web, mantenente illo active pro toto le altero. Pro facer isto, visita un sito web, aperi le extension, e actualisa le preferentias del sito web.",
@@ -83,13 +77,7 @@
   },
   "altTextRemoveWebsiteButton": {
     "message": "Remover regula pro $ORIGIN$",
-    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
-    "placeholders": {
-      "origin": {
-        "content": "$1",
-        "example": "developer.mozilla.org"
-      }
-    }
+    "description": "Alternative text for the button that removes a website rule from the list of preferences."
   },
   "altTextOpenSettingsPage": {
     "message": "Aperir le pagina del parametros",
@@ -101,10 +89,6 @@
   },
   "titleSubscribeNow": {
     "message": "Subscriber a Mozilla VPN."
-  },
-  "bodySubscribeNow": {
-    "message": "Il pare que tu non es abonate a Mozilla VPN ancora. Pro usar iste extension, per favor abona te.",
-    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
   },
   "btnSubscribeNow": {
     "message": "Subscribe te ora",
@@ -148,7 +132,7 @@
   },
   "bodyInstallMsgFooter": {
     "message": "Nota que Mozilla VPN es un servicio de abonamento pagate.",
-    "description": "This is a footnote for “bodyInstallMsg”."
+    "description": "This is a footnote for \u201cbodyInstallMsg\u201d."
   },
   "btnDownloadNow": {
     "message": "Discargar ora",
@@ -159,7 +143,7 @@
   },
   "useDefaultLocationExplainer": {
     "message": "Usar le mesme position que Mozilla VPN app protegente iste computator.",
-    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+    "description": "Explanation of what \u201cUse default Mozilla VPN Location\u201d means."
   },
   "headerUnsupportedOSMessage": {
     "message": "Platteforma non supportate."
@@ -231,7 +215,7 @@
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "bodyReEnableFirefoxProtection": {
-    "message": "Firefox es actualmente un “app excludite” in le application Mozilla VPN. A usar iste extension, aperi le application e vade a parametros > Apps excludite e remove Firefox.",
+    "message": "Firefox es actualmente un \u201capp excludite\u201d in le application Mozilla VPN. A usar iste extension, aperi le application e vade a parametros > Apps excludite e remove Firefox.",
     "description": "Body copy of error panel."
   },
   "settingsPageSubtitle": {
@@ -251,7 +235,7 @@
     "description": "Indicator text describing the status of the VPN."
   },
   "connecting": {
-    "message": "Connexion…",
+    "message": "Connexion\u2026",
     "description": "Indicator text describing the status of the VPN."
   },
   "helpCenter": {
@@ -272,13 +256,7 @@
   },
   "websiteLocationLabel": {
     "message": "$SERVERLOCATION$: position del sito web de Mozilla VPN",
-    "description": "Aria label for a flag icon representing the location of the VPN server",
-    "placeholders": {
-      "serverlocation": {
-        "content": "$1",
-        "example": "Germany"
-      }
-    }
+    "description": "Aria label for a flag icon representing the location of the VPN server"
   },
   "alert_conflictingProgram": {
     "message": "Un programma sur tu computator pote causar problemas con le extension Mozilla VPN.",
@@ -357,7 +335,7 @@
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "messageSplitTunnelBody": {
-    "message": "Firefox es actualmente un “app excludite” in le application Mozilla VPN. A usar iste extension, aperi le application e vade a parametros > Apps excludite e remove Firefox.",
+    "message": "Firefox es actualmente un \u201capp excludite\u201d in le application Mozilla VPN. A usar iste extension, aperi le application e vade a parametros > Apps excludite e remove Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }

@@ -1,14 +1,14 @@
 {
   "extensionName": {
-    "message": "Rozšyrjenje Mozilla VPN",
+    "message": "Roz\u0161yrjenje Mozilla VPN",
     "description": "Name of the extension."
   },
   "extensionDescription": {
-    "message": "Integrěrujśo VPN do Firefox: rejtariki wuzamknuś, stojnišća websedłow póstajiś a wěcej!",
+    "message": "Integr\u011bruj\u015bo VPN do Firefox: rejtariki wuzamknu\u015b, stojni\u0161\u0107a websed\u0142ow p\u00f3staji\u015b a w\u011bcej!",
     "description": "Description of the extension."
   },
   "back": {
-    "message": "Slědk",
+    "message": "Sl\u011bdk",
     "description": "Alternative text attribute for back button."
   },
   "productName": {
@@ -16,202 +16,186 @@
     "description": "Name of the product."
   },
   "titleServerList": {
-    "message": "Stojnišćo websedła",
+    "message": "Stojni\u0161\u0107o websed\u0142a",
     "description": "Title for a dialog where users can set the location for a website."
   },
   "selectWebsiteLocation": {
-    "message": "Stojnišćo websedła wubraś",
+    "message": "Stojni\u0161\u0107o websed\u0142a wubra\u015b",
     "description": "Button label."
   },
   "titlePageSettings": {
-    "message": "Nastajenja za toś to websedło",
+    "message": "Nastajenja za to\u015b to websed\u0142o",
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
   "excludePageFor": {
-    "message": "Šćit VPN za $ORIGIN$ pśecej znjemóžniś",
-    "description": "Setting to exclude a website from VPN.",
-    "placeholders": {
-      "origin": {
-        "content": "$1",
-        "example": "developer.mozilla.org"
-      }
-    }
+    "message": "\u0160\u0107it VPN za $ORIGIN$ p\u015becej znjem\u00f3\u017eni\u015b",
+    "description": "Setting to exclude a website from VPN."
   },
   "resetPageSettings": {
-    "message": "Nastajenja websedła slědk stajiś",
+    "message": "Nastajenja websed\u0142a sl\u011bdk staji\u015b",
     "description": "Button text to reset all site specific settings."
   },
   "vpnIsOn": {
-    "message": "Šćit VPN za Firefox jo zmóžnjony",
+    "message": "\u0160\u0107it VPN za Firefox jo zm\u00f3\u017enjony",
     "description": "Header to signal that VPN connection is enabled."
   },
   "vpnIsOff": {
-    "message": "Šćit VPN za Firefox jo znjemóžnjony",
+    "message": "\u0160\u0107it VPN za Firefox jo znjem\u00f3\u017enjony",
     "description": "Header to signal that VPN connection is disabled."
   },
   "extensionVpnIsOff": {
-    "message": "Mozilla VPN jo hyšći zmóžnjony, zbytk wašogo licadła se šćita.",
+    "message": "Mozilla VPN jo hy\u0161\u0107i zm\u00f3\u017enjony, zbytk wa\u0161ogo licad\u0142a se \u0161\u0107ita.",
     "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
   },
   "vpnOffStatus": {
-    "message": "Znjemóžnjony",
+    "message": "Znjem\u00f3\u017enjony",
     "description": "Label indicating that the VPN is off."
   },
   "vpnOnStatus": {
-    "message": "Zmóžnjony",
+    "message": "Zm\u00f3\u017enjony",
     "description": "Label indicating that the VPN is on."
   },
   "placeholderSearchWebsites": {
-    "message": "Websedła pytaś",
+    "message": "Websed\u0142a pyta\u015b",
     "description": "Placeholder text for the search input field to search websites."
   },
   "tableHeadingWebsite": {
-    "message": "Websedło",
+    "message": "Websed\u0142o",
     "description": "Table heading for the column listing websites."
   },
   "tableHeadingVpnStatus": {
-    "message": "Šćit websedła",
+    "message": "\u0160\u0107it websed\u0142a",
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   },
   "headlineNoWebsitePreferences": {
-    "message": "Hyšći njejsćo póstajił nastajenja websedła",
-    "description": "Headline shown when the user hasn’t set any website preferences."
+    "message": "Hy\u0161\u0107i njejs\u0107o p\u00f3staji\u0142 nastajenja websed\u0142a",
+    "description": "Headline shown when the user hasn\u2019t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
-    "message": "Z rozšyrjenim Firefox móžośo šćit Mozilla VPN za websedło znjemóžniś abo swójske stojnišćo nastajiś. Aby to cynił, woglědajśo se k websedłoju, wócyńśo rozšyrjenje a aktualizěrujśo nastajenja websedła.",
+    "message": "Z roz\u0161yrjenim Firefox m\u00f3\u017eo\u015bo \u0161\u0107it Mozilla VPN za websed\u0142o znjem\u00f3\u017eni\u015b abo sw\u00f3jske stojni\u0161\u0107o nastaji\u015b. Aby to cyni\u0142, wogl\u011bdaj\u015bo se k websed\u0142oju, w\u00f3cy\u0144\u015bo roz\u0161yrjenje a aktualiz\u011bruj\u015bo nastajenja websed\u0142a.",
     "description": "Subtext shown when there are no website preferences set by the user."
   },
   "altTextRemoveWebsiteButton": {
-    "message": "Pšawidło za $ORIGIN$ wótwónoźeś",
-    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
-    "placeholders": {
-      "origin": {
-        "content": "$1",
-        "example": "developer.mozilla.org"
-      }
-    }
+    "message": "P\u0161awid\u0142o za $ORIGIN$ w\u00f3tw\u00f3no\u017ae\u015b",
+    "description": "Alternative text for the button that removes a website rule from the list of preferences."
   },
   "altTextOpenSettingsPage": {
-    "message": "Bok nastajenjow wócyniś",
+    "message": "Bok nastajenjow w\u00f3cyni\u015b",
     "description": "Alternative text for the button that opens the Extensions Settings page."
   },
   "searchServer": {
-    "message": "Stojnišća pytaś",
+    "message": "Stojni\u0161\u0107a pyta\u015b",
     "description": "Placeholder for the Input field where users can search the list of servers."
   },
   "titleSubscribeNow": {
-    "message": "Mozilla VPN aboněrowaś."
-  },
-  "bodySubscribeNow": {
-    "message": "Zda so, až hyšći njejsćo aboněrował Mozilla VPN. Aby toś to rozšyrjenje wužywał, aboněrujśo jen pšosym.",
-    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+    "message": "Mozilla VPN abon\u011browa\u015b."
   },
   "btnSubscribeNow": {
-    "message": "Něnto aboněrowaś",
+    "message": "N\u011bnto abon\u011browa\u015b",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
   },
   "getHelp": {
-    "message": "Pomoc se wobstaraś",
+    "message": "Pomoc se wobstara\u015b",
     "description": "Text of a link pointing to a relevant help page."
   },
   "headerOpenMozillaVPN": {
-    "message": "Mozilla VPN wócyniś",
+    "message": "Mozilla VPN w\u00f3cyni\u015b",
     "description": "Headline."
   },
   "headerSignedOut": {
-    "message": "Pśizjawśo se pla nałoženja Mozilla VPN."
+    "message": "P\u015bizjaw\u015bo se pla na\u0142o\u017eenja Mozilla VPN."
   },
   "bodySignedOut": {
-    "message": "Sćo tuchylu z nałoženja Mozilla VPN wótzjawjony. Aby rozšyrjenje Firefox Mozilla VPN wužywał, wócyńśo nałoženje na swójom licadle a pśizjawśo se pla swójogo konta."
+    "message": "S\u0107o tuchylu z na\u0142o\u017eenja Mozilla VPN w\u00f3tzjawjony. Aby roz\u0161yrjenje Firefox Mozilla VPN wu\u017eywa\u0142, w\u00f3cy\u0144\u015bo na\u0142o\u017eenje na sw\u00f3jom licadle a p\u015bizjaw\u015bo se pla sw\u00f3jogo konta."
   },
   "btnOpenVpn": {
-    "message": "Mozilla VPN wócyniś."
+    "message": "Mozilla VPN w\u00f3cyni\u015b."
   },
   "headerNeedsUpdate": {
-    "message": "Mozilla VPN aktualizěrowaś",
+    "message": "Mozilla VPN aktualiz\u011browa\u015b",
     "description": "This is the headline of an error panel."
   },
   "bodyNeedsUpdate2": {
-    "message": "Aby toś to rozšyrjenje wužywał, ześěgniśo a instalěrujśo nejpjerwjej nejnowše nałoženje Mozilla VPN.",
+    "message": "Aby to\u015b to roz\u0161yrjenje wu\u017eywa\u0142, ze\u015b\u011bgni\u015bo a instal\u011bruj\u015bo nejpjerwjej nejnow\u0161e na\u0142o\u017eenje Mozilla VPN.",
     "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
-    "message": "Mozilla VPN instalěrowaś",
+    "message": "Mozilla VPN instal\u011browa\u015b",
     "description": "Header if a VPN installation was not found."
   },
   "bodyOpenMsg": {
-    "message": "Aby rozšyrjenje Firefox Mozilla VPN wužywał, wócyńśo pšosym nejpjerwjej nałoženje Mozilla VPN.",
+    "message": "Aby roz\u0161yrjenje Firefox Mozilla VPN wu\u017eywa\u0142, w\u00f3cy\u0144\u015bo p\u0161osym nejpjerwjej na\u0142o\u017eenje Mozilla VPN.",
     "description": "Popup subtitle text."
   },
   "bodyInstallMsg": {
-    "message": "Aby toś to rozšyrjenje wužywał, ześěgniśo a instalěrujśo nejpjerwjej nałoženje Mozilla VPN na swójom licadle."
+    "message": "Aby to\u015b to roz\u0161yrjenje wu\u017eywa\u0142, ze\u015b\u011bgni\u015bo a instal\u011bruj\u015bo nejpjerwjej na\u0142o\u017eenje Mozilla VPN na sw\u00f3jom licadle."
   },
   "bodyInstallMsgFooter": {
-    "message": "Źiwajśo na to, až Mozilla VPN jo abonementna słužba, za kótaruž musyśo płaśiś.",
-    "description": "This is a footnote for “bodyInstallMsg”."
+    "message": "\u0179iwaj\u015bo na to, a\u017e Mozilla VPN jo abonementna s\u0142u\u017eba, za k\u00f3taru\u017e musy\u015bo p\u0142a\u015bi\u015b.",
+    "description": "This is a footnote for \u201cbodyInstallMsg\u201d."
   },
   "btnDownloadNow": {
-    "message": "Něnto ześěgnuś",
+    "message": "N\u011bnto ze\u015b\u011bgnu\u015b",
     "description": "This is a call to action button to download the VPN."
   },
   "defaultLocationHeader": {
-    "message": "Stojnišćo Mozilla VPN wužywaś."
+    "message": "Stojni\u0161\u0107o Mozilla VPN wu\u017eywa\u015b."
   },
   "useDefaultLocationExplainer": {
-    "message": "Wužywajśo samske stojnišćo ako nałoženje Mozilla VPN, kótarež toś to licadło šćita.",
-    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+    "message": "Wu\u017eywaj\u015bo samske stojni\u0161\u0107o ako na\u0142o\u017eenje Mozilla VPN, k\u00f3tare\u017e to\u015b to licad\u0142o \u0161\u0107ita.",
+    "description": "Explanation of what \u201cUse default Mozilla VPN Location\u201d means."
   },
   "headerUnsupportedOSMessage": {
-    "message": "Njepódprěta platforma."
+    "message": "Njep\u00f3dpr\u011bta platforma."
   },
   "bodyUnsupportedOSMessage": {
-    "message": "Tuchylu jo rozšyrjenje Mozilla VPN jano za rědy Windows k dispoziciji."
+    "message": "Tuchylu jo roz\u0161yrjenje Mozilla VPN jano za r\u011bdy Windows k dispoziciji."
   },
   "footnoteUnsupportedOSMessage": {
-    "message": "Źěłamy na to, aby skóro pódpěru za macOS a Linux k dispoziciji stajili!"
+    "message": "\u0179\u011b\u0142amy na to, aby sk\u00f3ro p\u00f3dp\u011bru za macOS a Linux k dispoziciji stajili!"
   },
   "turnOnProtection": {
-    "message": "Šćit zmóžniś",
+    "message": "\u0160\u0107it zm\u00f3\u017eni\u015b",
     "description": "Button label."
   },
   "removeCustomLocation": {
-    "message": "Swójske stojnišćo wótwónoźeś",
+    "message": "Sw\u00f3jske stojni\u0161\u0107o w\u00f3tw\u00f3no\u017ae\u015b",
     "description": "Button label."
   },
   "websiteProtection": {
-    "message": "Šćit websedła",
+    "message": "\u0160\u0107it websed\u0142a",
     "description": "A subtitle that is followed by an off icon and the word 'Off'."
   },
   "giveFeedback": {
-    "message": "Komentar pósłaś",
+    "message": "Komentar p\u00f3s\u0142a\u015b",
     "description": "Button label."
   },
   "learnMore": {
-    "message": "Dalšne informacije",
+    "message": "Dal\u0161ne informacije",
     "description": "Label of link that leads to SUMO."
   },
   "onboarding1_title": {
-    "message": "VPN za wěste websedła znjemóžniś",
+    "message": "VPN za w\u011bste websed\u0142a znjem\u00f3\u017eni\u015b",
     "description": "Title in onboarding panel."
   },
   "onboarding1_body": {
-    "message": "Z rozšyrjenim Firefox móžośo šćit VPN za wěste websedła znjemóžniś, mjaztym až jen za wšykne druge zmóžnjony wóstajaśo.",
+    "message": "Z roz\u0161yrjenim Firefox m\u00f3\u017eo\u015bo \u0161\u0107it VPN za w\u011bste websed\u0142a znjem\u00f3\u017eni\u015b, mjaztym a\u017e jen za w\u0161ykne druge zm\u00f3\u017enjony w\u00f3staja\u015bo.",
     "description": "Body text in onboarding panel."
   },
   "onboarding2_title": {
-    "message": "Woglědajśo se rozdźělne websedła wót rozdźělnych stojnišćow",
+    "message": "Wogl\u011bdaj\u015bo se rozd\u017a\u011blne websed\u0142a w\u00f3t rozd\u017a\u011blnych stojni\u0161\u0107ow",
     "description": "Title in onboarding panel."
   },
   "onboarding2_body": {
-    "message": "Powěsći z Londona. Sport ze São Paulo. Nakupowanje w Tokiu. Nastajśo za websedła specifiske stojnišća za personalizěrowane pśeglědowanje.",
+    "message": "Pow\u011bs\u0107i z Londona. Sport ze S\u00e3o Paulo. Nakupowanje w Tokiu. Nastaj\u015bo za websed\u0142a specifiske stojni\u0161\u0107a za personaliz\u011browane p\u015begl\u011bdowanje.",
     "description": "Body text in onboarding panel."
   },
   "onboarding3_title": {
-    "message": "Wóstajśo šćit za Firefox „zmóžnjony“",
+    "message": "W\u00f3staj\u015bo \u0161\u0107it za Firefox \u201ezm\u00f3\u017enjony\u201c",
     "description": "Title in onboarding panel."
   },
   "onboarding3_body": {
-    "message": "Wužywajśo rozšyrjenje, aby šćit VPN za Firefox zmóžnił – samo gaby šćit był znjemóžnjony za zbytk licadła.",
+    "message": "Wu\u017eywaj\u015bo roz\u0161yrjenje, aby \u0161\u0107it VPN za Firefox zm\u00f3\u017eni\u0142 \u2013 samo gaby \u0161\u0107it by\u0142 znjem\u00f3\u017enjony za zbytk licad\u0142a.",
     "description": "Body text in onboarding panel."
   },
   "next": {
@@ -219,31 +203,31 @@
     "description": "Label of button to progress to next onboarding panel."
   },
   "skip": {
-    "message": "Pśeskócyś",
+    "message": "P\u015besk\u00f3cy\u015b",
     "description": "Label of button to skip onboarding."
   },
   "done": {
-    "message": "Dokóńcony",
+    "message": "Dok\u00f3\u0144cony",
     "description": "Label of button in final onboarding panel."
   },
   "headerReEnableFirefoxProtection": {
-    "message": "Šćit Firefox zasej zmóžniś",
+    "message": "\u0160\u0107it Firefox zasej zm\u00f3\u017eni\u015b",
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "bodyReEnableFirefoxProtection": {
-    "message": "Firefox jo tuchylu „wuzamknjone nałoženje“ w nałoženju Mozilla VPN. Aby toś to rozšyrjenje wužywał, wócyńśo nałoženje a pśejźćo k Nastajenja > Wuzamknjone nałoženja a wótwónoźćo Firefox.",
+    "message": "Firefox jo tuchylu \u201ewuzamknjone na\u0142o\u017eenje\u201c w na\u0142o\u017eenju Mozilla VPN. Aby to\u015b to roz\u0161yrjenje wu\u017eywa\u0142, w\u00f3cy\u0144\u015bo na\u0142o\u017eenje a p\u015bej\u017a\u0107o k Nastajenja > Wuzamknjone na\u0142o\u017eenja a w\u00f3tw\u00f3no\u017a\u0107o Firefox.",
     "description": "Body copy of error panel."
   },
   "settingsPageSubtitle": {
-    "message": "Aby za websedła specifiske nastajenja pśidał abo změnił, woglědajśo se k sedłoju a wócyńśo rozšyrjenje Firefox Mozilla VPN. Póstajśo pón nastajenja za sedło. Waše nastajenja se jano wustatkuju, gaž šćit VPN za Firefox jo zmóžnjony.",
+    "message": "Aby za websed\u0142a specifiske nastajenja p\u015bida\u0142 abo zm\u011bni\u0142, wogl\u011bdaj\u015bo se k sed\u0142oju a w\u00f3cy\u0144\u015bo roz\u0161yrjenje Firefox Mozilla VPN. P\u00f3staj\u015bo p\u00f3n nastajenja za sed\u0142o. Wa\u0161e nastajenja se jano wustatkuju, ga\u017e \u0161\u0107it VPN za Firefox jo zm\u00f3\u017enjony.",
     "description": "Subtitle in the settings page."
   },
   "settingsPageTitle": {
-    "message": "Nastajenja websedła Mozilla VPN",
+    "message": "Nastajenja websed\u0142a Mozilla VPN",
     "description": "Title for settings page tab."
   },
   "noSignal": {
-    "message": "Žeden signal",
+    "message": "\u017deden signal",
     "description": "Indicator text describing the status of the VPN."
   },
   "unstable": {
@@ -251,7 +235,7 @@
     "description": "Indicator text describing the status of the VPN."
   },
   "connecting": {
-    "message": "Zwězujo se…",
+    "message": "Zw\u011bzujo se\u2026",
     "description": "Indicator text describing the status of the VPN."
   },
   "helpCenter": {
@@ -259,105 +243,99 @@
     "description": "Link title."
   },
   "websitePreferences": {
-    "message": "Nastajenja websedła",
+    "message": "Nastajenja websed\u0142a",
     "description": "Link title."
   },
   "contactSupport": {
-    "message": "Z pomocu se do zwiska stajiś",
+    "message": "Z pomocu se do zwiska staji\u015b",
     "description": "Link title."
   },
   "offForWebsite": {
-    "message": "Mozilla VPN jo za websedło znjemóžnjony",
+    "message": "Mozilla VPN jo za websed\u0142o znjem\u00f3\u017enjony",
     "description": "Aria label."
   },
   "websiteLocationLabel": {
-    "message": "$SERVERLOCATION$: Stojnišćo websedła Mozilla VPN",
-    "description": "Aria label for a flag icon representing the location of the VPN server",
-    "placeholders": {
-      "serverlocation": {
-        "content": "$1",
-        "example": "Germany"
-      }
-    }
+    "message": "$SERVERLOCATION$: Stojni\u0161\u0107o websed\u0142a Mozilla VPN",
+    "description": "Aria label for a flag icon representing the location of the VPN server"
   },
   "alert_conflictingProgram": {
-    "message": "Program na wašom licadle snaź problemy z rozšyrjenim Mozilla VPN zawinujo.",
+    "message": "Program na wa\u0161om licadle sna\u017a problemy z roz\u0161yrjenim Mozilla VPN zawinujo.",
     "description": "Banner alert"
   },
   "howToFix": {
-    "message": "Kak pórěźiś",
+    "message": "Kak p\u00f3r\u011b\u017ai\u015b",
     "description": "Link in banner alert"
   },
   "alert_conflictingExtensions": {
-    "message": "Druge rozšyrjenja mógu źěło rozšyrjenja Mozilla VPN kazyś.",
+    "message": "Druge roz\u0161yrjenja m\u00f3gu \u017a\u011b\u0142o roz\u0161yrjenja Mozilla VPN kazy\u015b.",
     "description": "Banner alert"
   },
   "learnWhatToDo": {
-    "message": "Zgóńśo, což musyśo cyniś",
+    "message": "Zg\u00f3\u0144\u015bo, co\u017e musy\u015bo cyni\u015b",
     "description": "Link in banner alert"
   },
   "telemetry_toggle_text": {
-    "message": "Techniske daty a daty interakcije źěliś",
+    "message": "Techniske daty a daty interakcije \u017a\u011bli\u015b",
     "description": "Label for the Telemetry Opt-In toggle"
   },
   "privacy_notice_link_name": {
-    "message": "Pokazka priwatnosći za abonementne słužby Mozilla",
+    "message": "Pokazka priwatnos\u0107i za abonementne s\u0142u\u017eby Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
   "first-install-body": {
-    "message": "Aby nam pomagał, funkcije a wugbaśe pólěpšowaś a problemy malsnjej rozwězaś, móžośo rozšyrjenjeju Mozilla VPN dowóliś, daty gromaźiś. Daty, kótarež gromaźimy, se z wami njezwěžu a njegromaźimy nigda daty wó sedłach, ku kótarymž se woglědujośo. Gromaźenje datow wliw na to njama, kak rozšyrjenje funkcioněrujo.",
+    "message": "Aby nam pomaga\u0142, funkcije a wugba\u015be p\u00f3l\u011bp\u0161owa\u015b a problemy malsnjej rozw\u011bza\u015b, m\u00f3\u017eo\u015bo roz\u0161yrjenjeju Mozilla VPN dow\u00f3li\u015b, daty groma\u017ai\u015b. Daty, k\u00f3tare\u017e groma\u017aimy, se z wami njezw\u011b\u017eu a njegroma\u017aimy nigda daty w\u00f3 sed\u0142ach, ku k\u00f3tarym\u017e se wogl\u011bdujo\u015bo. Groma\u017aenje datow wliw na to njama, kak roz\u0161yrjenje funkcion\u011brujo.",
     "description": "Body copy on the telemetry consent screen"
   },
   "privacyPolicyIntro": {
-    "message": "Dopołne drobnostki wó datach, kótarež gromaźimy, su w našych pšawidłach priwatnosći k dispoziciji.",
+    "message": "Dopo\u0142ne drobnostki w\u00f3 datach, k\u00f3tare\u017e groma\u017aimy, su w na\u0161ych p\u0161awid\u0142ach priwatnos\u0107i k dispoziciji.",
     "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
   },
   "viewPrivacyPolicy": {
-    "message": "Pšawidła priwatnosći pokazaś",
+    "message": "P\u0161awid\u0142a priwatnos\u0107i pokaza\u015b",
     "description": "Privacy policy link"
   },
   "thankYouForAdding": {
-    "message": "Wjeliki źěk, až sćo pśidał rozšyrjenje Mozilla VPN",
+    "message": "Wjeliki \u017a\u011bk, a\u017e s\u0107o p\u015bida\u0142 roz\u0161yrjenje Mozilla VPN",
     "description": "Headline on the telemetry consent screen"
   },
   "toContinueToTheExtension": {
-    "message": "Aby z rozšyrjenim pókšacował, wubjeŕśo logo Mozilla VPN w symbolowej rědce Firefox.",
+    "message": "Aby z roz\u0161yrjenim p\u00f3k\u0161acowa\u0142, wubje\u0155\u015bo logo Mozilla VPN w symbolowej r\u011bdce Firefox.",
     "description": "Blurb at the bottom of the telemetry consent screen"
   },
   "optionalDataCollection": {
-    "message": "Opcionalne gromaźenje datow",
+    "message": "Opcionalne groma\u017aenje datow",
     "description": "Subtitle on the telemetry consent screen"
   },
   "telemetryListHeader": {
-    "message": "K opcionalnym datam, kótarež gromaźimy, słušaju:",
+    "message": "K opcionalnym datam, k\u00f3tare\u017e groma\u017aimy, s\u0142u\u0161aju:",
     "description": "Headline for a list describing the type of data collected by the extension"
   },
   "technicalData": {
-    "message": "Techniske daty, ako na pśikład wersija wobglědowaka, wersija rozšyrjenja a drobnostki wó zmólkach, móžomy tak slědowaś a zmólki eficientnje wótwónoźeś.",
+    "message": "Techniske daty, ako na p\u015bik\u0142ad wersija wobgl\u011bdowaka, wersija roz\u0161yrjenja a drobnostki w\u00f3 zm\u00f3lkach, m\u00f3\u017eomy tak sl\u011bdowa\u015b a zm\u00f3lki eficientnje w\u00f3tw\u00f3no\u017ae\u015b.",
     "description": "Description of technical data, found on telemetry consent screen."
   },
   "interactionData": {
-    "message": "Daty interakcije, na pśikład licba websedłow, kótarež su ze šćita VPN wuzamknjone, licba websedłow ze městneju preferencu a kak cesto se šćit zmóžnja a znjemóžnja.",
+    "message": "Daty interakcije, na p\u015bik\u0142ad licba websed\u0142ow, k\u00f3tare\u017e su ze \u0161\u0107ita VPN wuzamknjone, licba websed\u0142ow ze m\u011bstneju preferencu a kak cesto se \u0161\u0107it zm\u00f3\u017enja a znjem\u00f3\u017enja.",
     "description": "Description of interaction data, found on the telemetry consent screen."
   },
   "telemetryOptOutInstructions": {
-    "message": "Jolic njocośo rozšyrjenjeju Mozilla VPN gromaźenje datow dowóliś, wótwónoźćo kokulku z kašćika. Móžośo teke toś to nastajenje kuždy cas w nastajenjach rozšyrjenja změniś.",
+    "message": "Jolic njoco\u015bo roz\u0161yrjenjeju Mozilla VPN groma\u017aenje datow dow\u00f3li\u015b, w\u00f3tw\u00f3no\u017a\u0107o kokulku z ka\u0161\u0107ika. M\u00f3\u017eo\u015bo teke to\u015b to nastajenje ku\u017edy cas w nastajenjach roz\u0161yrjenja zm\u011bni\u015b.",
     "description": "Opt out instructions on the telemetry consent screen"
   },
   "telemetryCheckboxLabel": {
-    "message": "Mozilla dowóliś, techniske daty a daty interakcije gromaźiś",
+    "message": "Mozilla dow\u00f3li\u015b, techniske daty a daty interakcije groma\u017ai\u015b",
     "description": "Checkbox label"
   },
   "telemetrySettingsCheckboxLabel": {
-    "message": "Toś te daty nam pomagaju, funkcije a wugbaśe pólěpšowaś. K nim słušaju daty wó wašom rěźe, hardwarowej konfiguraciji a kak rozšyrjenje Mozilla VPN wužywaśo.",
+    "message": "To\u015b te daty nam pomagaju, funkcije a wugba\u015be p\u00f3l\u011bp\u0161owa\u015b. K nim s\u0142u\u0161aju daty w\u00f3 wa\u0161om r\u011b\u017ae, hardwarowej konfiguraciji a kak roz\u0161yrjenje Mozilla VPN wu\u017eywa\u015bo.",
     "description": "Checkbox label on the settings page"
   },
   "messageSplitTunnelHeader": {
-    "message": "Šćit za Firefox zmóžniś",
+    "message": "\u0160\u0107it za Firefox zm\u00f3\u017eni\u015b",
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "messageSplitTunnelBody": {
-    "message": "Firefox jo tuchylu „wuzamknjone nałoženje“ w nałoženju Mozilla VPN. Aby toś to rozšyrjenje wužywał, wócyńśo nałoženje a pśejźćo k Nastajenja > Wuzamknjone nałoženja a wótwónoźćo Firefox.",
+    "message": "Firefox jo tuchylu \u201ewuzamknjone na\u0142o\u017eenje\u201c w na\u0142o\u017eenju Mozilla VPN. Aby to\u015b to roz\u0161yrjenje wu\u017eywa\u0142, w\u00f3cy\u0144\u015bo na\u0142o\u017eenje a p\u015bej\u017a\u0107o k Nastajenja > Wuzamknjone na\u0142o\u017eenja a w\u00f3tw\u00f3no\u017a\u0107o Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }
