@@ -90,6 +90,14 @@
   "titleSubscribeNow": {
     "message": "Prihl\u00e1ste sa k predplatn\u00e9mu Mozilla VPN."
   },
+  "bodySubscribeNow2": {
+    "message": "Nepodarilo sa n\u00e1m n\u00e1js\u0165 predplatn\u00e9 spojen\u00e9 s \u00fa\u010dtom, ktor\u00fd ste pou\u017eili na prihl\u00e1senie do aplik\u00e1cie Mozilla VPN.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "footerSubscribeNow": {
+    "message": "Ak chcete pou\u017ei\u0165 toto roz\u0161\u00edrenie, prihl\u00e1ste sa na predplatn\u00e9.",
+    "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
+  },
   "btnSubscribeNow": {
     "message": "Predplati\u0165",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
