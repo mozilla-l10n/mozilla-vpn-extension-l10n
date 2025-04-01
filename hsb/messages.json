@@ -95,7 +95,7 @@
     "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
   },
   "footerSubscribeNow": {
-    "message": "Pro\u0161u abonuj\u0107e so, zo by\u0161\u0107e tute roz\u0161\u011brjenje wu\u017eiwa\u0142.",
+    "message": "Pro\u0161u abonuj\u0107e, zo by\u0161\u0107e tute roz\u0161\u011brjenje wu\u017eiwa\u0142.",
     "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
   },
   "btnSubscribeNow": {

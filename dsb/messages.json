@@ -90,6 +90,14 @@
   "titleSubscribeNow": {
     "message": "Mozilla VPN abon\u011browa\u015b."
   },
+  "bodySubscribeNow2": {
+    "message": "Njejsmy m\u00f3gli abonement namaka\u015b, k\u00f3tary\u017e jo z kontom zw\u011bzany, k\u00f3tare\u017e s\u0107o wu\u017eywa\u0142, aby se pla na\u0142o\u017eenja Mozilla VPN p\u015bizjawi\u0142.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "footerSubscribeNow": {
+    "message": "P\u0161osym abon\u011bruj\u015bo, aby to\u015b to roz\u0161yrjenje wu\u017eywa\u0142.",
+    "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
+  },
   "btnSubscribeNow": {
     "message": "N\u011bnto abon\u011browa\u015b",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
