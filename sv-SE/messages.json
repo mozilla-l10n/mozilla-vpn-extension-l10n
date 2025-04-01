@@ -90,6 +90,14 @@
   "titleSubscribeNow": {
     "message": "Prenumerera p\u00e5 Mozilla VPN."
   },
+  "bodySubscribeNow2": {
+    "message": "Vi kunde inte hitta en prenumeration kopplad till det konto du anv\u00e4nde f\u00f6r att logga in p\u00e5 Mozilla VPN-appen.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "footerSubscribeNow": {
+    "message": "Om du vill anv\u00e4nda till\u00e4gget m\u00e5ste du prenumerera.",
+    "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
+  },
   "btnSubscribeNow": {
     "message": "Prenumerera nu",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
