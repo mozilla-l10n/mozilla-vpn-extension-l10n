@@ -90,6 +90,14 @@
   "titleSubscribeNow": {
     "message": "Tanysgrifiwch i Mozilla VPN."
   },
+  "bodySubscribeNow2": {
+    "message": "Doedd dim modd dod o hyd i danysgrifiad yn gysylltiedig \u00e2'r cyfrif a ddefnyddiwyd gennych i fewngofnodi ar ap Mozilla VPN.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "footerSubscribeNow": {
+    "message": "I ddefnyddio'r estyniad hwn, tanysgrifiwch.",
+    "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
+  },
   "btnSubscribeNow": {
     "message": "Tanysgrifiwch nawr",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
