@@ -82,6 +82,14 @@
   "titleSubscribeNow": {
     "message": "Tilaa Mozilla VPN."
   },
+  "bodySubscribeNow2": {
+    "message": "Emme l\u00f6yt\u00e4neet tilausta, joka olisi sidottu tiliin, jolla kirjauduit sis\u00e4\u00e4n Mozilla VPN -sovellukseen.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "footerSubscribeNow": {
+    "message": "Jos haluat k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 laajennusta, hanki tilaus.",
+    "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
+  },
   "btnSubscribeNow": {
     "message": "Tilaa nyt",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
@@ -194,6 +202,10 @@
     "message": "Valmis",
     "description": "Label of button in final onboarding panel."
   },
+  "headerReEnableFirefoxProtection": {
+    "message": "Ota Firefoxin suojaus uudelleen k\u00e4ytt\u00f6\u00f6n",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
   "settingsPageTitle": {
     "message": "Mozilla VPN:n sivustoasetukset",
     "description": "Title for settings page tab."
@@ -273,5 +285,9 @@
   "telemetryCheckboxLabel": {
     "message": "Salli Mozillan ker\u00e4t\u00e4 teknisi\u00e4 ja vuorovaikutustietoja",
     "description": "Checkbox label"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Ota suojaus k\u00e4ytt\u00f6\u00f6n Firefoxille",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }
