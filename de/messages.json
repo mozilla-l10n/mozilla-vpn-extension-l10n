@@ -345,5 +345,21 @@
   "messageSplitTunnelBody": {
     "message": "Firefox ist derzeit eine \u201eausgeschlossene App\u201c in der Mozilla-VPN-Anwendung. Um diese Erweiterung zu verwenden, \u00f6ffnen Sie die Anwendung, gehen Sie zu Einstellungen > Ausgeschlossene Apps und entfernen Sie Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "headerSubscriptionNotAvailable": {
+    "message": "Mozilla-VPN-Abonnements sind in Ihrem Land noch nicht verf\u00fcgbar",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "bodySubscriptionNotAvailable": {
+    "message": "Mozilla-VPN-Abonnements sind in Ihrem Land noch nicht verf\u00fcgbar, aber Sie k\u00f6nnen sich auf unserer Warteliste eintragen, um beim Start benachrichtigt zu werden. Wenn Sie bereits ein Abonnement haben, fahren Sie bitte fort.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnjoinWaitlist": {
+    "message": "Auf Warteliste setzen",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnContinue": {
+    "message": "Weiter",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   }
 }
