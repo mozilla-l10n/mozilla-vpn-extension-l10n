@@ -90,6 +90,14 @@
   "titleSubscribeNow": {
     "message": "Assine o Mozilla VPN."
   },
+  "bodySubscribeNow2": {
+    "message": "N\u00e3o conseguimos encontrar uma assinatura vinculada \u00e0 conta que voc\u00ea usou para entrar no aplicativo Mozilla VPN.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "footerSubscribeNow": {
+    "message": "Para usar esta extens\u00e3o, inscreva-se.",
+    "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
+  },
   "btnSubscribeNow": {
     "message": "Assine j\u00e1",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
@@ -337,5 +345,21 @@
   "messageSplitTunnelBody": {
     "message": "O Firefox atualmente \u00e9 um \u201caplicativo exclu\u00eddo\u201d no aplicativo Mozilla VPN. Para usar esta extens\u00e3o, abra o aplicativo, v\u00e1 em Configura\u00e7\u00f5es > Aplicativos exclu\u00eddos e remova o Firefox da lista.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "headerSubscriptionNotAvailable": {
+    "message": "Assinatura do Mozilla VPN ainda n\u00e3o est\u00e1 dispon\u00edvel em seu pa\u00eds",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "bodySubscriptionNotAvailable": {
+    "message": "Assinatura do Mozilla VPN ainda n\u00e3o est\u00e1 dispon\u00edvel em seu pa\u00eds, mas voc\u00ea pode entrar na nossa lista de espera para ser notificado quando for lan\u00e7ada. Se voc\u00ea j\u00e1 tem uma assinatura, continue.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnjoinWaitlist": {
+    "message": "Entrar na lista de espera",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnContinue": {
+    "message": "Continuar",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   }
 }
