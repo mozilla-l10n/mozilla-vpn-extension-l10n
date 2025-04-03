@@ -345,5 +345,21 @@
   "messageSplitTunnelBody": {
     "message": "Firefox je moment\u00e1lne \u201cvyl\u00fa\u010den\u00e1 aplik\u00e1cia\u201d v aplik\u00e1cii Mozilla VPN. Ak chcete pou\u017ei\u0165 toto roz\u0161\u00edrenie, otvorte aplik\u00e1ciu a prejdite do \u010dasti Nastavenia > Vyl\u00fa\u010den\u00e9 aplik\u00e1cie a odstr\u00e1\u0148te Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "headerSubscriptionNotAvailable": {
+    "message": "Predplatn\u00e9 Mozilla VPN zatia\u013e nie je vo va\u0161ej krajine dostupn\u00e9",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "bodySubscriptionNotAvailable": {
+    "message": "Predplatn\u00e9 Mozilla VPN zatia\u013e nie je vo va\u0161ej krajine dostupn\u00e9, ale m\u00f4\u017eete sa pripoji\u0165 k n\u00e1\u0161mu zoznamu \u010dakate\u013eov, aby ste dostali upozornenie, ke\u010f bude spusten\u00e9. Ak u\u017e m\u00e1te predplatn\u00e9, pokra\u010dujte.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnjoinWaitlist": {
+    "message": "Prida\u0165 sa na zoznam \u010dakate\u013eov",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnContinue": {
+    "message": "Pokra\u010dova\u0165",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   }
 }
