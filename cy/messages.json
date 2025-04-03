@@ -345,5 +345,21 @@
   "messageSplitTunnelBody": {
     "message": "Ar hyn o bryd mae Firefox yn \u201cap gwaharddedig\u201d yn rhaglen Mozilla VPN. I ddefnyddio'r estyniad hwn, agorwch y rhaglen ac ewch i Gosodiadau > Apiau Eithriedig a thynnu Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "headerSubscriptionNotAvailable": {
+    "message": "Nid yw tanysgrifiadau Mozilla VPN ar gael yn eich gwlad eto",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "bodySubscriptionNotAvailable": {
+    "message": "Nid yw tanysgrifiadau Mozilla VPN ar gael yn eich gwlad eto, ond gallwch ymuno \u00e2'n rhestr aros i gael gwybod pan fyddan nhw'n cael eu lansio. Os oes gennych danysgrifiad yn barod, parhewch.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnjoinWaitlist": {
+    "message": "Ymunwch \u00e2'r Rhestr Aros",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnContinue": {
+    "message": "Parhau",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   }
 }
