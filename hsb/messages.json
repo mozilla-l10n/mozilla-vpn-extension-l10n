@@ -345,5 +345,13 @@
   "messageSplitTunnelBody": {
     "message": "Firefox je tuchwilu \u201ewuzamknjene na\u0142o\u017eenje\u201c w na\u0142o\u017eenju Mozilla VPN. Zo by\u0161\u0107e tute roz\u0161\u011brjenje wu\u017eiwa\u0142, wo\u010di\u0144\u0107e na\u0142o\u017eenje a p\u0159e\u0144d\u017a\u0107e k Nastajenja > Wuzamknjene na\u0142o\u017eenja a wotstro\u0144\u0107e Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "btnjoinWaitlist": {
+    "message": "P\u0159istup\u0107e \u010dakanskej lis\u0107inje",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnContinue": {
+    "message": "Dale",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   }
 }
