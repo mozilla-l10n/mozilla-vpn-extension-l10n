@@ -366,7 +366,7 @@
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "headerSubscriptionNotAvailable": {
-    "message": "Mozilla VPN Subscriptions are not yet available in your country",
+    "message": "Mozilla VPN subscriptions are not yet available in your country",
     "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "bodySubscriptionNotAvailable" :{
