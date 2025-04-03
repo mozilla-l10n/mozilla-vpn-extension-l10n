@@ -345,5 +345,21 @@
   "messageSplitTunnelBody": {
     "message": "Firefox \u00e4r f\u00f6r n\u00e4rvarande en \u201dutesluten app\u201d i Mozilla VPN-applikationen. F\u00f6r att anv\u00e4nda till\u00e4gget, \u00f6ppna applikationen och g\u00e5 till Inst\u00e4llningar > Uteslutna appar och ta bort Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "headerSubscriptionNotAvailable": {
+    "message": "Mozilla VPN-prenumerationer \u00e4r \u00e4nnu inte tillg\u00e4ngliga i ditt land",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "bodySubscriptionNotAvailable": {
+    "message": "Mozilla VPN-prenumerationer \u00e4r inte tillg\u00e4ngliga i ditt land \u00e4nnu, men du kan st\u00e4lla dig i v\u00e5r v\u00e4ntelista f\u00f6r att f\u00e5 meddelande n\u00e4r de startar. Om du redan har en prenumeration, v\u00e4nligen forts\u00e4tt.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnjoinWaitlist": {
+    "message": "St\u00e4ll dig i v\u00e4ntelistan",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnContinue": {
+    "message": "Forts\u00e4tt",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   }
 }
