@@ -345,5 +345,21 @@
   "messageSplitTunnelBody": {
     "message": "Firefox \u015fu anda Mozilla VPN uygulamas\u0131nda \u201cistisna\u201d olarak ayarl\u0131. Bu uzant\u0131y\u0131 kullanmak i\u00e7in uygulamay\u0131 a\u00e7\u0131p Ayarlar > Uygulama istisnalar\u0131 k\u0131sm\u0131na gidin ve Firefox\u2019u kald\u0131r\u0131n.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "headerSubscriptionNotAvailable": {
+    "message": "Mozilla VPN abonelikleri hen\u00fcz \u00fclkenizde kullan\u0131lam\u0131yor",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "bodySubscriptionNotAvailable": {
+    "message": "Mozilla VPN abonelikleri \u00fclkenizde hen\u00fcz mevcut de\u011fil ama abonelik a\u00e7\u0131ld\u0131\u011f\u0131nda size haber vermek i\u00e7in bekleme listemize kat\u0131labilirsiniz. Zaten bir aboneli\u011finiz varsa l\u00fctfen devam edin.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnjoinWaitlist": {
+    "message": "Bekleme listesine kat\u0131l\u0131n",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnContinue": {
+    "message": "Devam et",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   }
 }
