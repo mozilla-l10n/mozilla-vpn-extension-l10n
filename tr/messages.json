@@ -351,11 +351,11 @@
     "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "bodySubscriptionNotAvailable": {
-    "message": "Mozilla VPN abonelikleri \u00fclkenizde hen\u00fcz mevcut de\u011fil ama abonelik a\u00e7\u0131ld\u0131\u011f\u0131nda size haber vermek i\u00e7in bekleme listemize kat\u0131labilirsiniz. Zaten bir aboneli\u011finiz varsa l\u00fctfen devam edin.",
+    "message": "Mozilla VPN abonelikleri hen\u00fcz \u00fclkenizde kullan\u0131lam\u0131yor ama abonelik a\u00e7\u0131ld\u0131\u011f\u0131nda size haber vermemiz i\u00e7in bekleme listemize kat\u0131labilirsiniz. Zaten aboneli\u011finiz varsa l\u00fctfen devam edin.",
     "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnjoinWaitlist": {
-    "message": "Bekleme listesine kat\u0131l\u0131n",
+    "message": "Bekleme listesine kat\u0131l",
     "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnContinue": {
