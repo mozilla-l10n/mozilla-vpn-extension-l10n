@@ -345,5 +345,21 @@
   "messageSplitTunnelBody": {
     "message": "Firefox is op dit stuit in \u2018\u00fats\u00fbndere app\u2019 yn de Mozilla VPN-tapassing. Iepenje om dizze \u00fatwreiding te br\u00fbken de tapassing, gean nei Ynstellingen > Uts\u00fbndere apps en smyt Firefox fuort.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "headerSubscriptionNotAvailable": {
+    "message": "Mozilla VPN-abonneminten binne noch net beskikber yn jo l\u00e2n",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "bodySubscriptionNotAvailable": {
+    "message": "Mozilla VPN-abonneminten binne noch net beskikber yn jo l\u00e2n, mar jo kinne jo op \u00fas wachtlist pleatse om in melding te \u00fbntfangen wannear\u2019t se beskikber komme. As jo al in abonnemint hawwe, gean dan troch.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnjoinWaitlist": {
+    "message": "Op de wachtlist pleatse",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnContinue": {
+    "message": "Trochgean",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   }
 }
