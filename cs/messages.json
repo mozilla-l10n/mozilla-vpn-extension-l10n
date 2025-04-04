@@ -90,6 +90,14 @@
   "titleSubscribeNow": {
     "message": "P\u0159ihlaste se k p\u0159edplatn\u00e9mu Mozilla VPN."
   },
+  "bodySubscribeNow2": {
+    "message": "Nepoda\u0159ilo se n\u00e1m naj\u00edt p\u0159edplatn\u00e9 v\u00e1zan\u00e9 na \u00fa\u010det, kter\u00fdm jste se p\u0159ihla\u0161ovali v aplikaci Mozilla VPN.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "footerSubscribeNow": {
+    "message": "Pro pou\u017e\u00edv\u00e1n\u00ed tohoto roz\u0161\u00ed\u0159en\u00ed se pros\u00edm p\u0159ihlaste k p\u0159edplatn\u00e9mu.",
+    "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
+  },
   "btnSubscribeNow": {
     "message": "P\u0159edplatit",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
@@ -337,5 +345,21 @@
   "messageSplitTunnelBody": {
     "message": "Firefox je v sou\u010dasn\u00e9 dob\u011b \u201cvylou\u010denou aplikac\u00ed\u201d v aplikaci Mozilla VPN. Chcete-li toto roz\u0161\u00ed\u0159en\u00ed pou\u017e\u00edvat, otev\u0159ete aplikaci, p\u0159ejd\u011bte do Nastaven\u00ed > Vylou\u010den\u00e9 aplikace a odstra\u0148te Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "headerSubscriptionNotAvailable": {
+    "message": "P\u0159edplatn\u00e9 Mozilla VPN zat\u00edm nen\u00ed ve va\u0161\u00ed zemi dostupn\u00e9",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "bodySubscriptionNotAvailable": {
+    "message": "P\u0159edplatn\u00e1 Mozilla VPN zat\u00edm ve va\u0161\u00ed zemi nejsou dostupn\u00e1, ale m\u016f\u017eete se p\u0159ipojit na na\u0161i \u010dekac\u00ed listinu a b\u00fdt informov\u00e1ni o spu\u0161t\u011bn\u00ed. Pokud ji\u017e m\u00e1te p\u0159edplatn\u00e9, pokra\u010dujte pros\u00edm.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnjoinWaitlist": {
+    "message": "P\u0159idat se na \u010dekac\u00ed listinu",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnContinue": {
+    "message": "Pokra\u010dovat",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   }
 }
