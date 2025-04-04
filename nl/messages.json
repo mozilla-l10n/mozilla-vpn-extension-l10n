@@ -346,6 +346,14 @@
     "message": "Firefox is momenteel een \u2018uitgezonderde app\u2019 in de Mozilla VPN-toepassing. Open om deze extensie te gebruiken de toepassing, ga naar Instellingen > Uitgezonderde apps en verwijder Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   },
+  "headerSubscriptionNotAvailable": {
+    "message": "Mozilla VPN-abonnementen zijn nog niet beschikbaar in uw land",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "bodySubscriptionNotAvailable": {
+    "message": "Mozilla VPN-abonnementen zijn nog niet beschikbaar in uw land, maar u kunt zich op onze wachtlijst plaatsen om een melding te ontvangen wanneer ze beschikbaar komen. Als u al een abonnement hebt, ga dan door.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
   "btnjoinWaitlist": {
     "message": "Op de wachtlijst plaatsen",
     "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
