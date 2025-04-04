@@ -350,6 +350,10 @@
     "message": "Les abonamentos a Mozilla VPN non es ancora disponibile in tu pais",
     "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
+  "bodySubscriptionNotAvailable": {
+    "message": "Le abonamentos a Mozilla VPN ancora non es disponibile in tu pais, ma tu pote junger te a nostre lista de attender pro esser notificate quando illos es lanceate. Si tu jam ha un abonamento, continua.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
   "btnjoinWaitlist": {
     "message": "Junge te al lista de attendentia",
     "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
