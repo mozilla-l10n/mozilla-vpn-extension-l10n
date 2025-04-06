@@ -345,5 +345,21 @@
   "messageSplitTunnelBody": {
     "message": "Firefox is currently an \u201cexcluded app\u201d in the Mozilla VPN application. To use this extension, open the application and go to Settings > Excluded Apps and remove Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "headerSubscriptionNotAvailable": {
+    "message": "Mozilla VPN subscriptions are not yet available in your country",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "bodySubscriptionNotAvailable": {
+    "message": "Mozilla VPN subscriptions are not available in your country yet, but you can join our waiting list to be notified when they launch. If you already have a subscription, please continue.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnjoinWaitlist": {
+    "message": "Join the Waiting List",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnContinue": {
+    "message": "Continue",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   }
 }
