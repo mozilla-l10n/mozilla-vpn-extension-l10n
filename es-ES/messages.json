@@ -90,6 +90,14 @@
   "titleSubscribeNow": {
     "message": "Suscr\u00edbete a Mozilla VPN."
   },
+  "bodySubscribeNow2": {
+    "message": "No hemos podido encontrar una suscripci\u00f3n vinculada a la cuenta que usaste para iniciar sesi\u00f3n en la aplicaci\u00f3n Mozilla VPN.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "footerSubscribeNow": {
+    "message": "Para usar esta extensi\u00f3n, tienes que suscribirte.",
+    "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
+  },
   "btnSubscribeNow": {
     "message": "Suscribirse ahora",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
@@ -337,5 +345,21 @@
   "messageSplitTunnelBody": {
     "message": "Firefox es actualmente una \u201caplicaci\u00f3n excluida\u201d en la aplicaci\u00f3n de Mozilla VPN. Para usar esta extensi\u00f3n, abre la aplicaci\u00f3n y vete a Ajustes > Aplicaciones excluidas y elimina Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "headerSubscriptionNotAvailable": {
+    "message": "Las suscripciones a Mozilla VPN todav\u00eda no est\u00e1n disponibles en tu pa\u00eds",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "bodySubscriptionNotAvailable": {
+    "message": "Las suscripciones a Mozilla VPN todav\u00eda no est\u00e1n disponibles en tu pa\u00eds, pero puedes unirte a nuestra lista de espera para ser notificado cuando se lancen. Si ya tienes una suscripci\u00f3n, contin\u00faa.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnjoinWaitlist": {
+    "message": "\u00danete a la lista de espera",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnContinue": {
+    "message": "Continuar",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   }
 }
