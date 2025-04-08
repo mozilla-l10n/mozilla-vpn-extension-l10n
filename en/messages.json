@@ -3,7 +3,10 @@
     "message": "Mozilla VPN Extension",
     "description": "Name of the extension."
   },
-
+  "close": {
+    "message": "Close",
+    "description": "Alt label text for an X icon button in alert."
+  },
   "extensionDescription": {
     "message": "Integrate VPN into Firefox: Exclude Tabs, set Site locations and more!",
     "description": "Description of the extension."
