@@ -3,6 +3,10 @@
     "message": "Ti\u1ec7n \u00edch m\u1edf r\u1ed9ng Mozilla VPN",
     "description": "Name of the extension."
   },
+  "close": {
+    "message": "\u0110\u00f3ng",
+    "description": "Alt label text for an X icon button in alert."
+  },
   "extensionDescription": {
     "message": "T\u00edch h\u1ee3p VPN v\u00e0o Firefox: Lo\u1ea1i tr\u1eeb th\u1ebb, \u0111\u1eb7t \u0111\u1ecba \u0111i\u1ec3m trang web v\u00e0 h\u01a1n th\u1ebf n\u1eefa!",
     "description": "Description of the extension."
