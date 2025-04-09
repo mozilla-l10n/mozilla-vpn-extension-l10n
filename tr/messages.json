@@ -3,6 +3,10 @@
     "message": "Mozilla VPN Uzant\u0131s\u0131",
     "description": "Name of the extension."
   },
+  "close": {
+    "message": "Kapat",
+    "description": "Alt label text for an X icon button in alert."
+  },
   "extensionDescription": {
     "message": "VPN\u2019i Firefox\u2019a entegre edin: Sekmeleri hari\u00e7 tutun, site konumlar\u0131n\u0131 ayarlay\u0131n ve daha fazlas\u0131n\u0131 yap\u0131n.",
     "description": "Description of the extension."
