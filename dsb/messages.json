@@ -3,6 +3,10 @@
     "message": "Roz\u0161yrjenje Mozilla VPN",
     "description": "Name of the extension."
   },
+  "close": {
+    "message": "Zacyni\u015b",
+    "description": "Alt label text for an X icon button in alert."
+  },
   "extensionDescription": {
     "message": "Integr\u011bruj\u015bo VPN do Firefox: rejtariki wuzamknu\u015b, stojni\u0161\u0107a websed\u0142ow p\u00f3staji\u015b a w\u011bcej!",
     "description": "Description of the extension."
