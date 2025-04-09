@@ -3,6 +3,10 @@
     "message": "Estyniad Mozilla VPN",
     "description": "Name of the extension."
   },
+  "close": {
+    "message": "Cau",
+    "description": "Alt label text for an X icon button in alert."
+  },
   "extensionDescription": {
     "message": "Integreiddio VPN i Firefox: Eithrio Tabiau, gosod lleoliadau Gwefan a mwy!",
     "description": "Description of the extension."
