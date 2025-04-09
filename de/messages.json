@@ -3,6 +3,10 @@
     "message": "Mozilla-VPN-Erweiterung",
     "description": "Name of the extension."
   },
+  "close": {
+    "message": "Schlie\u00dfen",
+    "description": "Alt label text for an X icon button in alert."
+  },
   "extensionDescription": {
     "message": "Integrieren Sie VPN in Firefox: Tabs ausschlie\u00dfen, Website-Standorte festlegen und mehr!",
     "description": "Description of the extension."
