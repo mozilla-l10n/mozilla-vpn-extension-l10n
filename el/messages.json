@@ -33,7 +33,13 @@
   },
   "excludePageFor": {
     "message": "\u03a0\u03ac\u03bd\u03c4\u03b1 \u03b1\u03c0\u03b5\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1\u03c2 VPN \u03b3\u03b9\u03b1 \u03c4\u03bf $ORIGIN$",
-    "description": "Setting to exclude a website from VPN."
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
   },
   "resetPageSettings": {
     "message": "\u0395\u03c0\u03b1\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac \u03c0\u03c1\u03bf\u03c4\u03b9\u03bc\u03ae\u03c3\u03b5\u03c9\u03bd \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03bf\u03c5",
@@ -81,7 +87,13 @@
   },
   "altTextRemoveWebsiteButton": {
     "message": "\u039a\u03b1\u03c4\u03ac\u03c1\u03b3\u03b7\u03c3\u03b7 \u03ba\u03b1\u03bd\u03cc\u03bd\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03bf $ORIGIN$",
-    "description": "Alternative text for the button that removes a website rule from the list of preferences."
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
   },
   "altTextOpenSettingsPage": {
     "message": "\u0386\u03bd\u03bf\u03b9\u03b3\u03bc\u03b1 \u03c3\u03b5\u03bb\u03af\u03b4\u03b1\u03c2 \u03c1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03c9\u03bd",
@@ -268,7 +280,13 @@
   },
   "websiteLocationLabel": {
     "message": "$SERVERLOCATION$: \u03a4\u03bf\u03c0\u03bf\u03b8\u03b5\u03c3\u03af\u03b1 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03bf\u03c5 Mozilla VPN",
-    "description": "Aria label for a flag icon representing the location of the VPN server"
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "SERVERLOCATION": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   },
   "alert_conflictingProgram": {
     "message": "\u0388\u03bd\u03b1 \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c3\u03c4\u03bf\u03bd \u03c5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ae \u03c3\u03b1\u03c2 \u03b5\u03bd\u03b4\u03ad\u03c7\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03b5\u03af \u03c0\u03c1\u03bf\u03b2\u03bb\u03ae\u03bc\u03b1\u03c4\u03b1 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 Mozilla VPN.",

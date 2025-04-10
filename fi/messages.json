@@ -29,7 +29,13 @@
   },
   "excludePageFor": {
     "message": "Poista aina VPN-suojaus k\u00e4yt\u00f6st\u00e4 sivustolla $ORIGIN$",
-    "description": "Setting to exclude a website from VPN."
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
   },
   "vpnIsOn": {
     "message": "Firefoxin VPN-suojaus on p\u00e4\u00e4ll\u00e4",
@@ -69,7 +75,13 @@
   },
   "altTextRemoveWebsiteButton": {
     "message": "Poista sivuston $ORIGIN$ s\u00e4\u00e4nt\u00f6",
-    "description": "Alternative text for the button that removes a website rule from the list of preferences."
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
   },
   "altTextOpenSettingsPage": {
     "message": "Avaa asetussivu",
@@ -236,7 +248,13 @@
   },
   "websiteLocationLabel": {
     "message": "$SERVERLOCATION$: Mozilla VPN -verkkosivuston sijainti",
-    "description": "Aria label for a flag icon representing the location of the VPN server"
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "SERVERLOCATION": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   },
   "alert_conflictingProgram": {
     "message": "Tietokoneellasi oleva ohjelma saattaa aiheuttaa ongelmia Mozilla VPN -laajennuksen kanssa.",

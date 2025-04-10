@@ -29,7 +29,13 @@
   },
   "excludePageFor": {
     "message": "\u0417\u0430\u0432\u0436\u0434\u0438 \u0432\u0438\u043c\u0438\u043a\u0430\u0442\u0438 \u0437\u0430\u0445\u0438\u0441\u0442 VPN \u0434\u043b\u044f $ORIGIN$",
-    "description": "Setting to exclude a website from VPN."
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
   },
   "resetPageSettings": {
     "message": "\u0421\u043a\u0438\u043d\u0443\u0442\u0438 \u043d\u0430\u043b\u0430\u0448\u0442\u0443\u0432\u0430\u043d\u043d\u044f \u0432\u0435\u0431\u0441\u0430\u0439\u0442\u0443",
@@ -77,7 +83,13 @@
   },
   "altTextRemoveWebsiteButton": {
     "message": "\u0412\u0438\u043b\u0443\u0447\u0438\u0442\u0438 \u043f\u0440\u0430\u0432\u0438\u043b\u043e \u0434\u043b\u044f $ORIGIN$",
-    "description": "Alternative text for the button that removes a website rule from the list of preferences."
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
   },
   "altTextOpenSettingsPage": {
     "message": "\u0412\u0456\u0434\u043a\u0440\u0438\u0442\u0438 \u0441\u0442\u043e\u0440\u0456\u043d\u043a\u0443 \u043d\u0430\u043b\u0430\u0448\u0442\u0443\u0432\u0430\u043d\u044c",
@@ -256,7 +268,13 @@
   },
   "websiteLocationLabel": {
     "message": "$SERVERLOCATION$: \u0440\u043e\u0437\u0442\u0430\u0448\u0443\u0432\u0430\u043d\u043d\u044f \u0432\u0435\u0431\u0441\u0430\u0439\u0442\u0443 Mozilla VPN",
-    "description": "Aria label for a flag icon representing the location of the VPN server"
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "SERVERLOCATION": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   },
   "alert_conflictingProgram": {
     "message": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u0430 \u043d\u0430 \u0432\u0430\u0448\u043e\u043c\u0443 \u043a\u043e\u043c\u043f'\u044e\u0442\u0435\u0440\u0456 \u043c\u043e\u0436\u0435 \u0441\u043f\u0440\u0438\u0447\u0438\u043d\u044f\u0442\u0438 \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u0438 \u0437 \u0440\u043e\u0437\u0448\u0438\u0440\u0435\u043d\u043d\u044f\u043c Mozilla VPN.",

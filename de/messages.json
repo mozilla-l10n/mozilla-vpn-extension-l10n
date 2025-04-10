@@ -33,7 +33,13 @@
   },
   "excludePageFor": {
     "message": "VPN-Schutz f\u00fcr $ORIGIN$ immer deaktivieren",
-    "description": "Setting to exclude a website from VPN."
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
   },
   "resetPageSettings": {
     "message": "Website-Einstellungen zur\u00fccksetzen",
@@ -81,7 +87,13 @@
   },
   "altTextRemoveWebsiteButton": {
     "message": "Regel f\u00fcr $ORIGIN$ entfernen",
-    "description": "Alternative text for the button that removes a website rule from the list of preferences."
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
   },
   "altTextOpenSettingsPage": {
     "message": "Einstellungsseite \u00f6ffnen",
@@ -268,7 +280,13 @@
   },
   "websiteLocationLabel": {
     "message": "$SERVERLOCATION$: Standort der Website f\u00fcr Mozilla VPN",
-    "description": "Aria label for a flag icon representing the location of the VPN server"
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "SERVERLOCATION": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   },
   "alert_conflictingProgram": {
     "message": "Ein Programm auf Ihrem Computer verursacht m\u00f6glicherweise Probleme mit der Mozilla VPN-Erweiterung.",

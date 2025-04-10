@@ -33,7 +33,13 @@
   },
   "excludePageFor": {
     "message": "\u7e3d\u662f\u95dc\u9589 $ORIGIN$ \u7684 VPN \u4fdd\u8b77",
-    "description": "Setting to exclude a website from VPN."
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
   },
   "resetPageSettings": {
     "message": "\u91cd\u8a2d\u7db2\u7ad9\u504f\u597d\u8a2d\u5b9a",
@@ -81,7 +87,13 @@
   },
   "altTextRemoveWebsiteButton": {
     "message": "\u79fb\u9664 $ORIGIN$ \u7684\u898f\u5247",
-    "description": "Alternative text for the button that removes a website rule from the list of preferences."
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
   },
   "altTextOpenSettingsPage": {
     "message": "\u958b\u555f\u8a2d\u5b9a\u9801\u9762",
@@ -268,7 +280,13 @@
   },
   "websiteLocationLabel": {
     "message": "$SERVERLOCATION$\uff1aMozilla VPN \u7db2\u7ad9\u4f4d\u7f6e",
-    "description": "Aria label for a flag icon representing the location of the VPN server"
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "SERVERLOCATION": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   },
   "alert_conflictingProgram": {
     "message": "\u60a8\u96fb\u8166\u4e0a\u7684\u67d0\u5957\u8edf\u9ad4\uff0c\u53ef\u80fd\u6703\u9020\u6210 Mozilla VPN \u64f4\u5145\u5957\u4ef6\u7684\u904b\u4f5c\u767c\u751f\u554f\u984c\u3002",

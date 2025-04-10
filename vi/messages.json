@@ -33,7 +33,13 @@
   },
   "excludePageFor": {
     "message": "Lu\u00f4n t\u1eaft VPN \u0111\u1ed1i v\u1edbi $ORIGIN$",
-    "description": "Setting to exclude a website from VPN."
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
   },
   "resetPageSettings": {
     "message": "\u0110\u1eb7t l\u1ea1i tu\u1ef3 ch\u1ecdn trang web",
@@ -81,7 +87,13 @@
   },
   "altTextRemoveWebsiteButton": {
     "message": "Xo\u00e1 quy t\u1eafc cho $ORIGIN$",
-    "description": "Alternative text for the button that removes a website rule from the list of preferences."
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
   },
   "altTextOpenSettingsPage": {
     "message": "M\u1edf trang C\u00e0i \u0111\u1eb7t",
@@ -268,7 +280,13 @@
   },
   "websiteLocationLabel": {
     "message": "$SERVERLOCATION$: v\u1ecb tr\u00ed m\u00e1y ch\u1ee7 Mozilla VPN",
-    "description": "Aria label for a flag icon representing the location of the VPN server"
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "SERVERLOCATION": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   },
   "alert_conflictingProgram": {
     "message": "M\u1ed9t ch\u01b0\u01a1ng tr\u00ecnh tr\u00ean m\u00e1y t\u00ednh c\u1ee7a b\u1ea1n c\u00f3 th\u1ec3 \u0111ang g\u00e2y ra s\u1ef1 c\u1ed1 v\u1edbi ti\u1ec7n \u00edch m\u1edf r\u1ed9ng Mozilla VPN.",

@@ -29,7 +29,13 @@
   },
   "excludePageFor": {
     "message": "V\u017edy vypn\u00fa\u0165 ochranu VPN pre $ORIGIN$",
-    "description": "Setting to exclude a website from VPN."
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
   },
   "resetPageSettings": {
     "message": "Obnovi\u0165 predvo\u013eby webov\u00fdch str\u00e1nok",
@@ -77,7 +83,13 @@
   },
   "altTextRemoveWebsiteButton": {
     "message": "Odstr\u00e1ni\u0165 pravidlo pre $ORIGIN$",
-    "description": "Alternative text for the button that removes a website rule from the list of preferences."
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
   },
   "altTextOpenSettingsPage": {
     "message": "Otvori\u0165 nastavenia",
@@ -264,7 +276,13 @@
   },
   "websiteLocationLabel": {
     "message": "$SERVERLOCATION$: umiestnenie webovej str\u00e1nky Mozilla VPN",
-    "description": "Aria label for a flag icon representing the location of the VPN server"
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "SERVERLOCATION": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   },
   "alert_conflictingProgram": {
     "message": "Probl\u00e9my s roz\u0161\u00edren\u00edm Mozilla VPN m\u00f4\u017ee sp\u00f4sobova\u0165 program vo va\u0161om po\u010d\u00edta\u010di.",

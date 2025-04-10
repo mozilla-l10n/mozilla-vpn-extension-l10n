@@ -33,7 +33,13 @@
   },
   "excludePageFor": {
     "message": "\u0160\u0107it VPN za $ORIGIN$ p\u015becej znjem\u00f3\u017eni\u015b",
-    "description": "Setting to exclude a website from VPN."
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
   },
   "resetPageSettings": {
     "message": "Nastajenja websed\u0142a sl\u011bdk staji\u015b",
@@ -81,7 +87,13 @@
   },
   "altTextRemoveWebsiteButton": {
     "message": "P\u0161awid\u0142o za $ORIGIN$ w\u00f3tw\u00f3no\u017ae\u015b",
-    "description": "Alternative text for the button that removes a website rule from the list of preferences."
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
   },
   "altTextOpenSettingsPage": {
     "message": "Bok nastajenjow w\u00f3cyni\u015b",
@@ -268,7 +280,13 @@
   },
   "websiteLocationLabel": {
     "message": "$SERVERLOCATION$: Stojni\u0161\u0107o websed\u0142a Mozilla VPN",
-    "description": "Aria label for a flag icon representing the location of the VPN server"
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "SERVERLOCATION": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   },
   "alert_conflictingProgram": {
     "message": "Program na wa\u0161om licadle sna\u017a problemy z roz\u0161yrjenim Mozilla VPN zawinujo.",
