@@ -3,6 +3,10 @@
     "message": "Mozilla VPN-till\u00e4gg",
     "description": "Name of the extension."
   },
+  "close": {
+    "message": "St\u00e4ng",
+    "description": "Alt label text for an X icon button in alert."
+  },
   "extensionDescription": {
     "message": "Integrera VPN i Firefox: Uteslut flikar, ange webbplatsens plats och mer!",
     "description": "Description of the extension."
