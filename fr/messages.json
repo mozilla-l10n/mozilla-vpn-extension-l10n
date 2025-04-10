@@ -3,6 +3,10 @@
     "message": "Extension Mozilla VPN",
     "description": "Name of the extension."
   },
+  "close": {
+    "message": "Fermer",
+    "description": "Alt label text for an X icon button in alert."
+  },
   "extensionDescription": {
     "message": "Int\u00e9grez le VPN \u00e0 Firefox\u00a0: excluez des onglets, d\u00e9finissez des emplacements de site et bien plus encore\u00a0!",
     "description": "Description of the extension."
