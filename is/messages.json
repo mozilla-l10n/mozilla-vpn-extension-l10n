@@ -3,6 +3,10 @@
     "message": "Mozilla VPN-vi\u00f0b\u00f3t",
     "description": "Name of the extension."
   },
+  "close": {
+    "message": "Loka",
+    "description": "Alt label text for an X icon button in alert."
+  },
   "extensionDescription": {
     "message": "Sam\u00fe\u00e6ttu VPN vi\u00f0 Firefox: \u00datiloka\u00f0u flipa, stilltu sta\u00f0setningu vefsv\u00e6\u00f0a og fleira!",
     "description": "Description of the extension."
@@ -97,6 +101,10 @@
   },
   "titleSubscribeNow": {
     "message": "Gerast \u00e1skrifandi a\u00f0 Mozilla VPN."
+  },
+  "footerSubscribeNow": {
+    "message": "Til a\u00f0 nota \u00feessa vi\u00f0b\u00f3t skaltu gerast \u00e1skrifandi.",
+    "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
   },
   "btnSubscribeNow": {
     "message": "Gerast \u00e1skrifandi n\u00fana",
@@ -281,5 +289,9 @@
   "messageSplitTunnelBody": {
     "message": "Firefox er sem stendur \u201e\u00fatiloka\u00f0 forrit\u201c \u00ed Mozilla VPN-forritinu. Til a\u00f0 nota \u00feessa vi\u00f0b\u00f3t skaltu opna forriti\u00f0 og fara \u00ed Stillingar > \u00datiloku\u00f0 forrit og fjarl\u00e6gja Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "btnContinue": {
+    "message": "Halda \u00e1fram",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   }
 }
