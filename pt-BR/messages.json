@@ -394,5 +394,9 @@
   "bodyAutoStartOnPBM": {
     "message": "Para ativar isto, abra o menu de extens\u00f5es, selecione \u201cExtens\u00e3o Mozilla VPN\u201d e selecione \u201cPermitir\u201d em \u201cExecutar em janelas privativas\u201d.",
     "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "Sempre ativar a VPN ao abrir o Firefox",
+    "description": "Description for the autostart checkbox"
   }
 }
