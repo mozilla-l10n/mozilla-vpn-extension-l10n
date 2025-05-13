@@ -390,5 +390,13 @@
   },
   "labelDescribeAutoStartOnPBM": {
     "message": "VPN p\u015becej zm\u00f3\u017eni\u015b, ga\u017e se priwatny modus wu\u017eywa"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "Aby ju zm\u00f3\u017eni\u0142, p\u015bej\u017a\u0107o k menijoju Dodanki, wubje\u0155\u015bo \u201eMozilla VPN Extension\u201c a wubje\u0155\u015bo \u201eDow\u00f3li\u015b\u201c za \u201eW priwatnych woknach wuwjas\u0107\u201c.",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "VPN p\u015becej zm\u00f3\u017eni\u015b, ga\u017e se Firefox w\u00f3cynja",
+    "description": "Description for the autostart checkbox"
   }
 }
