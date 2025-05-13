@@ -383,5 +383,20 @@
   "btnContinue": {
     "message": "Dale",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Nastajenja za awtomatiski zwisk",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "VPN p\u0159eco zm\u00f3\u017eni\u0107, hdy\u017e so priwatny modus wu\u017eiwa"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "Zo by\u0161\u0107e ju zm\u00f3\u017eni\u0142, p\u0159e\u0144d\u017a\u0107e k menijej P\u0159idatki, wubjer\u0107e \u201eMozilla VPN Extension\u201c a wubjer\u0107e \u201eDowoli\u0107\u201c za \u201eW priwatnych woknach wuwjes\u0107\u201c.",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "VPN p\u0159eco zm\u00f3\u017eni\u0107, hdy\u017e so Firefox wo\u010dinja",
+    "description": "Description for the autostart checkbox"
   }
 }

@@ -394,5 +394,9 @@
   "bodyAutoStartOnPBM": {
     "message": "Per attivare questa opzione, vai al menu dei componenti aggiuntivi, seleziona \u201cMozilla VPN Extension\u201d e poi \u201cConsenti\u201d nella sezione \u201cFunzionamento in finestre anonime\u201d.",
     "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "Attiva sempre la VPN quando apri Firefox",
+    "description": "Description for the autostart checkbox"
   }
 }

@@ -383,5 +383,12 @@
   "btnContinue": {
     "message": "\u7e7c\u7e8c",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "\u81ea\u52d5\u9023\u7dda\u9078\u9805",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "\u7e3d\u662f\u5728\u4f7f\u7528\u96b1\u79c1\u700f\u89bd\u6a21\u5f0f\u6642\u958b\u555f VPN"
   }
 }
