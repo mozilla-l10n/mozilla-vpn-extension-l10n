@@ -383,5 +383,20 @@
   "btnContinue": {
     "message": "Devam et",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Otomatik ba\u011flant\u0131 se\u00e7enekleri",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Gizli gezinti modunu kullan\u0131rken VPN\u2019i her zaman a\u00e7"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "Bunu a\u00e7mak i\u00e7in eklentiler men\u00fcs\u00fcnden \u201cMozilla VPN uzant\u0131s\u0131\u201dn\u0131 se\u00e7in ve \u201cGizli pencerelerde \u00e7al\u0131\u015ft\u0131r\u201dda \u201c\u0130zin ver\u201di se\u00e7in.",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "Firefox\u2019u a\u00e7arken VPN\u2019i her zaman a\u00e7",
+    "description": "Description for the autostart checkbox"
   }
 }

@@ -383,5 +383,16 @@
   "btnContinue": {
     "message": "Continua",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Opzioni di connessione automatica",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Attiva sempre la VPN quando utilizzi la modalit\u00e0 di navigazione anonima"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "Per attivare questa opzione, vai al menu dei componenti aggiuntivi, seleziona \u201cMozilla VPN Extension\u201d e poi \u201cConsenti\u201d nella sezione \u201cFunzionamento in finestre anonime\u201d.",
+    "description": "Body of the autostart option."
   }
 }
