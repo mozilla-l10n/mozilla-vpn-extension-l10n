@@ -383,5 +383,16 @@
   "btnContinue": {
     "message": "Continuar",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Optiones de connexion automatic",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Sempre accender VPN usante Modo de navigation private"
+  },
+  "labelDescribeAutoStart": {
+    "message": "Sempre accender VPN aperiente Firefox",
+    "description": "Description for the autostart checkbox"
   }
 }
