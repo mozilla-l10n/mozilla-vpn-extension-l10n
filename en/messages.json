@@ -392,7 +392,7 @@
     "message": "Always turn on VPN when using Private Browsing Mode"
   },
   "bodyAutoStartOnPBM": {
-    "message": " To turn this on, go to the add-ons menu, select “Mozilla VPN Extension”, and select “Allow” for “Run in Private Windows”.",
+    "message": "To turn this on, go to the add-ons menu, select “Mozilla VPN Extension”, and select “Allow” for “Run in Private Windows”.",
     "description":"Body of the autostart option."
   },
   "labelDescribeAutoStart": {
