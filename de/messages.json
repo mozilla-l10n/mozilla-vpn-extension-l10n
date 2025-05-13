@@ -383,5 +383,20 @@
   "btnContinue": {
     "message": "Weiter",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Optionen f\u00fcr automatische Verbindung",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "VPN immer aktivieren, wenn Sie den Privaten Modus verwenden"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "Um dies zu aktivieren, \u00f6ffnen Sie das Add-on-Men\u00fc, w\u00e4hlen Sie \u201eMozilla-VPN-Erweiterung\u201c und w\u00e4hlen Sie f\u00fcr die Einstellung \u201eIn privaten Fenstern ausf\u00fchren\u201c die Option \u201eErlauben\u201c.",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "VPN beim \u00d6ffnen von Firefox immer aktivieren",
+    "description": "Description for the autostart checkbox"
   }
 }
