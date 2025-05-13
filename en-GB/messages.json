@@ -383,5 +383,20 @@
   "btnContinue": {
     "message": "Continue",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Auto-connect options",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Always turn on VPN when using Private Browsing Mode"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "To turn this on, go to the add-ons menu, select \u201cMozilla VPN Extension\u201d, and select \u201cAllow\u201d for \u201cRun in Private Windows\u201d.",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "Always turn on VPN when opening Firefox",
+    "description": "Description for the autostart checkbox"
   }
 }
