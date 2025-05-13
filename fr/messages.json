@@ -383,5 +383,13 @@
   "btnContinue": {
     "message": "Continuer",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Options de connexion automatique",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStart": {
+    "message": "Toujours activer le VPN \u00e0 l\u2019ouverture de Firefox",
+    "description": "Description for the autostart checkbox"
   }
 }
