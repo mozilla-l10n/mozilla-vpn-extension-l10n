@@ -383,5 +383,20 @@
   "btnContinue": {
     "message": "Forts\u00e4tt",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Alternativ f\u00f6r automatisk anslutning",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Sl\u00e5 alltid p\u00e5 VPN n\u00e4r du anv\u00e4nder privat surfl\u00e4ge"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "F\u00f6r att aktivera detta, g\u00e5 till till\u00e4ggsmenyn, v\u00e4lj \"Mozilla VPN till\u00e4gg\" och v\u00e4lj \"Till\u00e5t\" f\u00f6r \"K\u00f6r i privata f\u00f6nster\".",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "Sl\u00e5 alltid p\u00e5 VPN n\u00e4r du \u00f6ppnar Firefox",
+    "description": "Description for the autostart checkbox"
   }
 }
