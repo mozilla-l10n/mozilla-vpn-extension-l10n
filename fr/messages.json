@@ -388,6 +388,9 @@
     "message": "Options de connexion automatique",
     "description": "Headline for the Auto Connect options"
   },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Toujours activer le VPN lors de l\u2019utilisation du mode de navigation priv\u00e9e"
+  },
   "labelDescribeAutoStart": {
     "message": "Toujours activer le VPN \u00e0 l\u2019ouverture de Firefox",
     "description": "Description for the autostart checkbox"
