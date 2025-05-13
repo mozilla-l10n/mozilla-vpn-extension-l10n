@@ -391,6 +391,10 @@
   "labelDescribeAutoStartOnPBM": {
     "message": "Sempre accender VPN usante Modo de navigation private"
   },
+  "bodyAutoStartOnPBM": {
+    "message": "Pro accender lo, ir al menu del additivos, seliger \u201cMozilla VPN Extension\u201d, e seliger \u201cPermitter\u201d pro \u201cFunctionar sur Fenestras private\u201d.",
+    "description": "Body of the autostart option."
+  },
   "labelDescribeAutoStart": {
     "message": "Sempre accender VPN aperiente Firefox",
     "description": "Description for the autostart checkbox"
