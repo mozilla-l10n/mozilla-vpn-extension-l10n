@@ -290,6 +290,14 @@
     "message": "Firefox er sem stendur \u201e\u00fatiloka\u00f0 forrit\u201c \u00ed Mozilla VPN-forritinu. Til a\u00f0 nota \u00feessa vi\u00f0b\u00f3t skaltu opna forriti\u00f0 og fara \u00ed Stillingar > \u00datiloku\u00f0 forrit og fjarl\u00e6gja Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   },
+  "headerSubscriptionNotAvailable": {
+    "message": "\u00c1skriftir a\u00f0 Mozilla VPN eru ekki enn \u00ed bo\u00f0i \u00ed landinu \u00fe\u00ednu",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnjoinWaitlist": {
+    "message": "Skr\u00e1\u00f0u \u00feig \u00e1 bi\u00f0listann",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
   "btnContinue": {
     "message": "Halda \u00e1fram",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
