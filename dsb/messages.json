@@ -383,5 +383,12 @@
   "btnContinue": {
     "message": "Dalej",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Nastajenja za awtomatiski zwisk",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "VPN p\u015becej zm\u00f3\u017eni\u015b, ga\u017e se priwatny modus wu\u017eywa"
   }
 }
