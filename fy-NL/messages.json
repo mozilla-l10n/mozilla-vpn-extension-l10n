@@ -383,5 +383,20 @@
   "btnContinue": {
     "message": "Trochgean",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Opsjes foar automatysk ferbinen",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "VPN altyd ynskeakelje by gebr\u00fbk fan priveenavigaasjemodus"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "Gean om dit yn te skeakeljen nei it add-onsmenu, selektearje \u2018Mozilla VPN Extension\u2019 en selektearje \u2018Tastean\u2019 by \u2018Utfieren yn priveefinsters\u2019.",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "VPN altyd ynskeakelje by it iepenjen fan Firefox",
+    "description": "Description for the autostart checkbox"
   }
 }
