@@ -383,5 +383,20 @@
   "btnContinue": {
     "message": "Pokra\u010dovat",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Mo\u017enosti automatick\u00e9ho p\u0159ipojen\u00ed",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "P\u0159i pou\u017e\u00edv\u00e1n\u00ed re\u017eimu anonymn\u00edho prohl\u00ed\u017een\u00ed v\u017edy zapnout VPN"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "Chcete-li tuto funkci zapnout, p\u0159ejd\u011bte do nab\u00eddky dopl\u0148k\u016f, vyberte \u201cMozilla VPN Extension\u201d a u polo\u017eky \u201cPovolit v anonymn\u00edch oknech\u201d vyberte mo\u017enost \u201dPovolit\u201d.",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "V\u017edy zapnout VPN p\u0159i otev\u0159en\u00ed Firefoxu",
+    "description": "Description for the autostart checkbox"
   }
 }
