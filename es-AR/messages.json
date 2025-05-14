@@ -390,5 +390,13 @@
   },
   "labelDescribeAutoStartOnPBM": {
     "message": "Siempre activar la VPN al usar el modo de navegaci\u00f3n privada"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "Para activar esto, ten\u00e9s que ir al men\u00fa de complementos, seleccionar \u201cExtensi\u00f3n de Mozilla VPN\u201d y seleccionar \u201cPermitir\u201d para \u201cEjecutar en ventanas privadas\u201d.",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "Siempre activar la VPN al abrir Firefox",
+    "description": "Description for the autostart checkbox"
   }
 }
