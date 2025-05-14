@@ -383,5 +383,12 @@
   "btnContinue": {
     "message": "Continuar",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Opciones de autoconexi\u00f3n",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Siempre activar la VPN al usar el modo de navegaci\u00f3n privada"
   }
 }
