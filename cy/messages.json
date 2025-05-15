@@ -383,5 +383,20 @@
   "btnContinue": {
     "message": "Parhau",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Dewisiadau cysylltu'n awtomatig",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Troi VPN ymlaen bob tro wrth ddefnyddio'r Modd Pori Preifat"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "I'w droi ymlaen, ewch i'r ddewislen ychwanegion, dewiswch \u201cMozilla VPN Extension\u201d, a dewiswch \u201cAllow\u201d ar gyfer \u201cRun in Private Windows\u201d.",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "Troi VPN ymlaen bob tro wrth agor Firefox",
+    "description": "Description for the autostart checkbox"
   }
 }
