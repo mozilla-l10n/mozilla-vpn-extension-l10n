@@ -383,5 +383,12 @@
   "btnContinue": {
     "message": "Pokra\u010dova\u0165",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Mo\u017enosti automatick\u00e9ho pripojenia",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Pri pou\u017e\u00edvan\u00ed re\u017eimu s\u00fakromn\u00e9ho prehliadania v\u017edy zapn\u00fa\u0165 VPN"
   }
 }
