@@ -383,5 +383,20 @@
   "btnContinue": {
     "message": "Ti\u1ebfp t\u1ee5c",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "T\u00f9y ch\u1ecdn t\u1ef1 \u0111\u1ed9ng k\u1ebft n\u1ed1i",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Lu\u00f4n b\u1eadt VPN khi s\u1eed d\u1ee5ng ch\u1ebf \u0111\u1ed9 duy\u1ec7t web ri\u00eang t\u01b0"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "\u0110\u1ec3 b\u1eadt t\u00ednh n\u0103ng n\u00e0y, h\u00e3y v\u00e0o menu ti\u1ec7n \u00edch m\u1edf r\u1ed9ng, ch\u1ecdn \u201cTi\u1ec7n \u00edch m\u1edf r\u1ed9ng Mozilla VPN\u201d, v\u00e0 ch\u1ecdn \u201cCho ph\u00e9p\u201d trong m\u1ee5c \u201cCh\u1ea1y trong c\u1eeda s\u1ed5 ri\u00eang t\u01b0\u201d.",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "Lu\u00f4n b\u1eadt VPN khi m\u1edf Firefox",
+    "description": "Description for the autostart checkbox"
   }
 }
