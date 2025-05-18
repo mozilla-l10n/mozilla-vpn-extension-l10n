@@ -390,5 +390,13 @@
   },
   "labelDescribeAutoStartOnPBM": {
     "message": "Pri pou\u017e\u00edvan\u00ed re\u017eimu s\u00fakromn\u00e9ho prehliadania v\u017edy zapn\u00fa\u0165 VPN"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "Ak chcete t\u00fato funkciu zapn\u00fa\u0165, prejdite do spr\u00e1vcu doplnkov, vyberte mo\u017enos\u0165 \u201cRoz\u0161\u00edrenie Mozilla VPN\u201d a v \u010dasti \u201cPovoli\u0165 v s\u00fakromn\u00fdch okn\u00e1ch\u201d vyberte mo\u017enos\u0165 \u201cPovoli\u0165\u201d.",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "Pri spusten\u00ed Firefoxu v\u017edy zapn\u00fa\u0165 VPN",
+    "description": "Description for the autostart checkbox"
   }
 }
