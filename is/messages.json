@@ -200,6 +200,10 @@
     "message": "Virkja aftur Firefox-verndina",
     "description": "Error panel title for when Firefox is an excluded app."
   },
+  "settingsPageTitle": {
+    "message": "Stillingar vefsvæðis í Mozilla VPN",
+    "description": "Title for settings page tab."
+  },
   "noSignal": {
     "message": "Ekkert samband",
     "description": "Indicator text describing the status of the VPN."
@@ -258,6 +262,10 @@
     "message": "Deila tækni- og samskiptagögnum",
     "description": "Label for the Telemetry Opt-In toggle"
   },
+  "privacy_notice_link_name": {
+    "message": "Persónuverndaryfirlýsing Mozilla-áskriftarþjónustunnar",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
   "viewPrivacyPolicy": {
     "message": "Skoða stefnu vegna meðferðar persónuupplýsinga",
     "description": "Privacy policy link"
@@ -305,5 +313,16 @@
   "headlineAutoConnectOptions": {
     "message": "Valkostir fyrir sjálfvirka tengingu",
     "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Kveikja alltaf á VPN þegar huliðsvafur er notað"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "Til að kveikja á þessu skaltu fara í viðbótarvalmynd viðbótarinnar, velja „Mozilla VPN forritsauki“ og velja „Leyfa“ fyrir „Keyra í huliðsgluggum“.",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "Kveikja alltaf á VPN þegar Firefox er opnaður",
+    "description": "Description for the autostart checkbox"
   }
 }
