@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "Mozilla VPN-vi\u00f0b\u00f3t",
+    "message": "Mozilla VPN-viðbót",
     "description": "Name of the extension."
   },
   "close": {
@@ -8,7 +8,7 @@
     "description": "Alt label text for an X icon button in alert."
   },
   "extensionDescription": {
-    "message": "Sam\u00fe\u00e6ttu VPN vi\u00f0 Firefox: \u00datiloka\u00f0u flipa, stilltu sta\u00f0setningu vefsv\u00e6\u00f0a og fleira!",
+    "message": "Samþættu VPN við Firefox: Útilokaðu flipa, stilltu staðsetningu vefsvæða og fleira!",
     "description": "Description of the extension."
   },
   "back": {
@@ -20,19 +20,19 @@
     "description": "Name of the product."
   },
   "titleServerList": {
-    "message": "Sta\u00f0setning vefsv\u00e6\u00f0is",
+    "message": "Staðsetning vefsvæðis",
     "description": "Title for a dialog where users can set the location for a website."
   },
   "selectWebsiteLocation": {
-    "message": "Veldu sta\u00f0setningu vefsv\u00e6\u00f0is",
+    "message": "Veldu staðsetningu vefsvæðis",
     "description": "Button label."
   },
   "titlePageSettings": {
-    "message": "Kj\u00f6rstillingar fyrir \u00feetta vefsv\u00e6\u00f0i",
+    "message": "Kjörstillingar fyrir þetta vefsvæði",
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
   "excludePageFor": {
-    "message": "Sl\u00f6kkva alltaf \u00e1 VPN-v\u00f6rn fyrir $ORIGIN$",
+    "message": "Slökkva alltaf á VPN-vörn fyrir $ORIGIN$",
     "description": "Setting to exclude a website from VPN.",
     "placeholders": {
       "ORIGIN": {
@@ -42,23 +42,23 @@
     }
   },
   "resetPageSettings": {
-    "message": "Frumstilla kj\u00f6rstillingar vefsv\u00e6\u00f0is",
+    "message": "Frumstilla kjörstillingar vefsvæðis",
     "description": "Button text to reset all site specific settings."
   },
   "vpnIsOn": {
-    "message": "Kveikt er \u00e1 VPN-v\u00f6rn fyrir Firefox",
+    "message": "Kveikt er á VPN-vörn fyrir Firefox",
     "description": "Header to signal that VPN connection is enabled."
   },
   "vpnIsOff": {
-    "message": "Sl\u00f6kkt er \u00e1 VPN-v\u00f6rn fyrir Firefox",
+    "message": "Slökkt er á VPN-vörn fyrir Firefox",
     "description": "Header to signal that VPN connection is disabled."
   },
   "extensionVpnIsOff": {
-    "message": "Enn er kveikt \u00e1 Mozilla VPN, verndar restina af t\u00f6lvunni \u00feinni.",
+    "message": "Enn er kveikt á Mozilla VPN, verndar restina af tölvunni þinni.",
     "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
   },
   "vpnOffStatus": {
-    "message": "\u00d3virkt",
+    "message": "Óvirkt",
     "description": "Label indicating that the VPN is off."
   },
   "vpnOnStatus": {
@@ -66,23 +66,23 @@
     "description": "Label indicating that the VPN is on."
   },
   "placeholderSearchWebsites": {
-    "message": "Leita a\u00f0 vefsv\u00e6\u00f0um",
+    "message": "Leita að vefsvæðum",
     "description": "Placeholder text for the search input field to search websites."
   },
   "tableHeadingWebsite": {
-    "message": "Vefsv\u00e6\u00f0i",
+    "message": "Vefsvæði",
     "description": "Table heading for the column listing websites."
   },
   "tableHeadingVpnStatus": {
-    "message": "Varnir vefsv\u00e6\u00f0is",
+    "message": "Varnir vefsvæðis",
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   },
   "headlineNoWebsitePreferences": {
-    "message": "\u00de\u00fa hefur enn\u00fe\u00e1 ekki stillt nein vefsv\u00e6\u00f0i",
-    "description": "Headline shown when the user hasn\u2019t set any website preferences."
+    "message": "Þú hefur ennþá ekki stillt nein vefsvæði",
+    "description": "Headline shown when the user hasn’t set any website preferences."
   },
   "altTextRemoveWebsiteButton": {
-    "message": "Fjarl\u00e6gja reglu fyrir $ORIGIN$",
+    "message": "Fjarlægja reglu fyrir $ORIGIN$",
     "description": "Alternative text for the button that removes a website rule from the list of preferences.",
     "placeholders": {
       "ORIGIN": {
@@ -92,26 +92,26 @@
     }
   },
   "altTextOpenSettingsPage": {
-    "message": "Opna stillingas\u00ed\u00f0u",
+    "message": "Opna stillingasíðu",
     "description": "Alternative text for the button that opens the Extensions Settings page."
   },
   "searchServer": {
-    "message": "Leita a\u00f0 sta\u00f0setningum",
+    "message": "Leita að staðsetningum",
     "description": "Placeholder for the Input field where users can search the list of servers."
   },
   "titleSubscribeNow": {
-    "message": "Gerast \u00e1skrifandi a\u00f0 Mozilla VPN."
+    "message": "Gerast áskrifandi að Mozilla VPN."
   },
   "footerSubscribeNow": {
-    "message": "Til a\u00f0 nota \u00feessa vi\u00f0b\u00f3t skaltu gerast \u00e1skrifandi.",
+    "message": "Til að nota þessa viðbót skaltu gerast áskrifandi.",
     "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
   },
   "btnSubscribeNow": {
-    "message": "Gerast \u00e1skrifandi n\u00fana",
+    "message": "Gerast áskrifandi núna",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
   },
   "getHelp": {
-    "message": "F\u00e1 a\u00f0sto\u00f0",
+    "message": "Fá aðstoð",
     "description": "Text of a link pointing to a relevant help page."
   },
   "headerOpenMozillaVPN": {
@@ -119,13 +119,13 @@
     "description": "Headline."
   },
   "headerSignedOut": {
-    "message": "Skr\u00e1\u00f0u \u00feig inn \u00e1 Mozilla VPN-forriti\u00f0."
+    "message": "Skráðu þig inn á Mozilla VPN-forritið."
   },
   "btnOpenVpn": {
     "message": "Opna Mozilla VPN."
   },
   "headerNeedsUpdate": {
-    "message": "Uppf\u00e6ra Mozilla VPN",
+    "message": "Uppfæra Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
   "headerInstallMsg": {
@@ -133,59 +133,59 @@
     "description": "Header if a VPN installation was not found."
   },
   "bodyInstallMsgFooter": {
-    "message": "Athuga\u00f0u a\u00f0 Mozilla VPN er greidd \u00e1skriftar\u00fej\u00f3nusta.",
-    "description": "This is a footnote for \u201cbodyInstallMsg\u201d."
+    "message": "Athugaðu að Mozilla VPN er greidd áskriftarþjónusta.",
+    "description": "This is a footnote for “bodyInstallMsg”."
   },
   "btnDownloadNow": {
-    "message": "S\u00e6kja n\u00fana",
+    "message": "Sækja núna",
     "description": "This is a call to action button to download the VPN."
   },
   "defaultLocationHeader": {
-    "message": "Nota Mozilla VPN sta\u00f0setningu."
+    "message": "Nota Mozilla VPN staðsetningu."
   },
   "useDefaultLocationExplainer": {
-    "message": "Nota s\u00f6mu sta\u00f0setningu og Mozilla VPN forriti\u00f0 sem verndar \u00feessa t\u00f6lvu.",
-    "description": "Explanation of what \u201cUse default Mozilla VPN Location\u201d means."
+    "message": "Nota sömu staðsetningu og Mozilla VPN forritið sem verndar þessa tölvu.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
   },
   "headerUnsupportedOSMessage": {
-    "message": "\u00d3stutt st\u00fdrikerfi."
+    "message": "Óstutt stýrikerfi."
   },
   "bodyUnsupportedOSMessage": {
-    "message": "Eins og er, \u00fe\u00e1 er Mozilla VPN-vi\u00f0b\u00f3tin a\u00f0eins tilt\u00e6k \u00e1 Windows-t\u00e6kjum."
+    "message": "Eins og er, þá er Mozilla VPN-viðbótin aðeins tiltæk á Windows-tækjum."
   },
   "footnoteUnsupportedOSMessage": {
-    "message": "Vi\u00f0 erum a\u00f0 vinna a\u00f0 \u00fev\u00ed a\u00f0 koma me\u00f0 \u00fatg\u00e1fur fyrir macOS og Linux sem fyrst!"
+    "message": "Við erum að vinna að því að koma með útgáfur fyrir macOS og Linux sem fyrst!"
   },
   "turnOnProtection": {
-    "message": "Kveikja \u00e1 v\u00f6rnum",
+    "message": "Kveikja á vörnum",
     "description": "Button label."
   },
   "removeCustomLocation": {
-    "message": "Fjarl\u00e6gja s\u00e9rsni\u00f0na sta\u00f0setningu",
+    "message": "Fjarlægja sérsniðna staðsetningu",
     "description": "Button label."
   },
   "websiteProtection": {
-    "message": "Varnir vefsv\u00e6\u00f0is",
+    "message": "Varnir vefsvæðis",
     "description": "A subtitle that is followed by an off icon and the word 'Off'."
   },
   "giveFeedback": {
-    "message": "Gef\u00f0u \u00e1lit",
+    "message": "Gefðu álit",
     "description": "Button label."
   },
   "learnMore": {
-    "message": "Fr\u00e6\u00f0ast meira",
+    "message": "Fræðast meira",
     "description": "Label of link that leads to SUMO."
   },
   "onboarding1_title": {
-    "message": "Sl\u00f6kkva \u00e1 VPN fyrir tiltekin vefsv\u00e6\u00f0i",
+    "message": "Slökkva á VPN fyrir tiltekin vefsvæði",
     "description": "Title in onboarding panel."
   },
   "onboarding3_title": {
-    "message": "Halda VPN-v\u00f6rn fyrir Firefox virkri",
+    "message": "Halda VPN-vörn fyrir Firefox virkri",
     "description": "Title in onboarding panel."
   },
   "next": {
-    "message": "N\u00e6sta",
+    "message": "Næsta",
     "description": "Label of button to progress to next onboarding panel."
   },
   "skip": {
@@ -193,7 +193,7 @@
     "description": "Label of button to skip onboarding."
   },
   "done": {
-    "message": "Loki\u00f0",
+    "message": "Lokið",
     "description": "Label of button in final onboarding panel."
   },
   "headerReEnableFirefoxProtection": {
@@ -205,31 +205,31 @@
     "description": "Indicator text describing the status of the VPN."
   },
   "unstable": {
-    "message": "\u00d3st\u00f6\u00f0ugt",
+    "message": "Óstöðugt",
     "description": "Indicator text describing the status of the VPN."
   },
   "connecting": {
-    "message": "Tengist\u2026",
+    "message": "Tengist…",
     "description": "Indicator text describing the status of the VPN."
   },
   "helpCenter": {
-    "message": "Hj\u00e1lparmi\u00f0st\u00f6\u00f0",
+    "message": "Hjálparmiðstöð",
     "description": "Link title."
   },
   "websitePreferences": {
-    "message": "Kj\u00f6rstillingar vefsv\u00e6\u00f0is",
+    "message": "Kjörstillingar vefsvæðis",
     "description": "Link title."
   },
   "contactSupport": {
-    "message": "Hafa samband vi\u00f0 a\u00f0sto\u00f0arteymi",
+    "message": "Hafa samband við aðstoðarteymi",
     "description": "Link title."
   },
   "offForWebsite": {
-    "message": "Sl\u00f6kkt \u00e1 Mozilla VPN fyrir vefsv\u00e6\u00f0i",
+    "message": "Slökkt á Mozilla VPN fyrir vefsvæði",
     "description": "Aria label."
   },
   "websiteLocationLabel": {
-    "message": "$SERVERLOCATION$: Sta\u00f0setning Mozilla VPN vefs\u00edv\u00e6\u00f0is",
+    "message": "$SERVERLOCATION$: Staðsetning Mozilla VPN vefsívæðis",
     "description": "Aria label for a flag icon representing the location of the VPN server",
     "placeholders": {
       "SERVERLOCATION": {
@@ -239,47 +239,47 @@
     }
   },
   "alert_conflictingProgram": {
-    "message": "Forrit \u00e1 t\u00f6lvunni \u00feinni g\u00e6ti veri\u00f0 a\u00f0 valda vandam\u00e1lum me\u00f0 Mozilla VPN forritsaukanum.",
+    "message": "Forrit á tölvunni þinni gæti verið að valda vandamálum með Mozilla VPN forritsaukanum.",
     "description": "Banner alert"
   },
   "howToFix": {
-    "message": "Hvernig er h\u00e6gt a\u00f0 laga \u00feetta",
+    "message": "Hvernig er hægt að laga þetta",
     "description": "Link in banner alert"
   },
   "alert_conflictingExtensions": {
-    "message": "A\u00f0rar vi\u00f0b\u00e6tur g\u00e6tu trufla\u00f0 hvernig Mozilla VPN forritsaukinn virkar.",
+    "message": "Aðrar viðbætur gætu truflað hvernig Mozilla VPN forritsaukinn virkar.",
     "description": "Banner alert"
   },
   "learnWhatToDo": {
-    "message": "L\u00e6r\u00f0u hva\u00f0 \u00fearf a\u00f0 gera",
+    "message": "Lærðu hvað þarf að gera",
     "description": "Link in banner alert"
   },
   "telemetry_toggle_text": {
-    "message": "Deila t\u00e6kni- og samskiptag\u00f6gnum",
+    "message": "Deila tækni- og samskiptagögnum",
     "description": "Label for the Telemetry Opt-In toggle"
   },
   "viewPrivacyPolicy": {
-    "message": "Sko\u00f0a stefnu vegna me\u00f0fer\u00f0ar pers\u00f3nuuppl\u00fdsinga",
+    "message": "Skoða stefnu vegna meðferðar persónuupplýsinga",
     "description": "Privacy policy link"
   },
   "thankYouForAdding": {
-    "message": "\u00deakka \u00fe\u00e9r fyrir a\u00f0 b\u00e6ta vi\u00f0 Mozilla VPN forritsaukanum",
+    "message": "Þakka þér fyrir að bæta við Mozilla VPN forritsaukanum",
     "description": "Headline on the telemetry consent screen"
   },
   "toContinueToTheExtension": {
-    "message": "Til a\u00f0 fara \u00e1fram \u00ed vi\u00f0b\u00f3tina skaltu velja Mozilla VPN merki\u00f0 \u00e1 Firefox-verkf\u00e6rastikunni.",
+    "message": "Til að fara áfram í viðbótina skaltu velja Mozilla VPN merkið á Firefox-verkfærastikunni.",
     "description": "Blurb at the bottom of the telemetry consent screen"
   },
   "optionalDataCollection": {
-    "message": "Valkv\u00e6\u00f0 gagnas\u00f6fnun",
+    "message": "Valkvæð gagnasöfnun",
     "description": "Subtitle on the telemetry consent screen"
   },
   "telemetryListHeader": {
-    "message": "Valfrj\u00e1lsu g\u00f6gnin sem vi\u00f0 s\u00f6fnum eru:",
+    "message": "Valfrjálsu gögnin sem við söfnum eru:",
     "description": "Headline for a list describing the type of data collected by the extension"
   },
   "telemetryCheckboxLabel": {
-    "message": "Leyfa Mozilla a\u00f0 safna t\u00e6kni- og samskiptag\u00f6gnum",
+    "message": "Leyfa Mozilla að safna tækni- og samskiptagögnum",
     "description": "Checkbox label"
   },
   "messageSplitTunnelHeader": {
@@ -287,19 +287,23 @@
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "messageSplitTunnelBody": {
-    "message": "Firefox er sem stendur \u201e\u00fatiloka\u00f0 forrit\u201c \u00ed Mozilla VPN-forritinu. Til a\u00f0 nota \u00feessa vi\u00f0b\u00f3t skaltu opna forriti\u00f0 og fara \u00ed Stillingar > \u00datiloku\u00f0 forrit og fjarl\u00e6gja Firefox.",
+    "message": "Firefox er sem stendur „útilokað forrit“ í Mozilla VPN-forritinu. Til að nota þessa viðbót skaltu opna forritið og fara í Stillingar > Útilokuð forrit og fjarlægja Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "headerSubscriptionNotAvailable": {
-    "message": "\u00c1skriftir a\u00f0 Mozilla VPN eru ekki enn \u00ed bo\u00f0i \u00ed landinu \u00fe\u00ednu",
+    "message": "Áskriftir að Mozilla VPN eru ekki enn í boði í landinu þínu",
     "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnjoinWaitlist": {
-    "message": "Skr\u00e1\u00f0u \u00feig \u00e1 bi\u00f0listann",
+    "message": "Skráðu þig á biðlistann",
     "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnContinue": {
-    "message": "Halda \u00e1fram",
+    "message": "Halda áfram",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Valkostir fyrir sjálfvirka tengingu",
+    "description": "Headline for the Auto Connect options"
   }
 }
