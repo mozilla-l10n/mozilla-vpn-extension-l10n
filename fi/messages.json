@@ -4,7 +4,7 @@
     "description": "Name of the extension."
   },
   "extensionDescription": {
-    "message": "Integroi VPN Firefoxiin: aseta ohituspoikkeuksia v\u00e4lilehdille, m\u00e4\u00e4rit\u00e4 sivustojen sijainnit ja paljon muuta!",
+    "message": "Integroi VPN Firefoxiin: aseta ohituspoikkeuksia välilehdille, määritä sivustojen sijainnit ja paljon muuta!",
     "description": "Description of the extension."
   },
   "back": {
@@ -24,11 +24,11 @@
     "description": "Button label."
   },
   "titlePageSettings": {
-    "message": "T\u00e4m\u00e4n sivuston asetukset",
+    "message": "Tämän sivuston asetukset",
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
   "excludePageFor": {
-    "message": "Poista aina VPN-suojaus k\u00e4yt\u00f6st\u00e4 sivustolla $ORIGIN$",
+    "message": "Poista aina VPN-suojaus käytöstä sivustolla $ORIGIN$",
     "description": "Setting to exclude a website from VPN.",
     "placeholders": {
       "ORIGIN": {
@@ -38,15 +38,15 @@
     }
   },
   "vpnIsOn": {
-    "message": "Firefoxin VPN-suojaus on p\u00e4\u00e4ll\u00e4",
+    "message": "Firefoxin VPN-suojaus on päällä",
     "description": "Header to signal that VPN connection is enabled."
   },
   "vpnIsOff": {
-    "message": "Firefoxin VPN-suojaus ei ole k\u00e4yt\u00f6ss\u00e4",
+    "message": "Firefoxin VPN-suojaus ei ole käytössä",
     "description": "Header to signal that VPN connection is disabled."
   },
   "extensionVpnIsOff": {
-    "message": "Mozilla VPN on edelleen p\u00e4\u00e4ll\u00e4 ja se suojaa muuta tietokonetta.",
+    "message": "Mozilla VPN on edelleen päällä ja se suojaa muuta tietokonetta.",
     "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
   },
   "vpnOffStatus": {
@@ -54,7 +54,7 @@
     "description": "Label indicating that the VPN is off."
   },
   "vpnOnStatus": {
-    "message": "P\u00e4\u00e4ll\u00e4",
+    "message": "Päällä",
     "description": "Label indicating that the VPN is on."
   },
   "placeholderSearchWebsites": {
@@ -70,11 +70,11 @@
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   },
   "headlineNoWebsitePreferences": {
-    "message": "Et ole viel\u00e4 m\u00e4\u00e4ritt\u00e4nyt verkkosivustoasetuksia",
-    "description": "Headline shown when the user hasn\u2019t set any website preferences."
+    "message": "Et ole vielä määrittänyt verkkosivustoasetuksia",
+    "description": "Headline shown when the user hasn’t set any website preferences."
   },
   "altTextRemoveWebsiteButton": {
-    "message": "Poista sivuston $ORIGIN$ s\u00e4\u00e4nt\u00f6",
+    "message": "Poista sivuston $ORIGIN$ sääntö",
     "description": "Alternative text for the button that removes a website rule from the list of preferences.",
     "placeholders": {
       "ORIGIN": {
@@ -95,11 +95,11 @@
     "message": "Tilaa Mozilla VPN."
   },
   "bodySubscribeNow2": {
-    "message": "Emme l\u00f6yt\u00e4neet tilausta, joka olisi sidottu tiliin, jolla kirjauduit sis\u00e4\u00e4n Mozilla VPN -sovellukseen.",
+    "message": "Emme löytäneet tilausta, joka olisi sidottu tiliin, jolla kirjauduit sisään Mozilla VPN -sovellukseen.",
     "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
   },
   "footerSubscribeNow": {
-    "message": "Jos haluat k\u00e4ytt\u00e4\u00e4 t\u00e4t\u00e4 laajennusta, hanki tilaus.",
+    "message": "Jos haluat käyttää tätä laajennusta, hanki tilaus.",
     "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
   },
   "btnSubscribeNow": {
@@ -115,20 +115,20 @@
     "description": "Headline."
   },
   "headerSignedOut": {
-    "message": "Kirjaudu sis\u00e4\u00e4n Mozilla VPN -sovellukseen."
+    "message": "Kirjaudu sisään Mozilla VPN -sovellukseen."
   },
   "bodySignedOut": {
-    "message": "Olet t\u00e4ll\u00e4 hetkell\u00e4 kirjautunut ulos Mozilla VPN -sovelluksesta. Jos haluat k\u00e4ytt\u00e4\u00e4 Mozilla VPN:n Firefox-laajennusta, avaa sovellus tietokoneellasi ja kirjaudu sis\u00e4\u00e4n tilillesi."
+    "message": "Olet tällä hetkellä kirjautunut ulos Mozilla VPN -sovelluksesta. Jos haluat käyttää Mozilla VPN:n Firefox-laajennusta, avaa sovellus tietokoneellasi ja kirjaudu sisään tilillesi."
   },
   "btnOpenVpn": {
     "message": "Avaa Mozilla VPN."
   },
   "headerNeedsUpdate": {
-    "message": "P\u00e4ivit\u00e4 Mozilla VPN",
+    "message": "Päivitä Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
   "bodyNeedsUpdate2": {
-    "message": "K\u00e4yt\u00e4 t\u00e4t\u00e4 laajennusta lataamalla ja asentamalla ensin uusin Mozilla VPN -sovellus.",
+    "message": "Käytä tätä laajennusta lataamalla ja asentamalla ensin uusin Mozilla VPN -sovellus.",
     "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
@@ -136,38 +136,38 @@
     "description": "Header if a VPN installation was not found."
   },
   "bodyOpenMsg": {
-    "message": "Jos haluat k\u00e4ytt\u00e4\u00e4 Mozilla VPN Firefox -laajennusta, avaa ensin Mozilla VPN -sovellus.",
+    "message": "Jos haluat käyttää Mozilla VPN Firefox -laajennusta, avaa ensin Mozilla VPN -sovellus.",
     "description": "Popup subtitle text."
   },
   "bodyInstallMsg": {
-    "message": "K\u00e4yt\u00e4 t\u00e4t\u00e4 laajennusta lataamalla ja asentamalla ensin uusin Mozilla VPN -sovellus."
+    "message": "Käytä tätä laajennusta lataamalla ja asentamalla ensin uusin Mozilla VPN -sovellus."
   },
   "bodyInstallMsgFooter": {
-    "message": "Huomaa, ett\u00e4 Mozilla VPN on maksullinen tilauspalvelu.",
-    "description": "This is a footnote for \u201cbodyInstallMsg\u201d."
+    "message": "Huomaa, että Mozilla VPN on maksullinen tilauspalvelu.",
+    "description": "This is a footnote for “bodyInstallMsg”."
   },
   "btnDownloadNow": {
     "message": "Lataa nyt",
     "description": "This is a call to action button to download the VPN."
   },
   "defaultLocationHeader": {
-    "message": "K\u00e4yt\u00e4 Mozilla VPN -sijaintia."
+    "message": "Käytä Mozilla VPN -sijaintia."
   },
   "useDefaultLocationExplainer": {
-    "message": "K\u00e4yt\u00e4 samaa sijaintia kuin t\u00e4t\u00e4 tietokonetta suojaava Mozilla VPN -sovellus.",
-    "description": "Explanation of what \u201cUse default Mozilla VPN Location\u201d means."
+    "message": "Käytä samaa sijaintia kuin tätä tietokonetta suojaava Mozilla VPN -sovellus.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
   },
   "headerUnsupportedOSMessage": {
     "message": "Alustaa ei tueta."
   },
   "bodyUnsupportedOSMessage": {
-    "message": "T\u00e4ll\u00e4 hetkell\u00e4 Mozilla VPN -laajennus on saatavilla vain Windows-laitteille."
+    "message": "Tällä hetkellä Mozilla VPN -laajennus on saatavilla vain Windows-laitteille."
   },
   "footnoteUnsupportedOSMessage": {
     "message": "Pyrimme tuomaan tuen macOS:lle ja Linuxille pian!"
   },
   "turnOnProtection": {
-    "message": "Kytke suojaus p\u00e4\u00e4lle",
+    "message": "Kytke suojaus päälle",
     "description": "Button label."
   },
   "removeCustomLocation": {
@@ -183,15 +183,15 @@
     "description": "Button label."
   },
   "learnMore": {
-    "message": "Lue lis\u00e4\u00e4",
+    "message": "Lue lisää",
     "description": "Label of link that leads to SUMO."
   },
   "onboarding1_title": {
-    "message": "Poista VPN k\u00e4yt\u00f6st\u00e4 tietyill\u00e4 verkkosivustoilla",
+    "message": "Poista VPN käytöstä tietyillä verkkosivustoilla",
     "description": "Title in onboarding panel."
   },
   "onboarding1_body": {
-    "message": "Firefox-laajennuksen avulla voit poistaa VPN-suojauksen k\u00e4yt\u00f6st\u00e4 tietyilt\u00e4 verkkosivustoilta ja pit\u00e4\u00e4 sen p\u00e4\u00e4ll\u00e4 kaikilla muilla sivustoilla.",
+    "message": "Firefox-laajennuksen avulla voit poistaa VPN-suojauksen käytöstä tietyiltä verkkosivustoilta ja pitää sen päällä kaikilla muilla sivustoilla.",
     "description": "Body text in onboarding panel."
   },
   "onboarding2_title": {
@@ -215,7 +215,7 @@
     "description": "Label of button in final onboarding panel."
   },
   "headerReEnableFirefoxProtection": {
-    "message": "Ota Firefoxin suojaus uudelleen k\u00e4ytt\u00f6\u00f6n",
+    "message": "Ota Firefoxin suojaus uudelleen käyttöön",
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "settingsPageTitle": {
@@ -227,11 +227,11 @@
     "description": "Indicator text describing the status of the VPN."
   },
   "unstable": {
-    "message": "Ep\u00e4vakaa",
+    "message": "Epävakaa",
     "description": "Indicator text describing the status of the VPN."
   },
   "connecting": {
-    "message": "Yhdistet\u00e4\u00e4n\u2026",
+    "message": "Yhdistetään…",
     "description": "Indicator text describing the status of the VPN."
   },
   "helpCenter": {
@@ -261,31 +261,31 @@
     "description": "Banner alert"
   },
   "alert_conflictingExtensions": {
-    "message": "Muut laajennukset saattavat h\u00e4irit\u00e4 Mozilla VPN -laajennuksen toimintaa.",
+    "message": "Muut laajennukset saattavat häiritä Mozilla VPN -laajennuksen toimintaa.",
     "description": "Banner alert"
   },
   "telemetry_toggle_text": {
-    "message": "Jaa teknisi\u00e4 ja vuorovaikutustietoja",
+    "message": "Jaa teknisiä ja vuorovaikutustietoja",
     "description": "Label for the Telemetry Opt-In toggle"
   },
   "privacy_notice_link_name": {
-    "message": "Mozillan tilauspalveluiden tietosuojak\u00e4yt\u00e4nt\u00f6",
+    "message": "Mozillan tilauspalveluiden tietosuojakäytäntö",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
   "privacyPolicyIntro": {
-    "message": "Yksityiskohtaiset tiedot ker\u00e4\u00e4mist\u00e4mme tiedoista ovat saatavilla tietosuojak\u00e4yt\u00e4nn\u00f6ss\u00e4mme.",
+    "message": "Yksityiskohtaiset tiedot keräämistämme tiedoista ovat saatavilla tietosuojakäytännössämme.",
     "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
   },
   "viewPrivacyPolicy": {
-    "message": "N\u00e4yt\u00e4 tietosuojak\u00e4yt\u00e4nt\u00f6",
+    "message": "Näytä tietosuojakäytäntö",
     "description": "Privacy policy link"
   },
   "thankYouForAdding": {
-    "message": "Kiitos, ett\u00e4 lis\u00e4sit Mozilla VPN -laajennuksen",
+    "message": "Kiitos, että lisäsit Mozilla VPN -laajennuksen",
     "description": "Headline on the telemetry consent screen"
   },
   "toContinueToTheExtension": {
-    "message": "Jatka laajennukseen valitsemalla Mozilla VPN -logo Firefoxin ty\u00f6kalupalkista.",
+    "message": "Jatka laajennukseen valitsemalla Mozilla VPN -logo Firefoxin työkalupalkista.",
     "description": "Blurb at the bottom of the telemetry consent screen"
   },
   "optionalDataCollection": {
@@ -293,19 +293,19 @@
     "description": "Subtitle on the telemetry consent screen"
   },
   "telemetryListHeader": {
-    "message": "Ker\u00e4\u00e4m\u00e4mme valinnaiset tiedot sis\u00e4lt\u00e4v\u00e4t:",
+    "message": "Keräämämme valinnaiset tiedot sisältävät:",
     "description": "Headline for a list describing the type of data collected by the extension"
   },
   "technicalData": {
-    "message": "Tekniset tiedot, kuten selainversio, laajennusversio ja virhetiedot, jotta voimme seurata ja korjata virheit\u00e4 tehokkaasti.",
+    "message": "Tekniset tiedot, kuten selainversio, laajennusversio ja virhetiedot, jotta voimme seurata ja korjata virheitä tehokkaasti.",
     "description": "Description of technical data, found on telemetry consent screen."
   },
   "telemetryCheckboxLabel": {
-    "message": "Salli Mozillan ker\u00e4t\u00e4 teknisi\u00e4 ja vuorovaikutustietoja",
+    "message": "Salli Mozillan kerätä teknisiä ja vuorovaikutustietoja",
     "description": "Checkbox label"
   },
   "messageSplitTunnelHeader": {
-    "message": "Ota suojaus k\u00e4ytt\u00f6\u00f6n Firefoxille",
+    "message": "Ota suojaus käyttöön Firefoxille",
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }

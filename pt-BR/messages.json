@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "Extens\u00e3o Mozilla VPN",
+    "message": "Extensão Mozilla VPN",
     "description": "Name of the extension."
   },
   "close": {
@@ -28,11 +28,11 @@
     "description": "Button label."
   },
   "titlePageSettings": {
-    "message": "Prefer\u00eancias deste site",
+    "message": "Preferências deste site",
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
   "excludePageFor": {
-    "message": "Sempre desativar a prote\u00e7\u00e3o de VPN em $ORIGIN$",
+    "message": "Sempre desativar a proteção de VPN em $ORIGIN$",
     "description": "Setting to exclude a website from VPN.",
     "placeholders": {
       "ORIGIN": {
@@ -42,15 +42,15 @@
     }
   },
   "resetPageSettings": {
-    "message": "Redefinir as prefer\u00eancias do site",
+    "message": "Redefinir as preferências do site",
     "description": "Button text to reset all site specific settings."
   },
   "vpnIsOn": {
-    "message": "A prote\u00e7\u00e3o de VPN no Firefox est\u00e1 ativada",
+    "message": "A proteção de VPN no Firefox está ativada",
     "description": "Header to signal that VPN connection is enabled."
   },
   "vpnIsOff": {
-    "message": "A prote\u00e7\u00e3o de VPN no Firefox est\u00e1 desativada",
+    "message": "A proteção de VPN no Firefox está desativada",
     "description": "Header to signal that VPN connection is disabled."
   },
   "extensionVpnIsOff": {
@@ -74,15 +74,15 @@
     "description": "Table heading for the column listing websites."
   },
   "tableHeadingVpnStatus": {
-    "message": "Prote\u00e7\u00e3o de sites",
+    "message": "Proteção de sites",
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   },
   "headlineNoWebsitePreferences": {
-    "message": "Voc\u00ea ainda n\u00e3o definiu nenhuma prefer\u00eancia de site",
-    "description": "Headline shown when the user hasn\u2019t set any website preferences."
+    "message": "Você ainda não definiu nenhuma preferência de site",
+    "description": "Headline shown when the user hasn’t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
-    "message": "Com a extens\u00e3o para Firefox, voc\u00ea pode desativar a prote\u00e7\u00e3o do Mozilla VPN em um site ou definir um local personalizado. Para fazer isso, visite o site, abra a extens\u00e3o e altere as prefer\u00eancias para o site.",
+    "message": "Com a extensão para Firefox, você pode desativar a proteção do Mozilla VPN em um site ou definir um local personalizado. Para fazer isso, visite o site, abra a extensão e altere as preferências para o site.",
     "description": "Subtext shown when there are no website preferences set by the user."
   },
   "altTextRemoveWebsiteButton": {
@@ -96,7 +96,7 @@
     }
   },
   "altTextOpenSettingsPage": {
-    "message": "Abrir p\u00e1gina de configura\u00e7\u00f5es",
+    "message": "Abrir página de configurações",
     "description": "Alternative text for the button that opens the Extensions Settings page."
   },
   "searchServer": {
@@ -107,15 +107,15 @@
     "message": "Assine o Mozilla VPN."
   },
   "bodySubscribeNow2": {
-    "message": "N\u00e3o conseguimos encontrar uma assinatura vinculada \u00e0 conta que voc\u00ea usou para entrar no aplicativo Mozilla VPN.",
+    "message": "Não conseguimos encontrar uma assinatura vinculada à conta que você usou para entrar no aplicativo Mozilla VPN.",
     "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
   },
   "footerSubscribeNow": {
-    "message": "Para usar esta extens\u00e3o, inscreva-se.",
+    "message": "Para usar esta extensão, inscreva-se.",
     "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
   },
   "btnSubscribeNow": {
-    "message": "Assine j\u00e1",
+    "message": "Assine já",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
   },
   "getHelp": {
@@ -130,7 +130,7 @@
     "message": "Entre no aplicativo Mozilla VPN."
   },
   "bodySignedOut": {
-    "message": "No momento, voc\u00ea est\u00e1 desconectado do aplicativo Mozilla VPN. Para usar a extens\u00e3o Mozilla VPN para Firefox, abra o aplicativo no computador e entre na sua conta."
+    "message": "No momento, você está desconectado do aplicativo Mozilla VPN. Para usar a extensão Mozilla VPN para Firefox, abra o aplicativo no computador e entre na sua conta."
   },
   "btnOpenVpn": {
     "message": "Abra o Mozilla VPN."
@@ -140,7 +140,7 @@
     "description": "This is the headline of an error panel."
   },
   "bodyNeedsUpdate2": {
-    "message": "Para usar esta extens\u00e3o, primeiro baixe e instale a vers\u00e3o mais recente do aplicativo Mozilla VPN.",
+    "message": "Para usar esta extensão, primeiro baixe e instale a versão mais recente do aplicativo Mozilla VPN.",
     "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
@@ -148,15 +148,15 @@
     "description": "Header if a VPN installation was not found."
   },
   "bodyOpenMsg": {
-    "message": "Para usar a extens\u00e3o do Firefox Mozilla VPN, primeiro abra o aplicativo Mozilla VPN.",
+    "message": "Para usar a extensão do Firefox Mozilla VPN, primeiro abra o aplicativo Mozilla VPN.",
     "description": "Popup subtitle text."
   },
   "bodyInstallMsg": {
-    "message": "Para usar esta extens\u00e3o, primeiro baixe e instale o aplicativo Mozilla VPN no computador."
+    "message": "Para usar esta extensão, primeiro baixe e instale o aplicativo Mozilla VPN no computador."
   },
   "bodyInstallMsgFooter": {
-    "message": "Observe que o Mozilla VPN \u00e9 um servi\u00e7o pago por assinatura.",
-    "description": "This is a footnote for \u201cbodyInstallMsg\u201d."
+    "message": "Observe que o Mozilla VPN é um serviço pago por assinatura.",
+    "description": "This is a footnote for “bodyInstallMsg”."
   },
   "btnDownloadNow": {
     "message": "Baixar agora",
@@ -167,19 +167,19 @@
   },
   "useDefaultLocationExplainer": {
     "message": "Usar o mesmo local que o aplicativo Mozilla VPN para proteger este computador.",
-    "description": "Explanation of what \u201cUse default Mozilla VPN Location\u201d means."
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
   },
   "headerUnsupportedOSMessage": {
-    "message": "Plataforma n\u00e3o suportada."
+    "message": "Plataforma não suportada."
   },
   "bodyUnsupportedOSMessage": {
-    "message": "Atualmente, a extens\u00e3o Mozilla VPN s\u00f3 est\u00e1 dispon\u00edvel em dispositivos com Windows."
+    "message": "Atualmente, a extensão Mozilla VPN só está disponível em dispositivos com Windows."
   },
   "footnoteUnsupportedOSMessage": {
     "message": "Estamos trabalhando para oferecer suporte a macOS e Linux em breve!"
   },
   "turnOnProtection": {
-    "message": "Ativar prote\u00e7\u00e3o",
+    "message": "Ativar proteção",
     "description": "Button label."
   },
   "removeCustomLocation": {
@@ -187,11 +187,11 @@
     "description": "Button label."
   },
   "websiteProtection": {
-    "message": "Prote\u00e7\u00e3o do site",
+    "message": "Proteção do site",
     "description": "A subtitle that is followed by an off icon and the word 'Off'."
   },
   "giveFeedback": {
-    "message": "D\u00ea sua opini\u00e3o",
+    "message": "Dê sua opinião",
     "description": "Button label."
   },
   "learnMore": {
@@ -199,11 +199,11 @@
     "description": "Label of link that leads to SUMO."
   },
   "onboarding1_title": {
-    "message": "Desative a VPN em sites espec\u00edficos",
+    "message": "Desative a VPN em sites específicos",
     "description": "Title in onboarding panel."
   },
   "onboarding1_body": {
-    "message": "Com a extens\u00e3o do Firefox, voc\u00ea pode desativar a prote\u00e7\u00e3o de VPN em sites espec\u00edficos, mantendo ativada em todo o resto.",
+    "message": "Com a extensão do Firefox, você pode desativar a proteção de VPN em sites específicos, mantendo ativada em todo o resto.",
     "description": "Body text in onboarding panel."
   },
   "onboarding2_title": {
@@ -211,19 +211,19 @@
     "description": "Title in onboarding panel."
   },
   "onboarding2_body": {
-    "message": "Not\u00edcias de Londres. Esportes de S\u00e3o Paulo. Compras de T\u00f3quio. Defina locais espec\u00edficos por site para personalizar sua navega\u00e7\u00e3o.",
+    "message": "Notícias de Londres. Esportes de São Paulo. Compras de Tóquio. Defina locais específicos por site para personalizar sua navegação.",
     "description": "Body text in onboarding panel."
   },
   "onboarding3_title": {
-    "message": "Mantenha a prote\u00e7\u00e3o no Firefox \u201cativada\u201d",
+    "message": "Mantenha a proteção no Firefox “ativada”",
     "description": "Title in onboarding panel."
   },
   "onboarding3_body": {
-    "message": "Use a extens\u00e3o para ativar a prote\u00e7\u00e3o VPN no Firefox, mesmo quando a prote\u00e7\u00e3o estiver desativada no restante do computador.",
+    "message": "Use a extensão para ativar a proteção VPN no Firefox, mesmo quando a proteção estiver desativada no restante do computador.",
     "description": "Body text in onboarding panel."
   },
   "next": {
-    "message": "Avan\u00e7ar",
+    "message": "Avançar",
     "description": "Label of button to progress to next onboarding panel."
   },
   "skip": {
@@ -235,19 +235,19 @@
     "description": "Label of button in final onboarding panel."
   },
   "headerReEnableFirefoxProtection": {
-    "message": "Reativar prote\u00e7\u00e3o no Firefox",
+    "message": "Reativar proteção no Firefox",
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "bodyReEnableFirefoxProtection": {
-    "message": "O Firefox atualmente \u00e9 um \u201caplicativo exclu\u00eddo\u201d no aplicativo Mozilla VPN. Para usar esta extens\u00e3o, abra o aplicativo, v\u00e1 em Configura\u00e7\u00f5es > Exclus\u00e3o de aplicativos e remova o Firefox da lista.",
+    "message": "O Firefox atualmente é um “aplicativo excluído” no aplicativo Mozilla VPN. Para usar esta extensão, abra o aplicativo, vá em Configurações > Exclusão de aplicativos e remova o Firefox da lista.",
     "description": "Body copy of error panel."
   },
   "settingsPageSubtitle": {
-    "message": "Para adicionar ou alterar prefer\u00eancias espec\u00edficas de um site, visite o site e abra a extens\u00e3o Mozilla VPN Firefox. Depois defina as prefer\u00eancias para o site. Suas prefer\u00eancias s\u00f3 t\u00eam efeito quando a prote\u00e7\u00e3o VPN para Firefox est\u00e1 ativada.",
+    "message": "Para adicionar ou alterar preferências específicas de um site, visite o site e abra a extensão Mozilla VPN Firefox. Depois defina as preferências para o site. Suas preferências só têm efeito quando a proteção VPN para Firefox está ativada.",
     "description": "Subtitle in the settings page."
   },
   "settingsPageTitle": {
-    "message": "Prefer\u00eancias de sites do Mozilla VPN",
+    "message": "Preferências de sites do Mozilla VPN",
     "description": "Title for settings page tab."
   },
   "noSignal": {
@@ -255,11 +255,11 @@
     "description": "Indicator text describing the status of the VPN."
   },
   "unstable": {
-    "message": "Inst\u00e1vel",
+    "message": "Instável",
     "description": "Indicator text describing the status of the VPN."
   },
   "connecting": {
-    "message": "Conectando\u2026",
+    "message": "Conectando…",
     "description": "Indicator text describing the status of the VPN."
   },
   "helpCenter": {
@@ -267,7 +267,7 @@
     "description": "Link title."
   },
   "websitePreferences": {
-    "message": "Prefer\u00eancias de sites",
+    "message": "Preferências de sites",
     "description": "Link title."
   },
   "contactSupport": {
@@ -289,7 +289,7 @@
     }
   },
   "alert_conflictingProgram": {
-    "message": "Um programa neste computador pode estar causando problemas com a extens\u00e3o Mozilla VPN.",
+    "message": "Um programa neste computador pode estar causando problemas com a extensão Mozilla VPN.",
     "description": "Banner alert"
   },
   "howToFix": {
@@ -297,7 +297,7 @@
     "description": "Link in banner alert"
   },
   "alert_conflictingExtensions": {
-    "message": "Outras extens\u00f5es podem estar interferindo no funcionamento da extens\u00e3o Mozilla VPN.",
+    "message": "Outras extensões podem estar interferindo no funcionamento da extensão Mozilla VPN.",
     "description": "Banner alert"
   },
   "learnWhatToDo": {
@@ -305,31 +305,31 @@
     "description": "Link in banner alert"
   },
   "telemetry_toggle_text": {
-    "message": "Compartilhar dados t\u00e9cnicos e de intera\u00e7\u00e3o",
+    "message": "Compartilhar dados técnicos e de interação",
     "description": "Label for the Telemetry Opt-In toggle"
   },
   "privacy_notice_link_name": {
-    "message": "Aviso de privacidade dos servi\u00e7os de assinatura da Mozilla",
+    "message": "Aviso de privacidade dos serviços de assinatura da Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
   "first-install-body": {
-    "message": "Para nos ajudar a melhorar recursos e desempenho e resolver problemas rapidamente, voc\u00ea pode escolher permitir que a extens\u00e3o Mozilla VPN colete dados. Os dados que coletamos nunca s\u00e3o vinculados a voc\u00ea e nunca coletamos dados sobre os sites que voc\u00ea visita. A coleta de dados n\u00e3o afeta o funcionamento da extens\u00e3o.",
+    "message": "Para nos ajudar a melhorar recursos e desempenho e resolver problemas rapidamente, você pode escolher permitir que a extensão Mozilla VPN colete dados. Os dados que coletamos nunca são vinculados a você e nunca coletamos dados sobre os sites que você visita. A coleta de dados não afeta o funcionamento da extensão.",
     "description": "Body copy on the telemetry consent screen"
   },
   "privacyPolicyIntro": {
-    "message": "Detalhes completos dos dados que coletamos est\u00e3o dispon\u00edveis em nossa pol\u00edtica de privacidade.",
+    "message": "Detalhes completos dos dados que coletamos estão disponíveis em nossa política de privacidade.",
     "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
   },
   "viewPrivacyPolicy": {
-    "message": "Ver a pol\u00edtica de privacidade",
+    "message": "Ver a política de privacidade",
     "description": "Privacy policy link"
   },
   "thankYouForAdding": {
-    "message": "Obrigado por adicionar a extens\u00e3o Mozilla VPN",
+    "message": "Obrigado por adicionar a extensão Mozilla VPN",
     "description": "Headline on the telemetry consent screen"
   },
   "toContinueToTheExtension": {
-    "message": "Para seguir para a extens\u00e3o, clique no logotipo do Mozilla VPN na barra de ferramentas do Firefox.",
+    "message": "Para seguir para a extensão, clique no logotipo do Mozilla VPN na barra de ferramentas do Firefox.",
     "description": "Blurb at the bottom of the telemetry consent screen"
   },
   "optionalDataCollection": {
@@ -341,39 +341,39 @@
     "description": "Headline for a list describing the type of data collected by the extension"
   },
   "technicalData": {
-    "message": "Dados t\u00e9cnicos, como vers\u00e3o do navegador, vers\u00e3o de extens\u00f5es e detalhes de erros, para podermos acompanhar e corrigir os erros de forma eficiente.",
+    "message": "Dados técnicos, como versão do navegador, versão de extensões e detalhes de erros, para podermos acompanhar e corrigir os erros de forma eficiente.",
     "description": "Description of technical data, found on telemetry consent screen."
   },
   "interactionData": {
-    "message": "Dados de intera\u00e7\u00e3o, como o n\u00famero de sites exclu\u00eddos da prote\u00e7\u00e3o VPN, o n\u00famero de sites com uma prefer\u00eancia de local e a frequ\u00eancia com que a prote\u00e7\u00e3o \u00e9 ativada e desativada.",
+    "message": "Dados de interação, como o número de sites excluídos da proteção VPN, o número de sites com uma preferência de local e a frequência com que a proteção é ativada e desativada.",
     "description": "Description of interaction data, found on the telemetry consent screen."
   },
   "telemetryOptOutInstructions": {
-    "message": "Se n\u00e3o quiser permitir que a extens\u00e3o Mozilla VPN colete dados, desmarque a op\u00e7\u00e3o. Voc\u00ea tamb\u00e9m pode alterar esta configura\u00e7\u00e3o quando quiser nas configura\u00e7\u00f5es da extens\u00e3o.",
+    "message": "Se não quiser permitir que a extensão Mozilla VPN colete dados, desmarque a opção. Você também pode alterar esta configuração quando quiser nas configurações da extensão.",
     "description": "Opt out instructions on the telemetry consent screen"
   },
   "telemetryCheckboxLabel": {
-    "message": "Permitir que a Mozilla colete dados t\u00e9cnicos e de intera\u00e7\u00e3o",
+    "message": "Permitir que a Mozilla colete dados técnicos e de interação",
     "description": "Checkbox label"
   },
   "telemetrySettingsCheckboxLabel": {
-    "message": "Esses dados nos ajudam a melhorar recursos e desempenho. Incluem dados sobre seu dispositivo, configura\u00e7\u00e3o de hardware e como voc\u00ea usa a extens\u00e3o Mozilla VPN.",
+    "message": "Esses dados nos ajudam a melhorar recursos e desempenho. Incluem dados sobre seu dispositivo, configuração de hardware e como você usa a extensão Mozilla VPN.",
     "description": "Checkbox label on the settings page"
   },
   "messageSplitTunnelHeader": {
-    "message": "Ativar prote\u00e7\u00e3o para o Firefox",
+    "message": "Ativar proteção para o Firefox",
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "messageSplitTunnelBody": {
-    "message": "O Firefox atualmente \u00e9 um \u201caplicativo exclu\u00eddo\u201d no aplicativo Mozilla VPN. Para usar esta extens\u00e3o, abra o aplicativo, v\u00e1 em Configura\u00e7\u00f5es > Aplicativos exclu\u00eddos e remova o Firefox da lista.",
+    "message": "O Firefox atualmente é um “aplicativo excluído” no aplicativo Mozilla VPN. Para usar esta extensão, abra o aplicativo, vá em Configurações > Aplicativos excluídos e remova o Firefox da lista.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "headerSubscriptionNotAvailable": {
-    "message": "Assinatura do Mozilla VPN ainda n\u00e3o est\u00e1 dispon\u00edvel em seu pa\u00eds",
+    "message": "Assinatura do Mozilla VPN ainda não está disponível em seu país",
     "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "bodySubscriptionNotAvailable": {
-    "message": "Assinatura do Mozilla VPN ainda n\u00e3o est\u00e1 dispon\u00edvel em seu pa\u00eds, mas voc\u00ea pode entrar na nossa lista de espera para ser notificado quando for lan\u00e7ada. Se voc\u00ea j\u00e1 tem uma assinatura, continue.",
+    "message": "Assinatura do Mozilla VPN ainda não está disponível em seu país, mas você pode entrar na nossa lista de espera para ser notificado quando for lançada. Se você já tem uma assinatura, continue.",
     "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnjoinWaitlist": {
@@ -385,14 +385,14 @@
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   },
   "headlineAutoConnectOptions": {
-    "message": "Op\u00e7\u00f5es de conex\u00e3o autom\u00e1tica",
+    "message": "Opções de conexão automática",
     "description": "Headline for the Auto Connect options"
   },
   "labelDescribeAutoStartOnPBM": {
-    "message": "Sempre ativar a VPN ao usar o modo de navega\u00e7\u00e3o privativa"
+    "message": "Sempre ativar a VPN ao usar o modo de navegação privativa"
   },
   "bodyAutoStartOnPBM": {
-    "message": "Para ativar isto, abra o menu de extens\u00f5es, selecione \u201cExtens\u00e3o Mozilla VPN\u201d e selecione \u201cPermitir\u201d em \u201cExecutar em janelas privativas\u201d.",
+    "message": "Para ativar isto, abra o menu de extensões, selecione “Extensão Mozilla VPN” e selecione “Permitir” em “Executar em janelas privativas”.",
     "description": "Body of the autostart option."
   },
   "labelDescribeAutoStart": {

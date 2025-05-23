@@ -1,18 +1,18 @@
 {
   "extensionName": {
-    "message": "Ti\u1ec7n \u00edch m\u1edf r\u1ed9ng Mozilla VPN",
+    "message": "Tiện ích mở rộng Mozilla VPN",
     "description": "Name of the extension."
   },
   "close": {
-    "message": "\u0110\u00f3ng",
+    "message": "Đóng",
     "description": "Alt label text for an X icon button in alert."
   },
   "extensionDescription": {
-    "message": "T\u00edch h\u1ee3p VPN v\u00e0o Firefox: Lo\u1ea1i tr\u1eeb th\u1ebb, \u0111\u1eb7t \u0111\u1ecba \u0111i\u1ec3m trang web v\u00e0 h\u01a1n th\u1ebf n\u1eefa!",
+    "message": "Tích hợp VPN vào Firefox: Loại trừ thẻ, đặt địa điểm trang web và hơn thế nữa!",
     "description": "Description of the extension."
   },
   "back": {
-    "message": "Quay l\u1ea1i",
+    "message": "Quay lại",
     "description": "Alternative text attribute for back button."
   },
   "productName": {
@@ -20,19 +20,19 @@
     "description": "Name of the product."
   },
   "titleServerList": {
-    "message": "\u0110\u1ecba \u0111i\u1ec3m trang web",
+    "message": "Địa điểm trang web",
     "description": "Title for a dialog where users can set the location for a website."
   },
   "selectWebsiteLocation": {
-    "message": "Ch\u1ecdn \u0111\u1ecba \u0111i\u1ec3m trang web",
+    "message": "Chọn địa điểm trang web",
     "description": "Button label."
   },
   "titlePageSettings": {
-    "message": "Tu\u1ef3 ch\u1ecdn cho trang web n\u00e0y",
+    "message": "Tuỳ chọn cho trang web này",
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
   "excludePageFor": {
-    "message": "Lu\u00f4n t\u1eaft VPN \u0111\u1ed1i v\u1edbi $ORIGIN$",
+    "message": "Luôn tắt VPN đối với $ORIGIN$",
     "description": "Setting to exclude a website from VPN.",
     "placeholders": {
       "ORIGIN": {
@@ -42,31 +42,31 @@
     }
   },
   "resetPageSettings": {
-    "message": "\u0110\u1eb7t l\u1ea1i tu\u1ef3 ch\u1ecdn trang web",
+    "message": "Đặt lại tuỳ chọn trang web",
     "description": "Button text to reset all site specific settings."
   },
   "vpnIsOn": {
-    "message": "VPN \u0111ang b\u1eadt tr\u00ean Firefox",
+    "message": "VPN đang bật trên Firefox",
     "description": "Header to signal that VPN connection is enabled."
   },
   "vpnIsOff": {
-    "message": "VPN \u0111ang t\u1eaft tr\u00ean Firefox",
+    "message": "VPN đang tắt trên Firefox",
     "description": "Header to signal that VPN connection is disabled."
   },
   "extensionVpnIsOff": {
-    "message": "Mozilla VPN v\u1eabn b\u1eadt, b\u1ea3o v\u1ec7 ph\u1ea7n c\u00f2n l\u1ea1i c\u1ee7a m\u00e1y t\u00ednh c\u1ee7a b\u1ea1n.",
+    "message": "Mozilla VPN vẫn bật, bảo vệ phần còn lại của máy tính của bạn.",
     "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
   },
   "vpnOffStatus": {
-    "message": "T\u1eaft",
+    "message": "Tắt",
     "description": "Label indicating that the VPN is off."
   },
   "vpnOnStatus": {
-    "message": "B\u1eadt",
+    "message": "Bật",
     "description": "Label indicating that the VPN is on."
   },
   "placeholderSearchWebsites": {
-    "message": "T\u00ecm ki\u1ebfm trang web",
+    "message": "Tìm kiếm trang web",
     "description": "Placeholder text for the search input field to search websites."
   },
   "tableHeadingWebsite": {
@@ -74,19 +74,19 @@
     "description": "Table heading for the column listing websites."
   },
   "tableHeadingVpnStatus": {
-    "message": "B\u1ea3o v\u1ec7 trang web",
+    "message": "Bảo vệ trang web",
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   },
   "headlineNoWebsitePreferences": {
-    "message": "B\u1ea1n ch\u01b0a \u0111\u1eb7t b\u1ea5t k\u1ef3 t\u00f9y ch\u1ecdn trang web n\u00e0o",
-    "description": "Headline shown when the user hasn\u2019t set any website preferences."
+    "message": "Bạn chưa đặt bất kỳ tùy chọn trang web nào",
+    "description": "Headline shown when the user hasn’t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
-    "message": "V\u1edbi ti\u1ec7n \u00edch m\u1edf r\u1ed9ng Firefox, b\u1ea1n c\u00f3 th\u1ec3 t\u1eaft Mozilla VPN cho m\u1ed9t trang web ho\u1eb7c \u0111\u1eb7t \u0111\u1ecba \u0111i\u1ec3m t\u00f9y ch\u1ec9nh. \u0110\u1ec3 th\u1ef1c hi\u1ec7n vi\u1ec7c n\u00e0y, h\u00e3y truy c\u1eadp m\u1ed9t trang web, m\u1edf ti\u1ec7n \u00edch m\u1edf r\u1ed9ng v\u00e0 c\u1eadp nh\u1eadt t\u00f9y ch\u1ecdn trang web.",
+    "message": "Với tiện ích mở rộng Firefox, bạn có thể tắt Mozilla VPN cho một trang web hoặc đặt địa điểm tùy chỉnh. Để thực hiện việc này, hãy truy cập một trang web, mở tiện ích mở rộng và cập nhật tùy chọn trang web.",
     "description": "Subtext shown when there are no website preferences set by the user."
   },
   "altTextRemoveWebsiteButton": {
-    "message": "Xo\u00e1 quy t\u1eafc cho $ORIGIN$",
+    "message": "Xoá quy tắc cho $ORIGIN$",
     "description": "Alternative text for the button that removes a website rule from the list of preferences.",
     "placeholders": {
       "ORIGIN": {
@@ -96,138 +96,138 @@
     }
   },
   "altTextOpenSettingsPage": {
-    "message": "M\u1edf trang C\u00e0i \u0111\u1eb7t",
+    "message": "Mở trang Cài đặt",
     "description": "Alternative text for the button that opens the Extensions Settings page."
   },
   "searchServer": {
-    "message": "T\u00ecm ki\u1ebfm \u0111\u1ecba \u0111i\u1ec3m",
+    "message": "Tìm kiếm địa điểm",
     "description": "Placeholder for the Input field where users can search the list of servers."
   },
   "titleSubscribeNow": {
-    "message": "\u0110\u0103ng k\u00fd Mozilla VPN."
+    "message": "Đăng ký Mozilla VPN."
   },
   "bodySubscribeNow2": {
-    "message": "Ch\u00fang t\u00f4i kh\u00f4ng t\u00ecm th\u1ea5y g\u00f3i \u0111\u0103ng k\u00fd n\u00e0o \u0111\u01b0\u1ee3c li\u00ean k\u1ebft v\u1edbi t\u00e0i kho\u1ea3n b\u1ea1n \u0111\u00e3 d\u00f9ng \u0111\u1ec3 \u0111\u0103ng nh\u1eadp tr\u00ean \u1ee9ng d\u1ee5ng Mozilla VPN.",
+    "message": "Chúng tôi không tìm thấy gói đăng ký nào được liên kết với tài khoản bạn đã dùng để đăng nhập trên ứng dụng Mozilla VPN.",
     "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
   },
   "footerSubscribeNow": {
-    "message": "\u0110\u1ec3 s\u1eed d\u1ee5ng ti\u1ec7n \u00edch m\u1edf r\u1ed9ng n\u00e0y, vui l\u00f2ng \u0111\u0103ng k\u00fd.",
+    "message": "Để sử dụng tiện ích mở rộng này, vui lòng đăng ký.",
     "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
   },
   "btnSubscribeNow": {
-    "message": "\u0110\u0103ng k\u00fd ngay",
+    "message": "Đăng ký ngay",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
   },
   "getHelp": {
-    "message": "Nh\u1eadn tr\u1ee3 gi\u00fap",
+    "message": "Nhận trợ giúp",
     "description": "Text of a link pointing to a relevant help page."
   },
   "headerOpenMozillaVPN": {
-    "message": "M\u1edf Mozilla VPN",
+    "message": "Mở Mozilla VPN",
     "description": "Headline."
   },
   "headerSignedOut": {
-    "message": "\u0110\u0103ng nh\u1eadp v\u00e0o \u1ee9ng d\u1ee5ng Mozilla VPN."
+    "message": "Đăng nhập vào ứng dụng Mozilla VPN."
   },
   "bodySignedOut": {
-    "message": "B\u1ea1n hi\u1ec7n \u0111\u00e3 \u0111\u0103ng xu\u1ea5t kh\u1ecfi \u1ee9ng d\u1ee5ng Mozilla VPN. \u0110\u1ec3 s\u1eed d\u1ee5ng ti\u1ec7n \u00edch m\u1edf r\u1ed9ng Mozilla VPN Firefox, h\u00e3y m\u1edf \u1ee9ng d\u1ee5ng tr\u00ean m\u00e1y t\u00ednh v\u00e0 \u0111\u0103ng nh\u1eadp v\u00e0o t\u00e0i kho\u1ea3n c\u1ee7a b\u1ea1n."
+    "message": "Bạn hiện đã đăng xuất khỏi ứng dụng Mozilla VPN. Để sử dụng tiện ích mở rộng Mozilla VPN Firefox, hãy mở ứng dụng trên máy tính và đăng nhập vào tài khoản của bạn."
   },
   "btnOpenVpn": {
-    "message": "M\u1edf Mozilla VPN."
+    "message": "Mở Mozilla VPN."
   },
   "headerNeedsUpdate": {
-    "message": "C\u1eadp nh\u1eadt Mozilla VPN",
+    "message": "Cập nhật Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
   "bodyNeedsUpdate2": {
-    "message": "\u0110\u1ec3 s\u1eed d\u1ee5ng ti\u1ec7n \u00edch m\u1edf r\u1ed9ng n\u00e0y, tr\u01b0\u1edbc ti\u00ean h\u00e3y t\u1ea3i xu\u1ed1ng v\u00e0 c\u00e0i \u0111\u1eb7t \u1ee9ng d\u1ee5ng Mozilla VPN m\u1edbi nh\u1ea5t.",
+    "message": "Để sử dụng tiện ích mở rộng này, trước tiên hãy tải xuống và cài đặt ứng dụng Mozilla VPN mới nhất.",
     "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
-    "message": "C\u00e0i \u0111\u1eb7t Mozilla VPN",
+    "message": "Cài đặt Mozilla VPN",
     "description": "Header if a VPN installation was not found."
   },
   "bodyOpenMsg": {
-    "message": "\u0110\u1ec3 s\u1eed d\u1ee5ng ti\u1ec7n \u00edch m\u1edf r\u1ed9ng Mozilla VPN Firefox, tr\u01b0\u1edbc ti\u00ean h\u00e3y m\u1edf \u1ee9ng d\u1ee5ng Mozilla VPN.",
+    "message": "Để sử dụng tiện ích mở rộng Mozilla VPN Firefox, trước tiên hãy mở ứng dụng Mozilla VPN.",
     "description": "Popup subtitle text."
   },
   "bodyInstallMsg": {
-    "message": "\u0110\u1ec3 s\u1eed d\u1ee5ng ti\u1ec7n \u00edch m\u1edf r\u1ed9ng n\u00e0y, tr\u01b0\u1edbc ti\u00ean h\u00e3y t\u1ea3i xu\u1ed1ng v\u00e0 c\u00e0i \u0111\u1eb7t \u1ee9ng d\u1ee5ng Mozilla VPN tr\u00ean m\u00e1y t\u00ednh c\u1ee7a b\u1ea1n."
+    "message": "Để sử dụng tiện ích mở rộng này, trước tiên hãy tải xuống và cài đặt ứng dụng Mozilla VPN trên máy tính của bạn."
   },
   "bodyInstallMsgFooter": {
-    "message": "L\u01b0u \u00fd r\u1eb1ng Mozilla VPN l\u00e0 d\u1ecbch v\u1ee5 \u0111\u0103ng k\u00fd tr\u1ea3 ph\u00ed.",
-    "description": "This is a footnote for \u201cbodyInstallMsg\u201d."
+    "message": "Lưu ý rằng Mozilla VPN là dịch vụ đăng ký trả phí.",
+    "description": "This is a footnote for “bodyInstallMsg”."
   },
   "btnDownloadNow": {
-    "message": "T\u1ea3i xu\u1ed1ng ngay",
+    "message": "Tải xuống ngay",
     "description": "This is a call to action button to download the VPN."
   },
   "defaultLocationHeader": {
-    "message": "S\u1eed d\u1ee5ng \u0111\u1ecba \u0111i\u1ec3m Mozilla VPN."
+    "message": "Sử dụng địa điểm Mozilla VPN."
   },
   "useDefaultLocationExplainer": {
-    "message": "S\u1eed d\u1ee5ng c\u00f9ng \u0111\u1ecba \u0111i\u1ec3m v\u1edbi \u1ee9ng d\u1ee5ng Mozilla VPN b\u1ea3o v\u1ec7 m\u00e1y t\u00ednh n\u00e0y.",
-    "description": "Explanation of what \u201cUse default Mozilla VPN Location\u201d means."
+    "message": "Sử dụng cùng địa điểm với ứng dụng Mozilla VPN bảo vệ máy tính này.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
   },
   "headerUnsupportedOSMessage": {
-    "message": "N\u1ec1n t\u1ea3ng kh\u00f4ng \u0111\u01b0\u1ee3c h\u1ed7 tr\u1ee3."
+    "message": "Nền tảng không được hỗ trợ."
   },
   "bodyUnsupportedOSMessage": {
-    "message": "Hi\u1ec7n t\u1ea1i, ti\u1ec7n \u00edch m\u1edf r\u1ed9ng Mozilla VPN ch\u1ec9 kh\u1ea3 d\u1ee5ng tr\u00ean c\u00e1c thi\u1ebft b\u1ecb Windows."
+    "message": "Hiện tại, tiện ích mở rộng Mozilla VPN chỉ khả dụng trên các thiết bị Windows."
   },
   "footnoteUnsupportedOSMessage": {
-    "message": "Ch\u00fang t\u00f4i \u0111ang n\u1ed7 l\u1ef1c \u0111\u1ec3 s\u1edbm h\u1ed7 tr\u1ee3 tr\u00ean macOS v\u00e0 Linux!"
+    "message": "Chúng tôi đang nỗ lực để sớm hỗ trợ trên macOS và Linux!"
   },
   "turnOnProtection": {
-    "message": "B\u1eadt ch\u1ebf \u0111\u1ed9 b\u1ea3o v\u1ec7",
+    "message": "Bật chế độ bảo vệ",
     "description": "Button label."
   },
   "removeCustomLocation": {
-    "message": "Xo\u00e1 \u0111\u1ecba \u0111i\u1ec3m tu\u1ef3 ch\u1ec9nh",
+    "message": "Xoá địa điểm tuỳ chỉnh",
     "description": "Button label."
   },
   "websiteProtection": {
-    "message": "B\u1ea3o v\u1ec7 trang web",
+    "message": "Bảo vệ trang web",
     "description": "A subtitle that is followed by an off icon and the word 'Off'."
   },
   "giveFeedback": {
-    "message": "G\u1eedi ph\u1ea3n h\u1ed3i",
+    "message": "Gửi phản hồi",
     "description": "Button label."
   },
   "learnMore": {
-    "message": "T\u00ecm hi\u1ec3u th\u00eam",
+    "message": "Tìm hiểu thêm",
     "description": "Label of link that leads to SUMO."
   },
   "onboarding1_title": {
-    "message": "T\u1eaft VPN cho trang web c\u1ee5 th\u1ec3",
+    "message": "Tắt VPN cho trang web cụ thể",
     "description": "Title in onboarding panel."
   },
   "onboarding1_body": {
-    "message": "V\u1edbi ti\u1ec7n \u00edch m\u1edf r\u1ed9ng Firefox, b\u1ea1n c\u00f3 th\u1ec3 t\u1eaft t\u00ednh n\u0103ng VPN cho c\u00e1c trang web c\u1ee5 th\u1ec3 trong khi v\u1eabn b\u1eadt t\u00ednh n\u0103ng n\u00e0y cho m\u1ecdi trang kh\u00e1c.",
+    "message": "Với tiện ích mở rộng Firefox, bạn có thể tắt tính năng VPN cho các trang web cụ thể trong khi vẫn bật tính năng này cho mọi trang khác.",
     "description": "Body text in onboarding panel."
   },
   "onboarding2_title": {
-    "message": "Xem trang web kh\u00e1c nhau t\u1eeb c\u00e1c \u0111\u1ecba \u0111i\u1ec3m kh\u00e1c nhau",
+    "message": "Xem trang web khác nhau từ các địa điểm khác nhau",
     "description": "Title in onboarding panel."
   },
   "onboarding2_body": {
-    "message": "Tin t\u1ee9c t\u1eeb Lu\u00e2n \u0110\u00f4n. Th\u1ec3 thao t\u1eeb Sao Paulo. Mua s\u1eafm t\u1eeb Tokyo. \u0110\u1eb7t \u0111\u1ecba \u0111i\u1ec3m d\u00e0nh ri\u00eang cho trang web \u0111\u1ec3 duy\u1ec7t c\u00e1 nh\u00e2n h\u00f3a.",
+    "message": "Tin tức từ Luân Đôn. Thể thao từ Sao Paulo. Mua sắm từ Tokyo. Đặt địa điểm dành riêng cho trang web để duyệt cá nhân hóa.",
     "description": "Body text in onboarding panel."
   },
   "onboarding3_title": {
-    "message": "Lu\u00f4n \u201cb\u1eadt\u201d ch\u1ebf \u0111\u1ed9 b\u1ea3o v\u1ec7 cho Firefox",
+    "message": "Luôn “bật” chế độ bảo vệ cho Firefox",
     "description": "Title in onboarding panel."
   },
   "onboarding3_body": {
-    "message": "S\u1eed d\u1ee5ng ti\u1ec7n \u00edch m\u1edf r\u1ed9ng \u0111\u1ec3 b\u1eadt t\u00ednh n\u0103ng VPN cho Firefox \u2014 ngay c\u1ea3 khi t\u00ednh n\u0103ng b\u1ea3o v\u1ec7 b\u1ecb t\u1eaft \u0111\u1ed1i v\u1edbi ph\u1ea7n c\u00f2n l\u1ea1i c\u1ee7a m\u00e1y t\u00ednh c\u1ee7a b\u1ea1n.",
+    "message": "Sử dụng tiện ích mở rộng để bật tính năng VPN cho Firefox — ngay cả khi tính năng bảo vệ bị tắt đối với phần còn lại của máy tính của bạn.",
     "description": "Body text in onboarding panel."
   },
   "next": {
-    "message": "Ti\u1ebfp",
+    "message": "Tiếp",
     "description": "Label of button to progress to next onboarding panel."
   },
   "skip": {
-    "message": "B\u1ecf qua",
+    "message": "Bỏ qua",
     "description": "Label of button to skip onboarding."
   },
   "done": {
@@ -235,51 +235,51 @@
     "description": "Label of button in final onboarding panel."
   },
   "headerReEnableFirefoxProtection": {
-    "message": "B\u1eadt l\u1ea1i ch\u1ebf \u0111\u1ed9 b\u1ea3o v\u1ec7 cho Firefox",
+    "message": "Bật lại chế độ bảo vệ cho Firefox",
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "bodyReEnableFirefoxProtection": {
-    "message": "Firefox hi\u1ec7n t\u1ea1i l\u00e0 \u201c\u1ee9ng d\u1ee5ng b\u1ecb lo\u1ea1i tr\u1eeb\u201d trong \u1ee9ng d\u1ee5ng Mozilla VPN. \u0110\u1ec3 s\u1eed d\u1ee5ng ti\u1ec7n \u00edch m\u1edf r\u1ed9ng n\u00e0y, h\u00e3y m\u1edf \u1ee9ng d\u1ee5ng v\u00e0 \u0111i t\u1edbi C\u00e0i \u0111\u1eb7t > Lo\u1ea1i tr\u1eeb \u1ee9ng d\u1ee5ng v\u00e0 xo\u00e1 Firefox.",
+    "message": "Firefox hiện tại là “ứng dụng bị loại trừ” trong ứng dụng Mozilla VPN. Để sử dụng tiện ích mở rộng này, hãy mở ứng dụng và đi tới Cài đặt > Loại trừ ứng dụng và xoá Firefox.",
     "description": "Body copy of error panel."
   },
   "settingsPageSubtitle": {
-    "message": "\u0110\u1ec3 th\u00eam ho\u1eb7c thay \u0111\u1ed5i c\u00e1c t\u00f9y ch\u1ecdn d\u00e0nh ri\u00eang cho trang web, h\u00e3y truy c\u1eadp trang web v\u00e0 m\u1edf ti\u1ec7n \u00edch Mozilla VPN Firefox. Sau \u0111\u00f3, \u0111\u1eb7t t\u00f9y ch\u1ecdn cho trang web. T\u00f9y ch\u1ecdn c\u1ee7a b\u1ea1n ch\u1ec9 c\u00f3 hi\u1ec7u l\u1ef1c khi t\u00ednh n\u0103ng VPN cho Firefox \u0111\u01b0\u1ee3c b\u1eadt.",
+    "message": "Để thêm hoặc thay đổi các tùy chọn dành riêng cho trang web, hãy truy cập trang web và mở tiện ích Mozilla VPN Firefox. Sau đó, đặt tùy chọn cho trang web. Tùy chọn của bạn chỉ có hiệu lực khi tính năng VPN cho Firefox được bật.",
     "description": "Subtitle in the settings page."
   },
   "settingsPageTitle": {
-    "message": "T\u00f9y ch\u1ecdn Mozilla VPN cho web",
+    "message": "Tùy chọn Mozilla VPN cho web",
     "description": "Title for settings page tab."
   },
   "noSignal": {
-    "message": "Kh\u00f4ng c\u00f3 t\u00edn hi\u1ec7u",
+    "message": "Không có tín hiệu",
     "description": "Indicator text describing the status of the VPN."
   },
   "unstable": {
-    "message": "Kh\u00f4ng \u1ed5n \u0111\u1ecbnh",
+    "message": "Không ổn định",
     "description": "Indicator text describing the status of the VPN."
   },
   "connecting": {
-    "message": "\u0110ang k\u1ebft n\u1ed1i\u2026",
+    "message": "Đang kết nối…",
     "description": "Indicator text describing the status of the VPN."
   },
   "helpCenter": {
-    "message": "Trung t\u00e2m tr\u1ee3 gi\u00fap",
+    "message": "Trung tâm trợ giúp",
     "description": "Link title."
   },
   "websitePreferences": {
-    "message": "Tu\u1ef3 ch\u1ecdn trang web",
+    "message": "Tuỳ chọn trang web",
     "description": "Link title."
   },
   "contactSupport": {
-    "message": "Li\u00ean h\u1ec7 h\u1ed7 tr\u1ee3",
+    "message": "Liên hệ hỗ trợ",
     "description": "Link title."
   },
   "offForWebsite": {
-    "message": "Mozilla VPN \u0111\u00e3 t\u1eaft cho trang web",
+    "message": "Mozilla VPN đã tắt cho trang web",
     "description": "Aria label."
   },
   "websiteLocationLabel": {
-    "message": "$SERVERLOCATION$: v\u1ecb tr\u00ed m\u00e1y ch\u1ee7 Mozilla VPN",
+    "message": "$SERVERLOCATION$: vị trí máy chủ Mozilla VPN",
     "description": "Aria label for a flag icon representing the location of the VPN server",
     "placeholders": {
       "SERVERLOCATION": {
@@ -289,114 +289,114 @@
     }
   },
   "alert_conflictingProgram": {
-    "message": "M\u1ed9t ch\u01b0\u01a1ng tr\u00ecnh tr\u00ean m\u00e1y t\u00ednh c\u1ee7a b\u1ea1n c\u00f3 th\u1ec3 \u0111ang g\u00e2y ra s\u1ef1 c\u1ed1 v\u1edbi ti\u1ec7n \u00edch m\u1edf r\u1ed9ng Mozilla VPN.",
+    "message": "Một chương trình trên máy tính của bạn có thể đang gây ra sự cố với tiện ích mở rộng Mozilla VPN.",
     "description": "Banner alert"
   },
   "howToFix": {
-    "message": "C\u00e1ch s\u1eeda",
+    "message": "Cách sửa",
     "description": "Link in banner alert"
   },
   "alert_conflictingExtensions": {
-    "message": "Ti\u1ec7n \u00edch m\u1edf r\u1ed9ng kh\u00e1c c\u00f3 th\u1ec3 can thi\u1ec7p v\u00e0o c\u00e1ch ho\u1ea1t \u0111\u1ed9ng c\u1ee7a ti\u1ec7n \u00edch m\u1edf r\u1ed9ng Mozilla VPN.",
+    "message": "Tiện ích mở rộng khác có thể can thiệp vào cách hoạt động của tiện ích mở rộng Mozilla VPN.",
     "description": "Banner alert"
   },
   "learnWhatToDo": {
-    "message": "T\u00ecm hi\u1ec3u nh\u1eefng g\u00ec c\u1ea7n l\u00e0m",
+    "message": "Tìm hiểu những gì cần làm",
     "description": "Link in banner alert"
   },
   "telemetry_toggle_text": {
-    "message": "G\u1eedi d\u1eef li\u1ec7u k\u1ef9 thu\u1eadt v\u00e0 t\u01b0\u01a1ng t\u00e1c",
+    "message": "Gửi dữ liệu kỹ thuật và tương tác",
     "description": "Label for the Telemetry Opt-In toggle"
   },
   "privacy_notice_link_name": {
-    "message": "Th\u00f4ng b\u00e1o v\u1ec1 quy\u1ec1n ri\u00eang t\u01b0 c\u1ee7a d\u1ecbch v\u1ee5 \u0111\u0103ng k\u00fd Mozilla",
+    "message": "Thông báo về quyền riêng tư của dịch vụ đăng ký Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
   "first-install-body": {
-    "message": "\u0110\u1ec3 gi\u00fap ch\u00fang t\u00f4i c\u1ea3i thi\u1ec7n c\u00e1c t\u00ednh n\u0103ng v\u00e0 hi\u1ec7u su\u1ea5t c\u0169ng nh\u01b0 gi\u1ea3i quy\u1ebft v\u1ea5n \u0111\u1ec1 nhanh ch\u00f3ng, b\u1ea1n c\u00f3 th\u1ec3 ch\u1ecdn cho ph\u00e9p ti\u1ec7n \u00edch m\u1edf r\u1ed9ng Mozilla VPN thu th\u1eadp d\u1eef li\u1ec7u. D\u1eef li\u1ec7u ch\u00fang t\u00f4i thu th\u1eadp s\u1ebd kh\u00f4ng bao gi\u1edd r\u00e0ng bu\u1ed9c v\u1edbi b\u1ea1n v\u00e0 ch\u00fang t\u00f4i kh\u00f4ng bao gi\u1edd thu th\u1eadp d\u1eef li\u1ec7u v\u1ec1 c\u00e1c trang web b\u1ea1n truy c\u1eadp. Vi\u1ec7c thu th\u1eadp d\u1eef li\u1ec7u kh\u00f4ng \u1ea3nh h\u01b0\u1edfng \u0111\u1ebfn c\u00e1ch ho\u1ea1t \u0111\u1ed9ng c\u1ee7a ti\u1ec7n \u00edch m\u1edf r\u1ed9ng.",
+    "message": "Để giúp chúng tôi cải thiện các tính năng và hiệu suất cũng như giải quyết vấn đề nhanh chóng, bạn có thể chọn cho phép tiện ích mở rộng Mozilla VPN thu thập dữ liệu. Dữ liệu chúng tôi thu thập sẽ không bao giờ ràng buộc với bạn và chúng tôi không bao giờ thu thập dữ liệu về các trang web bạn truy cập. Việc thu thập dữ liệu không ảnh hưởng đến cách hoạt động của tiện ích mở rộng.",
     "description": "Body copy on the telemetry consent screen"
   },
   "privacyPolicyIntro": {
-    "message": "Chi ti\u1ebft \u0111\u1ea7y \u0111\u1ee7 v\u1ec1 d\u1eef li\u1ec7u ch\u00fang t\u00f4i thu th\u1eadp c\u00f3 s\u1eb5n trong ch\u00ednh s\u00e1ch ri\u00eang t\u01b0 c\u1ee7a ch\u00fang t\u00f4i.",
+    "message": "Chi tiết đầy đủ về dữ liệu chúng tôi thu thập có sẵn trong chính sách riêng tư của chúng tôi.",
     "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
   },
   "viewPrivacyPolicy": {
-    "message": "Xem ch\u00ednh s\u00e1ch ri\u00eang t\u01b0",
+    "message": "Xem chính sách riêng tư",
     "description": "Privacy policy link"
   },
   "thankYouForAdding": {
-    "message": "C\u1ea3m \u01a1n b\u1ea1n \u0111\u00e3 th\u00eam ti\u1ec7n \u00edch m\u1edf r\u1ed9ng Mozilla VPN",
+    "message": "Cảm ơn bạn đã thêm tiện ích mở rộng Mozilla VPN",
     "description": "Headline on the telemetry consent screen"
   },
   "toContinueToTheExtension": {
-    "message": "\u0110\u1ec3 ti\u1ebfp t\u1ee5c v\u1edbi ti\u1ec7n \u00edch m\u1edf r\u1ed9ng, h\u00e3y ch\u1ecdn bi\u1ec3u t\u01b0\u1ee3ng Mozilla VPN tr\u00ean thanh c\u00f4ng c\u1ee5 c\u1ee7a Firefox.",
+    "message": "Để tiếp tục với tiện ích mở rộng, hãy chọn biểu tượng Mozilla VPN trên thanh công cụ của Firefox.",
     "description": "Blurb at the bottom of the telemetry consent screen"
   },
   "optionalDataCollection": {
-    "message": "Thu th\u1eadp d\u1eef li\u1ec7u kh\u00f4ng b\u1eaft bu\u1ed9c",
+    "message": "Thu thập dữ liệu không bắt buộc",
     "description": "Subtitle on the telemetry consent screen"
   },
   "telemetryListHeader": {
-    "message": "D\u1eef li\u1ec7u t\u00f9y ch\u1ecdn m\u00e0 ch\u00fang t\u00f4i thu th\u1eadp bao g\u1ed3m:",
+    "message": "Dữ liệu tùy chọn mà chúng tôi thu thập bao gồm:",
     "description": "Headline for a list describing the type of data collected by the extension"
   },
   "technicalData": {
-    "message": "D\u1eef li\u1ec7u k\u1ef9 thu\u1eadt nh\u01b0 phi\u00ean b\u1ea3n tr\u00ecnh duy\u1ec7t, phi\u00ean b\u1ea3n ti\u1ec7n \u00edch m\u1edf r\u1ed9ng v\u00e0 chi ti\u1ebft l\u1ed7i \u0111\u1ec3 ch\u00fang t\u00f4i c\u00f3 th\u1ec3 theo d\u00f5i v\u00e0 s\u1eeda l\u1ed7i m\u1ed9t c\u00e1ch hi\u1ec7u qu\u1ea3.",
+    "message": "Dữ liệu kỹ thuật như phiên bản trình duyệt, phiên bản tiện ích mở rộng và chi tiết lỗi để chúng tôi có thể theo dõi và sửa lỗi một cách hiệu quả.",
     "description": "Description of technical data, found on telemetry consent screen."
   },
   "interactionData": {
-    "message": "D\u1eef li\u1ec7u t\u01b0\u01a1ng t\u00e1c, ch\u1eb3ng h\u1ea1n nh\u01b0 s\u1ed1 l\u01b0\u1ee3ng trang web \u0111\u01b0\u1ee3c lo\u1ea1i tr\u1eeb kh\u1ecfi VPN, s\u1ed1 l\u01b0\u1ee3ng trang web c\u00f3 t\u00f9y ch\u1ecdn \u0111\u1ecba \u0111i\u1ec3m v\u00e0 t\u1ea7n su\u1ea5t b\u1eadt v\u00e0 t\u1eaft t\u00ednh n\u0103ng b\u1ea3o v\u1ec7.",
+    "message": "Dữ liệu tương tác, chẳng hạn như số lượng trang web được loại trừ khỏi VPN, số lượng trang web có tùy chọn địa điểm và tần suất bật và tắt tính năng bảo vệ.",
     "description": "Description of interaction data, found on the telemetry consent screen."
   },
   "telemetryOptOutInstructions": {
-    "message": "N\u1ebfu b\u1ea1n kh\u00f4ng mu\u1ed1n cho ph\u00e9p ti\u1ec7n \u00edch m\u1edf r\u1ed9ng Mozilla VPN thu th\u1eadp d\u1eef li\u1ec7u, h\u00e3y b\u1ecf ch\u1ecdn \u00f4 n\u00e0y. B\u1ea1n c\u0169ng c\u00f3 th\u1ec3 thay \u0111\u1ed5i c\u00e0i \u0111\u1eb7t n\u00e0y b\u1ea5t k\u1ef3 l\u00fac n\u00e0o trong ti\u1ec7n \u00edch m\u1edf r\u1ed9ng, trong ph\u1ea7n C\u00e0i \u0111\u1eb7t.",
+    "message": "Nếu bạn không muốn cho phép tiện ích mở rộng Mozilla VPN thu thập dữ liệu, hãy bỏ chọn ô này. Bạn cũng có thể thay đổi cài đặt này bất kỳ lúc nào trong tiện ích mở rộng, trong phần Cài đặt.",
     "description": "Opt out instructions on the telemetry consent screen"
   },
   "telemetryCheckboxLabel": {
-    "message": "Cho ph\u00e9p Mozilla thu th\u1eadp d\u1eef li\u1ec7u k\u1ef9 thu\u1eadt v\u00e0 t\u01b0\u01a1ng t\u00e1c",
+    "message": "Cho phép Mozilla thu thập dữ liệu kỹ thuật và tương tác",
     "description": "Checkbox label"
   },
   "telemetrySettingsCheckboxLabel": {
-    "message": "D\u1eef li\u1ec7u n\u00e0y gi\u00fap ch\u00fang t\u00f4i c\u1ea3i thi\u1ec7n c\u00e1c t\u00ednh n\u0103ng v\u00e0 hi\u1ec7u su\u1ea5t. N\u00f3 bao g\u1ed3m d\u1eef li\u1ec7u v\u1ec1 thi\u1ebft b\u1ecb c\u1ee7a b\u1ea1n, c\u1ea5u h\u00ecnh ph\u1ea7n c\u1ee9ng v\u00e0 c\u00e1ch b\u1ea1n s\u1eed d\u1ee5ng ti\u1ec7n \u00edch m\u1edf r\u1ed9ng Mozilla VPN.",
+    "message": "Dữ liệu này giúp chúng tôi cải thiện các tính năng và hiệu suất. Nó bao gồm dữ liệu về thiết bị của bạn, cấu hình phần cứng và cách bạn sử dụng tiện ích mở rộng Mozilla VPN.",
     "description": "Checkbox label on the settings page"
   },
   "messageSplitTunnelHeader": {
-    "message": "B\u1eadt ch\u1ebf \u0111\u1ed9 b\u1ea3o v\u1ec7 cho Firefox",
+    "message": "Bật chế độ bảo vệ cho Firefox",
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "messageSplitTunnelBody": {
-    "message": "Firefox hi\u1ec7n t\u1ea1i l\u00e0 \u201c\u1ee9ng d\u1ee5ng b\u1ecb lo\u1ea1i tr\u1eeb\u201d trong \u1ee9ng d\u1ee5ng Mozilla VPN. \u0110\u1ec3 s\u1eed d\u1ee5ng ti\u1ec7n \u00edch m\u1edf r\u1ed9ng n\u00e0y, h\u00e3y m\u1edf \u1ee9ng d\u1ee5ng, \u0111i \u0111\u1ebfn C\u00e0i \u0111\u1eb7t v\u00e0 xo\u00e1 Firefox trong danh s\u00e1ch Lo\u1ea1i tr\u1eeb \u1ee9ng d\u1ee5ng.",
+    "message": "Firefox hiện tại là “ứng dụng bị loại trừ” trong ứng dụng Mozilla VPN. Để sử dụng tiện ích mở rộng này, hãy mở ứng dụng, đi đến Cài đặt và xoá Firefox trong danh sách Loại trừ ứng dụng.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "headerSubscriptionNotAvailable": {
-    "message": "G\u00f3i \u0111\u0103ng k\u00fd Mozilla VPN hi\u1ec7n ch\u01b0a c\u00f3 s\u1eb5n \u1edf qu\u1ed1c gia c\u1ee7a b\u1ea1n",
+    "message": "Gói đăng ký Mozilla VPN hiện chưa có sẵn ở quốc gia của bạn",
     "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "bodySubscriptionNotAvailable": {
-    "message": "G\u00f3i \u0111\u0103ng k\u00fd Mozilla VPN hi\u1ec7n ch\u01b0a kh\u1ea3 d\u1ee5ng \u1edf qu\u1ed1c gia c\u1ee7a b\u1ea1n, nh\u01b0ng b\u1ea1n c\u00f3 th\u1ec3 tham gia danh s\u00e1ch ch\u1edd c\u1ee7a ch\u00fang t\u00f4i \u0111\u1ec3 \u0111\u01b0\u1ee3c th\u00f4ng b\u00e1o khi ch\u00fang ra m\u1eaft. N\u1ebfu b\u1ea1n \u0111\u00e3 \u0111\u0103ng k\u00fd, vui l\u00f2ng ti\u1ebfp t\u1ee5c.",
+    "message": "Gói đăng ký Mozilla VPN hiện chưa khả dụng ở quốc gia của bạn, nhưng bạn có thể tham gia danh sách chờ của chúng tôi để được thông báo khi chúng ra mắt. Nếu bạn đã đăng ký, vui lòng tiếp tục.",
     "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnjoinWaitlist": {
-    "message": "Tham gia danh s\u00e1ch ch\u1edd",
+    "message": "Tham gia danh sách chờ",
     "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnContinue": {
-    "message": "Ti\u1ebfp t\u1ee5c",
+    "message": "Tiếp tục",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   },
   "headlineAutoConnectOptions": {
-    "message": "T\u00f9y ch\u1ecdn t\u1ef1 \u0111\u1ed9ng k\u1ebft n\u1ed1i",
+    "message": "Tùy chọn tự động kết nối",
     "description": "Headline for the Auto Connect options"
   },
   "labelDescribeAutoStartOnPBM": {
-    "message": "Lu\u00f4n b\u1eadt VPN khi s\u1eed d\u1ee5ng ch\u1ebf \u0111\u1ed9 duy\u1ec7t web ri\u00eang t\u01b0"
+    "message": "Luôn bật VPN khi sử dụng chế độ duyệt web riêng tư"
   },
   "bodyAutoStartOnPBM": {
-    "message": "\u0110\u1ec3 b\u1eadt t\u00ednh n\u0103ng n\u00e0y, h\u00e3y v\u00e0o menu ti\u1ec7n \u00edch m\u1edf r\u1ed9ng, ch\u1ecdn \u201cTi\u1ec7n \u00edch m\u1edf r\u1ed9ng Mozilla VPN\u201d, v\u00e0 ch\u1ecdn \u201cCho ph\u00e9p\u201d trong m\u1ee5c \u201cCh\u1ea1y trong c\u1eeda s\u1ed5 ri\u00eang t\u01b0\u201d.",
+    "message": "Để bật tính năng này, hãy vào menu tiện ích mở rộng, chọn “Tiện ích mở rộng Mozilla VPN”, và chọn “Cho phép” trong mục “Chạy trong cửa sổ riêng tư”.",
     "description": "Body of the autostart option."
   },
   "labelDescribeAutoStart": {
-    "message": "Lu\u00f4n b\u1eadt VPN khi m\u1edf Firefox",
+    "message": "Luôn bật VPN khi mở Firefox",
     "description": "Description for the autostart checkbox"
   }
 }

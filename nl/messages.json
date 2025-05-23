@@ -79,7 +79,7 @@
   },
   "headlineNoWebsitePreferences": {
     "message": "U hebt nog geen websitevoorkeuren ingesteld",
-    "description": "Headline shown when the user hasn\u2019t set any website preferences."
+    "description": "Headline shown when the user hasn’t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
     "message": "Met de Firefox-extensie kunt u Mozilla VPN-bescherming voor een website uitschakelen of een aangepaste locatie instellen. Bezoek hiervoor een website, open de extensie en werk de websitevoorkeuren bij.",
@@ -156,7 +156,7 @@
   },
   "bodyInstallMsgFooter": {
     "message": "Merk op dat Mozilla VPN een betaalde abonnementsservice is.",
-    "description": "This is a footnote for \u201cbodyInstallMsg\u201d."
+    "description": "This is a footnote for “bodyInstallMsg”."
   },
   "btnDownloadNow": {
     "message": "Nu downloaden",
@@ -167,7 +167,7 @@
   },
   "useDefaultLocationExplainer": {
     "message": "Dezelfde locatie als de Mozilla VPN-app die deze computer beschermt gebruiken.",
-    "description": "Explanation of what \u201cUse default Mozilla VPN Location\u201d means."
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
   },
   "headerUnsupportedOSMessage": {
     "message": "Niet-ondersteund platform."
@@ -215,11 +215,11 @@
     "description": "Body text in onboarding panel."
   },
   "onboarding3_title": {
-    "message": "Bescherming voor Firefox \u2018aan\u2019 houden",
+    "message": "Bescherming voor Firefox ‘aan’ houden",
     "description": "Title in onboarding panel."
   },
   "onboarding3_body": {
-    "message": "Gebruik de extensie om VPN-bescherming voor Firefox in te schakelen \u2013 zelfs wanneer bescherming voor de rest van uw computer is uitgeschakeld.",
+    "message": "Gebruik de extensie om VPN-bescherming voor Firefox in te schakelen – zelfs wanneer bescherming voor de rest van uw computer is uitgeschakeld.",
     "description": "Body text in onboarding panel."
   },
   "next": {
@@ -239,7 +239,7 @@
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "bodyReEnableFirefoxProtection": {
-    "message": "Firefox is momenteel een \u2018uitgezonderde app\u2019 in de Mozilla VPN-toepassing. Open om deze extensie te gebruiken de toepassing, ga naar Instellingen > Uitgezonderde apps en verwijder Firefox.",
+    "message": "Firefox is momenteel een ‘uitgezonderde app’ in de Mozilla VPN-toepassing. Open om deze extensie te gebruiken de toepassing, ga naar Instellingen > Uitgezonderde apps en verwijder Firefox.",
     "description": "Body copy of error panel."
   },
   "settingsPageSubtitle": {
@@ -259,7 +259,7 @@
     "description": "Indicator text describing the status of the VPN."
   },
   "connecting": {
-    "message": "Verbinden\u2026",
+    "message": "Verbinden…",
     "description": "Indicator text describing the status of the VPN."
   },
   "helpCenter": {
@@ -341,7 +341,7 @@
     "description": "Headline for a list describing the type of data collected by the extension"
   },
   "technicalData": {
-    "message": "Technische gegevens, zoals browserversie, extensieversie en foutdetails, zodat we fouten effici\u00ebnt kunnen volgen en oplossen.",
+    "message": "Technische gegevens, zoals browserversie, extensieversie en foutdetails, zodat we fouten efficiënt kunnen volgen en oplossen.",
     "description": "Description of technical data, found on telemetry consent screen."
   },
   "interactionData": {
@@ -365,7 +365,7 @@
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "messageSplitTunnelBody": {
-    "message": "Firefox is momenteel een \u2018uitgezonderde app\u2019 in de Mozilla VPN-toepassing. Open om deze extensie te gebruiken de toepassing, ga naar Instellingen > Uitgezonderde apps en verwijder Firefox.",
+    "message": "Firefox is momenteel een ‘uitgezonderde app’ in de Mozilla VPN-toepassing. Open om deze extensie te gebruiken de toepassing, ga naar Instellingen > Uitgezonderde apps en verwijder Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "headerSubscriptionNotAvailable": {
@@ -389,10 +389,10 @@
     "description": "Headline for the Auto Connect options"
   },
   "labelDescribeAutoStartOnPBM": {
-    "message": "VPN altijd inschakelen bij gebruik van priv\u00e9navigatiemodus"
+    "message": "VPN altijd inschakelen bij gebruik van privénavigatiemodus"
   },
   "bodyAutoStartOnPBM": {
-    "message": "Ga om dit in te schakelen naar het add-onsmenu, selecteer \u2018Mozilla VPN Extension\u2019 en selecteer \u2018Toestaan\u2019 bij \u2018Uitvoeren in priv\u00e9vensters\u2019.",
+    "message": "Ga om dit in te schakelen naar het add-onsmenu, selecteer ‘Mozilla VPN Extension’ en selecteer ‘Toestaan’ bij ‘Uitvoeren in privévensters’.",
     "description": "Body of the autostart option."
   },
   "labelDescribeAutoStart": {

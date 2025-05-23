@@ -1,18 +1,18 @@
 {
   "extensionName": {
-    "message": "\u0395\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7 Mozilla VPN",
+    "message": "Επέκταση Mozilla VPN",
     "description": "Name of the extension."
   },
   "close": {
-    "message": "\u039a\u03bb\u03b5\u03af\u03c3\u03b9\u03bc\u03bf",
+    "message": "Κλείσιμο",
     "description": "Alt label text for an X icon button in alert."
   },
   "extensionDescription": {
-    "message": "\u0395\u03bd\u03c3\u03c9\u03bc\u03ac\u03c4\u03c9\u03c3\u03b7 \u03c4\u03bf\u03c5 VPN \u03c3\u03c4\u03bf Firefox: \u03b5\u03be\u03b1\u03b9\u03c1\u03ad\u03c3\u03c4\u03b5 \u03ba\u03b1\u03c1\u03c4\u03ad\u03bb\u03b5\u03c2, \u03ba\u03b1\u03b8\u03bf\u03c1\u03af\u03c3\u03c4\u03b5 \u03c4\u03bf\u03c0\u03bf\u03b8\u03b5\u03c3\u03af\u03b5\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03c9\u03bd \u03ba\u03b1\u03b9 \u03c0\u03bf\u03bb\u03bb\u03ac \u03ac\u03bb\u03bb\u03b1!",
+    "message": "Ενσωμάτωση του VPN στο Firefox: εξαιρέστε καρτέλες, καθορίστε τοποθεσίες ιστοτόπων και πολλά άλλα!",
     "description": "Description of the extension."
   },
   "back": {
-    "message": "\u03a0\u03af\u03c3\u03c9",
+    "message": "Πίσω",
     "description": "Alternative text attribute for back button."
   },
   "productName": {
@@ -20,19 +20,19 @@
     "description": "Name of the product."
   },
   "titleServerList": {
-    "message": "\u03a4\u03bf\u03c0\u03bf\u03b8\u03b5\u03c3\u03af\u03b1 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03bf\u03c5",
+    "message": "Τοποθεσία ιστοτόπου",
     "description": "Title for a dialog where users can set the location for a website."
   },
   "selectWebsiteLocation": {
-    "message": "\u0395\u03c0\u03b9\u03bb\u03ad\u03be\u03c4\u03b5 \u03c4\u03bf\u03c0\u03bf\u03b8\u03b5\u03c3\u03af\u03b1 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03bf\u03c5",
+    "message": "Επιλέξτε τοποθεσία ιστοτόπου",
     "description": "Button label."
   },
   "titlePageSettings": {
-    "message": "\u03a0\u03c1\u03bf\u03c4\u03b9\u03bc\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03bf\u03c5",
+    "message": "Προτιμήσεις ιστοτόπου",
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
   "excludePageFor": {
-    "message": "\u03a0\u03ac\u03bd\u03c4\u03b1 \u03b1\u03c0\u03b5\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1\u03c2 VPN \u03b3\u03b9\u03b1 \u03c4\u03bf $ORIGIN$",
+    "message": "Πάντα απενεργοποίηση της προστασίας VPN για το $ORIGIN$",
     "description": "Setting to exclude a website from VPN.",
     "placeholders": {
       "ORIGIN": {
@@ -42,51 +42,51 @@
     }
   },
   "resetPageSettings": {
-    "message": "\u0395\u03c0\u03b1\u03bd\u03b1\u03c6\u03bf\u03c1\u03ac \u03c0\u03c1\u03bf\u03c4\u03b9\u03bc\u03ae\u03c3\u03b5\u03c9\u03bd \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03bf\u03c5",
+    "message": "Επαναφορά προτιμήσεων ιστοτόπου",
     "description": "Button text to reset all site specific settings."
   },
   "vpnIsOn": {
-    "message": "\u0397 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 VPN \u03b3\u03b9\u03b1 \u03c4\u03bf Firefox \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03bd\u03b5\u03c1\u03b3\u03ae",
+    "message": "Η προστασία VPN για το Firefox είναι ενεργή",
     "description": "Header to signal that VPN connection is enabled."
   },
   "vpnIsOff": {
-    "message": "\u0397 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 VPN \u03b3\u03b9\u03b1 \u03c4\u03bf Firefox \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bd\u03b5\u03c1\u03b3\u03ae",
+    "message": "Η προστασία VPN για το Firefox είναι ανενεργή",
     "description": "Header to signal that VPN connection is disabled."
   },
   "extensionVpnIsOff": {
-    "message": "\u03a4\u03bf Mozilla VPN \u03b5\u03be\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03b5\u03af \u03bd\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03bd\u03b5\u03c1\u03b3\u03cc \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03c4\u03bf\u03bd \u03c5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ae \u03c3\u03b1\u03c2.",
+    "message": "Το Mozilla VPN εξακολουθεί να είναι ενεργό και να προστατεύει τον υπολογιστή σας.",
     "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
   },
   "vpnOffStatus": {
-    "message": "\u0391\u03bd\u03b5\u03bd\u03b5\u03c1\u03b3\u03cc",
+    "message": "Ανενεργό",
     "description": "Label indicating that the VPN is off."
   },
   "vpnOnStatus": {
-    "message": "\u0395\u03bd\u03b5\u03c1\u03b3\u03cc",
+    "message": "Ενεργό",
     "description": "Label indicating that the VPN is on."
   },
   "placeholderSearchWebsites": {
-    "message": "\u0391\u03bd\u03b1\u03b6\u03ae\u03c4\u03b7\u03c3\u03b7 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03c9\u03bd",
+    "message": "Αναζήτηση ιστοτόπων",
     "description": "Placeholder text for the search input field to search websites."
   },
   "tableHeadingWebsite": {
-    "message": "\u0399\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf\u03c2",
+    "message": "Ιστότοπος",
     "description": "Table heading for the column listing websites."
   },
   "tableHeadingVpnStatus": {
-    "message": "\u03a0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03bf\u03c5",
+    "message": "Προστασία ιστοτόπου",
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   },
   "headlineNoWebsitePreferences": {
-    "message": "\u0394\u03b5\u03bd \u03ad\u03c7\u03b5\u03c4\u03b5 \u03bf\u03c1\u03af\u03c3\u03b5\u03b9 \u03b1\u03ba\u03cc\u03bc\u03b1 \u03c0\u03c1\u03bf\u03c4\u03b9\u03bc\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03c9\u03bd",
-    "description": "Headline shown when the user hasn\u2019t set any website preferences."
+    "message": "Δεν έχετε ορίσει ακόμα προτιμήσεις ιστοτόπων",
+    "description": "Headline shown when the user hasn’t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
-    "message": "\u039c\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03bf Firefox, \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03b1\u03c0\u03b5\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03c4\u03b5 \u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03c4\u03bf\u03c5 Mozilla VPN \u03b3\u03b9\u03b1 \u03ad\u03bd\u03b1\u03bd \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf \u03ae \u03bd\u03b1 \u03bf\u03c1\u03af\u03c3\u03b5\u03c4\u03b5 \u03bc\u03b9\u03b1 \u03c0\u03c1\u03bf\u03c3\u03b1\u03c1\u03bc\u03bf\u03c3\u03bc\u03ad\u03bd\u03b7 \u03c4\u03bf\u03c0\u03bf\u03b8\u03b5\u03c3\u03af\u03b1. \u0393\u03b9\u03b1 \u03bd\u03b1 \u03c4\u03bf \u03ba\u03ac\u03bd\u03b5\u03c4\u03b5 \u03b1\u03c5\u03c4\u03cc, \u03b5\u03c0\u03b9\u03c3\u03ba\u03b5\u03c6\u03c4\u03b5\u03af\u03c4\u03b5 \u03ad\u03bd\u03b1\u03bd \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf, \u03b1\u03bd\u03bf\u03af\u03be\u03c4\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7 \u03ba\u03b1\u03b9 \u03c4\u03c1\u03bf\u03c0\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03c4\u03b5 \u03c4\u03b9\u03c2 \u03c0\u03c1\u03bf\u03c4\u03b9\u03bc\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c4\u03bf\u03c5 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03bf\u03c5.",
+    "message": "Με την επέκταση για το Firefox, μπορείτε να απενεργοποιήσετε την προστασία του Mozilla VPN για έναν ιστότοπο ή να ορίσετε μια προσαρμοσμένη τοποθεσία. Για να το κάνετε αυτό, επισκεφτείτε έναν ιστότοπο, ανοίξτε την επέκταση και τροποποιήστε τις προτιμήσεις του ιστοτόπου.",
     "description": "Subtext shown when there are no website preferences set by the user."
   },
   "altTextRemoveWebsiteButton": {
-    "message": "\u039a\u03b1\u03c4\u03ac\u03c1\u03b3\u03b7\u03c3\u03b7 \u03ba\u03b1\u03bd\u03cc\u03bd\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03bf $ORIGIN$",
+    "message": "Κατάργηση κανόνα για το $ORIGIN$",
     "description": "Alternative text for the button that removes a website rule from the list of preferences.",
     "placeholders": {
       "ORIGIN": {
@@ -96,190 +96,190 @@
     }
   },
   "altTextOpenSettingsPage": {
-    "message": "\u0386\u03bd\u03bf\u03b9\u03b3\u03bc\u03b1 \u03c3\u03b5\u03bb\u03af\u03b4\u03b1\u03c2 \u03c1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03c9\u03bd",
+    "message": "Άνοιγμα σελίδας ρυθμίσεων",
     "description": "Alternative text for the button that opens the Extensions Settings page."
   },
   "searchServer": {
-    "message": "\u0391\u03bd\u03b1\u03b6\u03ae\u03c4\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c0\u03bf\u03b8\u03b5\u03c3\u03b9\u03ce\u03bd",
+    "message": "Αναζήτηση τοποθεσιών",
     "description": "Placeholder for the Input field where users can search the list of servers."
   },
   "titleSubscribeNow": {
-    "message": "\u0395\u03b3\u03b3\u03c1\u03b1\u03c6\u03b5\u03af\u03c4\u03b5 \u03c3\u03c4\u03bf Mozilla VPN."
+    "message": "Εγγραφείτε στο Mozilla VPN."
   },
   "bodySubscribeNow2": {
-    "message": "\u0394\u03b5\u03bd \u03bc\u03c0\u03bf\u03c1\u03ad\u03c3\u03b1\u03bc\u03b5 \u03bd\u03b1 \u03b2\u03c1\u03bf\u03cd\u03bc\u03b5 \u03c3\u03c5\u03bd\u03b4\u03c1\u03bf\u03bc\u03ae \u03c0\u03bf\u03c5 \u03bd\u03b1 \u03ad\u03c7\u03b5\u03b9 \u03c3\u03c5\u03bd\u03b4\u03b5\u03b8\u03b5\u03af \u03bc\u03b5 \u03c4\u03bf\u03bd \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc \u03c0\u03bf\u03c5 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b1\u03c4\u03b5 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae Mozilla VPN.",
+    "message": "Δεν μπορέσαμε να βρούμε συνδρομή που να έχει συνδεθεί με τον λογαριασμό που χρησιμοποιήσατε για τη σύνδεση στην εφαρμογή Mozilla VPN.",
     "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
   },
   "footerSubscribeNow": {
-    "message": "\u0393\u03b9\u03b1 \u03bd\u03b1 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03c4\u03b5 \u03b1\u03c5\u03c4\u03ae\u03bd \u03c4\u03b7\u03bd \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7, \u03ba\u03ac\u03bd\u03c4\u03b5 \u03b5\u03b3\u03b3\u03c1\u03b1\u03c6\u03ae.",
+    "message": "Για να χρησιμοποιήσετε αυτήν την επέκταση, κάντε εγγραφή.",
     "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
   },
   "btnSubscribeNow": {
-    "message": "\u0395\u03b3\u03b3\u03c1\u03b1\u03c6\u03ae \u03c4\u03ce\u03c1\u03b1",
+    "message": "Εγγραφή τώρα",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
   },
   "getHelp": {
-    "message": "\u039b\u03ae\u03c8\u03b7 \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1\u03c2",
+    "message": "Λήψη βοήθειας",
     "description": "Text of a link pointing to a relevant help page."
   },
   "headerOpenMozillaVPN": {
-    "message": "\u0386\u03bd\u03bf\u03b9\u03b3\u03bc\u03b1 \u03c4\u03bf\u03c5 Mozilla VPN",
+    "message": "Άνοιγμα του Mozilla VPN",
     "description": "Headline."
   },
   "headerSignedOut": {
-    "message": "\u03a3\u03c5\u03bd\u03b4\u03b5\u03b8\u03b5\u03af\u03c4\u03b5 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 Mozilla VPN."
+    "message": "Συνδεθείτε στην εφαρμογή του Mozilla VPN."
   },
   "bodySignedOut": {
-    "message": "\u0391\u03c5\u03c4\u03ae\u03bd \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae, \u03ad\u03c7\u03b5\u03c4\u03b5 \u03b1\u03c0\u03bf\u03c3\u03c5\u03bd\u03b4\u03b5\u03b8\u03b5\u03af \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 Mozilla VPN. \u0393\u03b9\u03b1 \u03bd\u03b1 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03c4\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 Mozilla VPN \u03c3\u03c4\u03bf Firefox, \u03b1\u03bd\u03bf\u03af\u03be\u03c4\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c3\u03c4\u03bf\u03bd \u03c5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ae \u03c3\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c3\u03c5\u03bd\u03b4\u03b5\u03b8\u03b5\u03af\u03c4\u03b5 \u03c3\u03c4\u03bf\u03bd \u03bb\u03bf\u03b3\u03b1\u03c1\u03b9\u03b1\u03c3\u03bc\u03cc \u03c3\u03b1\u03c2."
+    "message": "Αυτήν τη στιγμή, έχετε αποσυνδεθεί από την εφαρμογή του Mozilla VPN. Για να χρησιμοποιήσετε την επέκταση του Mozilla VPN στο Firefox, ανοίξτε την εφαρμογή στον υπολογιστή σας και συνδεθείτε στον λογαριασμό σας."
   },
   "btnOpenVpn": {
-    "message": "\u0391\u03bd\u03bf\u03af\u03be\u03c4\u03b5 \u03c4\u03bf Mozilla VPN."
+    "message": "Ανοίξτε το Mozilla VPN."
   },
   "headerNeedsUpdate": {
-    "message": "\u0395\u03bd\u03b7\u03bc\u03ad\u03c1\u03c9\u03c3\u03b7 \u03c4\u03bf\u03c5 Mozilla VPN",
+    "message": "Ενημέρωση του Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
   "bodyNeedsUpdate2": {
-    "message": "\u0393\u03b9\u03b1 \u03bd\u03b1 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03c4\u03b5 \u03b1\u03c5\u03c4\u03ae\u03bd \u03c4\u03b7\u03bd \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7, \u03ba\u03ac\u03bd\u03c4\u03b5 \u03c0\u03c1\u03ce\u03c4\u03b1 \u03bb\u03ae\u03c8\u03b7 \u03ba\u03b1\u03b9 \u03b5\u03b3\u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c4\u03b7\u03c2 \u03c0\u03b9\u03bf \u03c0\u03c1\u03cc\u03c3\u03c6\u03b1\u03c4\u03b7\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae\u03c2 \u03c4\u03bf\u03c5 Mozilla VPN.",
+    "message": "Για να χρησιμοποιήσετε αυτήν την επέκταση, κάντε πρώτα λήψη και εγκατάσταση της πιο πρόσφατης εφαρμογής του Mozilla VPN.",
     "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
-    "message": "\u0395\u03b3\u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 Mozilla VPN",
+    "message": "Εγκατάσταση του Mozilla VPN",
     "description": "Header if a VPN installation was not found."
   },
   "bodyOpenMsg": {
-    "message": "\u0393\u03b9\u03b1 \u03bd\u03b1 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03c4\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 Mozilla VPN \u03c3\u03c4\u03bf Firefox, \u03b1\u03bd\u03bf\u03af\u03be\u03c4\u03b5 \u03c0\u03c1\u03ce\u03c4\u03b1 \u03c4\u03b7\u03bd \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 Mozilla VPN.",
+    "message": "Για να χρησιμοποιήσετε την επέκταση του Mozilla VPN στο Firefox, ανοίξτε πρώτα την εφαρμογή του Mozilla VPN.",
     "description": "Popup subtitle text."
   },
   "bodyInstallMsg": {
-    "message": "\u0393\u03b9\u03b1 \u03bd\u03b1 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03c4\u03b5 \u03b1\u03c5\u03c4\u03ae\u03bd \u03c4\u03b7\u03bd \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7, \u03ba\u03ac\u03bd\u03c4\u03b5 \u03c0\u03c1\u03ce\u03c4\u03b1 \u03bb\u03ae\u03c8\u03b7 \u03ba\u03b1\u03b9 \u03b5\u03b3\u03ba\u03b1\u03c4\u03ac\u03c3\u03c4\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 Mozilla VPN \u03c3\u03c4\u03bf\u03bd \u03c5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ae \u03c3\u03b1\u03c2."
+    "message": "Για να χρησιμοποιήσετε αυτήν την επέκταση, κάντε πρώτα λήψη και εγκατάσταση του Mozilla VPN στον υπολογιστή σας."
   },
   "bodyInstallMsgFooter": {
-    "message": "\u03a3\u03b7\u03bc\u03b5\u03b9\u03ce\u03c3\u03c4\u03b5 \u03cc\u03c4\u03b9 \u03c4\u03bf Mozilla VPN \u03b5\u03af\u03bd\u03b1\u03b9 \u03bc\u03b9\u03b1 \u03c3\u03c5\u03bd\u03b4\u03c1\u03bf\u03bc\u03b7\u03c4\u03b9\u03ba\u03ae \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03af\u03b1 \u03b5\u03c0\u03af \u03c0\u03bb\u03b7\u03c1\u03c9\u03bc\u03ae.",
-    "description": "This is a footnote for \u201cbodyInstallMsg\u201d."
+    "message": "Σημειώστε ότι το Mozilla VPN είναι μια συνδρομητική υπηρεσία επί πληρωμή.",
+    "description": "This is a footnote for “bodyInstallMsg”."
   },
   "btnDownloadNow": {
-    "message": "\u039b\u03ae\u03c8\u03b7 \u03c4\u03ce\u03c1\u03b1",
+    "message": "Λήψη τώρα",
     "description": "This is a call to action button to download the VPN."
   },
   "defaultLocationHeader": {
-    "message": "\u03a7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03c4\u03b5 \u03c4\u03b7\u03bd \u03c4\u03bf\u03c0\u03bf\u03b8\u03b5\u03c3\u03af\u03b1 \u03c4\u03bf\u03c5 Mozilla VPN."
+    "message": "Χρησιμοποιήστε την τοποθεσία του Mozilla VPN."
   },
   "useDefaultLocationExplainer": {
-    "message": "\u03a7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03c4\u03b5 \u03c4\u03b7\u03bd \u03af\u03b4\u03b9\u03b1 \u03c4\u03bf\u03c0\u03bf\u03b8\u03b5\u03c3\u03af\u03b1 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 Mozilla VPN \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c4\u03b5\u03cd\u03b5\u03b9 \u03b1\u03c5\u03c4\u03cc\u03bd \u03c4\u03bf\u03bd \u03c5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ae.",
-    "description": "Explanation of what \u201cUse default Mozilla VPN Location\u201d means."
+    "message": "Χρησιμοποιήστε την ίδια τοποθεσία με την εφαρμογή του Mozilla VPN που προστατεύει αυτόν τον υπολογιστή.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
   },
   "headerUnsupportedOSMessage": {
-    "message": "\u039c\u03b7 \u03c5\u03c0\u03bf\u03c3\u03c4\u03b7\u03c1\u03b9\u03b6\u03cc\u03bc\u03b5\u03bd\u03b7 \u03c0\u03bb\u03b1\u03c4\u03c6\u03cc\u03c1\u03bc\u03b1."
+    "message": "Μη υποστηριζόμενη πλατφόρμα."
   },
   "bodyUnsupportedOSMessage": {
-    "message": "\u03a0\u03c1\u03bf\u03c2 \u03c4\u03bf \u03c0\u03b1\u03c1\u03cc\u03bd, \u03b7 \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 Mozilla VPN \u03b5\u03af\u03bd\u03b1\u03b9 \u03b4\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03b7 \u03bc\u03cc\u03bd\u03bf \u03c3\u03b5 \u03c3\u03c5\u03c3\u03ba\u03b5\u03c5\u03ad\u03c2 \u03bc\u03b5 Windows."
+    "message": "Προς το παρόν, η επέκταση του Mozilla VPN είναι διαθέσιμη μόνο σε συσκευές με Windows."
   },
   "footnoteUnsupportedOSMessage": {
-    "message": "\u0395\u03c1\u03b3\u03b1\u03b6\u03cc\u03bc\u03b1\u03c3\u03c4\u03b5 \u03ce\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03c6\u03ad\u03c1\u03bf\u03c5\u03bc\u03b5 \u03c3\u03cd\u03bd\u03c4\u03bf\u03bc\u03b1 \u03c5\u03c0\u03bf\u03c3\u03c4\u03ae\u03c1\u03b9\u03be\u03b7 \u03b3\u03b9\u03b1 macOS \u03ba\u03b1\u03b9 Linux!"
+    "message": "Εργαζόμαστε ώστε να προσφέρουμε σύντομα υποστήριξη για macOS και Linux!"
   },
   "turnOnProtection": {
-    "message": "\u0395\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1\u03c2",
+    "message": "Ενεργοποίηση προστασίας",
     "description": "Button label."
   },
   "removeCustomLocation": {
-    "message": "\u039a\u03b1\u03c4\u03ac\u03c1\u03b3\u03b7\u03c3\u03b7 \u03c0\u03c1\u03bf\u03c3\u03b1\u03c1\u03bc\u03bf\u03c3\u03bc\u03ad\u03bd\u03b7\u03c2 \u03c4\u03bf\u03c0\u03bf\u03b8\u03b5\u03c3\u03af\u03b1\u03c2",
+    "message": "Κατάργηση προσαρμοσμένης τοποθεσίας",
     "description": "Button label."
   },
   "websiteProtection": {
-    "message": "\u03a0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03bf\u03c5",
+    "message": "Προστασία ιστοτόπου",
     "description": "A subtitle that is followed by an off icon and the word 'Off'."
   },
   "giveFeedback": {
-    "message": "\u0391\u03c0\u03bf\u03c3\u03c4\u03bf\u03bb\u03ae \u03c3\u03c7\u03bf\u03bb\u03af\u03c9\u03bd",
+    "message": "Αποστολή σχολίων",
     "description": "Button label."
   },
   "learnMore": {
-    "message": "\u039c\u03ac\u03b8\u03b5\u03c4\u03b5 \u03c0\u03b5\u03c1\u03b9\u03c3\u03c3\u03cc\u03c4\u03b5\u03c1\u03b1",
+    "message": "Μάθετε περισσότερα",
     "description": "Label of link that leads to SUMO."
   },
   "onboarding1_title": {
-    "message": "\u0391\u03c0\u03b5\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03c4\u03b5 \u03c4\u03bf VPN \u03b3\u03b9\u03b1 \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03bf\u03c5\u03c2",
+    "message": "Απενεργοποιήστε το VPN για συγκεκριμένους ιστοτόπους",
     "description": "Title in onboarding panel."
   },
   "onboarding1_body": {
-    "message": "\u039c\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03c4\u03bf Firefox, \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03b1\u03c0\u03b5\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03c4\u03b5 \u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 VPN \u03b3\u03b9\u03b1 \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03bf\u03c5\u03c2, \u03b4\u03b9\u03b1\u03c4\u03b7\u03c1\u03ce\u03bd\u03c4\u03b1\u03c2 \u03c4\u03b7\u03bd \u03b5\u03bd\u03b5\u03c1\u03b3\u03ae \u03b3\u03b9\u03b1 \u03bf\u03c4\u03b9\u03b4\u03ae\u03c0\u03bf\u03c4\u03b5 \u03ac\u03bb\u03bb\u03bf.",
+    "message": "Με την επέκταση για το Firefox, μπορείτε να απενεργοποιήσετε την προστασία VPN για συγκεκριμένους ιστοτόπους, διατηρώντας την ενεργή για οτιδήποτε άλλο.",
     "description": "Body text in onboarding panel."
   },
   "onboarding2_title": {
-    "message": "\u0394\u03b5\u03af\u03c4\u03b5 \u03b4\u03b9\u03ac\u03c6\u03bf\u03c1\u03bf\u03c5\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03bf\u03c5\u03c2 \u03b1\u03c0\u03cc \u03b4\u03b9\u03b1\u03c6\u03bf\u03c1\u03b5\u03c4\u03b9\u03ba\u03ad\u03c2 \u03c4\u03bf\u03c0\u03bf\u03b8\u03b5\u03c3\u03af\u03b5\u03c2",
+    "message": "Δείτε διάφορους ιστοτόπους από διαφορετικές τοποθεσίες",
     "description": "Title in onboarding panel."
   },
   "onboarding2_body": {
-    "message": "\u0395\u03b9\u03b4\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf \u039b\u03bf\u03bd\u03b4\u03af\u03bd\u03bf. \u0391\u03b8\u03bb\u03b7\u03c4\u03b9\u03c3\u03bc\u03cc\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf \u03a3\u03ac\u03bf \u03a0\u03ac\u03bf\u03bb\u03bf. \u0391\u03b3\u03bf\u03c1\u03ad\u03c2 \u03b1\u03c0\u03cc \u03c4\u03bf \u03a4\u03cc\u03ba\u03b9\u03bf. \u039f\u03c1\u03af\u03c3\u03c4\u03b5 \u03c4\u03b7\u03bd \u03c4\u03bf\u03c0\u03bf\u03b8\u03b5\u03c3\u03af\u03b1 \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03c9\u03bd \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03c9\u03bd \u03b3\u03b9\u03b1 \u03b5\u03be\u03b1\u03c4\u03bf\u03bc\u03b9\u03ba\u03b5\u03c5\u03bc\u03ad\u03bd\u03b7 \u03c0\u03b5\u03c1\u03b9\u03ae\u03b3\u03b7\u03c3\u03b7.",
+    "message": "Ειδήσεις από το Λονδίνο. Αθλητισμός από το Σάο Πάολο. Αγορές από το Τόκιο. Ορίστε την τοποθεσία συγκεκριμένων ιστοτόπων για εξατομικευμένη περιήγηση.",
     "description": "Body text in onboarding panel."
   },
   "onboarding3_title": {
-    "message": "\u0394\u03b9\u03b1\u03c4\u03b7\u03c1\u03ae\u03c3\u03c4\u03b5 \u00ab\u03b5\u03bd\u03b5\u03c1\u03b3\u03ae\u00bb \u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03c4\u03bf\u03c5 Firefox",
+    "message": "Διατηρήστε «ενεργή» την προστασία του Firefox",
     "description": "Title in onboarding panel."
   },
   "onboarding3_body": {
-    "message": "\u03a7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03c4\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b5\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03c4\u03b5 \u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 VPN \u03b3\u03b9\u03b1 \u03c4\u03bf Firefox, \u03b1\u03ba\u03cc\u03bc\u03b1 \u03ba\u03b9 \u03cc\u03c4\u03b1\u03bd \u03b7 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bd\u03b5\u03c1\u03b3\u03ae \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03c5\u03c0\u03cc\u03bb\u03bf\u03b9\u03c0\u03bf \u03c5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ae \u03c3\u03b1\u03c2.",
+    "message": "Χρησιμοποιήστε την επέκταση για να ενεργοποιήσετε την προστασία VPN για το Firefox, ακόμα κι όταν η προστασία είναι ανενεργή για τον υπόλοιπο υπολογιστή σας.",
     "description": "Body text in onboarding panel."
   },
   "next": {
-    "message": "\u0395\u03c0\u03cc\u03bc\u03b5\u03bd\u03bf",
+    "message": "Επόμενο",
     "description": "Label of button to progress to next onboarding panel."
   },
   "skip": {
-    "message": "\u03a0\u03b1\u03c1\u03ac\u03bb\u03b5\u03b9\u03c8\u03b7",
+    "message": "Παράλειψη",
     "description": "Label of button to skip onboarding."
   },
   "done": {
-    "message": "\u03a4\u03ad\u03bb\u03bf\u03c2",
+    "message": "Τέλος",
     "description": "Label of button in final onboarding panel."
   },
   "headerReEnableFirefoxProtection": {
-    "message": "\u0395\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03c4\u03b5 \u03be\u03b1\u03bd\u03ac \u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 \u03c4\u03bf\u03c5 Firefox",
+    "message": "Ενεργοποιήστε ξανά την προστασία του Firefox",
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "bodyReEnableFirefoxProtection": {
-    "message": "\u0391\u03c5\u03c4\u03ae\u03bd \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae, \u03c4\u03bf Firefox \u03ad\u03c7\u03b5\u03b9 \u03bf\u03c1\u03b9\u03c3\u03c4\u03b5\u03af \u03c9\u03c2 \u00ab\u03b5\u03be\u03b1\u03b9\u03c1\u03bf\u03cd\u03bc\u03b5\u03bd\u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae\u00bb \u03c3\u03c4\u03b7\u03bd \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 Mozilla VPN. \u0393\u03b9\u03b1 \u03bd\u03b1 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03c4\u03b5 \u03b1\u03c5\u03c4\u03ae\u03bd \u03c4\u03b7\u03bd \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7, \u03b1\u03bd\u03bf\u03af\u03be\u03c4\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae, \u03bc\u03b5\u03c4\u03b1\u03b2\u03b5\u03af\u03c4\u03b5 \u03c3\u03c4\u03b9\u03c2 \u03a1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03b9\u03c2 > \u0395\u03be\u03b1\u03b9\u03c1\u03bf\u03cd\u03bc\u03b5\u03bd\u03b5\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ad\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03c6\u03b1\u03b9\u03c1\u03ad\u03c3\u03c4\u03b5 \u03c4\u03bf Firefox.",
+    "message": "Αυτήν τη στιγμή, το Firefox έχει οριστεί ως «εξαιρούμενη εφαρμογή» στην εφαρμογή του Mozilla VPN. Για να χρησιμοποιήσετε αυτήν την επέκταση, ανοίξτε την εφαρμογή, μεταβείτε στις Ρυθμίσεις > Εξαιρούμενες εφαρμογές και αφαιρέστε το Firefox.",
     "description": "Body copy of error panel."
   },
   "settingsPageSubtitle": {
-    "message": "\u0393\u03b9\u03b1 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03c3\u03b8\u03ad\u03c3\u03b5\u03c4\u03b5 \u03ae \u03bd\u03b1 \u03b1\u03bb\u03bb\u03ac\u03be\u03b5\u03c4\u03b5 \u03c4\u03b9\u03c2 \u03c0\u03c1\u03bf\u03c4\u03b9\u03bc\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b5\u03bd\u03cc\u03c2 \u03c3\u03c5\u03b3\u03ba\u03b5\u03ba\u03c1\u03b9\u03bc\u03ad\u03bd\u03bf\u03c5 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03bf\u03c5, \u03b5\u03c0\u03b9\u03c3\u03ba\u03b5\u03c6\u03c4\u03b5\u03af\u03c4\u03b5 \u03c4\u03bf\u03bd \u03ba\u03b1\u03b9 \u03b1\u03bd\u03bf\u03af\u03be\u03c4\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 Mozilla VPN \u03c3\u03c4\u03bf Firefox. \u0388\u03c0\u03b5\u03b9\u03c4\u03b1, \u03bf\u03c1\u03af\u03c3\u03c4\u03b5 \u03c4\u03b9\u03c2 \u03c0\u03c1\u03bf\u03c4\u03b9\u03bc\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf\u03bd \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf. \u039f\u03b9 \u03c0\u03c1\u03bf\u03c4\u03b9\u03bc\u03ae\u03c3\u03b5\u03b9\u03c2 \u03c3\u03b1\u03c2 \u03b9\u03c3\u03c7\u03cd\u03bf\u03c5\u03bd \u03bc\u03cc\u03bd\u03bf \u03cc\u03c4\u03b1\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b5\u03bd\u03b5\u03c1\u03b3\u03ae \u03b7 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 VPN \u03b3\u03b9\u03b1 \u03c4\u03bf Firefox.",
+    "message": "Για να προσθέσετε ή να αλλάξετε τις προτιμήσεις ενός συγκεκριμένου ιστοτόπου, επισκεφτείτε τον και ανοίξτε την επέκταση του Mozilla VPN στο Firefox. Έπειτα, ορίστε τις προτιμήσεις για τον ιστότοπο. Οι προτιμήσεις σας ισχύουν μόνο όταν είναι ενεργή η προστασία VPN για το Firefox.",
     "description": "Subtitle in the settings page."
   },
   "settingsPageTitle": {
-    "message": "\u03a0\u03c1\u03bf\u03c4\u03b9\u03bc\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03c9\u03bd Mozilla VPN",
+    "message": "Προτιμήσεις ιστοτόπων Mozilla VPN",
     "description": "Title for settings page tab."
   },
   "noSignal": {
-    "message": "\u03a7\u03c9\u03c1\u03af\u03c2 \u03c3\u03ae\u03bc\u03b1",
+    "message": "Χωρίς σήμα",
     "description": "Indicator text describing the status of the VPN."
   },
   "unstable": {
-    "message": "\u0391\u03c3\u03c4\u03b1\u03b8\u03ad\u03c2",
+    "message": "Ασταθές",
     "description": "Indicator text describing the status of the VPN."
   },
   "connecting": {
-    "message": "\u03a3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7\u2026",
+    "message": "Σύνδεση…",
     "description": "Indicator text describing the status of the VPN."
   },
   "helpCenter": {
-    "message": "\u039a\u03ad\u03bd\u03c4\u03c1\u03bf \u03b2\u03bf\u03ae\u03b8\u03b5\u03b9\u03b1\u03c2",
+    "message": "Κέντρο βοήθειας",
     "description": "Link title."
   },
   "websitePreferences": {
-    "message": "\u03a0\u03c1\u03bf\u03c4\u03b9\u03bc\u03ae\u03c3\u03b5\u03b9\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03c9\u03bd",
+    "message": "Προτιμήσεις ιστοτόπων",
     "description": "Link title."
   },
   "contactSupport": {
-    "message": "\u0395\u03c0\u03b9\u03ba\u03bf\u03b9\u03bd\u03c9\u03bd\u03af\u03b1 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03c5\u03c0\u03bf\u03c3\u03c4\u03ae\u03c1\u03b9\u03be\u03b7",
+    "message": "Επικοινωνία με την υποστήριξη",
     "description": "Link title."
   },
   "offForWebsite": {
-    "message": "\u03a4\u03bf Mozilla VPN \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03bd\u03b5\u03bd\u03b5\u03c1\u03b3\u03cc \u03b3\u03b9\u03b1 \u03b1\u03c5\u03c4\u03cc\u03bd \u03c4\u03bf\u03bd \u03b9\u03c3\u03c4\u03cc\u03c4\u03bf\u03c0\u03bf",
+    "message": "Το Mozilla VPN είναι ανενεργό για αυτόν τον ιστότοπο",
     "description": "Aria label."
   },
   "websiteLocationLabel": {
-    "message": "$SERVERLOCATION$: \u03a4\u03bf\u03c0\u03bf\u03b8\u03b5\u03c3\u03af\u03b1 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03bf\u03c5 Mozilla VPN",
+    "message": "$SERVERLOCATION$: Τοποθεσία ιστοτόπου Mozilla VPN",
     "description": "Aria label for a flag icon representing the location of the VPN server",
     "placeholders": {
       "SERVERLOCATION": {
@@ -289,114 +289,114 @@
     }
   },
   "alert_conflictingProgram": {
-    "message": "\u0388\u03bd\u03b1 \u03c0\u03c1\u03cc\u03b3\u03c1\u03b1\u03bc\u03bc\u03b1 \u03c3\u03c4\u03bf\u03bd \u03c5\u03c0\u03bf\u03bb\u03bf\u03b3\u03b9\u03c3\u03c4\u03ae \u03c3\u03b1\u03c2 \u03b5\u03bd\u03b4\u03ad\u03c7\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03c0\u03c1\u03bf\u03ba\u03b1\u03bb\u03b5\u03af \u03c0\u03c1\u03bf\u03b2\u03bb\u03ae\u03bc\u03b1\u03c4\u03b1 \u03bc\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 Mozilla VPN.",
+    "message": "Ένα πρόγραμμα στον υπολογιστή σας ενδέχεται να προκαλεί προβλήματα με την επέκταση του Mozilla VPN.",
     "description": "Banner alert"
   },
   "howToFix": {
-    "message": "\u03a4\u03c1\u03cc\u03c0\u03bf\u03b9 \u03b4\u03b9\u03cc\u03c1\u03b8\u03c9\u03c3\u03b7\u03c2",
+    "message": "Τρόποι διόρθωσης",
     "description": "Link in banner alert"
   },
   "alert_conflictingExtensions": {
-    "message": "\u0386\u03bb\u03bb\u03b5\u03c2 \u03b5\u03c0\u03b5\u03ba\u03c4\u03ac\u03c3\u03b5\u03b9\u03c2 \u03b5\u03bd\u03b4\u03ad\u03c7\u03b5\u03c4\u03b1\u03b9 \u03bd\u03b1 \u03b5\u03c0\u03b7\u03c1\u03b5\u03ac\u03b6\u03bf\u03c5\u03bd \u03c4\u03bf\u03bd \u03c4\u03c1\u03cc\u03c0\u03bf \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7\u03c2 \u03c4\u03bf\u03c5 Mozilla VPN.",
+    "message": "Άλλες επεκτάσεις ενδέχεται να επηρεάζουν τον τρόπο λειτουργίας της επέκτασης του Mozilla VPN.",
     "description": "Banner alert"
   },
   "learnWhatToDo": {
-    "message": "\u039c\u03ac\u03b8\u03b5\u03c4\u03b5 \u03c4\u03b9 \u03bd\u03b1 \u03ba\u03ac\u03bd\u03b5\u03c4\u03b5",
+    "message": "Μάθετε τι να κάνετε",
     "description": "Link in banner alert"
   },
   "telemetry_toggle_text": {
-    "message": "\u039a\u03bf\u03b9\u03bd\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ce\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03ba\u03b1\u03b9 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03b1\u03bb\u03bb\u03b7\u03bb\u03b5\u03c0\u03af\u03b4\u03c1\u03b1\u03c3\u03b7\u03c2",
+    "message": "Κοινοποίηση τεχνικών δεδομένων και δεδομένων αλληλεπίδρασης",
     "description": "Label for the Telemetry Opt-In toggle"
   },
   "privacy_notice_link_name": {
-    "message": "\u03a3\u03b7\u03bc\u03b5\u03af\u03c9\u03c3\u03b7 \u03b1\u03c0\u03bf\u03c1\u03c1\u03ae\u03c4\u03bf\u03c5 \u03c3\u03c5\u03bd\u03b4\u03c1\u03bf\u03bc\u03b7\u03c4\u03b9\u03ba\u03ce\u03bd \u03c5\u03c0\u03b7\u03c1\u03b5\u03c3\u03b9\u03ce\u03bd Mozilla",
+    "message": "Σημείωση απορρήτου συνδρομητικών υπηρεσιών Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
   "first-install-body": {
-    "message": "\u0393\u03b9\u03b1 \u03bd\u03b1 \u03bc\u03b1\u03c2 \u03b2\u03bf\u03b7\u03b8\u03ae\u03c3\u03b5\u03c4\u03b5 \u03bd\u03b1 \u03b2\u03b5\u03bb\u03c4\u03b9\u03ce\u03c3\u03bf\u03c5\u03bc\u03b5 \u03c4\u03b9\u03c2 \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03b5\u03c0\u03b9\u03b4\u03cc\u03c3\u03b5\u03b9\u03c2, \u03ba\u03b1\u03b8\u03ce\u03c2 \u03ba\u03b1\u03b9 \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u03c4\u03b1\u03c7\u03b5\u03af\u03b1 \u03b5\u03c0\u03af\u03bb\u03c5\u03c3\u03b7 \u03b6\u03b7\u03c4\u03b7\u03bc\u03ac\u03c4\u03c9\u03bd, \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b9\u03c4\u03c1\u03ad\u03c8\u03b5\u03c4\u03b5 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 Mozilla VPN \u03c4\u03b7 \u03c3\u03c5\u03bb\u03bb\u03bf\u03b3\u03ae \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd. \u03a4\u03b1 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03c0\u03bf\u03c5 \u03c3\u03c5\u03bb\u03bb\u03ad\u03b3\u03bf\u03c5\u03bc\u03b5 \u03b4\u03b5\u03bd \u03b8\u03b1 \u03c3\u03c5\u03bd\u03b4\u03ad\u03bf\u03bd\u03c4\u03b1\u03b9 \u03c0\u03bf\u03c4\u03ad \u03bc\u03b5 \u03b5\u03c3\u03ac\u03c2 \u03ba\u03b1\u03b8\u03ce\u03c2 \u03b4\u03b5 \u03c3\u03c5\u03bb\u03bb\u03ad\u03b3\u03bf\u03c5\u03bc\u03b5 \u03c0\u03bf\u03c4\u03ad \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03b3\u03b9\u03b1 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03bf\u03c5\u03c2 \u03c0\u03bf\u03c5 \u03b5\u03c0\u03b9\u03c3\u03ba\u03ad\u03c0\u03c4\u03b5\u03c3\u03c4\u03b5. \u0397 \u03c3\u03c5\u03bb\u03bb\u03bf\u03b3\u03ae \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03b4\u03b5\u03bd \u03b5\u03c0\u03b7\u03c1\u03b5\u03ac\u03b6\u03b5\u03b9 \u03c4\u03bf\u03bd \u03c4\u03c1\u03cc\u03c0\u03bf \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1\u03c2 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7\u03c2.",
+    "message": "Για να μας βοηθήσετε να βελτιώσουμε τις λειτουργίες και επιδόσεις, καθώς και για την ταχεία επίλυση ζητημάτων, μπορείτε να επιτρέψετε στην επέκταση του Mozilla VPN τη συλλογή δεδομένων. Τα δεδομένα που συλλέγουμε δεν θα συνδέονται ποτέ με εσάς καθώς δε συλλέγουμε ποτέ δεδομένα για ιστοτόπους που επισκέπτεστε. Η συλλογή δεδομένων δεν επηρεάζει τον τρόπο λειτουργίας της επέκτασης.",
     "description": "Body copy on the telemetry consent screen"
   },
   "privacyPolicyIntro": {
-    "message": "\u039f\u03b9 \u03c0\u03bb\u03ae\u03c1\u03b5\u03b9\u03c2 \u03bb\u03b5\u03c0\u03c4\u03bf\u03bc\u03ad\u03c1\u03b5\u03b9\u03b5\u03c2 \u03c4\u03c9\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03c0\u03bf\u03c5 \u03c3\u03c5\u03bb\u03bb\u03ad\u03b3\u03bf\u03c5\u03bc\u03b5 \u03b5\u03af\u03bd\u03b1\u03b9 \u03b4\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03b5\u03c2 \u03c3\u03c4\u03b7\u03bd \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae \u03b1\u03c0\u03bf\u03c1\u03c1\u03ae\u03c4\u03bf\u03c5 \u03bc\u03b1\u03c2.",
+    "message": "Οι πλήρεις λεπτομέρειες των δεδομένων που συλλέγουμε είναι διαθέσιμες στην πολιτική απορρήτου μας.",
     "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
   },
   "viewPrivacyPolicy": {
-    "message": "\u03a0\u03c1\u03bf\u03b2\u03bf\u03bb\u03ae \u03c0\u03bf\u03bb\u03b9\u03c4\u03b9\u03ba\u03ae\u03c2 \u03b1\u03c0\u03bf\u03c1\u03c1\u03ae\u03c4\u03bf\u03c5",
+    "message": "Προβολή πολιτικής απορρήτου",
     "description": "Privacy policy link"
   },
   "thankYouForAdding": {
-    "message": "\u03a3\u03b1\u03c2 \u03b5\u03c5\u03c7\u03b1\u03c1\u03b9\u03c3\u03c4\u03bf\u03cd\u03bc\u03b5 \u03c0\u03bf\u03c5 \u03c0\u03c1\u03bf\u03c3\u03b8\u03ad\u03c3\u03b1\u03c4\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7 Mozilla VPN",
+    "message": "Σας ευχαριστούμε που προσθέσατε την επέκταση Mozilla VPN",
     "description": "Headline on the telemetry consent screen"
   },
   "toContinueToTheExtension": {
-    "message": "\u0393\u03b9\u03b1 \u03bd\u03b1 \u03c3\u03c5\u03bd\u03b5\u03c7\u03af\u03c3\u03b5\u03c4\u03b5 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7, \u03b5\u03c0\u03b9\u03bb\u03ad\u03be\u03c4\u03b5 \u03c4\u03bf \u03bb\u03bf\u03b3\u03cc\u03c4\u03c5\u03c0\u03bf \u03c4\u03bf\u03c5 Mozilla VPN \u03c3\u03c4\u03b7 \u03b3\u03c1\u03b1\u03bc\u03bc\u03ae \u03b5\u03c1\u03b3\u03b1\u03bb\u03b5\u03af\u03c9\u03bd \u03c4\u03bf\u03c5 Firefox.",
+    "message": "Για να συνεχίσετε στην επέκταση, επιλέξτε το λογότυπο του Mozilla VPN στη γραμμή εργαλείων του Firefox.",
     "description": "Blurb at the bottom of the telemetry consent screen"
   },
   "optionalDataCollection": {
-    "message": "\u03a3\u03c5\u03bb\u03bb\u03bf\u03b3\u03ae \u03c0\u03c1\u03bf\u03b1\u03b9\u03c1\u03b5\u03c4\u03b9\u03ba\u03ce\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd",
+    "message": "Συλλογή προαιρετικών δεδομένων",
     "description": "Subtitle on the telemetry consent screen"
   },
   "telemetryListHeader": {
-    "message": "\u03a4\u03b1 \u03c0\u03c1\u03bf\u03b1\u03b9\u03c1\u03b5\u03c4\u03b9\u03ba\u03ac \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03c0\u03bf\u03c5 \u03c3\u03c5\u03bb\u03bb\u03ad\u03b3\u03bf\u03c5\u03bc\u03b5 \u03c3\u03c5\u03bc\u03c0\u03b5\u03c1\u03b9\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03bf\u03c5\u03bd:",
+    "message": "Τα προαιρετικά δεδομένα που συλλέγουμε συμπεριλαμβάνουν:",
     "description": "Headline for a list describing the type of data collected by the extension"
   },
   "technicalData": {
-    "message": "\u03a4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ac \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1, \u03cc\u03c0\u03c9\u03c2 \u03b7 \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03c4\u03bf\u03c5 \u03c0\u03c1\u03bf\u03b3\u03c1\u03ac\u03bc\u03bc\u03b1\u03c4\u03bf\u03c2 \u03c0\u03b5\u03c1\u03b9\u03ae\u03b3\u03b7\u03c3\u03b7\u03c2, \u03b7 \u03ad\u03ba\u03b4\u03bf\u03c3\u03b7 \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03bf\u03b9 \u03bb\u03b5\u03c0\u03c4\u03bf\u03bc\u03ad\u03c1\u03b5\u03b9\u03b5\u03c2 \u03c3\u03c6\u03b1\u03bb\u03bc\u03ac\u03c4\u03c9\u03bd, \u03ce\u03c3\u03c4\u03b5 \u03bd\u03b1 \u03bc\u03c0\u03bf\u03c1\u03bf\u03cd\u03bc\u03b5 \u03bd\u03b1 \u03c0\u03b1\u03c1\u03b1\u03ba\u03bf\u03bb\u03bf\u03c5\u03b8\u03bf\u03cd\u03bc\u03b5 \u03ba\u03b1\u03b9 \u03bd\u03b1 \u03b4\u03b9\u03bf\u03c1\u03b8\u03ce\u03bd\u03bf\u03c5\u03bc\u03b5 \u03b1\u03c0\u03bf\u03c4\u03b5\u03bb\u03b5\u03c3\u03bc\u03b1\u03c4\u03b9\u03ba\u03ac \u03c4\u03b1 \u03c3\u03c6\u03ac\u03bb\u03bc\u03b1\u03c4\u03b1.",
+    "message": "Τεχνικά δεδομένα, όπως η έκδοση του προγράμματος περιήγησης, η έκδοση επέκτασης και οι λεπτομέρειες σφαλμάτων, ώστε να μπορούμε να παρακολουθούμε και να διορθώνουμε αποτελεσματικά τα σφάλματα.",
     "description": "Description of technical data, found on telemetry consent screen."
   },
   "interactionData": {
-    "message": "\u0394\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03b1\u03bb\u03bb\u03b7\u03bb\u03b5\u03c0\u03af\u03b4\u03c1\u03b1\u03c3\u03b7\u03c2, \u03cc\u03c0\u03c9\u03c2 \u03bf \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03c9\u03bd \u03c0\u03bf\u03c5 \u03b5\u03be\u03b1\u03b9\u03c1\u03bf\u03cd\u03bd\u03c4\u03b1\u03b9 \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1 VPN, \u03bf \u03b1\u03c1\u03b9\u03b8\u03bc\u03cc\u03c2 \u03b9\u03c3\u03c4\u03bf\u03c4\u03cc\u03c0\u03c9\u03bd \u03bc\u03b5 \u03c0\u03c1\u03bf\u03c4\u03af\u03bc\u03b7\u03c3\u03b7 \u03c4\u03bf\u03c0\u03bf\u03b8\u03b5\u03c3\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03b7 \u03c3\u03c5\u03c7\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03b5\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03c0\u03b5\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1\u03c2.",
+    "message": "Δεδομένα αλληλεπίδρασης, όπως ο αριθμός ιστοτόπων που εξαιρούνται από την προστασία VPN, ο αριθμός ιστοτόπων με προτίμηση τοποθεσίας και η συχνότητα ενεργοποίησης και απενεργοποίησης της προστασίας.",
     "description": "Description of interaction data, found on the telemetry consent screen."
   },
   "telemetryOptOutInstructions": {
-    "message": "\u0391\u03bd \u03b4\u03b5\u03bd \u03b8\u03ad\u03bb\u03b5\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03c0\u03b9\u03c4\u03c1\u03ad\u03c8\u03b5\u03c4\u03b5 \u03c3\u03c4\u03b7\u03bd \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7 \u03c4\u03bf\u03c5 Mozilla VPN \u03c4\u03b7 \u03c3\u03c5\u03bb\u03bb\u03bf\u03b3\u03ae \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd, \u03ba\u03b1\u03c4\u03b1\u03c1\u03b3\u03ae\u03c3\u03c4\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c0\u03b9\u03bb\u03bf\u03b3\u03ae. \u039c\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03b5\u03c0\u03af\u03c3\u03b7\u03c2 \u03bd\u03b1 \u03b1\u03bb\u03bb\u03ac\u03be\u03b5\u03c4\u03b5 \u03b1\u03c5\u03c4\u03ae\u03bd \u03c4\u03b7 \u03c1\u03cd\u03b8\u03bc\u03b9\u03c3\u03b7 \u03b1\u03bd\u03ac \u03c0\u03ac\u03c3\u03b1 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae \u03c3\u03c4\u03b7\u03bd \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7, \u03b1\u03c0\u03cc \u03c4\u03b9\u03c2 \u03a1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03b9\u03c2.",
+    "message": "Αν δεν θέλετε να επιτρέψετε στην επέκταση του Mozilla VPN τη συλλογή δεδομένων, καταργήστε την επιλογή. Μπορείτε επίσης να αλλάξετε αυτήν τη ρύθμιση ανά πάσα στιγμή στην επέκταση, από τις Ρυθμίσεις.",
     "description": "Opt out instructions on the telemetry consent screen"
   },
   "telemetryCheckboxLabel": {
-    "message": "\u039d\u03b1 \u03b5\u03c0\u03b9\u03c4\u03c1\u03ad\u03c0\u03b5\u03c4\u03b1\u03b9 \u03c3\u03c4\u03b7 Mozilla \u03b7 \u03c3\u03c5\u03bb\u03bb\u03bf\u03b3\u03ae \u03c4\u03b5\u03c7\u03bd\u03b9\u03ba\u03ce\u03bd \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03ba\u03b1\u03b9 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03c9\u03bd \u03b1\u03bb\u03bb\u03b7\u03bb\u03b5\u03c0\u03af\u03b4\u03c1\u03b1\u03c3\u03b7\u03c2",
+    "message": "Να επιτρέπεται στη Mozilla η συλλογή τεχνικών δεδομένων και δεδομένων αλληλεπίδρασης",
     "description": "Checkbox label"
   },
   "telemetrySettingsCheckboxLabel": {
-    "message": "\u0391\u03c5\u03c4\u03ac \u03c4\u03b1 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03b2\u03bf\u03b7\u03b8\u03bf\u03cd\u03bd \u03bd\u03b1 \u03b2\u03b5\u03bb\u03c4\u03b9\u03ce\u03c3\u03bf\u03c5\u03bc\u03b5 \u03c4\u03b9\u03c2 \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b5\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03b9\u03c2 \u03b5\u03c0\u03b9\u03b4\u03cc\u03c3\u03b5\u03b9\u03c2. \u03a0\u03b5\u03c1\u03b9\u03bb\u03b1\u03bc\u03b2\u03ac\u03bd\u03bf\u03bd\u03c4\u03b1\u03b9 \u03b4\u03b5\u03b4\u03bf\u03bc\u03ad\u03bd\u03b1 \u03b3\u03b9\u03b1 \u03c4\u03b7 \u03c3\u03c5\u03c3\u03ba\u03b5\u03c5\u03ae \u03c3\u03b1\u03c2, \u03c4\u03b9\u03c2 \u03c1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03b9\u03c2 \u03c4\u03bf\u03c5 \u03c5\u03bb\u03b9\u03ba\u03bf\u03cd \u03c3\u03b1\u03c2 \u03ba\u03b1\u03b9 \u03c4\u03bf\u03bd \u03c4\u03c1\u03cc\u03c0\u03bf \u03c7\u03c1\u03ae\u03c3\u03b7\u03c2 \u03c4\u03b7\u03c2 \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7\u03c2 Mozilla VPN.",
+    "message": "Αυτά τα δεδομένα βοηθούν να βελτιώσουμε τις λειτουργίες και τις επιδόσεις. Περιλαμβάνονται δεδομένα για τη συσκευή σας, τις ρυθμίσεις του υλικού σας και τον τρόπο χρήσης της επέκτασης Mozilla VPN.",
     "description": "Checkbox label on the settings page"
   },
   "messageSplitTunnelHeader": {
-    "message": "\u0395\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7 \u03c0\u03c1\u03bf\u03c3\u03c4\u03b1\u03c3\u03af\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03c4\u03bf Firefox",
+    "message": "Ενεργοποίηση προστασίας για το Firefox",
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "messageSplitTunnelBody": {
-    "message": "\u0391\u03c5\u03c4\u03ae\u03bd \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae, \u03c4\u03bf Firefox \u03ad\u03c7\u03b5\u03b9 \u03bf\u03c1\u03b9\u03c3\u03c4\u03b5\u03af \u03c9\u03c2 \u00ab\u03b5\u03be\u03b1\u03b9\u03c1\u03bf\u03cd\u03bc\u03b5\u03bd\u03b7 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae\u00bb \u03c3\u03c4\u03b7\u03bd \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae \u03c4\u03bf\u03c5 Mozilla VPN. \u0393\u03b9\u03b1 \u03bd\u03b1 \u03c7\u03c1\u03b7\u03c3\u03b9\u03bc\u03bf\u03c0\u03bf\u03b9\u03ae\u03c3\u03b5\u03c4\u03b5 \u03b1\u03c5\u03c4\u03ae\u03bd \u03c4\u03b7\u03bd \u03b5\u03c0\u03ad\u03ba\u03c4\u03b1\u03c3\u03b7, \u03b1\u03bd\u03bf\u03af\u03be\u03c4\u03b5 \u03c4\u03b7\u03bd \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ae, \u03bc\u03b5\u03c4\u03b1\u03b2\u03b5\u03af\u03c4\u03b5 \u03c3\u03c4\u03b9\u03c2 \u03a1\u03c5\u03b8\u03bc\u03af\u03c3\u03b5\u03b9\u03c2 > \u0395\u03be\u03b1\u03b9\u03c1\u03bf\u03cd\u03bc\u03b5\u03bd\u03b5\u03c2 \u03b5\u03c6\u03b1\u03c1\u03bc\u03bf\u03b3\u03ad\u03c2 \u03ba\u03b1\u03b9 \u03b1\u03c6\u03b1\u03b9\u03c1\u03ad\u03c3\u03c4\u03b5 \u03c4\u03bf Firefox.",
+    "message": "Αυτήν τη στιγμή, το Firefox έχει οριστεί ως «εξαιρούμενη εφαρμογή» στην εφαρμογή του Mozilla VPN. Για να χρησιμοποιήσετε αυτήν την επέκταση, ανοίξτε την εφαρμογή, μεταβείτε στις Ρυθμίσεις > Εξαιρούμενες εφαρμογές και αφαιρέστε το Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "headerSubscriptionNotAvailable": {
-    "message": "\u039f\u03b9 \u03c3\u03c5\u03bd\u03b4\u03c1\u03bf\u03bc\u03ad\u03c2 \u03c4\u03bf\u03c5 Mozilla VPN \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b4\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03b5\u03c2 \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1 \u03c3\u03b1\u03c2",
+    "message": "Οι συνδρομές του Mozilla VPN δεν είναι ακόμα διαθέσιμες στη χώρα σας",
     "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "bodySubscriptionNotAvailable": {
-    "message": "\u039f\u03b9 \u03c3\u03c5\u03bd\u03b4\u03c1\u03bf\u03bc\u03ad\u03c2 \u03c4\u03bf\u03c5 Mozilla VPN \u03b4\u03b5\u03bd \u03b5\u03af\u03bd\u03b1\u03b9 \u03b1\u03ba\u03cc\u03bc\u03b1 \u03b4\u03b9\u03b1\u03b8\u03ad\u03c3\u03b9\u03bc\u03b5\u03c2 \u03c3\u03c4\u03b7 \u03c7\u03ce\u03c1\u03b1 \u03c3\u03b1\u03c2, \u03b1\u03bb\u03bb\u03ac \u03bc\u03c0\u03bf\u03c1\u03b5\u03af\u03c4\u03b5 \u03bd\u03b1 \u03b5\u03b3\u03b3\u03c1\u03b1\u03c6\u03b5\u03af\u03c4\u03b5 \u03c3\u03c4\u03b7 \u03bb\u03af\u03c3\u03c4\u03b1 \u03b1\u03bd\u03b1\u03bc\u03bf\u03bd\u03ae\u03c2 \u03bc\u03b1\u03c2 \u03b3\u03b9\u03b1 \u03bd\u03b1 \u03b5\u03b9\u03b4\u03bf\u03c0\u03bf\u03b9\u03b7\u03b8\u03b5\u03af\u03c4\u03b5 \u03cc\u03c4\u03b1\u03bd \u03ba\u03c5\u03ba\u03bb\u03bf\u03c6\u03bf\u03c1\u03ae\u03c3\u03bf\u03c5\u03bd. \u0391\u03bd \u03b4\u03b9\u03b1\u03b8\u03ad\u03c4\u03b5\u03c4\u03b5 \u03ae\u03b4\u03b7 \u03c3\u03c5\u03bd\u03b4\u03c1\u03bf\u03bc\u03ae, \u03c3\u03c5\u03bd\u03b5\u03c7\u03af\u03c3\u03c4\u03b5.",
+    "message": "Οι συνδρομές του Mozilla VPN δεν είναι ακόμα διαθέσιμες στη χώρα σας, αλλά μπορείτε να εγγραφείτε στη λίστα αναμονής μας για να ειδοποιηθείτε όταν κυκλοφορήσουν. Αν διαθέτετε ήδη συνδρομή, συνεχίστε.",
     "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnjoinWaitlist": {
-    "message": "\u0395\u03b3\u03b3\u03c1\u03b1\u03c6\u03ae \u03c3\u03c4\u03b7 \u03bb\u03af\u03c3\u03c4\u03b1 \u03b1\u03bd\u03b1\u03bc\u03bf\u03bd\u03ae\u03c2",
+    "message": "Εγγραφή στη λίστα αναμονής",
     "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnContinue": {
-    "message": "\u03a3\u03c5\u03bd\u03ad\u03c7\u03b5\u03b9\u03b1",
+    "message": "Συνέχεια",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   },
   "headlineAutoConnectOptions": {
-    "message": "\u0395\u03c0\u03b9\u03bb\u03bf\u03b3\u03ad\u03c2 \u03b1\u03c5\u03c4\u03cc\u03bc\u03b1\u03c4\u03b7\u03c2 \u03c3\u03cd\u03bd\u03b4\u03b5\u03c3\u03b7\u03c2",
+    "message": "Επιλογές αυτόματης σύνδεσης",
     "description": "Headline for the Auto Connect options"
   },
   "labelDescribeAutoStartOnPBM": {
-    "message": "\u03a0\u03ac\u03bd\u03c4\u03b1 \u03b5\u03bd\u03b5\u03c1\u03b3\u03cc VPN \u03c3\u03c4\u03b7 \u03bb\u03b5\u03b9\u03c4\u03bf\u03c5\u03c1\u03b3\u03af\u03b1 \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ae\u03c2 \u03c0\u03b5\u03c1\u03b9\u03ae\u03b3\u03b7\u03c3\u03b7\u03c2"
+    "message": "Πάντα ενεργό VPN στη λειτουργία ιδιωτικής περιήγησης"
   },
   "bodyAutoStartOnPBM": {
-    "message": "\u0393\u03b9\u03b1 \u03b5\u03bd\u03b5\u03c1\u03b3\u03bf\u03c0\u03bf\u03af\u03b7\u03c3\u03b7, \u03bc\u03b5\u03c4\u03b1\u03b2\u03b5\u03af\u03c4\u03b5 \u03c3\u03c4\u03bf \u03bc\u03b5\u03bd\u03bf\u03cd \u03c0\u03c1\u03bf\u03c3\u03b8\u03ad\u03c4\u03c9\u03bd, \u03b5\u03c0\u03b9\u03bb\u03ad\u03be\u03c4\u03b5 \u03c4\u03bf \u00abMozilla VPN Extension\u00bb \u03ba\u03b1\u03b9 \u03b5\u03c0\u03b9\u03bb\u03ad\u03be\u03c4\u03b5 \u00ab\u0391\u03c0\u03bf\u03b4\u03bf\u03c7\u03ae\u00bb \u03b3\u03b9\u03b1 \u03c4\u03b7\u03bd \u00ab\u0395\u03ba\u03c4\u03ad\u03bb\u03b5\u03c3\u03b7 \u03c3\u03b5 \u03b9\u03b4\u03b9\u03c9\u03c4\u03b9\u03ba\u03ac \u03c0\u03b1\u03c1\u03ac\u03b8\u03c5\u03c1\u03b1\u00bb.",
+    "message": "Για ενεργοποίηση, μεταβείτε στο μενού προσθέτων, επιλέξτε το «Mozilla VPN Extension» και επιλέξτε «Αποδοχή» για την «Εκτέλεση σε ιδιωτικά παράθυρα».",
     "description": "Body of the autostart option."
   },
   "labelDescribeAutoStart": {
-    "message": "\u03a0\u03ac\u03bd\u03c4\u03b1 \u03b5\u03bd\u03b5\u03c1\u03b3\u03cc VPN \u03ba\u03b1\u03c4\u03ac \u03c4\u03bf \u03ac\u03bd\u03bf\u03b9\u03b3\u03bc\u03b1 \u03c4\u03bf\u03c5 Firefox",
+    "message": "Πάντα ενεργό VPN κατά το άνοιγμα του Firefox",
     "description": "Description for the autostart checkbox"
   }
 }

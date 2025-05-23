@@ -1,18 +1,18 @@
 {
   "extensionName": {
-    "message": "\u0420\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435 Mozilla VPN",
+    "message": "Расширение Mozilla VPN",
     "description": "Name of the extension."
   },
   "close": {
-    "message": "\u0417\u0430\u043a\u0440\u044b\u0442\u044c",
+    "message": "Закрыть",
     "description": "Alt label text for an X icon button in alert."
   },
   "extensionDescription": {
-    "message": "\u0418\u043d\u0442\u0435\u0433\u0440\u0438\u0440\u0443\u0439\u0442\u0435 VPN \u0432 Firefox: \u0418\u0441\u043a\u043b\u044e\u0447\u0430\u0439\u0442\u0435 \u0432\u043a\u043b\u0430\u0434\u043a\u0438, \u043d\u0430\u0441\u0442\u0440\u0430\u0438\u0432\u0430\u0439\u0442\u0435 \u043c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0421\u0430\u0439\u0442\u043e\u0432 \u0438 \u043c\u043d\u043e\u0433\u043e\u0435 \u0434\u0440\u0443\u0433\u043e\u0435!",
+    "message": "Интегрируйте VPN в Firefox: Исключайте вкладки, настраивайте местоположение Сайтов и многое другое!",
     "description": "Description of the extension."
   },
   "back": {
-    "message": "\u041d\u0430\u0437\u0430\u0434",
+    "message": "Назад",
     "description": "Alternative text attribute for back button."
   },
   "productName": {
@@ -20,19 +20,19 @@
     "description": "Name of the product."
   },
   "titleServerList": {
-    "message": "\u041c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u0430",
+    "message": "Местоположение веб-сайта",
     "description": "Title for a dialog where users can set the location for a website."
   },
   "selectWebsiteLocation": {
-    "message": "\u0412\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u043c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u043b\u0436\u0435\u043d\u0438\u0435 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u0430",
+    "message": "Выберите местопололжение веб-сайта",
     "description": "Button label."
   },
   "titlePageSettings": {
-    "message": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u0434\u043b\u044f \u044d\u0442\u043e\u0433\u043e \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u0430",
+    "message": "Настройки для этого веб-сайта",
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
   "excludePageFor": {
-    "message": "\u0412\u0441\u0435\u0433\u0434\u0430 \u043e\u0442\u043a\u043b\u044e\u0447\u0430\u0442\u044c VPN-\u0437\u0430\u0449\u0438\u0442\u0443 \u0434\u043b\u044f $ORIGIN$",
+    "message": "Всегда отключать VPN-защиту для $ORIGIN$",
     "description": "Setting to exclude a website from VPN.",
     "placeholders": {
       "ORIGIN": {
@@ -42,51 +42,51 @@
     }
   },
   "resetPageSettings": {
-    "message": "\u0421\u0431\u0440\u043e\u0441\u0438\u0442\u044c \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u0430",
+    "message": "Сбросить настройки веб-сайта",
     "description": "Button text to reset all site specific settings."
   },
   "vpnIsOn": {
-    "message": "VPN-\u0437\u0430\u0449\u0438\u0442\u0430 \u0434\u043b\u044f Firefox \u0432\u043a\u043b\u044e\u0447\u0435\u043d\u0430",
+    "message": "VPN-защита для Firefox включена",
     "description": "Header to signal that VPN connection is enabled."
   },
   "vpnIsOff": {
-    "message": "VPN-\u0437\u0430\u0449\u0438\u0442\u0430 \u0434\u043b\u044f Firefox \u043e\u0442\u043a\u043b\u044e\u0447\u0435\u043d\u0430",
+    "message": "VPN-защита для Firefox отключена",
     "description": "Header to signal that VPN connection is disabled."
   },
   "extensionVpnIsOff": {
-    "message": "Mozilla VPN \u0432\u0441\u0451 \u0435\u0449\u0451 \u0432\u043a\u043b\u044e\u0447\u0451\u043d, \u0437\u0430\u0449\u0438\u0449\u0430\u044f \u043e\u0441\u0442\u0430\u043b\u044c\u043d\u043e\u0439 \u0432\u0430\u0448 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440.",
+    "message": "Mozilla VPN всё ещё включён, защищая остальной ваш компьютер.",
     "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
   },
   "vpnOffStatus": {
-    "message": "\u041e\u0442\u043a\u043b.",
+    "message": "Откл.",
     "description": "Label indicating that the VPN is off."
   },
   "vpnOnStatus": {
-    "message": "\u0412\u043a\u043b.",
+    "message": "Вкл.",
     "description": "Label indicating that the VPN is on."
   },
   "placeholderSearchWebsites": {
-    "message": "\u041f\u043e\u0438\u0441\u043a \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u043e\u0432",
+    "message": "Поиск веб-сайтов",
     "description": "Placeholder text for the search input field to search websites."
   },
   "tableHeadingWebsite": {
-    "message": "\u0412\u0435\u0431-\u0441\u0430\u0439\u0442",
+    "message": "Веб-сайт",
     "description": "Table heading for the column listing websites."
   },
   "tableHeadingVpnStatus": {
-    "message": "\u0417\u0430\u0449\u0438\u0442\u0430 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u0430",
+    "message": "Защита веб-сайта",
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   },
   "headlineNoWebsitePreferences": {
-    "message": "\u0412\u044b \u043f\u043e\u043a\u0430 \u043d\u0435 \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u043b\u0438 \u043d\u0438 \u043e\u0434\u043d\u043e\u0433\u043e \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u0430",
-    "description": "Headline shown when the user hasn\u2019t set any website preferences."
+    "message": "Вы пока не настроили ни одного веб-сайта",
+    "description": "Headline shown when the user hasn’t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
-    "message": "\u0421 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u044d\u0442\u043e\u0433\u043e \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044f Firefox \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043e\u0442\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u0437\u0430\u0449\u0438\u0442\u0443 Mozilla VPN \u0434\u043b\u044f \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u0430 \u0438\u043b\u0438 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0434\u0440\u0443\u0433\u043e\u0435 \u043c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435. \u0414\u043b\u044f \u044d\u0442\u043e\u0433\u043e \u043f\u043e\u0441\u0435\u0442\u0438\u0442\u0435 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442, \u043e\u0442\u043a\u0440\u043e\u0439\u0442\u0435 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435 \u0438 \u0438\u0437\u043c\u0435\u043d\u0438\u0442\u0435 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u0430.",
+    "message": "С помощью этого расширения Firefox вы можете отключить защиту Mozilla VPN для веб-сайта или установить другое местоположение. Для этого посетите веб-сайт, откройте расширение и измените настройки веб-сайта.",
     "description": "Subtext shown when there are no website preferences set by the user."
   },
   "altTextRemoveWebsiteButton": {
-    "message": "\u0423\u0434\u0430\u043b\u0438\u0442\u044c \u043f\u0440\u0430\u0432\u0438\u043b\u043e \u0434\u043b\u044f $ORIGIN$",
+    "message": "Удалить правило для $ORIGIN$",
     "description": "Alternative text for the button that removes a website rule from the list of preferences.",
     "placeholders": {
       "ORIGIN": {
@@ -96,190 +96,190 @@
     }
   },
   "altTextOpenSettingsPage": {
-    "message": "\u041e\u0442\u043a\u0440\u044b\u0442\u044c \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043a",
+    "message": "Открыть страницу настроек",
     "description": "Alternative text for the button that opens the Extensions Settings page."
   },
   "searchServer": {
-    "message": "\u041f\u043e\u0438\u0441\u043a \u043c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0439",
+    "message": "Поиск местоположений",
     "description": "Placeholder for the Input field where users can search the list of servers."
   },
   "titleSubscribeNow": {
-    "message": "\u041f\u043e\u0434\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f \u043d\u0430 Mozilla VPN."
+    "message": "Подписаться на Mozilla VPN."
   },
   "bodySubscribeNow2": {
-    "message": "\u041d\u0430\u043c \u043d\u0435 \u0443\u0434\u0430\u043b\u043e\u0441\u044c \u043d\u0430\u0439\u0442\u0438 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0443, \u0441\u0432\u044f\u0437\u0430\u043d\u043d\u0443\u044e \u0441 \u0430\u043a\u043a\u0430\u0443\u043d\u0442\u043e\u043c, \u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0432\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043b\u0438 \u0434\u043b\u044f \u0432\u0445\u043e\u0434\u0430 \u0432 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 Mozilla VPN.",
+    "message": "Нам не удалось найти подписку, связанную с аккаунтом, который вы использовали для входа в приложение Mozilla VPN.",
     "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
   },
   "footerSubscribeNow": {
-    "message": "\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043f\u043e\u0434\u043f\u0438\u0448\u0438\u0442\u0435\u0441\u044c, \u0447\u0442\u043e\u0431\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u044d\u0442\u043e \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435.",
+    "message": "Пожалуйста, подпишитесь, чтобы использовать это расширение.",
     "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
   },
   "btnSubscribeNow": {
-    "message": "\u041f\u043e\u0434\u043f\u0438\u0441\u0430\u0442\u044c\u0441\u044f \u0441\u0435\u0439\u0447\u0430\u0441",
+    "message": "Подписаться сейчас",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
   },
   "getHelp": {
-    "message": "\u041f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u043f\u043e\u043c\u043e\u0449\u044c",
+    "message": "Получить помощь",
     "description": "Text of a link pointing to a relevant help page."
   },
   "headerOpenMozillaVPN": {
-    "message": "\u041e\u0442\u043a\u0440\u044b\u0442\u044c Mozilla VPN",
+    "message": "Открыть Mozilla VPN",
     "description": "Headline."
   },
   "headerSignedOut": {
-    "message": "\u0412\u043e\u0439\u0434\u0438\u0442\u0435 \u0432 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 Mozilla VPN."
+    "message": "Войдите в приложение Mozilla VPN."
   },
   "bodySignedOut": {
-    "message": "\u0421\u0435\u0439\u0447\u0430\u0441 \u0432\u044b \u0432\u044b\u0448\u043b\u0438 \u0438\u0437 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f Mozilla VPN. \u0427\u0442\u043e\u0431\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435 Mozilla VPN \u0434\u043b\u044f Firefox, \u043e\u0442\u043a\u0440\u043e\u0439\u0442\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043d\u0430 \u0432\u0430\u0448\u0435\u043c \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0435 \u0438 \u0432\u043e\u0439\u0434\u0438\u0442\u0435 \u0432 \u0441\u0432\u043e\u0439 \u0430\u043a\u043a\u0430\u0443\u043d\u0442."
+    "message": "Сейчас вы вышли из приложения Mozilla VPN. Чтобы использовать расширение Mozilla VPN для Firefox, откройте приложение на вашем компьютере и войдите в свой аккаунт."
   },
   "btnOpenVpn": {
-    "message": "\u041e\u0442\u043a\u0440\u044b\u0442\u044c Mozilla VPN."
+    "message": "Открыть Mozilla VPN."
   },
   "headerNeedsUpdate": {
-    "message": "\u041e\u0431\u043d\u043e\u0432\u0438\u0442\u0435 Mozilla VPN",
+    "message": "Обновите Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
   "bodyNeedsUpdate2": {
-    "message": "\u0427\u0442\u043e\u0431\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u044d\u0442\u043e \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435, \u0441\u043d\u0430\u0447\u0430\u043b\u0430 \u0437\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u0435 \u0438 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u044e\u044e \u0432\u0435\u0440\u0441\u0438\u044e \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f Mozilla VPN.",
+    "message": "Чтобы использовать это расширение, сначала загрузите и установите последнюю версию приложения Mozilla VPN.",
     "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
-    "message": "\u0423\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 Mozilla VPN",
+    "message": "Установите Mozilla VPN",
     "description": "Header if a VPN installation was not found."
   },
   "bodyOpenMsg": {
-    "message": "\u0427\u0442\u043e\u0431\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435 Mozilla VPN \u0434\u043b\u044f Firefox, \u0441\u043d\u0430\u0447\u0430\u043b\u0430 \u043e\u0442\u043a\u0440\u043e\u0439\u0442\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 Mozilla VPN.",
+    "message": "Чтобы использовать расширение Mozilla VPN для Firefox, сначала откройте приложение Mozilla VPN.",
     "description": "Popup subtitle text."
   },
   "bodyInstallMsg": {
-    "message": "\u0427\u0442\u043e\u0431\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u044d\u0442\u043e \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435, \u0441\u043d\u0430\u0447\u0430\u043b\u0430 \u0437\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u0435 \u0438 \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u043d\u0430 \u0441\u0432\u043e\u0439 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 Mozilla VPN."
+    "message": "Чтобы использовать это расширение, сначала загрузите и установите на свой компьютер приложение Mozilla VPN."
   },
   "bodyInstallMsgFooter": {
-    "message": "\u041e\u0431\u0440\u0430\u0442\u0438\u0442\u0435 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435, \u0447\u0442\u043e Mozilla VPN \u2014 \u044d\u0442\u043e \u0441\u0435\u0440\u0432\u0438\u0441 \u0441 \u043f\u043b\u0430\u0442\u043d\u043e\u0439 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u043e\u0439.",
-    "description": "This is a footnote for \u201cbodyInstallMsg\u201d."
+    "message": "Обратите внимание, что Mozilla VPN — это сервис с платной подпиской.",
+    "description": "This is a footnote for “bodyInstallMsg”."
   },
   "btnDownloadNow": {
-    "message": "\u0417\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044c \u0441\u0435\u0439\u0447\u0430\u0441",
+    "message": "Загрузить сейчас",
     "description": "This is a call to action button to download the VPN."
   },
   "defaultLocationHeader": {
-    "message": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u043c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 Mozilla VPN."
+    "message": "Использовать местоположение Mozilla VPN."
   },
   "useDefaultLocationExplainer": {
-    "message": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u0442\u043e \u0436\u0435 \u043c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435, \u0447\u0442\u043e \u0438 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 Mozilla VPN, \u0437\u0430\u0449\u0438\u0449\u0430\u044e\u0449\u0435\u0435 \u044d\u0442\u043e\u0442 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440.",
-    "description": "Explanation of what \u201cUse default Mozilla VPN Location\u201d means."
+    "message": "Использовать то же местоположение, что и приложение Mozilla VPN, защищающее этот компьютер.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
   },
   "headerUnsupportedOSMessage": {
-    "message": "\u041d\u0435\u043f\u043e\u0434\u0434\u0435\u0440\u0436\u0438\u0432\u0430\u0435\u043c\u0430\u044f \u043f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430."
+    "message": "Неподдерживаемая платформа."
   },
   "bodyUnsupportedOSMessage": {
-    "message": "\u0412 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435 Mozilla VPN \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u043e \u0442\u043e\u043b\u044c\u043a\u043e \u043d\u0430 Windows-\u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0430\u0445."
+    "message": "В настоящее время расширение Mozilla VPN доступно только на Windows-устройствах."
   },
   "footnoteUnsupportedOSMessage": {
-    "message": "\u041c\u044b \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u043c \u043d\u0430\u0434 \u0442\u0435\u043c, \u0447\u0442\u043e\u0431\u044b \u0432 \u0431\u043b\u0438\u0436\u0430\u0439\u0448\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u0434\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0443 \u0432 macOS \u0438 Linux!"
+    "message": "Мы работаем над тем, чтобы в ближайшее время добавить поддержку в macOS и Linux!"
   },
   "turnOnProtection": {
-    "message": "\u0412\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u0437\u0430\u0449\u0438\u0442\u0443",
+    "message": "Включить защиту",
     "description": "Button label."
   },
   "removeCustomLocation": {
-    "message": "\u0423\u0434\u0430\u043b\u0438\u0442\u044c \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435",
+    "message": "Удалить пользовательское местоположение",
     "description": "Button label."
   },
   "websiteProtection": {
-    "message": "\u0417\u0430\u0449\u0438\u0442\u0430 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u0430",
+    "message": "Защита веб-сайта",
     "description": "A subtitle that is followed by an off icon and the word 'Off'."
   },
   "giveFeedback": {
-    "message": "\u041e\u0441\u0442\u0430\u0432\u0438\u0442\u044c \u043e\u0442\u0437\u044b\u0432",
+    "message": "Оставить отзыв",
     "description": "Button label."
   },
   "learnMore": {
-    "message": "\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435",
+    "message": "Подробнее",
     "description": "Label of link that leads to SUMO."
   },
   "onboarding1_title": {
-    "message": "\u041e\u0442\u043a\u043b\u044e\u0447\u0438\u0442\u044c VPN \u0434\u043b\u044f \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u044b\u0445 \u0441\u0430\u0439\u0442\u043e\u0432",
+    "message": "Отключить VPN для определённых сайтов",
     "description": "Title in onboarding panel."
   },
   "onboarding1_body": {
-    "message": "\u0421 \u043f\u043e\u043c\u043e\u0449\u044c\u044e \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044f \u0434\u043b\u044f Firefox \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043e\u0442\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u0437\u0430\u0449\u0438\u0442\u0443 VPN \u0434\u043b\u044f \u043e\u043f\u0440\u0435\u0434\u0435\u043b\u0451\u043d\u043d\u044b\u0445 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u043e\u0432, \u043e\u0441\u0442\u0430\u0432\u0438\u0432 \u0435\u0451 \u0432\u043a\u043b\u044e\u0447\u0435\u043d\u043d\u043e\u0439 \u0434\u043b\u044f \u0432\u0441\u0435\u0445 \u043e\u0441\u0442\u0430\u043b\u044c\u043d\u044b\u0445.",
+    "message": "С помощью расширения для Firefox вы можете отключить защиту VPN для определённых веб-сайтов, оставив её включенной для всех остальных.",
     "description": "Body text in onboarding panel."
   },
   "onboarding2_title": {
-    "message": "\u041f\u0440\u043e\u0441\u043c\u0430\u0442\u0440\u0438\u0432\u0430\u0439\u0442\u0435 \u0440\u0430\u0437\u043d\u044b\u0435 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u044b \u0438\u0437 \u0440\u0430\u0437\u043d\u044b\u0445 \u043c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0439",
+    "message": "Просматривайте разные веб-сайты из разных местоположений",
     "description": "Title in onboarding panel."
   },
   "onboarding2_body": {
-    "message": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438 \u0438\u0437 \u041b\u043e\u043d\u0434\u043e\u043d\u0430. \u0421\u043f\u043e\u0440\u0442\u0438\u0432\u043d\u044b\u0435 \u043d\u043e\u0432\u043e\u0441\u0442\u0438 \u0438\u0437 \u0421\u0430\u043d-\u041f\u0430\u0443\u043b\u0443. \u041f\u043e\u043a\u0443\u043f\u043a\u0438 \u0438\u0437 \u0422\u043e\u043a\u0438\u043e. \u041d\u0430\u0441\u0442\u0440\u043e\u0439\u0442\u0435 \u043c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u0430 \u0434\u043b\u044f \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430.",
+    "message": "Новости из Лондона. Спортивные новости из Сан-Паулу. Покупки из Токио. Настройте местоположение веб-сайта для персонализированного просмотра.",
     "description": "Body text in onboarding panel."
   },
   "onboarding3_title": {
-    "message": "\u0414\u0435\u0440\u0436\u0430\u0442\u044c \u0437\u0430\u0449\u0438\u0442\u0443 \u0434\u043b\u044f Firefox \u00ab\u0432\u043a\u043b.\u00bb",
+    "message": "Держать защиту для Firefox «вкл.»",
     "description": "Title in onboarding panel."
   },
   "onboarding3_body": {
-    "message": "\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439\u0442\u0435 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435, \u0447\u0442\u043e\u0431\u044b \u0432\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u0437\u0430\u0449\u0438\u0442\u0443 VPN \u0434\u043b\u044f Firefox \u2014 \u0434\u0430\u0436\u0435 \u0435\u0441\u043b\u0438 \u0437\u0430\u0449\u0438\u0442\u0430 \u043e\u0442\u043a\u043b\u044e\u0447\u0435\u043d\u0430 \u043d\u0430 \u0432\u0430\u0448\u0435\u043c \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0435.",
+    "message": "Используйте расширение, чтобы включить защиту VPN для Firefox — даже если защита отключена на вашем компьютере.",
     "description": "Body text in onboarding panel."
   },
   "next": {
-    "message": "\u0414\u0430\u043b\u0435\u0435",
+    "message": "Далее",
     "description": "Label of button to progress to next onboarding panel."
   },
   "skip": {
-    "message": "\u041f\u0440\u043e\u043f\u0443\u0441\u0442\u0438\u0442\u044c",
+    "message": "Пропустить",
     "description": "Label of button to skip onboarding."
   },
   "done": {
-    "message": "\u0413\u043e\u0442\u043e\u0432\u043e",
+    "message": "Готово",
     "description": "Label of button in final onboarding panel."
   },
   "headerReEnableFirefoxProtection": {
-    "message": "\u0412\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u0437\u0430\u0449\u0438\u0442\u0443 Firefox \u0441\u043d\u043e\u0432\u0430",
+    "message": "Включить защиту Firefox снова",
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "bodyReEnableFirefoxProtection": {
-    "message": "Firefox \u0432 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u00ab\u0438\u0441\u043a\u043b\u044e\u0447\u0451\u043d\u043d\u044b\u043c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435\u043c\u00bb \u0432 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0438 Mozilla VPN. \u0427\u0442\u043e\u0431\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u044d\u0442\u043e \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435, \u043e\u0442\u043a\u0440\u043e\u0439\u0442\u0435 \u0435\u0433\u043e, \u043f\u0435\u0440\u0435\u0439\u0434\u0438\u0442\u0435 \u0432 \u00ab\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438\u00bb > \u00ab\u0418\u0441\u043a\u043b\u044e\u0447\u0451\u043d\u043d\u044b\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f\u00bb \u0438 \u0443\u0434\u0430\u043b\u0438\u0442\u0435 Firefox.",
+    "message": "Firefox в настоящее время является «исключённым приложением» в приложении Mozilla VPN. Чтобы использовать это расширение, откройте его, перейдите в «Настройки» > «Исключённые приложения» и удалите Firefox.",
     "description": "Body copy of error panel."
   },
   "settingsPageSubtitle": {
-    "message": "\u0427\u0442\u043e\u0431\u044b \u0434\u043e\u0431\u0430\u0432\u0438\u0442\u044c \u0438\u043b\u0438 \u0438\u0437\u043c\u0435\u043d\u0438\u0442\u044c \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u0434\u043b\u044f \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u043e\u0432, \u043f\u043e\u0441\u0435\u0442\u0438\u0442\u0435 \u0441\u0430\u0439\u0442 \u0438 \u043e\u0442\u043a\u0440\u043e\u0439\u0442\u0435 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435 Mozilla VPN \u0434\u043b\u044f Firefox. \u0417\u0430\u0442\u0435\u043c \u0443\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u0435 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u0434\u043b\u044f \u0441\u0430\u0439\u0442\u0430. \u0412\u0430\u0448\u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u0434\u0435\u0439\u0441\u0442\u0432\u0443\u044e\u0442 \u0442\u043e\u043b\u044c\u043a\u043e \u043f\u0440\u0438 \u0432\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0438 VPN-\u0437\u0430\u0449\u0438\u0442\u044b \u0434\u043b\u044f Firefox.",
+    "message": "Чтобы добавить или изменить настройки для веб-сайтов, посетите сайт и откройте расширение Mozilla VPN для Firefox. Затем установите настройки для сайта. Ваши настройки действуют только при включении VPN-защиты для Firefox.",
     "description": "Subtitle in the settings page."
   },
   "settingsPageTitle": {
-    "message": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u043e\u0432 Mozilla VPN",
+    "message": "Настройки веб-сайтов Mozilla VPN",
     "description": "Title for settings page tab."
   },
   "noSignal": {
-    "message": "\u041d\u0435\u0442 \u0441\u0438\u0433\u043d\u0430\u043b\u0430",
+    "message": "Нет сигнала",
     "description": "Indicator text describing the status of the VPN."
   },
   "unstable": {
-    "message": "\u041d\u0435\u0441\u0442\u0430\u0431\u0438\u043b\u044c\u043d\u043e\u0435",
+    "message": "Нестабильное",
     "description": "Indicator text describing the status of the VPN."
   },
   "connecting": {
-    "message": "\u0421\u043e\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435\u2026",
+    "message": "Соединение…",
     "description": "Indicator text describing the status of the VPN."
   },
   "helpCenter": {
-    "message": "\u0426\u0435\u043d\u0442\u0440 \u043f\u043e\u043c\u043e\u0449\u0438",
+    "message": "Центр помощи",
     "description": "Link title."
   },
   "websitePreferences": {
-    "message": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u043e\u0432",
+    "message": "Настройки веб-сайтов",
     "description": "Link title."
   },
   "contactSupport": {
-    "message": "\u0421\u0432\u044f\u0437\u0430\u0442\u044c\u0441\u044f \u0441 \u043f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u043e\u0439",
+    "message": "Связаться с поддержкой",
     "description": "Link title."
   },
   "offForWebsite": {
-    "message": "Mozilla VPN \u043e\u0442\u043a\u043b\u044e\u0447\u0451\u043d \u0434\u043b\u044f \u0441\u0430\u0439\u0442\u0430",
+    "message": "Mozilla VPN отключён для сайта",
     "description": "Aria label."
   },
   "websiteLocationLabel": {
-    "message": "$serverlocation$: \u041c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u0430 Mozilla VPN",
+    "message": "$serverlocation$: Местоположение веб-сайта Mozilla VPN",
     "description": "Aria label for a flag icon representing the location of the VPN server",
     "placeholders": {
       "serverlocation": {
@@ -289,114 +289,114 @@
     }
   },
   "alert_conflictingProgram": {
-    "message": "\u041f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0430 \u043d\u0430 \u0432\u0430\u0448\u0435\u043c \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0435 \u043c\u043e\u0436\u0435\u0442 \u0432\u044b\u0437\u044b\u0432\u0430\u0442\u044c \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b \u0441 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435\u043c Mozilla VPN.",
+    "message": "Программа на вашем компьютере может вызывать проблемы с расширением Mozilla VPN.",
     "description": "Banner alert"
   },
   "howToFix": {
-    "message": "\u041a\u0430\u043a \u0438\u0441\u043f\u0440\u0430\u0432\u0438\u0442\u044c",
+    "message": "Как исправить",
     "description": "Link in banner alert"
   },
   "alert_conflictingExtensions": {
-    "message": "\u0414\u0440\u0443\u0433\u0438\u0435 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044f \u043c\u043e\u0433\u0443\u0442 \u043c\u0435\u0448\u0430\u0442\u044c \u0440\u0430\u0431\u043e\u0442\u0435 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044f Mozilla VPN.",
+    "message": "Другие расширения могут мешать работе расширения Mozilla VPN.",
     "description": "Banner alert"
   },
   "learnWhatToDo": {
-    "message": "\u0423\u0437\u043d\u0430\u0439\u0442\u0435, \u0447\u0442\u043e \u043d\u0443\u0436\u043d\u043e \u0441\u0434\u0435\u043b\u0430\u0442\u044c",
+    "message": "Узнайте, что нужно сделать",
     "description": "Link in banner alert"
   },
   "telemetry_toggle_text": {
-    "message": "\u041f\u043e\u0434\u0435\u043b\u0438\u0442\u0435\u0441\u044c \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u043c\u0438 \u0434\u0430\u043d\u043d\u044b\u043c\u0438 \u0438 \u0434\u0430\u043d\u043d\u044b\u043c\u0438 \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f",
+    "message": "Поделитесь техническими данными и данными взаимодействия",
     "description": "Label for the Telemetry Opt-In toggle"
   },
   "privacy_notice_link_name": {
-    "message": "\u0423\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u0435 \u043e \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0441\u0435\u0440\u0432\u0438\u0441\u043e\u0432 Mozilla",
+    "message": "Уведомление о конфиденциальности сервисов Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
   "first-install-body": {
-    "message": "\u0427\u0442\u043e\u0431\u044b \u043f\u043e\u043c\u043e\u0447\u044c \u043d\u0430\u043c \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c \u0444\u0443\u043d\u043a\u0446\u0438\u0438 \u0438 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0438 \u0431\u044b\u0441\u0442\u0440\u043e \u0440\u0435\u0448\u0438\u0442\u044c \u043f\u0440\u043e\u0431\u043b\u0435\u043c\u044b, \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0440\u0430\u0437\u0440\u0435\u0448\u0438\u0442\u044c \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044e Mozilla VPN \u0441\u043e\u0431\u0438\u0440\u0430\u0442\u044c \u0434\u0430\u043d\u043d\u044b\u0435. \u0414\u0430\u043d\u043d\u044b\u0435, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043c\u044b \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u043c, \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0431\u0443\u0434\u0443\u0442 \u0441\u0432\u044f\u0437\u0430\u043d\u044b \u0441 \u0432\u0430\u043c\u0438, \u0438 \u043c\u044b \u043d\u0438\u043a\u043e\u0433\u0434\u0430 \u043d\u0435 \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u043c \u0434\u0430\u043d\u043d\u044b\u0435 \u043e \u043f\u043e\u0441\u0435\u0449\u0430\u0435\u043c\u044b\u0445 \u0432\u0430\u043c\u0438 \u0441\u0430\u0439\u0442\u0430\u0445. \u0421\u0431\u043e\u0440 \u0434\u0430\u043d\u043d\u044b\u0445 \u043d\u0435 \u0432\u043b\u0438\u044f\u0435\u0442 \u043d\u0430 \u0440\u0430\u0431\u043e\u0442\u0443 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044f.",
+    "message": "Чтобы помочь нам улучшить функции и производительность и быстро решить проблемы, вы можете разрешить расширению Mozilla VPN собирать данные. Данные, которые мы собираем, никогда не будут связаны с вами, и мы никогда не собираем данные о посещаемых вами сайтах. Сбор данных не влияет на работу расширения.",
     "description": "Body copy on the telemetry consent screen"
   },
   "privacyPolicyIntro": {
-    "message": "\u041f\u043e\u043b\u043d\u044b\u0439 \u0441\u043f\u0438\u0441\u043e\u043a \u0434\u0430\u043d\u043d\u044b\u0445, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043c\u044b \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u043c, \u0434\u043e\u0441\u0442\u0443\u043f\u0435\u043d \u0432 \u043d\u0430\u0448\u0435\u0439 \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0435 \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438.",
+    "message": "Полный список данных, которые мы собираем, доступен в нашей политике конфиденциальности.",
     "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
   },
   "viewPrivacyPolicy": {
-    "message": "\u041f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0443 \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438",
+    "message": "Просмотреть политику конфиденциальности",
     "description": "Privacy policy link"
   },
   "thankYouForAdding": {
-    "message": "\u0421\u043f\u0430\u0441\u0438\u0431\u043e \u0437\u0430 \u0434\u043e\u0431\u0430\u0432\u043b\u0435\u043d\u0438\u0435 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044f Mozilla VPN",
+    "message": "Спасибо за добавление расширения Mozilla VPN",
     "description": "Headline on the telemetry consent screen"
   },
   "toContinueToTheExtension": {
-    "message": "\u0427\u0442\u043e\u0431\u044b \u043f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044e, \u0432\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u043b\u043e\u0433\u043e\u0442\u0438\u043f Mozilla VPN \u043d\u0430 \u043f\u0430\u043d\u0435\u043b\u0438 \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u043e\u0432 Firefox.",
+    "message": "Чтобы перейти к расширению, выберите логотип Mozilla VPN на панели инструментов Firefox.",
     "description": "Blurb at the bottom of the telemetry consent screen"
   },
   "optionalDataCollection": {
-    "message": "\u041d\u0435\u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0441\u0431\u043e\u0440 \u0434\u0430\u043d\u043d\u044b\u0445",
+    "message": "Необязательный сбор данных",
     "description": "Subtitle on the telemetry consent screen"
   },
   "telemetryListHeader": {
-    "message": "\u041d\u0435\u043e\u0431\u044f\u0437\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0435 \u0434\u0430\u043d\u043d\u044b\u0435, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043c\u044b \u0441\u043e\u0431\u0438\u0440\u0430\u0435\u043c, \u0432\u043a\u043b\u044e\u0447\u0430\u044e\u0442:",
+    "message": "Необязательные данные, которые мы собираем, включают:",
     "description": "Headline for a list describing the type of data collected by the extension"
   },
   "technicalData": {
-    "message": "\u0422\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0434\u0430\u043d\u043d\u044b\u0435, \u0442\u0430\u043a\u0438\u0435 \u043a\u0430\u043a \u0432\u0435\u0440\u0441\u0438\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0430, \u0432\u0435\u0440\u0441\u0438\u044f \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044f \u0438 \u0441\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u043e\u0431 \u043e\u0448\u0438\u0431\u043a\u0430\u0445 \u0434\u043b\u044f \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u043e\u0433\u043e \u043e\u0442\u0441\u043b\u0435\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u0438 \u0438\u0441\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u043e\u0448\u0438\u0431\u043e\u043a.",
+    "message": "Технические данные, такие как версия браузера, версия расширения и сведения об ошибках для эффективного отслеживания и исправления ошибок.",
     "description": "Description of technical data, found on telemetry consent screen."
   },
   "interactionData": {
-    "message": "\u0414\u0430\u043d\u043d\u044b\u0435 \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f, \u0442\u0430\u043a\u0438\u0435 \u043a\u0430\u043a \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u043e\u0432, \u0438\u0441\u043a\u043b\u044e\u0447\u0435\u043d\u043d\u044b\u0445 \u0438\u0437 \u0437\u0430\u0449\u0438\u0442\u044b VPN, \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u043e\u0432 \u0441 \u043f\u0440\u0435\u0434\u043f\u043e\u0447\u0442\u0435\u043d\u0438\u044f\u043c\u0438 \u043c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u044f, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0447\u0430\u0441\u0442\u043e\u0442\u0430 \u0432\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f \u0438 \u043e\u0442\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f \u0437\u0430\u0449\u0438\u0442\u044b.",
+    "message": "Данные взаимодействия, такие как количество веб-сайтов, исключенных из защиты VPN, количество веб-сайтов с предпочтениями местоположения, а также частота включения и отключения защиты.",
     "description": "Description of interaction data, found on the telemetry consent screen."
   },
   "telemetryOptOutInstructions": {
-    "message": "\u0415\u0441\u043b\u0438 \u0432\u044b \u043d\u0435 \u0445\u043e\u0442\u0438\u0442\u0435 \u0440\u0430\u0437\u0440\u0435\u0448\u0430\u0442\u044c \u0441\u043e\u0431\u0438\u0440\u0430\u0442\u044c \u0434\u0430\u043d\u043d\u044b\u0435 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u044e Mozilla VPN, \u0441\u043d\u0438\u043c\u0438\u0442\u0435 \u0444\u043b\u0430\u0436\u043e\u043a. \u0412\u044b \u0442\u0430\u043a\u0436\u0435 \u043c\u043e\u0436\u0435\u0442\u0435 \u0438\u0437\u043c\u0435\u043d\u0438\u0442\u044c \u044d\u0442\u043e\u0442 \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440 \u0432 \u043b\u044e\u0431\u043e\u0435 \u0432\u0440\u0435\u043c\u044f \u0432 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0438 \u0432 \u0440\u0430\u0437\u0434\u0435\u043b\u0435 \u00ab\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438\u00bb.",
+    "message": "Если вы не хотите разрешать собирать данные расширению Mozilla VPN, снимите флажок. Вы также можете изменить этот параметр в любое время в расширении в разделе «Настройки».",
     "description": "Opt out instructions on the telemetry consent screen"
   },
   "telemetryCheckboxLabel": {
-    "message": "\u0420\u0430\u0437\u0440\u0435\u0448\u0438\u0442\u044c Mozilla \u0441\u043e\u0431\u0438\u0440\u0430\u0442\u044c \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0434\u0430\u043d\u043d\u044b\u0435 \u0438 \u0434\u0430\u043d\u043d\u044b\u0435 \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f",
+    "message": "Разрешить Mozilla собирать технические данные и данные взаимодействия",
     "description": "Checkbox label"
   },
   "telemetrySettingsCheckboxLabel": {
-    "message": "\u042d\u0442\u0438 \u0434\u0430\u043d\u043d\u044b\u0435 \u043f\u043e\u043c\u043e\u0433\u0430\u044e\u0442 \u043d\u0430\u043c \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0438 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c. \u041e\u043d\u0438 \u0432\u043a\u043b\u044e\u0447\u0430\u0435\u0442 \u0432 \u0441\u0435\u0431\u044f \u0434\u0430\u043d\u043d\u044b\u0435 \u043e \u0432\u0430\u0448\u0435\u043c \u0443\u0441\u0442\u0440\u043e\u0439\u0441\u0442\u0432\u0435, \u043a\u043e\u043d\u0444\u0438\u0433\u0443\u0440\u0430\u0446\u0438\u0438 \u043e\u0431\u043e\u0440\u0443\u0434\u043e\u0432\u0430\u043d\u0438\u044f \u0438 \u043a\u0430\u043a \u0432\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u0442\u0435 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435 Mozilla VPN.",
+    "message": "Эти данные помогают нам улучшить возможности и производительность. Они включает в себя данные о вашем устройстве, конфигурации оборудования и как вы используете расширение Mozilla VPN.",
     "description": "Checkbox label on the settings page"
   },
   "messageSplitTunnelHeader": {
-    "message": "\u0412\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u0437\u0430\u0449\u0438\u0442\u0443 \u0434\u043b\u044f Firefox",
+    "message": "Включить защиту для Firefox",
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "messageSplitTunnelBody": {
-    "message": "Firefox \u0432 \u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0435\u0435 \u0432\u0440\u0435\u043c\u044f \u044f\u0432\u043b\u044f\u0435\u0442\u0441\u044f \u00ab\u0438\u0441\u043a\u043b\u044e\u0447\u0451\u043d\u043d\u044b\u043c \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435\u043c\u00bb \u0432 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0438 Mozilla VPN. \u0427\u0442\u043e\u0431\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u044c \u044d\u0442\u043e \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u0438\u0435, \u043e\u0442\u043a\u0440\u043e\u0439\u0442\u0435 \u0435\u0433\u043e, \u043f\u0435\u0440\u0435\u0439\u0434\u0438\u0442\u0435 \u0432 \u00ab\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438\u00bb > \u00ab\u0418\u0441\u043a\u043b\u044e\u0447\u0451\u043d\u043d\u044b\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f\u00bb \u0438 \u0443\u0434\u0430\u043b\u0438\u0442\u0435 Firefox.",
+    "message": "Firefox в настоящее время является «исключённым приложением» в приложении Mozilla VPN. Чтобы использовать это расширение, откройте его, перейдите в «Настройки» > «Исключённые приложения» и удалите Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "headerSubscriptionNotAvailable": {
-    "message": "\u041f\u043e\u0434\u043f\u0438\u0441\u043a\u0438 Mozilla VPN \u043f\u043e\u043a\u0430 \u043d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u043d\u044b \u0432 \u0432\u0430\u0448\u0435\u0439 \u0441\u0442\u0440\u0430\u043d\u0435",
+    "message": "Подписки Mozilla VPN пока недоступны в вашей стране",
     "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "bodySubscriptionNotAvailable": {
-    "message": "\u041f\u043e\u0434\u043f\u0438\u0441\u043a\u0438 Mozilla VPN \u043f\u043e\u043a\u0430 \u043d\u0435\u0434\u043e\u0441\u0442\u0443\u043f\u043d\u044b \u0432 \u0432\u0430\u0448\u0435\u0439 \u0441\u0442\u0440\u0430\u043d\u0435, \u043d\u043e \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u043f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u0438\u0442\u044c\u0441\u044f \u043a \u043d\u0430\u0448\u0435\u043c\u0443 \u0441\u043f\u0438\u0441\u043a\u0443 \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f, \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u0435\u043d\u0438\u044f \u043e\u0431 \u0438\u0445 \u0437\u0430\u043f\u0443\u0441\u043a\u0435. \u0415\u0441\u043b\u0438 \u0443 \u0432\u0430\u0441 \u0443\u0436\u0435 \u0435\u0441\u0442\u044c \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0430, \u043f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u043f\u0440\u043e\u0434\u043e\u043b\u0436\u0430\u0439\u0442\u0435.",
+    "message": "Подписки Mozilla VPN пока недоступны в вашей стране, но вы можете присоединиться к нашему списку ожидания, чтобы получить уведомления об их запуске. Если у вас уже есть подписка, пожалуйста, продолжайте.",
     "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnjoinWaitlist": {
-    "message": "\u041f\u0440\u0438\u0441\u043e\u0435\u0434\u0438\u043d\u0438\u0442\u044c\u0441\u044f \u043a \u0441\u043f\u0438\u0441\u043a\u0443 \u043e\u0436\u0438\u0434\u0430\u043d\u0438\u044f",
+    "message": "Присоединиться к списку ожидания",
     "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnContinue": {
-    "message": "\u041f\u0440\u043e\u0434\u043e\u043b\u0436\u0438\u0442\u044c",
+    "message": "Продолжить",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   },
   "headlineAutoConnectOptions": {
-    "message": "\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f",
+    "message": "Настройки автоматического подключения",
     "description": "Headline for the Auto Connect options"
   },
   "labelDescribeAutoStartOnPBM": {
-    "message": "\u0412\u0441\u0435\u0433\u0434\u0430 \u0432\u043a\u043b\u044e\u0447\u0430\u0442\u044c VPN \u043f\u0440\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u043d\u0438\u0438 \u0440\u0435\u0436\u0438\u043c\u0430 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u043e\u0433\u043e \u043f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0430"
+    "message": "Всегда включать VPN при использовании режима приватного просмотра"
   },
   "bodyAutoStartOnPBM": {
-    "message": "\u0427\u0442\u043e\u0431\u044b \u0432\u043a\u043b\u044e\u0447\u0438\u0442\u044c \u044d\u0442\u043e, \u043f\u0435\u0440\u0435\u0439\u0434\u0438\u0442\u0435 \u0432 \u043c\u0435\u043d\u044e \u0434\u043e\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0439, \u0432\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u00abMozilla VPN Extension\u00bb \u0438 \u0432\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u00ab\u0420\u0430\u0437\u0440\u0435\u0448\u0438\u0442\u044c\u00bb \u0434\u043b\u044f \u00ab\u0417\u0430\u043f\u0443\u0441\u043a \u0432 \u043f\u0440\u0438\u0432\u0430\u0442\u043d\u044b\u0445 \u043e\u043a\u043d\u0430\u0445\u00bb.",
+    "message": "Чтобы включить это, перейдите в меню дополнений, выберите «Mozilla VPN Extension» и выберите «Разрешить» для «Запуск в приватных окнах».",
     "description": "Body of the autostart option."
   },
   "labelDescribeAutoStart": {
-    "message": "\u0412\u0441\u0435\u0433\u0434\u0430 \u0432\u043a\u043b\u044e\u0447\u0430\u0442\u044c VPN \u043f\u0440\u0438 \u043e\u0442\u043a\u0440\u044b\u0442\u0438\u0438 Firefox",
+    "message": "Всегда включать VPN при открытии Firefox",
     "description": "Description for the autostart checkbox"
   }
 }

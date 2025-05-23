@@ -12,7 +12,7 @@
     "description": "Description of the extension."
   },
   "back": {
-    "message": "N\u00f4l",
+    "message": "Nôl",
     "description": "Alternative text attribute for back button."
   },
   "productName": {
@@ -79,7 +79,7 @@
   },
   "headlineNoWebsitePreferences": {
     "message": "Nid ydych wedi gosod unrhyw ddewisiadau gwefan eto",
-    "description": "Headline shown when the user hasn\u2019t set any website preferences."
+    "description": "Headline shown when the user hasn’t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
     "message": "Gyda'r estyniad Firefox, gallwch chi ddiffodd amddiffyniad Mozilla VPN ar gyfer gwefan neu osod lleoliad cyfaddas. I wneud hyn, ewch i wefan, agorwch yr estyniad, a diweddarwch ddewisiadau'r wefan.",
@@ -107,7 +107,7 @@
     "message": "Tanysgrifiwch i Mozilla VPN."
   },
   "bodySubscribeNow2": {
-    "message": "Doedd dim modd dod o hyd i danysgrifiad yn gysylltiedig \u00e2'r cyfrif a ddefnyddiwyd gennych i fewngofnodi ar ap Mozilla VPN.",
+    "message": "Doedd dim modd dod o hyd i danysgrifiad yn gysylltiedig â'r cyfrif a ddefnyddiwyd gennych i fewngofnodi ar ap Mozilla VPN.",
     "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
   },
   "footerSubscribeNow": {
@@ -156,7 +156,7 @@
   },
   "bodyInstallMsgFooter": {
     "message": "Sylwch fod Mozilla VPN yn wasanaeth tanysgrifio taledig.",
-    "description": "This is a footnote for \u201cbodyInstallMsg\u201d."
+    "description": "This is a footnote for “bodyInstallMsg”."
   },
   "btnDownloadNow": {
     "message": "Llwytho i lawr nawr",
@@ -166,8 +166,8 @@
     "message": "Defnyddio lleoliad Mozilla VPN."
   },
   "useDefaultLocationExplainer": {
-    "message": "Defnyddiwch yr un lleoliad \u00e2'r ap Mozilla VPN sy'n diogelu'r cyfrifiadur hwn.",
-    "description": "Explanation of what \u201cUse default Mozilla VPN Location\u201d means."
+    "message": "Defnyddiwch yr un lleoliad â'r ap Mozilla VPN sy'n diogelu'r cyfrifiadur hwn.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
   },
   "headerUnsupportedOSMessage": {
     "message": "Llwyfan heb ei gefnogi."
@@ -176,7 +176,7 @@
     "message": "Ar hyn o bryd, dim ond ar ddyfeisiau Windows y mae estyniad Mozilla VPN ar gael."
   },
   "footnoteUnsupportedOSMessage": {
-    "message": "Rydyn ni'n gweithio i ddod \u00e2 chefnogaeth i macOS a Linux cyn hir!"
+    "message": "Rydyn ni'n gweithio i ddod â chefnogaeth i macOS a Linux cyn hir!"
   },
   "turnOnProtection": {
     "message": "Trowch y diogelu ymlaen",
@@ -215,7 +215,7 @@
     "description": "Body text in onboarding panel."
   },
   "onboarding3_title": {
-    "message": "Cadwch ddiogelu ar gyfer Firefox \u201cymlaen\u201d",
+    "message": "Cadwch ddiogelu ar gyfer Firefox “ymlaen”",
     "description": "Title in onboarding panel."
   },
   "onboarding3_body": {
@@ -239,7 +239,7 @@
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "bodyReEnableFirefoxProtection": {
-    "message": "Ar hyn o bryd mae Firefox yn \u201cap gwaharddedig\u201d yn rhaglen Mozilla VPN. I ddefnyddio'r estyniad hwn, agorwch y rhaglen ac ewch i Gosodiadau > Apiau Eithriedig a thynnu Firefox.",
+    "message": "Ar hyn o bryd mae Firefox yn “ap gwaharddedig” yn rhaglen Mozilla VPN. I ddefnyddio'r estyniad hwn, agorwch y rhaglen ac ewch i Gosodiadau > Apiau Eithriedig a thynnu Firefox.",
     "description": "Body copy of error panel."
   },
   "settingsPageSubtitle": {
@@ -259,7 +259,7 @@
     "description": "Indicator text describing the status of the VPN."
   },
   "connecting": {
-    "message": "Yn cysylltu\u2026",
+    "message": "Yn cysylltu…",
     "description": "Indicator text describing the status of the VPN."
   },
   "helpCenter": {
@@ -271,7 +271,7 @@
     "description": "Link title."
   },
   "contactSupport": {
-    "message": "Cysylltu \u00e2 chefnogaeth",
+    "message": "Cysylltu â chefnogaeth",
     "description": "Link title."
   },
   "offForWebsite": {
@@ -297,7 +297,7 @@
     "description": "Link in banner alert"
   },
   "alert_conflictingExtensions": {
-    "message": "Gall estyniadau eraill fod yn ymyrryd \u00e2 sut mae estyniad Mozilla VPN yn gweithio.",
+    "message": "Gall estyniadau eraill fod yn ymyrryd â sut mae estyniad Mozilla VPN yn gweithio.",
     "description": "Banner alert"
   },
   "learnWhatToDo": {
@@ -313,7 +313,7 @@
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
   "first-install-body": {
-    "message": "Er mwyn ein helpu i wella nodweddion a pherfformiad a datrys problemau yn gyflym, gallwch ddewis caniat\u00e1u estyniad Mozilla VPN i gasglu data. Ni fydd y data rydym yn ei gasglu byth yn gysylltiedig \u00e2 chi a fyddwn ni byth yn casglu data am y gwefannau rydych yn ymweld \u00e2 nhw. Nid yw casglu data yn effeithio ar sut mae'r estyniad yn gweithio.",
+    "message": "Er mwyn ein helpu i wella nodweddion a pherfformiad a datrys problemau yn gyflym, gallwch ddewis caniatáu estyniad Mozilla VPN i gasglu data. Ni fydd y data rydym yn ei gasglu byth yn gysylltiedig â chi a fyddwn ni byth yn casglu data am y gwefannau rydych yn ymweld â nhw. Nid yw casglu data yn effeithio ar sut mae'r estyniad yn gweithio.",
     "description": "Body copy on the telemetry consent screen"
   },
   "privacyPolicyIntro": {
@@ -337,7 +337,7 @@
     "description": "Subtitle on the telemetry consent screen"
   },
   "telemetryListHeader": {
-    "message": "Mae\u2019r data dewisol rydym yn ei gasglu'n cynnwys:",
+    "message": "Mae’r data dewisol rydym yn ei gasglu'n cynnwys:",
     "description": "Headline for a list describing the type of data collected by the extension"
   },
   "technicalData": {
@@ -345,15 +345,15 @@
     "description": "Description of technical data, found on telemetry consent screen."
   },
   "interactionData": {
-    "message": "Data rhyngweithio, megis nifer y gwefannau sydd wedi'u heithrio rhag ddiogelwch y VPN, nifer y gwefannau sydd \u00e2 dewis lleoliad, a pha mor aml y caiff diogelwch ei droi ymlaen ac i ffwrdd.",
+    "message": "Data rhyngweithio, megis nifer y gwefannau sydd wedi'u heithrio rhag ddiogelwch y VPN, nifer y gwefannau sydd â dewis lleoliad, a pha mor aml y caiff diogelwch ei droi ymlaen ac i ffwrdd.",
     "description": "Description of interaction data, found on the telemetry consent screen."
   },
   "telemetryOptOutInstructions": {
-    "message": "Os nad ydych chi am ganiat\u00e1u i estyniad Mozilla VPN gasglu data, dad-diciwch y blwch. Gallwch hefyd newid y gosodiad hwn unrhyw bryd yn yr estyniad, o dan Gosodiadau.",
+    "message": "Os nad ydych chi am ganiatáu i estyniad Mozilla VPN gasglu data, dad-diciwch y blwch. Gallwch hefyd newid y gosodiad hwn unrhyw bryd yn yr estyniad, o dan Gosodiadau.",
     "description": "Opt out instructions on the telemetry consent screen"
   },
   "telemetryCheckboxLabel": {
-    "message": "Caniat\u00e1u i Mozilla gasglu data technegol a rhyngweithio",
+    "message": "Caniatáu i Mozilla gasglu data technegol a rhyngweithio",
     "description": "Checkbox label"
   },
   "telemetrySettingsCheckboxLabel": {
@@ -365,7 +365,7 @@
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "messageSplitTunnelBody": {
-    "message": "Ar hyn o bryd mae Firefox yn \u201cap gwaharddedig\u201d yn rhaglen Mozilla VPN. I ddefnyddio'r estyniad hwn, agorwch y rhaglen ac ewch i Gosodiadau > Apiau Eithriedig a thynnu Firefox.",
+    "message": "Ar hyn o bryd mae Firefox yn “ap gwaharddedig” yn rhaglen Mozilla VPN. I ddefnyddio'r estyniad hwn, agorwch y rhaglen ac ewch i Gosodiadau > Apiau Eithriedig a thynnu Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "headerSubscriptionNotAvailable": {
@@ -373,11 +373,11 @@
     "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "bodySubscriptionNotAvailable": {
-    "message": "Nid yw tanysgrifiadau Mozilla VPN ar gael yn eich gwlad eto, ond gallwch ymuno \u00e2'n rhestr aros i gael gwybod pan fyddan nhw'n cael eu lansio. Os oes gennych danysgrifiad yn barod, parhewch.",
+    "message": "Nid yw tanysgrifiadau Mozilla VPN ar gael yn eich gwlad eto, ond gallwch ymuno â'n rhestr aros i gael gwybod pan fyddan nhw'n cael eu lansio. Os oes gennych danysgrifiad yn barod, parhewch.",
     "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnjoinWaitlist": {
-    "message": "Ymunwch \u00e2'r Rhestr Aros",
+    "message": "Ymunwch â'r Rhestr Aros",
     "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnContinue": {
@@ -392,7 +392,7 @@
     "message": "Troi VPN ymlaen bob tro wrth ddefnyddio'r Modd Pori Preifat"
   },
   "bodyAutoStartOnPBM": {
-    "message": "I'w droi ymlaen, ewch i'r ddewislen ychwanegion, dewiswch \u201cMozilla VPN Extension\u201d, a dewiswch \u201cAllow\u201d ar gyfer \u201cRun in Private Windows\u201d.",
+    "message": "I'w droi ymlaen, ewch i'r ddewislen ychwanegion, dewiswch “Mozilla VPN Extension”, a dewiswch “Allow” ar gyfer “Run in Private Windows”.",
     "description": "Body of the autostart option."
   },
   "labelDescribeAutoStart": {

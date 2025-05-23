@@ -79,7 +79,7 @@
   },
   "headlineNoWebsitePreferences": {
     "message": "Tu non ha configurate alcun preferentias de sito web ancora",
-    "description": "Headline shown when the user hasn\u2019t set any website preferences."
+    "description": "Headline shown when the user hasn’t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
     "message": "Con le Firefox extension, tu pote disactivar le protection VPN pro specific sitos web, mantenente illo active pro toto le altero. Pro facer isto, visita un sito web, aperi le extension, e actualisa le preferentias del sito web.",
@@ -156,7 +156,7 @@
   },
   "bodyInstallMsgFooter": {
     "message": "Nota que Mozilla VPN es un servicio de abonamento pagate.",
-    "description": "This is a footnote for \u201cbodyInstallMsg\u201d."
+    "description": "This is a footnote for “bodyInstallMsg”."
   },
   "btnDownloadNow": {
     "message": "Discargar ora",
@@ -167,7 +167,7 @@
   },
   "useDefaultLocationExplainer": {
     "message": "Usar le mesme position que Mozilla VPN app protegente iste computator.",
-    "description": "Explanation of what \u201cUse default Mozilla VPN Location\u201d means."
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
   },
   "headerUnsupportedOSMessage": {
     "message": "Platteforma non supportate."
@@ -239,7 +239,7 @@
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "bodyReEnableFirefoxProtection": {
-    "message": "Firefox es actualmente un \u201capp excludite\u201d in le application Mozilla VPN. A usar iste extension, aperi le application e vade a parametros > Apps excludite e remove Firefox.",
+    "message": "Firefox es actualmente un “app excludite” in le application Mozilla VPN. A usar iste extension, aperi le application e vade a parametros > Apps excludite e remove Firefox.",
     "description": "Body copy of error panel."
   },
   "settingsPageSubtitle": {
@@ -259,7 +259,7 @@
     "description": "Indicator text describing the status of the VPN."
   },
   "connecting": {
-    "message": "Connexion\u2026",
+    "message": "Connexion…",
     "description": "Indicator text describing the status of the VPN."
   },
   "helpCenter": {
@@ -365,7 +365,7 @@
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "messageSplitTunnelBody": {
-    "message": "Firefox es actualmente un \u201capp excludite\u201d in le application Mozilla VPN. A usar iste extension, aperi le application e vade a parametros > Apps excludite e remove Firefox.",
+    "message": "Firefox es actualmente un “app excludite” in le application Mozilla VPN. A usar iste extension, aperi le application e vade a parametros > Apps excludite e remove Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "headerSubscriptionNotAvailable": {
@@ -392,7 +392,7 @@
     "message": "Sempre accender VPN usante Modo de navigation private"
   },
   "bodyAutoStartOnPBM": {
-    "message": "Pro accender lo, ir al menu del additivos, seliger \u201cMozilla VPN Extension\u201d, e seliger \u201cPermitter\u201d pro \u201cFunctionar sur Fenestras private\u201d.",
+    "message": "Pro accender lo, ir al menu del additivos, seliger “Mozilla VPN Extension”, e seliger “Permitter” pro “Functionar sur Fenestras private”.",
     "description": "Body of the autostart option."
   },
   "labelDescribeAutoStart": {

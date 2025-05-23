@@ -1,6 +1,6 @@
 {
   "extensionName": {
-    "message": "Mozilla VPN Uzant\u0131s\u0131",
+    "message": "Mozilla VPN Uzantısı",
     "description": "Name of the extension."
   },
   "close": {
@@ -8,7 +8,7 @@
     "description": "Alt label text for an X icon button in alert."
   },
   "extensionDescription": {
-    "message": "VPN\u2019i Firefox\u2019a entegre edin: Sekmeleri hari\u00e7 tutun, site konumlar\u0131n\u0131 ayarlay\u0131n ve daha fazlas\u0131n\u0131 yap\u0131n.",
+    "message": "VPN’i Firefox’a entegre edin: Sekmeleri hariç tutun, site konumlarını ayarlayın ve daha fazlasını yapın.",
     "description": "Description of the extension."
   },
   "back": {
@@ -24,15 +24,15 @@
     "description": "Title for a dialog where users can set the location for a website."
   },
   "selectWebsiteLocation": {
-    "message": "Web sitesi konumunu se\u00e7in",
+    "message": "Web sitesi konumunu seçin",
     "description": "Button label."
   },
   "titlePageSettings": {
-    "message": "Bu site i\u00e7in tercihler",
+    "message": "Bu site için tercihler",
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
   "excludePageFor": {
-    "message": "$ORIGIN$ sitesinde VPN korumas\u0131n\u0131 her zaman kapat",
+    "message": "$ORIGIN$ sitesinde VPN korumasını her zaman kapat",
     "description": "Setting to exclude a website from VPN.",
     "placeholders": {
       "ORIGIN": {
@@ -42,27 +42,27 @@
     }
   },
   "resetPageSettings": {
-    "message": "Web sitesi tercihlerini s\u0131f\u0131rla",
+    "message": "Web sitesi tercihlerini sıfırla",
     "description": "Button text to reset all site specific settings."
   },
   "vpnIsOn": {
-    "message": "Firefox i\u00e7in VPN korumas\u0131 a\u00e7\u0131k",
+    "message": "Firefox için VPN koruması açık",
     "description": "Header to signal that VPN connection is enabled."
   },
   "vpnIsOff": {
-    "message": "Firefox i\u00e7in VPN korumas\u0131 kapal\u0131",
+    "message": "Firefox için VPN koruması kapalı",
     "description": "Header to signal that VPN connection is disabled."
   },
   "extensionVpnIsOff": {
-    "message": "Mozilla VPN h\u00e2l\u00e2 a\u00e7\u0131k ve bilgisayar\u0131n\u0131zdaki di\u011fer uygulamalar\u0131 koruyor.",
+    "message": "Mozilla VPN hâlâ açık ve bilgisayarınızdaki diğer uygulamaları koruyor.",
     "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
   },
   "vpnOffStatus": {
-    "message": "Kapal\u0131",
+    "message": "Kapalı",
     "description": "Label indicating that the VPN is off."
   },
   "vpnOnStatus": {
-    "message": "A\u00e7\u0131k",
+    "message": "Açık",
     "description": "Label indicating that the VPN is on."
   },
   "placeholderSearchWebsites": {
@@ -74,19 +74,19 @@
     "description": "Table heading for the column listing websites."
   },
   "tableHeadingVpnStatus": {
-    "message": "Web sitesi korumas\u0131",
+    "message": "Web sitesi koruması",
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   },
   "headlineNoWebsitePreferences": {
-    "message": "Hen\u00fcz herhangi bir web sitesi tercihi ayarlamad\u0131n\u0131z",
-    "description": "Headline shown when the user hasn\u2019t set any website preferences."
+    "message": "Henüz herhangi bir web sitesi tercihi ayarlamadınız",
+    "description": "Headline shown when the user hasn’t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
-    "message": "Firefox uzant\u0131s\u0131yla bir web sitesi i\u00e7in Mozilla VPN korumas\u0131n\u0131 kapatabilir veya \u00f6zel bir konum belirleyebilirsiniz. Bunu yapmak i\u00e7in bir web sitesini ziyaret edip uzant\u0131y\u0131 a\u00e7\u0131n ve web sitesi tercihlerini g\u00fcncelleyin.",
+    "message": "Firefox uzantısıyla bir web sitesi için Mozilla VPN korumasını kapatabilir veya özel bir konum belirleyebilirsiniz. Bunu yapmak için bir web sitesini ziyaret edip uzantıyı açın ve web sitesi tercihlerini güncelleyin.",
     "description": "Subtext shown when there are no website preferences set by the user."
   },
   "altTextRemoveWebsiteButton": {
-    "message": "$ORIGIN$ kural\u0131n\u0131 kald\u0131r",
+    "message": "$ORIGIN$ kuralını kaldır",
     "description": "Alternative text for the button that removes a website rule from the list of preferences.",
     "placeholders": {
       "ORIGIN": {
@@ -96,7 +96,7 @@
     }
   },
   "altTextOpenSettingsPage": {
-    "message": "Ayarlar sayfas\u0131n\u0131 a\u00e7",
+    "message": "Ayarlar sayfasını aç",
     "description": "Alternative text for the button that opens the Extensions Settings page."
   },
   "searchServer": {
@@ -104,94 +104,94 @@
     "description": "Placeholder for the Input field where users can search the list of servers."
   },
   "titleSubscribeNow": {
-    "message": "Mozilla VPN\u2019e abone olun."
+    "message": "Mozilla VPN’e abone olun."
   },
   "bodySubscribeNow2": {
-    "message": "Mozilla VPN uygulamas\u0131na giri\u015f yapt\u0131\u011f\u0131n\u0131z hesaba ba\u011fl\u0131 bir abonelik bulamad\u0131k.",
+    "message": "Mozilla VPN uygulamasına giriş yaptığınız hesaba bağlı bir abonelik bulamadık.",
     "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
   },
   "footerSubscribeNow": {
-    "message": "Bu uzant\u0131y\u0131 kullanmak i\u00e7in l\u00fctfen abone olun.",
+    "message": "Bu uzantıyı kullanmak için lütfen abone olun.",
     "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
   },
   "btnSubscribeNow": {
-    "message": "\u015eimdi abone ol",
+    "message": "Şimdi abone ol",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
   },
   "getHelp": {
-    "message": "Yard\u0131m al",
+    "message": "Yardım al",
     "description": "Text of a link pointing to a relevant help page."
   },
   "headerOpenMozillaVPN": {
-    "message": "Mozilla VPN\u2019i a\u00e7",
+    "message": "Mozilla VPN’i aç",
     "description": "Headline."
   },
   "headerSignedOut": {
-    "message": "Mozilla VPN uygulamas\u0131na giri\u015f yap\u0131n."
+    "message": "Mozilla VPN uygulamasına giriş yapın."
   },
   "bodySignedOut": {
-    "message": "Mozilla VPN uygulamas\u0131na hen\u00fcz giri\u015f yapmam\u0131\u015fs\u0131n\u0131z. Mozilla VPN Firefox uzant\u0131s\u0131n\u0131 kullanmak i\u00e7in bilgisayar\u0131n\u0131zda uygulamay\u0131 a\u00e7\u0131p hesab\u0131n\u0131za giri\u015f yap\u0131n."
+    "message": "Mozilla VPN uygulamasına henüz giriş yapmamışsınız. Mozilla VPN Firefox uzantısını kullanmak için bilgisayarınızda uygulamayı açıp hesabınıza giriş yapın."
   },
   "btnOpenVpn": {
-    "message": "Mozilla VPN\u2019i a\u00e7."
+    "message": "Mozilla VPN’i aç."
   },
   "headerNeedsUpdate": {
-    "message": "Mozilla VPN\u2019i g\u00fcncelleyin",
+    "message": "Mozilla VPN’i güncelleyin",
     "description": "This is the headline of an error panel."
   },
   "bodyNeedsUpdate2": {
-    "message": "Bu uzant\u0131y\u0131 kullanmak i\u00e7in Mozilla VPN uygulamas\u0131n\u0131n son s\u00fcr\u00fcm\u00fcn\u00fc indirip y\u00fckleyin.",
+    "message": "Bu uzantıyı kullanmak için Mozilla VPN uygulamasının son sürümünü indirip yükleyin.",
     "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
-    "message": "Mozilla VPN\u2019i y\u00fckleyin",
+    "message": "Mozilla VPN’i yükleyin",
     "description": "Header if a VPN installation was not found."
   },
   "bodyOpenMsg": {
-    "message": "Mozilla VPN Firefox uzant\u0131s\u0131n\u0131 kullanmak i\u00e7in l\u00fctfen \u00f6nce Mozilla VPN uygulamas\u0131n\u0131 a\u00e7\u0131n.",
+    "message": "Mozilla VPN Firefox uzantısını kullanmak için lütfen önce Mozilla VPN uygulamasını açın.",
     "description": "Popup subtitle text."
   },
   "bodyInstallMsg": {
-    "message": "Bu uzant\u0131y\u0131 kullanmak i\u00e7in \u00f6nce Mozilla VPN uygulamas\u0131n\u0131 bilgisayar\u0131n\u0131za indirip y\u00fckleyin."
+    "message": "Bu uzantıyı kullanmak için önce Mozilla VPN uygulamasını bilgisayarınıza indirip yükleyin."
   },
   "bodyInstallMsgFooter": {
-    "message": "Mozilla VPN\u2019in \u00fccretli bir abonelik hizmeti oldu\u011funu unutmay\u0131n.",
-    "description": "This is a footnote for \u201cbodyInstallMsg\u201d."
+    "message": "Mozilla VPN’in ücretli bir abonelik hizmeti olduğunu unutmayın.",
+    "description": "This is a footnote for “bodyInstallMsg”."
   },
   "btnDownloadNow": {
-    "message": "\u015eimdi indir",
+    "message": "Şimdi indir",
     "description": "This is a call to action button to download the VPN."
   },
   "defaultLocationHeader": {
     "message": "Mozilla VPN konumunu kullan."
   },
   "useDefaultLocationExplainer": {
-    "message": "Bu bilgisayar\u0131 koruyan Mozilla VPN uygulamas\u0131yla ayn\u0131 konumu kullan.",
-    "description": "Explanation of what \u201cUse default Mozilla VPN Location\u201d means."
+    "message": "Bu bilgisayarı koruyan Mozilla VPN uygulamasıyla aynı konumu kullan.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
   },
   "headerUnsupportedOSMessage": {
     "message": "Desteklenmeyen platform."
   },
   "bodyUnsupportedOSMessage": {
-    "message": "Mozilla VPN uzant\u0131s\u0131 \u015fu anda yaln\u0131zca Windows cihazlarda kullan\u0131labilir."
+    "message": "Mozilla VPN uzantısı şu anda yalnızca Windows cihazlarda kullanılabilir."
   },
   "footnoteUnsupportedOSMessage": {
-    "message": "Yak\u0131nda macOS ve Linux\u2019u desteklemek i\u00e7in \u00e7al\u0131\u015f\u0131yoruz!"
+    "message": "Yakında macOS ve Linux’u desteklemek için çalışıyoruz!"
   },
   "turnOnProtection": {
-    "message": "Korumay\u0131 a\u00e7",
+    "message": "Korumayı aç",
     "description": "Button label."
   },
   "removeCustomLocation": {
-    "message": "\u00d6zel konumu kald\u0131r",
+    "message": "Özel konumu kaldır",
     "description": "Button label."
   },
   "websiteProtection": {
-    "message": "Web sitesi korumas\u0131",
+    "message": "Web sitesi koruması",
     "description": "A subtitle that is followed by an off icon and the word 'Off'."
   },
   "giveFeedback": {
-    "message": "G\u00f6r\u00fc\u015f bildir",
+    "message": "Görüş bildir",
     "description": "Button label."
   },
   "learnMore": {
@@ -199,31 +199,31 @@
     "description": "Label of link that leads to SUMO."
   },
   "onboarding1_title": {
-    "message": "Belirli web siteleri i\u00e7in VPN\u2019i kapat\u0131n",
+    "message": "Belirli web siteleri için VPN’i kapatın",
     "description": "Title in onboarding panel."
   },
   "onboarding1_body": {
-    "message": "Firefox uzant\u0131s\u0131yla VPN korumas\u0131n\u0131 belirli web siteleri i\u00e7in kapat\u0131rken di\u011fer her \u015fey i\u00e7in a\u00e7\u0131k tutabilirsiniz.",
+    "message": "Firefox uzantısıyla VPN korumasını belirli web siteleri için kapatırken diğer her şey için açık tutabilirsiniz.",
     "description": "Body text in onboarding panel."
   },
   "onboarding2_title": {
-    "message": "Farkl\u0131 konumlardan farkl\u0131 web sitelerini g\u00f6r\u00fcn",
+    "message": "Farklı konumlardan farklı web sitelerini görün",
     "description": "Title in onboarding panel."
   },
   "onboarding2_body": {
-    "message": "Londra\u2019dan haberler. Sao Paulo\u2019dan spor. Tokyo\u2019dan al\u0131\u015fveri\u015f. Ki\u015fisel gezinti i\u00e7in web sitelerine \u00f6zel konumlar\u0131 ayarlay\u0131n.",
+    "message": "Londra’dan haberler. Sao Paulo’dan spor. Tokyo’dan alışveriş. Kişisel gezinti için web sitelerine özel konumları ayarlayın.",
     "description": "Body text in onboarding panel."
   },
   "onboarding3_title": {
-    "message": "Firefox korumas\u0131n\u0131 \u201ca\u00e7\u0131k\u201d tutun",
+    "message": "Firefox korumasını “açık” tutun",
     "description": "Title in onboarding panel."
   },
   "onboarding3_body": {
-    "message": "Bilgisayar\u0131n\u0131z\u0131n geri kalan\u0131nda koruma kapal\u0131 olsa bile Firefox\u2019ta VPN korumas\u0131n\u0131 a\u00e7mak i\u00e7in bu uzant\u0131y\u0131 kullanabilirsiniz.",
+    "message": "Bilgisayarınızın geri kalanında koruma kapalı olsa bile Firefox’ta VPN korumasını açmak için bu uzantıyı kullanabilirsiniz.",
     "description": "Body text in onboarding panel."
   },
   "next": {
-    "message": "\u0130leri",
+    "message": "İleri",
     "description": "Label of button to progress to next onboarding panel."
   },
   "skip": {
@@ -235,15 +235,15 @@
     "description": "Label of button in final onboarding panel."
   },
   "headerReEnableFirefoxProtection": {
-    "message": "Firefox korumas\u0131n\u0131 yeniden etkinle\u015ftirin",
+    "message": "Firefox korumasını yeniden etkinleştirin",
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "bodyReEnableFirefoxProtection": {
-    "message": "Firefox \u015fu anda Mozilla VPN uygulamas\u0131nda \u201cistisna\u201d olarak ayarl\u0131. Bu uzant\u0131y\u0131 kullanmak i\u00e7in uygulamay\u0131 a\u00e7\u0131p Ayarlar > Uygulama istisnalar\u0131 k\u0131sm\u0131na gidin ve Firefox\u2019u kald\u0131r\u0131n.",
+    "message": "Firefox şu anda Mozilla VPN uygulamasında “istisna” olarak ayarlı. Bu uzantıyı kullanmak için uygulamayı açıp Ayarlar > Uygulama istisnaları kısmına gidin ve Firefox’u kaldırın.",
     "description": "Body copy of error panel."
   },
   "settingsPageSubtitle": {
-    "message": "Web sitesine \u00f6zel tercihleri eklemek veya de\u011fi\u015ftirmek i\u00e7in siteyi ziyaret edip Mozilla VPN Firefox uzant\u0131s\u0131n\u0131 a\u00e7\u0131n. Ard\u0131ndan site tercihlerini ayarlay\u0131n. Tercihleriniz yaln\u0131zca Firefox i\u00e7in VPN korumas\u0131 a\u00e7\u0131ksa etkili olur.",
+    "message": "Web sitesine özel tercihleri eklemek veya değiştirmek için siteyi ziyaret edip Mozilla VPN Firefox uzantısını açın. Ardından site tercihlerini ayarlayın. Tercihleriniz yalnızca Firefox için VPN koruması açıksa etkili olur.",
     "description": "Subtitle in the settings page."
   },
   "settingsPageTitle": {
@@ -255,15 +255,15 @@
     "description": "Indicator text describing the status of the VPN."
   },
   "unstable": {
-    "message": "Stabil de\u011fil",
+    "message": "Stabil değil",
     "description": "Indicator text describing the status of the VPN."
   },
   "connecting": {
-    "message": "Ba\u011flan\u0131yor\u2026",
+    "message": "Bağlanıyor…",
     "description": "Indicator text describing the status of the VPN."
   },
   "helpCenter": {
-    "message": "Yard\u0131m merkezi",
+    "message": "Yardım merkezi",
     "description": "Link title."
   },
   "websitePreferences": {
@@ -271,11 +271,11 @@
     "description": "Link title."
   },
   "contactSupport": {
-    "message": "Destek birimine ula\u015f",
+    "message": "Destek birimine ulaş",
     "description": "Link title."
   },
   "offForWebsite": {
-    "message": "Web sitesi i\u00e7in Mozilla VPN kapal\u0131",
+    "message": "Web sitesi için Mozilla VPN kapalı",
     "description": "Aria label."
   },
   "websiteLocationLabel": {
@@ -289,23 +289,23 @@
     }
   },
   "alert_conflictingProgram": {
-    "message": "Bilgisayar\u0131n\u0131zdaki bir program Mozilla VPN uzant\u0131s\u0131yla ilgili sorunlara yol a\u00e7\u0131yor olabilir.",
+    "message": "Bilgisayarınızdaki bir program Mozilla VPN uzantısıyla ilgili sorunlara yol açıyor olabilir.",
     "description": "Banner alert"
   },
   "howToFix": {
-    "message": "Nas\u0131l d\u00fczeltebilirim?",
+    "message": "Nasıl düzeltebilirim?",
     "description": "Link in banner alert"
   },
   "alert_conflictingExtensions": {
-    "message": "Di\u011fer uzant\u0131lar Mozilla VPN uzant\u0131s\u0131n\u0131n \u00e7al\u0131\u015fmas\u0131n\u0131 engelliyor olabilir.",
+    "message": "Diğer uzantılar Mozilla VPN uzantısının çalışmasını engelliyor olabilir.",
     "description": "Banner alert"
   },
   "learnWhatToDo": {
-    "message": "Yapman\u0131z gerekenleri \u00f6\u011frenin",
+    "message": "Yapmanız gerekenleri öğrenin",
     "description": "Link in banner alert"
   },
   "telemetry_toggle_text": {
-    "message": "Teknik verileri ve etkile\u015fim verilerini payla\u015f",
+    "message": "Teknik verileri ve etkileşim verilerini paylaş",
     "description": "Label for the Telemetry Opt-In toggle"
   },
   "privacy_notice_link_name": {
@@ -313,71 +313,71 @@
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
   "first-install-body": {
-    "message": "\u00d6zellikleri ve performans\u0131 geli\u015ftirmemize ve sorunlar\u0131 h\u0131zl\u0131 bir \u015fekilde \u00e7\u00f6zmemize yard\u0131mc\u0131 olmak i\u00e7in Mozilla VPN uzant\u0131s\u0131n\u0131n veri toplamas\u0131na izin verebilirsiniz. Toplad\u0131\u011f\u0131m\u0131z verileri asla sizinle ili\u015fkilendirmeyiz ve ziyaret etti\u011finiz siteler hakk\u0131nda asla veri toplamay\u0131z. Veri toplama, uzant\u0131n\u0131n \u00e7al\u0131\u015fma \u015feklini etkilemez.",
+    "message": "Özellikleri ve performansı geliştirmemize ve sorunları hızlı bir şekilde çözmemize yardımcı olmak için Mozilla VPN uzantısının veri toplamasına izin verebilirsiniz. Topladığımız verileri asla sizinle ilişkilendirmeyiz ve ziyaret ettiğiniz siteler hakkında asla veri toplamayız. Veri toplama, uzantının çalışma şeklini etkilemez.",
     "description": "Body copy on the telemetry consent screen"
   },
   "privacyPolicyIntro": {
-    "message": "Toplad\u0131\u011f\u0131m\u0131z verilerle ilgili t\u00fcm ayr\u0131nt\u0131lar\u0131 gizlilik politikam\u0131zda bulabilirsiniz.",
+    "message": "Topladığımız verilerle ilgili tüm ayrıntıları gizlilik politikamızda bulabilirsiniz.",
     "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
   },
   "viewPrivacyPolicy": {
-    "message": "Gizlilik politikas\u0131n\u0131 g\u00f6ster",
+    "message": "Gizlilik politikasını göster",
     "description": "Privacy policy link"
   },
   "thankYouForAdding": {
-    "message": "Mozilla VPN uzant\u0131s\u0131n\u0131 ekledi\u011finiz i\u00e7in te\u015fekk\u00fcr ederiz",
+    "message": "Mozilla VPN uzantısını eklediğiniz için teşekkür ederiz",
     "description": "Headline on the telemetry consent screen"
   },
   "toContinueToTheExtension": {
-    "message": "Uzant\u0131y\u0131 kullanmak i\u00e7in Firefox ara\u00e7 \u00e7ubu\u011fundan Mozilla VPN logosunu se\u00e7in.",
+    "message": "Uzantıyı kullanmak için Firefox araç çubuğundan Mozilla VPN logosunu seçin.",
     "description": "Blurb at the bottom of the telemetry consent screen"
   },
   "optionalDataCollection": {
-    "message": "\u0130ste\u011fe ba\u011fl\u0131 veri toplama",
+    "message": "İsteğe bağlı veri toplama",
     "description": "Subtitle on the telemetry consent screen"
   },
   "telemetryListHeader": {
-    "message": "Toplad\u0131\u011f\u0131m\u0131z iste\u011fe ba\u011fl\u0131 veriler \u015funlar\u0131 i\u00e7erir:",
+    "message": "Topladığımız isteğe bağlı veriler şunları içerir:",
     "description": "Headline for a list describing the type of data collected by the extension"
   },
   "technicalData": {
-    "message": "Hatalar\u0131 izleyip d\u00fczeltebilmemiz i\u00e7in taray\u0131c\u0131 s\u00fcr\u00fcm\u00fc, uzant\u0131 s\u00fcr\u00fcm\u00fc ve hata ayr\u0131nt\u0131lar\u0131 gibi teknik veriler.",
+    "message": "Hataları izleyip düzeltebilmemiz için tarayıcı sürümü, uzantı sürümü ve hata ayrıntıları gibi teknik veriler.",
     "description": "Description of technical data, found on telemetry consent screen."
   },
   "interactionData": {
-    "message": "VPN korumas\u0131ndan hari\u00e7 tutulan web sitelerinin say\u0131s\u0131, konum tercihi olan web sitelerinin say\u0131s\u0131 ve koruman\u0131n ne s\u0131kl\u0131kta a\u00e7\u0131l\u0131p kapat\u0131ld\u0131\u011f\u0131 gibi etkile\u015fim verileri.",
+    "message": "VPN korumasından hariç tutulan web sitelerinin sayısı, konum tercihi olan web sitelerinin sayısı ve korumanın ne sıklıkta açılıp kapatıldığı gibi etkileşim verileri.",
     "description": "Description of interaction data, found on the telemetry consent screen."
   },
   "telemetryOptOutInstructions": {
-    "message": "Mozilla VPN uzant\u0131s\u0131n\u0131n veri toplamas\u0131na izin vermek istemiyorsan\u0131z kutunun i\u015faretini kald\u0131r\u0131n. Ayr\u0131ca bu ayar\u0131 istedi\u011finiz zaman uzant\u0131n\u0131n Ayarlar b\u00f6l\u00fcm\u00fcnden de\u011fi\u015ftirebilirsiniz.",
+    "message": "Mozilla VPN uzantısının veri toplamasına izin vermek istemiyorsanız kutunun işaretini kaldırın. Ayrıca bu ayarı istediğiniz zaman uzantının Ayarlar bölümünden değiştirebilirsiniz.",
     "description": "Opt out instructions on the telemetry consent screen"
   },
   "telemetryCheckboxLabel": {
-    "message": "Mozilla\u2019n\u0131n teknik verileri ve etkile\u015fim verilerini toplamas\u0131na izin ver",
+    "message": "Mozilla’nın teknik verileri ve etkileşim verilerini toplamasına izin ver",
     "description": "Checkbox label"
   },
   "telemetrySettingsCheckboxLabel": {
-    "message": "Bu veriler, \u00f6zellikleri ve performans\u0131 geli\u015ftirmemize yard\u0131mc\u0131 olur. Cihaz\u0131n\u0131z, donan\u0131m yap\u0131land\u0131rman\u0131z ve Mozilla VPN uzant\u0131s\u0131n\u0131 nas\u0131l kulland\u0131\u011f\u0131n\u0131zla ilgili verileri i\u00e7erir.",
+    "message": "Bu veriler, özellikleri ve performansı geliştirmemize yardımcı olur. Cihazınız, donanım yapılandırmanız ve Mozilla VPN uzantısını nasıl kullandığınızla ilgili verileri içerir.",
     "description": "Checkbox label on the settings page"
   },
   "messageSplitTunnelHeader": {
-    "message": "Firefox\u2019ta korumay\u0131 etkinle\u015ftir",
+    "message": "Firefox’ta korumayı etkinleştir",
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "messageSplitTunnelBody": {
-    "message": "Firefox \u015fu anda Mozilla VPN uygulamas\u0131nda \u201cistisna\u201d olarak ayarl\u0131. Bu uzant\u0131y\u0131 kullanmak i\u00e7in uygulamay\u0131 a\u00e7\u0131p Ayarlar > Uygulama istisnalar\u0131 k\u0131sm\u0131na gidin ve Firefox\u2019u kald\u0131r\u0131n.",
+    "message": "Firefox şu anda Mozilla VPN uygulamasında “istisna” olarak ayarlı. Bu uzantıyı kullanmak için uygulamayı açıp Ayarlar > Uygulama istisnaları kısmına gidin ve Firefox’u kaldırın.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "headerSubscriptionNotAvailable": {
-    "message": "Mozilla VPN abonelikleri hen\u00fcz \u00fclkenizde kullan\u0131lam\u0131yor",
+    "message": "Mozilla VPN abonelikleri henüz ülkenizde kullanılamıyor",
     "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "bodySubscriptionNotAvailable": {
-    "message": "Mozilla VPN abonelikleri hen\u00fcz \u00fclkenizde kullan\u0131lam\u0131yor ama abonelik a\u00e7\u0131ld\u0131\u011f\u0131nda size haber vermemiz i\u00e7in bekleme listemize kat\u0131labilirsiniz. Zaten aboneli\u011finiz varsa l\u00fctfen devam edin.",
+    "message": "Mozilla VPN abonelikleri henüz ülkenizde kullanılamıyor ama abonelik açıldığında size haber vermemiz için bekleme listemize katılabilirsiniz. Zaten aboneliğiniz varsa lütfen devam edin.",
     "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnjoinWaitlist": {
-    "message": "Bekleme listesine kat\u0131l",
+    "message": "Bekleme listesine katıl",
     "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnContinue": {
@@ -385,18 +385,18 @@
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   },
   "headlineAutoConnectOptions": {
-    "message": "Otomatik ba\u011flant\u0131 se\u00e7enekleri",
+    "message": "Otomatik bağlantı seçenekleri",
     "description": "Headline for the Auto Connect options"
   },
   "labelDescribeAutoStartOnPBM": {
-    "message": "Gizli gezinti modunu kullan\u0131rken VPN\u2019i her zaman a\u00e7"
+    "message": "Gizli gezinti modunu kullanırken VPN’i her zaman aç"
   },
   "bodyAutoStartOnPBM": {
-    "message": "Bunu a\u00e7mak i\u00e7in eklentiler men\u00fcs\u00fcnden \u201cMozilla VPN uzant\u0131s\u0131\u201dn\u0131 se\u00e7in ve \u201cGizli pencerelerde \u00e7al\u0131\u015ft\u0131r\u201dda \u201c\u0130zin ver\u201di se\u00e7in.",
+    "message": "Bunu açmak için eklentiler menüsünden “Mozilla VPN uzantısı”nı seçin ve “Gizli pencerelerde çalıştır”da “İzin ver”i seçin.",
     "description": "Body of the autostart option."
   },
   "labelDescribeAutoStart": {
-    "message": "Firefox\u2019u a\u00e7arken VPN\u2019i her zaman a\u00e7",
+    "message": "Firefox’u açarken VPN’i her zaman aç",
     "description": "Description for the autostart checkbox"
   }
 }

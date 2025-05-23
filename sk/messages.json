@@ -1,18 +1,18 @@
 {
   "extensionName": {
-    "message": "Roz\u0161\u00edrenie Mozilla VPN",
+    "message": "Rozšírenie Mozilla VPN",
     "description": "Name of the extension."
   },
   "close": {
-    "message": "Zavrie\u0165",
+    "message": "Zavrieť",
     "description": "Alt label text for an X icon button in alert."
   },
   "extensionDescription": {
-    "message": "Integruje VPN do Firefoxu: vypnite ju pre ur\u010dit\u00e9 karty, nastavte si vlastn\u00e9 umiestnenie a mnoho \u010fal\u0161ieho!",
+    "message": "Integruje VPN do Firefoxu: vypnite ju pre určité karty, nastavte si vlastné umiestnenie a mnoho ďalšieho!",
     "description": "Description of the extension."
   },
   "back": {
-    "message": "Nasp\u00e4\u0165",
+    "message": "Naspäť",
     "description": "Alternative text attribute for back button."
   },
   "productName": {
@@ -20,19 +20,19 @@
     "description": "Name of the product."
   },
   "titleServerList": {
-    "message": "Umiestnenie webovej str\u00e1nky",
+    "message": "Umiestnenie webovej stránky",
     "description": "Title for a dialog where users can set the location for a website."
   },
   "selectWebsiteLocation": {
-    "message": "Vyberte umiestnenie webovej str\u00e1nky",
+    "message": "Vyberte umiestnenie webovej stránky",
     "description": "Button label."
   },
   "titlePageSettings": {
-    "message": "Predvo\u013eby pre t\u00fato webov\u00fa str\u00e1nku",
+    "message": "Predvoľby pre túto webovú stránku",
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
   "excludePageFor": {
-    "message": "V\u017edy vypn\u00fa\u0165 ochranu VPN pre $ORIGIN$",
+    "message": "Vždy vypnúť ochranu VPN pre $ORIGIN$",
     "description": "Setting to exclude a website from VPN.",
     "placeholders": {
       "ORIGIN": {
@@ -42,51 +42,51 @@
     }
   },
   "resetPageSettings": {
-    "message": "Obnovi\u0165 predvo\u013eby webov\u00fdch str\u00e1nok",
+    "message": "Obnoviť predvoľby webových stránok",
     "description": "Button text to reset all site specific settings."
   },
   "vpnIsOn": {
-    "message": "Ochrana VPN je vo Firefoxe zapnut\u00e1",
+    "message": "Ochrana VPN je vo Firefoxe zapnutá",
     "description": "Header to signal that VPN connection is enabled."
   },
   "vpnIsOff": {
-    "message": "Ochrana VPN je vo Firefoxe vypnut\u00e1",
+    "message": "Ochrana VPN je vo Firefoxe vypnutá",
     "description": "Header to signal that VPN connection is disabled."
   },
   "extensionVpnIsOff": {
-    "message": "Mozilla VPN je st\u00e1le zapnut\u00e1 a chr\u00e1ni zvy\u0161ok v\u00e1\u0161ho po\u010d\u00edta\u010da.",
+    "message": "Mozilla VPN je stále zapnutá a chráni zvyšok vášho počítača.",
     "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
   },
   "vpnOffStatus": {
-    "message": "Vypnut\u00e1",
+    "message": "Vypnutá",
     "description": "Label indicating that the VPN is off."
   },
   "vpnOnStatus": {
-    "message": "Zapnut\u00e1",
+    "message": "Zapnutá",
     "description": "Label indicating that the VPN is on."
   },
   "placeholderSearchWebsites": {
-    "message": "H\u013eada\u0165 v str\u00e1nkach",
+    "message": "Hľadať v stránkach",
     "description": "Placeholder text for the search input field to search websites."
   },
   "tableHeadingWebsite": {
-    "message": "Webov\u00e1 str\u00e1nka",
+    "message": "Webová stránka",
     "description": "Table heading for the column listing websites."
   },
   "tableHeadingVpnStatus": {
-    "message": "Ochrana webov\u00fdch str\u00e1nok",
+    "message": "Ochrana webových stránok",
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   },
   "headlineNoWebsitePreferences": {
-    "message": "Zatia\u013e ste nenastavili \u017eiadne predvo\u013eby webov\u00fdch str\u00e1nok",
-    "description": "Headline shown when the user hasn\u2019t set any website preferences."
+    "message": "Zatiaľ ste nenastavili žiadne predvoľby webových stránok",
+    "description": "Headline shown when the user hasn’t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
-    "message": "Pomocou roz\u0161\u00edrenia pre Firefox m\u00f4\u017eete vypn\u00fa\u0165 ochranu Mozilla VPN pre webov\u00fa str\u00e1nku alebo nastavi\u0165 vlastn\u00e9 umiestnenie. Ak to chcete urobi\u0165, nav\u0161t\u00edvte webov\u00fa str\u00e1nku, otvorte roz\u0161\u00edrenie a nastavte predvo\u013eby webovej str\u00e1nky.",
+    "message": "Pomocou rozšírenia pre Firefox môžete vypnúť ochranu Mozilla VPN pre webovú stránku alebo nastaviť vlastné umiestnenie. Ak to chcete urobiť, navštívte webovú stránku, otvorte rozšírenie a nastavte predvoľby webovej stránky.",
     "description": "Subtext shown when there are no website preferences set by the user."
   },
   "altTextRemoveWebsiteButton": {
-    "message": "Odstr\u00e1ni\u0165 pravidlo pre $ORIGIN$",
+    "message": "Odstrániť pravidlo pre $ORIGIN$",
     "description": "Alternative text for the button that removes a website rule from the list of preferences.",
     "placeholders": {
       "ORIGIN": {
@@ -96,138 +96,138 @@
     }
   },
   "altTextOpenSettingsPage": {
-    "message": "Otvori\u0165 nastavenia",
+    "message": "Otvoriť nastavenia",
     "description": "Alternative text for the button that opens the Extensions Settings page."
   },
   "searchServer": {
-    "message": "H\u013eada\u0165 umiestnenia",
+    "message": "Hľadať umiestnenia",
     "description": "Placeholder for the Input field where users can search the list of servers."
   },
   "titleSubscribeNow": {
-    "message": "Prihl\u00e1ste sa k predplatn\u00e9mu Mozilla VPN."
+    "message": "Prihláste sa k predplatnému Mozilla VPN."
   },
   "bodySubscribeNow2": {
-    "message": "Nepodarilo sa n\u00e1m n\u00e1js\u0165 predplatn\u00e9 spojen\u00e9 s \u00fa\u010dtom, ktor\u00fd ste pou\u017eili na prihl\u00e1senie do aplik\u00e1cie Mozilla VPN.",
+    "message": "Nepodarilo sa nám nájsť predplatné spojené s účtom, ktorý ste použili na prihlásenie do aplikácie Mozilla VPN.",
     "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
   },
   "footerSubscribeNow": {
-    "message": "Ak chcete pou\u017ei\u0165 toto roz\u0161\u00edrenie, prihl\u00e1ste sa na predplatn\u00e9.",
+    "message": "Ak chcete použiť toto rozšírenie, prihláste sa na predplatné.",
     "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
   },
   "btnSubscribeNow": {
-    "message": "Predplati\u0165",
+    "message": "Predplatiť",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
   },
   "getHelp": {
-    "message": "Z\u00edska\u0165 pomoc",
+    "message": "Získať pomoc",
     "description": "Text of a link pointing to a relevant help page."
   },
   "headerOpenMozillaVPN": {
-    "message": "Otvori\u0165 Mozilla VPN",
+    "message": "Otvoriť Mozilla VPN",
     "description": "Headline."
   },
   "headerSignedOut": {
-    "message": "Prihl\u00e1ste sa do aplik\u00e1cie Mozilla VPN."
+    "message": "Prihláste sa do aplikácie Mozilla VPN."
   },
   "bodySignedOut": {
-    "message": "Moment\u00e1lne ste odhl\u00e1sen\u00ed z aplik\u00e1cie Mozilla VPN. Ak chcete pou\u017ei\u0165 roz\u0161\u00edrenie Mozilla VPN pre Firefox, otvorte aplik\u00e1ciu na po\u010d\u00edta\u010di a prihl\u00e1ste sa do svojho \u00fa\u010dtu."
+    "message": "Momentálne ste odhlásení z aplikácie Mozilla VPN. Ak chcete použiť rozšírenie Mozilla VPN pre Firefox, otvorte aplikáciu na počítači a prihláste sa do svojho účtu."
   },
   "btnOpenVpn": {
-    "message": "Otvori\u0165 Mozilla VPN."
+    "message": "Otvoriť Mozilla VPN."
   },
   "headerNeedsUpdate": {
-    "message": "Aktualiz\u00e1cia Mozilla VPN",
+    "message": "Aktualizácia Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
   "bodyNeedsUpdate2": {
-    "message": "Ak chcete pou\u017ei\u0165 toto roz\u0161\u00edrenie, najprv si stiahnite a nain\u0161talujte najnov\u0161iu aplik\u00e1ciu Mozilla VPN.",
+    "message": "Ak chcete použiť toto rozšírenie, najprv si stiahnite a nainštalujte najnovšiu aplikáciu Mozilla VPN.",
     "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
-    "message": "Nain\u0161talujte si Mozilla VPN",
+    "message": "Nainštalujte si Mozilla VPN",
     "description": "Header if a VPN installation was not found."
   },
   "bodyOpenMsg": {
-    "message": "Ak chcete pou\u017ei\u0165 roz\u0161\u00edrenie Mozilla VPN Firefox, najprv otvorte aplik\u00e1ciu Mozilla VPN.",
+    "message": "Ak chcete použiť rozšírenie Mozilla VPN Firefox, najprv otvorte aplikáciu Mozilla VPN.",
     "description": "Popup subtitle text."
   },
   "bodyInstallMsg": {
-    "message": "Ak chcete pou\u017ei\u0165 toto roz\u0161\u00edrenie, najprv si stiahnite a nain\u0161talujte aplik\u00e1ciu Mozilla VPN do svojho po\u010d\u00edta\u010da."
+    "message": "Ak chcete použiť toto rozšírenie, najprv si stiahnite a nainštalujte aplikáciu Mozilla VPN do svojho počítača."
   },
   "bodyInstallMsgFooter": {
-    "message": "Upozor\u0148ujeme, \u017ee Mozilla VPN je platen\u00e1 slu\u017eba s predplatn\u00fdm.",
-    "description": "This is a footnote for \u201cbodyInstallMsg\u201d."
+    "message": "Upozorňujeme, že Mozilla VPN je platená služba s predplatným.",
+    "description": "This is a footnote for “bodyInstallMsg”."
   },
   "btnDownloadNow": {
-    "message": "Stiahnu\u0165 teraz",
+    "message": "Stiahnuť teraz",
     "description": "This is a call to action button to download the VPN."
   },
   "defaultLocationHeader": {
-    "message": "Pou\u017ei\u0165 umiestnenie z Mozilla VPN."
+    "message": "Použiť umiestnenie z Mozilla VPN."
   },
   "useDefaultLocationExplainer": {
-    "message": "Pou\u017eije rovnak\u00e9 umiestnenie ako aplik\u00e1cia Mozilla VPN, ktor\u00e1 chr\u00e1ni tento po\u010d\u00edta\u010d.",
-    "description": "Explanation of what \u201cUse default Mozilla VPN Location\u201d means."
+    "message": "Použije rovnaké umiestnenie ako aplikácia Mozilla VPN, ktorá chráni tento počítač.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
   },
   "headerUnsupportedOSMessage": {
-    "message": "Nepodporovan\u00e1 platforma."
+    "message": "Nepodporovaná platforma."
   },
   "bodyUnsupportedOSMessage": {
-    "message": "V s\u00fa\u010dasnosti je roz\u0161\u00edrenie Mozilla VPN dostupn\u00e9 iba na zariadeniach so syst\u00e9mom Windows."
+    "message": "V súčasnosti je rozšírenie Mozilla VPN dostupné iba na zariadeniach so systémom Windows."
   },
   "footnoteUnsupportedOSMessage": {
-    "message": "Pracujeme na tom, aby sme \u010doskoro priniesli podporu pre macOS a Linux!"
+    "message": "Pracujeme na tom, aby sme čoskoro priniesli podporu pre macOS a Linux!"
   },
   "turnOnProtection": {
-    "message": "Zapn\u00fa\u0165 ochranu",
+    "message": "Zapnúť ochranu",
     "description": "Button label."
   },
   "removeCustomLocation": {
-    "message": "Odstr\u00e1ni\u0165 vlastn\u00e9 umiestnenie",
+    "message": "Odstrániť vlastné umiestnenie",
     "description": "Button label."
   },
   "websiteProtection": {
-    "message": "Ochrana webov\u00fdch str\u00e1nok",
+    "message": "Ochrana webových stránok",
     "description": "A subtitle that is followed by an off icon and the word 'Off'."
   },
   "giveFeedback": {
-    "message": "Odosla\u0165 sp\u00e4tn\u00fa v\u00e4zbu",
+    "message": "Odoslať spätnú väzbu",
     "description": "Button label."
   },
   "learnMore": {
-    "message": "\u010eal\u0161ie inform\u00e1cie",
+    "message": "Ďalšie informácie",
     "description": "Label of link that leads to SUMO."
   },
   "onboarding1_title": {
-    "message": "Vypnite VPN pre konkr\u00e9tne webov\u00e9 str\u00e1nky",
+    "message": "Vypnite VPN pre konkrétne webové stránky",
     "description": "Title in onboarding panel."
   },
   "onboarding1_body": {
-    "message": "S roz\u0161\u00edren\u00edm pre Firefox m\u00f4\u017eete vypn\u00fa\u0165 ochranu VPN pre konkr\u00e9tne webov\u00e9 str\u00e1nky a ponecha\u0165 ju zapnut\u00fa pre v\u0161etko ostatn\u00e9.",
+    "message": "S rozšírením pre Firefox môžete vypnúť ochranu VPN pre konkrétne webové stránky a ponechať ju zapnutú pre všetko ostatné.",
     "description": "Body text in onboarding panel."
   },
   "onboarding2_title": {
-    "message": "Pozrite si r\u00f4zne webov\u00e9 str\u00e1nky z r\u00f4znych miest",
+    "message": "Pozrite si rôzne webové stránky z rôznych miest",
     "description": "Title in onboarding panel."
   },
   "onboarding2_body": {
-    "message": "Spr\u00e1vy z Lond\u00fdna. \u0160port zo Sao Paula. Nakupovanie z Tokia. Nastavte si umiestnenia \u0161pecifick\u00e9 pre webov\u00e9 str\u00e1nky a u\u017e\u00edvajte si prisp\u00f4soben\u00e9 prehliadanie.",
+    "message": "Správy z Londýna. Šport zo Sao Paula. Nakupovanie z Tokia. Nastavte si umiestnenia špecifické pre webové stránky a užívajte si prispôsobené prehliadanie.",
     "description": "Body text in onboarding panel."
   },
   "onboarding3_title": {
-    "message": "Ponechajte si ochranu pre Firefox zapnut\u00fa",
+    "message": "Ponechajte si ochranu pre Firefox zapnutú",
     "description": "Title in onboarding panel."
   },
   "onboarding3_body": {
-    "message": "Pou\u017eite roz\u0161\u00edrenie na zapnutie ochrany VPN pre Firefox \u2013 aj ke\u010f je ochrana pre zvy\u0161ok v\u00e1\u0161ho po\u010d\u00edta\u010da vypnut\u00e1.",
+    "message": "Použite rozšírenie na zapnutie ochrany VPN pre Firefox – aj keď je ochrana pre zvyšok vášho počítača vypnutá.",
     "description": "Body text in onboarding panel."
   },
   "next": {
-    "message": "\u010ealej",
+    "message": "Ďalej",
     "description": "Label of button to progress to next onboarding panel."
   },
   "skip": {
-    "message": "Presko\u010di\u0165",
+    "message": "Preskočiť",
     "description": "Label of button to skip onboarding."
   },
   "done": {
@@ -235,31 +235,31 @@
     "description": "Label of button in final onboarding panel."
   },
   "headerReEnableFirefoxProtection": {
-    "message": "Znova povo\u013ete ochranu Firefoxu",
+    "message": "Znova povoľte ochranu Firefoxu",
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "bodyReEnableFirefoxProtection": {
-    "message": "Firefox je moment\u00e1lne \u201cvyl\u00fa\u010den\u00e1 aplik\u00e1cia\u201d v aplik\u00e1cii Mozilla VPN. Ak chcete pou\u017ei\u0165 toto roz\u0161\u00edrenie, otvorte aplik\u00e1ciu a prejdite do \u010dasti Nastavenia > Vyl\u00fa\u010den\u00e9 aplik\u00e1cie a odstr\u00e1\u0148te Firefox.",
+    "message": "Firefox je momentálne “vylúčená aplikácia” v aplikácii Mozilla VPN. Ak chcete použiť toto rozšírenie, otvorte aplikáciu a prejdite do časti Nastavenia > Vylúčené aplikácie a odstráňte Firefox.",
     "description": "Body copy of error panel."
   },
   "settingsPageSubtitle": {
-    "message": "Ak chcete prida\u0165 alebo zmeni\u0165 preferencie \u0161pecifick\u00e9 pre konkr\u00e9tny web, nav\u0161t\u00edvte dan\u00fa str\u00e1nku a otvorte roz\u0161\u00edrenie Mozilla VPN Firefox. Potom nastavte predvo\u013eby pre str\u00e1nku. Va\u0161e predvo\u013eby s\u00fa platn\u00e9 iba vtedy, ke\u010f je zapnut\u00e1 ochrana VPN pre Firefox.",
+    "message": "Ak chcete pridať alebo zmeniť preferencie špecifické pre konkrétny web, navštívte danú stránku a otvorte rozšírenie Mozilla VPN Firefox. Potom nastavte predvoľby pre stránku. Vaše predvoľby sú platné iba vtedy, keď je zapnutá ochrana VPN pre Firefox.",
     "description": "Subtitle in the settings page."
   },
   "settingsPageTitle": {
-    "message": "Predvo\u013eby webov\u00fdch str\u00e1nok Mozilla VPN",
+    "message": "Predvoľby webových stránok Mozilla VPN",
     "description": "Title for settings page tab."
   },
   "noSignal": {
-    "message": "\u017diadny sign\u00e1l",
+    "message": "Žiadny signál",
     "description": "Indicator text describing the status of the VPN."
   },
   "unstable": {
-    "message": "Nestabiln\u00fd",
+    "message": "Nestabilný",
     "description": "Indicator text describing the status of the VPN."
   },
   "connecting": {
-    "message": "Prip\u00e1ja sa\u2026",
+    "message": "Pripája sa…",
     "description": "Indicator text describing the status of the VPN."
   },
   "helpCenter": {
@@ -267,7 +267,7 @@
     "description": "Link title."
   },
   "websitePreferences": {
-    "message": "Nastavenia str\u00e1nok",
+    "message": "Nastavenia stránok",
     "description": "Link title."
   },
   "contactSupport": {
@@ -275,11 +275,11 @@
     "description": "Link title."
   },
   "offForWebsite": {
-    "message": "Mozilla VPN vypnut\u00e1 pre webov\u00fa str\u00e1nku",
+    "message": "Mozilla VPN vypnutá pre webovú stránku",
     "description": "Aria label."
   },
   "websiteLocationLabel": {
-    "message": "$SERVERLOCATION$: umiestnenie webovej str\u00e1nky Mozilla VPN",
+    "message": "$SERVERLOCATION$: umiestnenie webovej stránky Mozilla VPN",
     "description": "Aria label for a flag icon representing the location of the VPN server",
     "placeholders": {
       "SERVERLOCATION": {
@@ -289,114 +289,114 @@
     }
   },
   "alert_conflictingProgram": {
-    "message": "Probl\u00e9my s roz\u0161\u00edren\u00edm Mozilla VPN m\u00f4\u017ee sp\u00f4sobova\u0165 program vo va\u0161om po\u010d\u00edta\u010di.",
+    "message": "Problémy s rozšírením Mozilla VPN môže spôsobovať program vo vašom počítači.",
     "description": "Banner alert"
   },
   "howToFix": {
-    "message": "Ako to opravi\u0165",
+    "message": "Ako to opraviť",
     "description": "Link in banner alert"
   },
   "alert_conflictingExtensions": {
-    "message": "In\u00e9 roz\u0161\u00edrenia m\u00f4\u017eu zasahova\u0165 do fungovania roz\u0161\u00edrenia Mozilla VPN.",
+    "message": "Iné rozšírenia môžu zasahovať do fungovania rozšírenia Mozilla VPN.",
     "description": "Banner alert"
   },
   "learnWhatToDo": {
-    "message": "Zistite, \u010do robi\u0165",
+    "message": "Zistite, čo robiť",
     "description": "Link in banner alert"
   },
   "telemetry_toggle_text": {
-    "message": "Zdie\u013ea\u0165 technick\u00e9 \u00fadaje a \u00fadaje o interakci\u00e1ch",
+    "message": "Zdieľať technické údaje a údaje o interakciách",
     "description": "Label for the Telemetry Opt-In toggle"
   },
   "privacy_notice_link_name": {
-    "message": "Ozn\u00e1men\u00ed o ochrane osobn\u00fdch \u00fadajov predplatite\u013esk\u00fdch slu\u017eieb Mozilly",
+    "message": "Oznámení o ochrane osobných údajov predplatiteľských služieb Mozilly",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
   "first-install-body": {
-    "message": "Ak n\u00e1m chcete pom\u00f4c\u0165 zlep\u0161i\u0165 funkcie a v\u00fdkon a r\u00fdchlo vyrie\u0161i\u0165 probl\u00e9my, m\u00f4\u017eete roz\u0161\u00edreniu Mozilla VPN povoli\u0165 zhroma\u017e\u010fovanie \u00fadajov. \u00dadaje, ktor\u00e9 zhroma\u017e\u010fujeme, nebud\u00fa s vami nikdy spojen\u00e9 a nikdy nezhroma\u017e\u010fujeme \u00fadaje o str\u00e1nkach, ktor\u00e9 nav\u0161t\u00edvite. Zhroma\u017e\u010fovanie \u00fadajov nem\u00e1 vplyv na fungovanie roz\u0161\u00edrenia.",
+    "message": "Ak nám chcete pomôcť zlepšiť funkcie a výkon a rýchlo vyriešiť problémy, môžete rozšíreniu Mozilla VPN povoliť zhromažďovanie údajov. Údaje, ktoré zhromažďujeme, nebudú s vami nikdy spojené a nikdy nezhromažďujeme údaje o stránkach, ktoré navštívite. Zhromažďovanie údajov nemá vplyv na fungovanie rozšírenia.",
     "description": "Body copy on the telemetry consent screen"
   },
   "privacyPolicyIntro": {
-    "message": "V\u0161etky podrobnosti o \u00fadajoch, ktor\u00e9 zhroma\u017e\u010fujeme, s\u00fa k dispoz\u00edcii v na\u0161ich Z\u00e1sad\u00e1ch ochrany osobn\u00fdch \u00fadajov.",
+    "message": "Všetky podrobnosti o údajoch, ktoré zhromažďujeme, sú k dispozícii v našich Zásadách ochrany osobných údajov.",
     "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
   },
   "viewPrivacyPolicy": {
-    "message": "Zobrazi\u0165 z\u00e1sady ochrany s\u00fakromia",
+    "message": "Zobraziť zásady ochrany súkromia",
     "description": "Privacy policy link"
   },
   "thankYouForAdding": {
-    "message": "\u010eakujeme, \u017ee ste pridali roz\u0161\u00edrenie Mozilla VPN",
+    "message": "Ďakujeme, že ste pridali rozšírenie Mozilla VPN",
     "description": "Headline on the telemetry consent screen"
   },
   "toContinueToTheExtension": {
-    "message": "Ak chcete pokra\u010dova\u0165 na roz\u0161\u00edrenie, zvo\u013ete ikonu loga Mozilla VPN na paneli s n\u00e1strojmi Firefoxu.",
+    "message": "Ak chcete pokračovať na rozšírenie, zvoľte ikonu loga Mozilla VPN na paneli s nástrojmi Firefoxu.",
     "description": "Blurb at the bottom of the telemetry consent screen"
   },
   "optionalDataCollection": {
-    "message": "Volite\u013en\u00fd zber \u00fadajov",
+    "message": "Voliteľný zber údajov",
     "description": "Subtitle on the telemetry consent screen"
   },
   "telemetryListHeader": {
-    "message": "Medzi nepovinn\u00e9 \u00fadaje, ktor\u00e9 zhroma\u017e\u010fujeme, patria:",
+    "message": "Medzi nepovinné údaje, ktoré zhromažďujeme, patria:",
     "description": "Headline for a list describing the type of data collected by the extension"
   },
   "technicalData": {
-    "message": "Technick\u00e9 \u00fadaje, ako je verzia prehliada\u010da, verzia roz\u0161\u00edrenia a podrobnosti o chyb\u00e1ch, aby sme mohli efekt\u00edvne sledova\u0165 a opravova\u0165 chyby.",
+    "message": "Technické údaje, ako je verzia prehliadača, verzia rozšírenia a podrobnosti o chybách, aby sme mohli efektívne sledovať a opravovať chyby.",
     "description": "Description of technical data, found on telemetry consent screen."
   },
   "interactionData": {
-    "message": "\u00dadaje o interakci\u00e1ch, ako je po\u010det webov\u00fdch str\u00e1nok vyl\u00fa\u010den\u00fdch z ochrany VPN, po\u010det webov\u00fdch str\u00e1nok s preferovanou polohou a ako \u010dasto sa ochrana zap\u00edna a vyp\u00edna.",
+    "message": "Údaje o interakciách, ako je počet webových stránok vylúčených z ochrany VPN, počet webových stránok s preferovanou polohou a ako často sa ochrana zapína a vypína.",
     "description": "Description of interaction data, found on the telemetry consent screen."
   },
   "telemetryOptOutInstructions": {
-    "message": "Ak nechcete, aby roz\u0161\u00edrenie Mozilla VPN zhroma\u017e\u010fovalo \u00fadaje, zru\u0161te za\u010diarknutie pol\u00ed\u010dka. Toto nastavenie m\u00f4\u017eete tie\u017e kedyko\u013evek zmeni\u0165 v roz\u0161\u00edren\u00ed v \u010dasti Nastavenia.",
+    "message": "Ak nechcete, aby rozšírenie Mozilla VPN zhromažďovalo údaje, zrušte začiarknutie políčka. Toto nastavenie môžete tiež kedykoľvek zmeniť v rozšírení v časti Nastavenia.",
     "description": "Opt out instructions on the telemetry consent screen"
   },
   "telemetryCheckboxLabel": {
-    "message": "Umo\u017eni\u0165 Mozille zhroma\u017e\u010fova\u0165 technick\u00e9 \u00fadaje a \u00fadaje o interakci\u00e1ch",
+    "message": "Umožniť Mozille zhromažďovať technické údaje a údaje o interakciách",
     "description": "Checkbox label"
   },
   "telemetrySettingsCheckboxLabel": {
-    "message": "Tieto \u00fadaje n\u00e1m pom\u00e1haj\u00fa zlep\u0161ova\u0165 funkcie a v\u00fdkon. Zah\u0155\u0148a \u00fadaje o va\u0161om zariaden\u00ed, konfigur\u00e1cii hardv\u00e9ru a sp\u00f4sobe pou\u017e\u00edvania roz\u0161\u00edrenia Mozilla VPN.",
+    "message": "Tieto údaje nám pomáhajú zlepšovať funkcie a výkon. Zahŕňa údaje o vašom zariadení, konfigurácii hardvéru a spôsobe používania rozšírenia Mozilla VPN.",
     "description": "Checkbox label on the settings page"
   },
   "messageSplitTunnelHeader": {
-    "message": "Povoli\u0165 ochranu pre Firefox",
+    "message": "Povoliť ochranu pre Firefox",
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "messageSplitTunnelBody": {
-    "message": "Firefox je moment\u00e1lne \u201cvyl\u00fa\u010den\u00e1 aplik\u00e1cia\u201d v aplik\u00e1cii Mozilla VPN. Ak chcete pou\u017ei\u0165 toto roz\u0161\u00edrenie, otvorte aplik\u00e1ciu a prejdite do \u010dasti Nastavenia > Vyl\u00fa\u010den\u00e9 aplik\u00e1cie a odstr\u00e1\u0148te Firefox.",
+    "message": "Firefox je momentálne “vylúčená aplikácia” v aplikácii Mozilla VPN. Ak chcete použiť toto rozšírenie, otvorte aplikáciu a prejdite do časti Nastavenia > Vylúčené aplikácie a odstráňte Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "headerSubscriptionNotAvailable": {
-    "message": "Predplatn\u00e9 Mozilla VPN zatia\u013e nie je vo va\u0161ej krajine dostupn\u00e9",
+    "message": "Predplatné Mozilla VPN zatiaľ nie je vo vašej krajine dostupné",
     "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "bodySubscriptionNotAvailable": {
-    "message": "Predplatn\u00e9 Mozilla VPN zatia\u013e nie je vo va\u0161ej krajine dostupn\u00e9, ale m\u00f4\u017eete sa pripoji\u0165 k n\u00e1\u0161mu zoznamu \u010dakate\u013eov, aby ste dostali upozornenie, ke\u010f bude spusten\u00e9. Ak u\u017e m\u00e1te predplatn\u00e9, pokra\u010dujte.",
+    "message": "Predplatné Mozilla VPN zatiaľ nie je vo vašej krajine dostupné, ale môžete sa pripojiť k nášmu zoznamu čakateľov, aby ste dostali upozornenie, keď bude spustené. Ak už máte predplatné, pokračujte.",
     "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnjoinWaitlist": {
-    "message": "Prida\u0165 sa na zoznam \u010dakate\u013eov",
+    "message": "Pridať sa na zoznam čakateľov",
     "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnContinue": {
-    "message": "Pokra\u010dova\u0165",
+    "message": "Pokračovať",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   },
   "headlineAutoConnectOptions": {
-    "message": "Mo\u017enosti automatick\u00e9ho pripojenia",
+    "message": "Možnosti automatického pripojenia",
     "description": "Headline for the Auto Connect options"
   },
   "labelDescribeAutoStartOnPBM": {
-    "message": "Pri pou\u017e\u00edvan\u00ed re\u017eimu s\u00fakromn\u00e9ho prehliadania v\u017edy zapn\u00fa\u0165 VPN"
+    "message": "Pri používaní režimu súkromného prehliadania vždy zapnúť VPN"
   },
   "bodyAutoStartOnPBM": {
-    "message": "Ak chcete t\u00fato funkciu zapn\u00fa\u0165, prejdite do spr\u00e1vcu doplnkov, vyberte mo\u017enos\u0165 \u201cRoz\u0161\u00edrenie Mozilla VPN\u201d a v \u010dasti \u201cPovoli\u0165 v s\u00fakromn\u00fdch okn\u00e1ch\u201d vyberte mo\u017enos\u0165 \u201cPovoli\u0165\u201d.",
+    "message": "Ak chcete túto funkciu zapnúť, prejdite do správcu doplnkov, vyberte možnosť “Rozšírenie Mozilla VPN” a v časti “Povoliť v súkromných oknách” vyberte možnosť “Povoliť”.",
     "description": "Body of the autostart option."
   },
   "labelDescribeAutoStart": {
-    "message": "Pri spusten\u00ed Firefoxu v\u017edy zapn\u00fa\u0165 VPN",
+    "message": "Pri spustení Firefoxu vždy zapnúť VPN",
     "description": "Description for the autostart checkbox"
   }
 }
