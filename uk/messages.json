@@ -3,6 +3,10 @@
     "message": "Розширення Mozilla VPN",
     "description": "Name of the extension."
   },
+  "close": {
+    "message": "Закрити",
+    "description": "Alt label text for an X icon button in alert."
+  },
   "extensionDescription": {
     "message": "Інтегруйте VPN у Firefox: додавайте винятки для вкладок, налаштовуйте розташування для сайтів тощо!",
     "description": "Description of the extension."
@@ -101,6 +105,14 @@
   },
   "titleSubscribeNow": {
     "message": "Передплатити Mozilla VPN."
+  },
+  "bodySubscribeNow2": {
+    "message": "Ми не виявили передплату, пов'язану з обліковим записом, який ви використовували для входу в програму Mozilla VPN.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "footerSubscribeNow": {
+    "message": "Щоб користуватися цим розширенням потрібна передплата.",
+    "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
   },
   "btnSubscribeNow": {
     "message": "Передплатити",
@@ -355,5 +367,36 @@
   "messageSplitTunnelBody": {
     "message": "Firefox наразі додано до винятків у програмі Mozilla VPN. Щоб користуватися цим розширенням, відкрийте програму, перейдіть до меню Налаштування > Програми-винятки та вилучіть Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "headerSubscriptionNotAvailable": {
+    "message": "Передплата Mozilla VPN у вашій країні поки недоступна",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "bodySubscriptionNotAvailable": {
+    "message": "Передплата Mozilla VPN у вашій країні поки недоступна, але ви можете приєднатися до нашого списку очікування, щоб отримати сповіщення про її запуск. Якщо у вас вже є передплата, можете продовжувати користуватися нею.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnjoinWaitlist": {
+    "message": "Долучитись до списку очікування",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnContinue": {
+    "message": "Продовжити",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Параметри автоз'єднання",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Завжди вмикати VPN у режимі приватного перегляду"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "Щоб увімкнути цю функцію, відкрийте меню \"Додатки й теми\", виберіть \"Розширення Mozilla VPN\" й активуйте \"Дозволити\" для опції \"Виконувати в приватних вікнах\".",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "Завжди вмикати VPN під час відкриття Firefox",
+    "description": "Description for the autostart checkbox"
   }
 }
