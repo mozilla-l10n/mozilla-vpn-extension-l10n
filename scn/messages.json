@@ -1,0 +1,150 @@
+{
+  "extensionName": {
+    "message": "Stinneriu Mozilla VPN",
+    "description": "Name of the extension."
+  },
+  "close": {
+    "message": "Chiuji",
+    "description": "Alt label text for an X icon button in alert."
+  },
+  "extensionDescription": {
+    "message": "Nzìccacci a VPN dintra a Firefox: leva schedi, mposta a pusizzioni p'ogni situ e autru ancora!",
+    "description": "Description of the extension."
+  },
+  "back": {
+    "message": "Nn'arrè",
+    "description": "Alternative text attribute for back button."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  },
+  "titleServerList": {
+    "message": "Pusizzioni pû situ",
+    "description": "Title for a dialog where users can set the location for a website."
+  },
+  "selectWebsiteLocation": {
+    "message": "Scarta a pusizzioni pû situ",
+    "description": "Button label."
+  },
+  "titlePageSettings": {
+    "message": "Prifirenzi pi stu situ",
+    "description": "The header for website specific settings, i.e. exclude a page from VPN."
+  },
+  "excludePageFor": {
+    "message": "Sdisattiva sempri a prutizzioni VPN pi $ORIGIN$",
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "resetPageSettings": {
+    "message": "Risetta i prifirenzi pû situ",
+    "description": "Button text to reset all site specific settings."
+  },
+  "vpnIsOn": {
+    "message": "A prutizzioni VPN pi Firefox è attiva",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "A prutizzioni VPN pi Firefox è sdisattiva",
+    "description": "Header to signal that VPN connection is disabled."
+  },
+  "extensionVpnIsOff": {
+    "message": "Mozilla VPN è ancora attiva, e sta prutiggennu u restu dû to computer.",
+    "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
+  },
+  "vpnOffStatus": {
+    "message": "Sdisattiva",
+    "description": "Label indicating that the VPN is off."
+  },
+  "vpnOnStatus": {
+    "message": "Attiva",
+    "description": "Label indicating that the VPN is on."
+  },
+  "placeholderSearchWebsites": {
+    "message": "Riscedi siti",
+    "description": "Placeholder text for the search input field to search websites."
+  },
+  "tableHeadingWebsite": {
+    "message": "Situ",
+    "description": "Table heading for the column listing websites."
+  },
+  "tableHeadingVpnStatus": {
+    "message": "Prutizzioni pî siti",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "headlineNoWebsitePreferences": {
+    "message": "Ancora nun scartasti nuḍḍa prifirenza pî siti",
+    "description": "Headline shown when the user hasn’t set any website preferences."
+  },
+  "altTextRemoveWebsiteButton": {
+    "message": "Leva règula pi $ORIGIN$",
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "altTextOpenSettingsPage": {
+    "message": "Grapi a pàggina dî mpustazzioni",
+    "description": "Alternative text for the button that opens the Extensions Settings page."
+  },
+  "searchServer": {
+    "message": "Riscedi na pusizzioni",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "titleSubscribeNow": {
+    "message": "Abbònati a Mozilla VPN."
+  },
+  "bodySubscribeNow2": {
+    "message": "Nun pòttimu attruvari nuḍḍu abbunamentu lijatu ô cuntu chi usasti pi tràsiri dintra a l'app Mozilla VPN.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "footerSubscribeNow": {
+    "message": "Pi usari stu stinneriu, pi favuri abbònati.",
+    "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
+  },
+  "btnSubscribeNow": {
+    "message": "Abbònati sùbbitu",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
+  "getHelp": {
+    "message": "Fatti ajutari",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "headerOpenMozillaVPN": {
+    "message": "Grapi Mozilla VPN",
+    "description": "Headline."
+  },
+  "headerSignedOut": {
+    "message": "Trasi dintra a l'app Mozilla VPN."
+  },
+  "bodySignedOut": {
+    "message": "Niscisti di l'app Mozilla VPN. P'usari u stinneriu pi Firefox, grapi l'app nnô computer e trasi nnô to cuntu."
+  },
+  "btnOpenVpn": {
+    "message": "Grapi Mozilla VPN."
+  },
+  "headerNeedsUpdate": {
+    "message": "Attualizza Mozilla VPN",
+    "description": "This is the headline of an error panel."
+  },
+  "bodyNeedsUpdate2": {
+    "message": "P'usari stu stinneriu, prima scàrrica e nzìtati l'ùrtima app Mozilla VPN.",
+    "description": "This is body copy for an error message."
+  },
+  "headerInstallMsg": {
+    "message": "Nzìtati Mozilla VPN",
+    "description": "Header if a VPN installation was not found."
+  },
+  "btnContinue": {
+    "message": "Cuntinua",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  }
+}
