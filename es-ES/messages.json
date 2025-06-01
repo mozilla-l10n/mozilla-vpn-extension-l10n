@@ -383,5 +383,20 @@
   "btnContinue": {
     "message": "Continuar",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Opciones de conexión automática",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Activar siempre la VPN al usar el modo de navegación privada"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "Para activar esto, tienes que ir al menú de complementos, seleccionar “Extensión de Mozilla VPN” y seleccionar “Permitir” para “Ejecutar en ventanas privadas”.",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "Activar siempre la VPN al abrir Firefox",
+    "description": "Description for the autostart checkbox"
   }
 }
