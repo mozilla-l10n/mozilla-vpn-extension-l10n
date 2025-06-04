@@ -171,5 +171,67 @@
   },
   "headerUnsupportedOSMessage": {
     "message": "Plateforme no supuartade."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "In chest moment, la estension Mozilla VPN e je disponibile nome sui dispositîfs Windows."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "O sin daûr a lavorâ par supuartâ ca di pôc ancje macOS e Linux!"
+  },
+  "turnOnProtection": {
+    "message": "Ative protezion",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Gjave posizion personalizade",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Protezion pal sît web",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Mande coment",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Plui informazions",
+    "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "Disative la VPN par sîts web specifics",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding1_body": {
+    "message": "Cu la estension par Firefox tu puedis disativâ la protezion VPN par cierts sîts web specifics, pûr mantignintle ative par dut il rest.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Visualize varis sîts web rivant di posizions diferentis",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "Gnovis di Londre. Sports di San Pauli. Compris di Tokyo. Stabilìs posizions specifichis pai sîts web par vê une navigazion personalizade.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Manten la protezion par Firefox “ative”",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Dopre la estension par ativâ la protezion VPN par Firefox, ancje cuant che la protezion e je disativade pal rest dal computer.",
+    "description": "Body text in onboarding panel."
+  },
+  "next": {
+    "message": "Indevant",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Salte",
+    "description": "Label of button to skip onboarding."
+  },
+  "done": {
+    "message": "Fat",
+    "description": "Label of button in final onboarding panel."
   }
 }
