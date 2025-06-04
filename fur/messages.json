@@ -233,5 +233,79 @@
   "done": {
     "message": "Fat",
     "description": "Label of button in final onboarding panel."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Torne ative la protezion par Firefox",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "In chest moment Firefox e je une “aplicazion escludude” te aplicazion Mozilla VPN. Par doprâ cheste estension, vierç la aplicazion e va su Impostazions > Aplicazions esclududis e gjave Firefox.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "Par zontâ o modificâ lis preferencis relativis a un sît web, visite il sît e vierç la estension Mozilla VPN par Firefox. Dopo, stabilìs lis preferencis pal sît. Lis tôs preferencis a son ativis nome cuant che la protezion VPN par Firefox e je ative.",
+    "description": "Subtitle in the settings page."
+  },
+  "settingsPageTitle": {
+    "message": "Preferencis pai sîts web di Mozilla VPN",
+    "description": "Title for settings page tab."
+  },
+  "noSignal": {
+    "message": "Nissun segnâl",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Instabile",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Daûr a conetisi…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Centri di assistence",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "Preferencis pai sîts web",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Contate la assistence",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN disativade pal sît web",
+    "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: posizion di Mozilla VPN pal sît web",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "SERVERLOCATION": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
+  },
+  "alert_conflictingProgram": {
+    "message": "Un program sul to computer al podarès causâ problemis cu la estension Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Cemût risolvi il probleme",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Altris estensions a podaressin interferî cul funzionament de estension Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Scuvierç ce fâ",
+    "description": "Link in banner alert"
+  },
+  "telemetry_toggle_text": {
+    "message": "Condivît dâts tecnics e di interazion",
+    "description": "Label for the Telemetry Opt-In toggle"
   }
 }
