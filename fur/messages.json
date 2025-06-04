@@ -307,5 +307,45 @@
   "telemetry_toggle_text": {
     "message": "Condivît dâts tecnics e di interazion",
     "description": "Label for the Telemetry Opt-In toggle"
+  },
+  "privacy_notice_link_name": {
+    "message": "Informative su la riservatece dai servizis in abonament Mozilla",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "first-install-body": {
+    "message": "Par judânus a miorâ funzionalitâts e prestazions e risolvi besvelt problemis, tu puedis sielzi di permeti ae estension Mozilla VPN di tirâ dongje dâts. I dâts che o tirìn dongje no saran mai associâts a ti e no tirìn dongje mai dâts sui sîts che tu visitis. La racuelte dai dâts no influìs sul funzionament de estension.",
+    "description": "Body copy on the telemetry consent screen"
+  },
+  "privacyPolicyIntro": {
+    "message": "Ducj i detais sui dâts che o tirìn dongje a son disponibii te nestre informative su la riservatece.",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
+  },
+  "viewPrivacyPolicy": {
+    "message": "Viôt la informative su la riservatece",
+    "description": "Privacy policy link"
+  },
+  "thankYouForAdding": {
+    "message": "Graciis par vê instalade la estension Mozilla VPN",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "Par continuâ cu la estension, selezione il logo Mozilla VPN te sbare dai struments di Firefox.",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
+  "optionalDataCollection": {
+    "message": "Racuelte dâts facoltative",
+    "description": "Subtitle on the telemetry consent screen"
+  },
+  "telemetryListHeader": {
+    "message": "I dâts facoltatîfs che o tirìn dongje a includin:",
+    "description": "Headline for a list describing the type of data collected by the extension"
+  },
+  "technicalData": {
+    "message": "Dâts tecnics, come version dal navigadôr, version de estension e detais sui erôrs, cussì che o podìn tignî di voli e comedâ erôrs in mût eficient.",
+    "description": "Description of technical data, found on telemetry consent screen."
+  },
+  "interactionData": {
+    "message": "Dâts di interazion, come il numar di sîts web escludûts de protezion VPN, il numar di sîts web cuntune preference pe posizion, trop dispès che la protezion e ven ativade e disativade.",
+    "description": "Description of interaction data, found on the telemetry consent screen."
   }
 }
