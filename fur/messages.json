@@ -390,5 +390,13 @@
   },
   "labelDescribeAutoStartOnPBM": {
     "message": "Ative simpri la VPN cuant che tu dopris la modalitât di navigazion privade"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "Par ativâ cheste opzion, va tal menù dai components adizionâi, selezione “Estension Mozilla VPN” e selezione “Permet” par “Zire tai barcons privâts”.",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "Ative simpri la VPN cuant che tu vierzis Firefox",
+    "description": "Description for the autostart checkbox"
   }
 }
