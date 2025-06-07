@@ -347,5 +347,48 @@
   "interactionData": {
     "message": "Dâts di interazion, come il numar di sîts web escludûts de protezion VPN, il numar di sîts web cuntune preference pe posizion, trop dispès che la protezion e ven ativade e disativade.",
     "description": "Description of interaction data, found on the telemetry consent screen."
+  },
+  "telemetryOptOutInstructions": {
+    "message": "Se no tu desideris permeti ae estension Mozilla VPN di tirâ dongje dâts, gjave il segn ae casele. Tu puedis ancje cambiâ cheste impostazion cuant che tu vûs te estension, sot des Impostazions.",
+    "description": "Opt out instructions on the telemetry consent screen"
+  },
+  "telemetryCheckboxLabel": {
+    "message": "Permet a Mozilla di tirâ dongje dâts tecnics e di interazion",
+    "description": "Checkbox label"
+  },
+  "telemetrySettingsCheckboxLabel": {
+    "message": "Chest dât nus jude a miorâ funzions e prestazions. Al inclût dâts sul dispositîf, la configurazion dal hardware e cemût che tu dopris la estension Mozilla VPN.",
+    "description": "Checkbox label on the settings page"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Ative protezion par Firefox",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "messageSplitTunnelBody": {
+    "message": "In chest moment Firefox e je une “aplicazion escludude” te aplicazion Mozilla VPN. Par doprâ cheste estension, vierç la aplicazion e va su Impostazions > Aplicazions esclududis e gjave Firefox.",
+    "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "headerSubscriptionNotAvailable": {
+    "message": "L’abonament a Mozilla VPN nol è ancjemò disponibil tal to paîs",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "bodySubscriptionNotAvailable": {
+    "message": "L’abonament a Mozilla VPN nol è ancjemò disponibil tal to paîs, ma tu puedis iscriviti ae nestre liste di spiete par ricevi une notifiche a pene che al sarà disponibil. Se tu âs za un abonament, continue.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnjoinWaitlist": {
+    "message": "Iscriviti ae liste di spiete",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnContinue": {
+    "message": "Continue",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Opzions di conession automatiche",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Ative simpri la VPN cuant che tu dopris la modalitât di navigazion privade"
   }
 }
