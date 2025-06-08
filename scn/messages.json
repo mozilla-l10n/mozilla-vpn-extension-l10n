@@ -202,6 +202,26 @@
     "message": "Sdisattiva a VPN pi certi siti spicìfici",
     "description": "Title in onboarding panel."
   },
+  "onboarding1_body": {
+    "message": "Cû stinneriu pi Firefox, po' sdisattivari a prutizzioni dâ VPN pi certi siti, senza tuccari a prutizzioni pi tutti l'autri cosi.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Vidi certi siti di pusizzioni diversi",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "I nutizzi di Lònnira, u sport di San Paulu, l'accàttiti di Tokyo. Cunfijura pusizzioni spicìfichi pi certi siti pi pirsunalizzari a to navicazzioni.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Teni a prutizzioni attiva pi Firefox",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Usa u stinneriu p'attivari a prutizzioni VPN pi Firefox — macari quannu a prutizzioni è sdisattiva pû restu dû computer.",
+    "description": "Body text in onboarding panel."
+  },
   "next": {
     "message": "Avanti",
     "description": "Label of button to progress to next onboarding panel."
@@ -213,6 +233,18 @@
   "done": {
     "message": "Fattu",
     "description": "Label of button in final onboarding panel."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Attiva arrè a prutizzioni pi Firefox",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "settingsPageTitle": {
+    "message": "Prifirenzi pî siti di Mozilla VPN",
+    "description": "Title for settings page tab."
+  },
+  "noSignal": {
+    "message": "Nuḍḍu signali",
+    "description": "Indicator text describing the status of the VPN."
   },
   "unstable": {
     "message": "Nun stàbbili",
