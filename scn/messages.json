@@ -202,6 +202,42 @@
     "message": "Sdisattiva a VPN pi certi siti spicìfici",
     "description": "Title in onboarding panel."
   },
+  "next": {
+    "message": "Avanti",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Sauta",
+    "description": "Label of button to skip onboarding."
+  },
+  "done": {
+    "message": "Fattu",
+    "description": "Label of button in final onboarding panel."
+  },
+  "unstable": {
+    "message": "Nun stàbbili",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Mi staju cullijannu…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Centru d'assistenza",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "Prifirenzi dî siti",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Cuntatta l'assistenza",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN sdisattivata pi stu situ",
+    "description": "Aria label."
+  },
   "btnContinue": {
     "message": "Cuntinua",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
