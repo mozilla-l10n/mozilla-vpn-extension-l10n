@@ -238,6 +238,14 @@
     "message": "Attiva arrè a prutizzioni pi Firefox",
     "description": "Error panel title for when Firefox is an excluded app."
   },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Accamora Firefox è n'“applicazzioni discruduta” nni Mozilla VPN. P'usari stu stinneriu, grapi l'applicazzioni e vai nne Mpustazzioni > Applicazzioni discruduti e leva Firefox.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "Pi jùnciri o canciari prifirenzi spicìfichi p'un situ, vìsita stu situ e grapi u stinneriu di Mozilla VPN pi Firefox. Doppu, cunfijura i prifirenzi pû situ. I to prifirenzi sunnu attivi sulu quannu è attiva a prutizzioni VPN pi Firefox.",
+    "description": "Subtitle in the settings page."
+  },
   "settingsPageTitle": {
     "message": "Prifirenzi pî siti di Mozilla VPN",
     "description": "Title for settings page tab."
