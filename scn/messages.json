@@ -182,6 +182,26 @@
     "message": "Attiva a prutizzioni",
     "description": "Button label."
   },
+  "removeCustomLocation": {
+    "message": "Leva a pusizzioni pirsunalizzata",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Prutizzioni pî siti",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Manna un cummentu",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Cchiù nfurmazzioni",
+    "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "Sdisattiva a VPN pi certi siti spicìfici",
+    "description": "Title in onboarding panel."
+  },
   "btnContinue": {
     "message": "Cuntinua",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
