@@ -279,7 +279,7 @@
     "description": "Aria label."
   },
   "websiteLocationLabel": {
-    "message": "$SERVERLOCATION$: posizione di Mozilla VPN per il sito web ",
+    "message": "$SERVERLOCATION$: posizione di Mozilla VPN per il sito web",
     "description": "Aria label for a flag icon representing the location of the VPN server",
     "placeholders": {
       "SERVERLOCATION": {
