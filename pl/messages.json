@@ -1,0 +1,6 @@
+{
+  "close": {
+    "message": "Zamknij",
+    "description": "Alt label text for an X icon button in alert."
+  }
+}
