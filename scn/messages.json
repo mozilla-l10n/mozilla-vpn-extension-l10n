@@ -270,8 +270,69 @@
     "message": "Mozilla VPN sdisattivata pi stu situ",
     "description": "Aria label."
   },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: pusizzioni di Mozilla VPN pû situ",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "SERVERLOCATION": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
+  },
+  "alert_conflictingProgram": {
+    "message": "Un prugramma dû to computer sta facennu sfarsijari u stinneriu di Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Comu arrisòrbiri",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "È pussìbbili chi autri stinneri ntirfirìscinu cû funziunamentu dû stinneriu Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Vidi soccu fari",
+    "description": "Link in banner alert"
+  },
+  "telemetry_toggle_text": {
+    "message": "Sparti dati tècnici e di ntirazzioni",
+    "description": "Label for the Telemetry Opt-In toggle"
+  },
+  "privacy_notice_link_name": {
+    "message": "Abbisu di risirbatizza dî sirbizzi 'n abbunamentu di Mozilla",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "thankYouForAdding": {
+    "message": "Grazzi chi juncisti u stinneriu Mozilla VPN",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "telemetryCheckboxLabel": {
+    "message": "Dùnaci u pirmisu a Mozilla di ricògghiri dati tècnici e di ntirazzioni",
+    "description": "Checkbox label"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Attiva a prutizzioni pi Firefox",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "btnjoinWaitlist": {
+    "message": "Scrìviti â lista d'aspettu",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
   "btnContinue": {
     "message": "Cuntinua",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Attiva sempri a VPN quannu nàvichi 'n mudalità privata"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "P'attivari st'aḍḍijuta, vai nnô minù dî juncitini, scarta “Stinneriu Mozilla VPN” e scarta “Pirmetti” pi “Abbìa nnê finestri privati”.",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "Attiva sempri a VPN quannu grapi Firefox",
+    "description": "Description for the autostart checkbox"
   }
 }
