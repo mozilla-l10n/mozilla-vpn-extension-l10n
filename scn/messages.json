@@ -352,6 +352,10 @@
     "message": "Attiva a prutizzioni pi Firefox",
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
+  "messageSplitTunnelBody": {
+    "message": "Accamora Firefox è n'“applicazzioni discruduta” nni Mozilla VPN. P'usari stu stinneriu, grapi l'applicazzioni e vai nne Mpustazzioni > Applicazzioni discruduti e leva Firefox.",
+    "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
+  },
   "headerSubscriptionNotAvailable": {
     "message": "L'abbunamentu a Mozilla VPN ancora nun è dispunìbbili nnô to pajisi",
     "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
@@ -367,6 +371,10 @@
   "btnContinue": {
     "message": "Cuntinua",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Aḍḍijuti di cunnissioni autumàtica",
+    "description": "Headline for the Auto Connect options"
   },
   "labelDescribeAutoStartOnPBM": {
     "message": "Attiva sempri a VPN quannu nàvichi 'n mudalità privata"
