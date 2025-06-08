@@ -313,7 +313,7 @@
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
   "first-install-body": {
-    "message": "P'ajutàrini a 'mmigghiurari i funziunalità e i pristazzioni, e a arrisòrbiri i prubblemi di manera cchiù assai lesta, po' scartari di pirmittìrici ô stinneriu Mozilla VPN di ricògghiri dati. I dati chi ricugghiemu nun vennu mai lijati a tia, e nun ricugghiemu mai i dati dî siti chi vìsiti. A ricota dî dati nun cancia u funziunamentu dû stinneriu.",
+    "message": "P'ajutàrini a fari megghiu i funziunalità e i pristazzioni, e a arrisòrbiri i prubblemi di manera cchiù assai lesta, po' scartari di pirmittìrici ô stinneriu Mozilla VPN di ricògghiri dati. I dati chi ricugghiemu nun vennu mai lijati a tia, e nun ricugghiemu mai i dati dî siti chi vìsiti. A ricota dî dati nun cancia u funziunamentu dû stinneriu.",
     "description": "Body copy on the telemetry consent screen"
   },
   "privacyPolicyIntro": {
@@ -344,9 +344,21 @@
     "message": "Dati tècnici, a tipu a virsioni dû navicaturi, a virsioni dû stinneriu e minutagghi di l'erruri, accussì putemu trazzari e abbirsari l'erruri di manera cchiù assai efficienti.",
     "description": "Description of technical data, found on telemetry consent screen."
   },
+  "interactionData": {
+    "message": "Dati di ntirazzioni, a tipu quanti siti discrudisti dâ prutizzioni VPN, quanti siti ànnu na prifirenza di pusizzioni e quanti voti attivi e sdisattivi a prutizzioni.",
+    "description": "Description of interaction data, found on the telemetry consent screen."
+  },
+  "telemetryOptOutInstructions": {
+    "message": "Si nun ci vo' pirmèttiri ô stinneriu Mozilla VPN di ricògghiri dati, lèvacci a spunta â caseḍḍa. Po' canciari sta cosa quannu vo' direttu nnô stinneriu, nnê Mpustazzioni.",
+    "description": "Opt out instructions on the telemetry consent screen"
+  },
   "telemetryCheckboxLabel": {
     "message": "Dùnaci u pirmisu a Mozilla di ricògghiri dati tècnici e di ntirazzioni",
     "description": "Checkbox label"
+  },
+  "telemetrySettingsCheckboxLabel": {
+    "message": "Sti dati n'ajùtanu a fari megghiu i funziunalità e i pristazzioni. Cci sunnu dati ncapu ô to dispusitivu, a cunfijurazzioni hardware, e comu usi u stinneriu Mozilla VPN.",
+    "description": "Checkbox label on the settings page"
   },
   "messageSplitTunnelHeader": {
     "message": "Attiva a prutizzioni pi Firefox",
