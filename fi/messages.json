@@ -3,6 +3,10 @@
     "message": "Mozilla VPN -laajennus",
     "description": "Name of the extension."
   },
+  "close": {
+    "message": "Sulje",
+    "description": "Alt label text for an X icon button in alert."
+  },
   "extensionDescription": {
     "message": "Integroi VPN Firefoxiin: aseta ohituspoikkeuksia välilehdille, määritä sivustojen sijainnit ja paljon muuta!",
     "description": "Description of the extension."
@@ -307,5 +311,21 @@
   "messageSplitTunnelHeader": {
     "message": "Ota suojaus käyttöön Firefoxille",
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "btnjoinWaitlist": {
+    "message": "Liity odotuslistalle",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnContinue": {
+    "message": "Jatka",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Automaattisen yhdistämisen asetukset",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStart": {
+    "message": "Ota VPN aina käyttöön avatessasi Firefoxin",
+    "description": "Description for the autostart checkbox"
   }
 }
