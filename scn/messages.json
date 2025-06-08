@@ -81,6 +81,10 @@
     "message": "Ancora nun scartasti nuḍḍa prifirenza pî siti",
     "description": "Headline shown when the user hasn’t set any website preferences."
   },
+  "noWebsitePreferencesSubText": {
+    "message": "Cû stinneriu di Firefox, po' sdisattivari a prutizzioni di Mozilla VPN p'un situ sulu o pi nu nzemi di siti. Pi fàrilu, vìsita un situ, grapi u stinneriu e cancia i prifirenzi dû situ.",
+    "description": "Subtext shown when there are no website preferences set by the user."
+  },
   "altTextRemoveWebsiteButton": {
     "message": "Leva règula pi $ORIGIN$",
     "description": "Alternative text for the button that removes a website rule from the list of preferences.",
@@ -142,6 +146,41 @@
   "headerInstallMsg": {
     "message": "Nzìtati Mozilla VPN",
     "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "P'usari u stinneriu Mozilla VPN pi Firefox, pi favuri prima grapi l'applicazzioni Mozilla VPN.",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "P'usari stu stinneriu, prima scàrrica e nzìtati l'app Mozilla VPN nnô to computer."
+  },
+  "bodyInstallMsgFooter": {
+    "message": "Accura: Mozilla VPN è un sirbizzu cu n'abbunamentu a pagamentu.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
+  "btnDownloadNow": {
+    "message": "Scàrrica ora",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Usa a pusizzioni di Mozilla VPN."
+  },
+  "useDefaultLocationExplainer": {
+    "message": "Usa a stissa pusizzioni di l'app Mozilla VPN pi prutèggiri stu computer.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Sta chiattafurma nun è suppurtata."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "Accamora u stinneriu Mozilla VPN è dispunìbbili sulu nnê dispusitivi Windows."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Stamu travagghiannu pi suppurtari macari macOS e Linux!"
+  },
+  "turnOnProtection": {
+    "message": "Attiva a prutizzioni",
+    "description": "Button label."
   },
   "btnContinue": {
     "message": "Cuntinua",
