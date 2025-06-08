@@ -312,9 +312,37 @@
     "message": "Abbisu di risirbatizza dî sirbizzi 'n abbunamentu di Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
+  "first-install-body": {
+    "message": "P'ajutàrini a 'mmigghiurari i funziunalità e i pristazzioni, e a arrisòrbiri i prubblemi di manera cchiù assai lesta, po' scartari di pirmittìrici ô stinneriu Mozilla VPN di ricògghiri dati. I dati chi ricugghiemu nun vennu mai lijati a tia, e nun ricugghiemu mai i dati dî siti chi vìsiti. A ricota dî dati nun cancia u funziunamentu dû stinneriu.",
+    "description": "Body copy on the telemetry consent screen"
+  },
+  "privacyPolicyIntro": {
+    "message": "Attrovi cchiù minutagghi dî dati chi ricugghiemu nnâ nostra pulìtica di risirbatizza.",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
+  },
+  "viewPrivacyPolicy": {
+    "message": "Vidi a pulìtica di risirbatizza",
+    "description": "Privacy policy link"
+  },
   "thankYouForAdding": {
     "message": "Grazzi chi juncisti u stinneriu Mozilla VPN",
     "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "Pi cuntinuari cû stinneriu, scarta u mercu Mozilla VPN nnâ barra dî stigghi di Firefox.",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
+  "optionalDataCollection": {
+    "message": "Ricota dî dati facurtativa",
+    "description": "Subtitle on the telemetry consent screen"
+  },
+  "telemetryListHeader": {
+    "message": "I dati facurtativi chi ricugghiemu nchiùjinu:",
+    "description": "Headline for a list describing the type of data collected by the extension"
+  },
+  "technicalData": {
+    "message": "Dati tècnici, a tipu a virsioni dû navicaturi, a virsioni dû stinneriu e minutagghi di l'erruri, accussì putemu trazzari e abbirsari l'erruri di manera cchiù assai efficienti.",
+    "description": "Description of technical data, found on telemetry consent screen."
   },
   "telemetryCheckboxLabel": {
     "message": "Dùnaci u pirmisu a Mozilla di ricògghiri dati tècnici e di ntirazzioni",
@@ -323,6 +351,14 @@
   "messageSplitTunnelHeader": {
     "message": "Attiva a prutizzioni pi Firefox",
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "headerSubscriptionNotAvailable": {
+    "message": "L'abbunamentu a Mozilla VPN ancora nun è dispunìbbili nnô to pajisi",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "bodySubscriptionNotAvailable": {
+    "message": "L'abbunamentu a Mozilla VPN ancora nun è dispunìbbili nnô to pajisi, ma ti po' jùnciri â lista d'aspettu pi ricìviri n'abbisu quannu sarà pussìbbili fallu. Si già ài n'abbunamentu, pi favuri cuntinua.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnjoinWaitlist": {
     "message": "Scrìviti â lista d'aspettu",
