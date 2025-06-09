@@ -8,11 +8,11 @@
     "description": "Alt label text for an X icon button in alert."
   },
   "extensionDescription": {
-    "message": "Nzìccacci a VPN dintra a Firefox: leva schedi, mposta a pusizzioni p'ogni situ e autru ancora!",
+    "message": "Nzìccacci a VPN dintra a Firefox: leva schedi, mposta a pusizzioni p’ogni situ e autru ancora!",
     "description": "Description of the extension."
   },
   "back": {
-    "message": "Nn'arrè",
+    "message": "Nn’arrè",
     "description": "Alternative text attribute for back button."
   },
   "productName": {
@@ -82,7 +82,7 @@
     "description": "Headline shown when the user hasn’t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
-    "message": "Cû stinneriu di Firefox, po' sdisattivari a prutizzioni di Mozilla VPN p'un situ sulu o pi nu nzemi di siti. Pi fàrilu, vìsita un situ, grapi u stinneriu e cancia i prifirenzi dû situ.",
+    "message": "Cû stinneriu di Firefox, po’ sdisattivari a prutizzioni di Mozilla VPN p’un situ sulu o pi nu nzemi di siti. Pi fàrilu, vìsita un situ, grapi u stinneriu e cancia i prifirenzi dû situ.",
     "description": "Subtext shown when there are no website preferences set by the user."
   },
   "altTextRemoveWebsiteButton": {
@@ -107,7 +107,7 @@
     "message": "Abbònati a Mozilla VPN."
   },
   "bodySubscribeNow2": {
-    "message": "Nun pòttimu attruvari nuḍḍu abbunamentu lijatu ô cuntu chi usasti pi tràsiri dintra a l'app Mozilla VPN.",
+    "message": "Nun pòttimu attruvari nuḍḍu abbunamentu lijatu ô cuntu chi usasti pi tràsiri dintra a l’app Mozilla VPN.",
     "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
   },
   "footerSubscribeNow": {
@@ -127,10 +127,10 @@
     "description": "Headline."
   },
   "headerSignedOut": {
-    "message": "Trasi dintra a l'app Mozilla VPN."
+    "message": "Trasi dintra a l’app Mozilla VPN."
   },
   "bodySignedOut": {
-    "message": "Niscisti di l'app Mozilla VPN. P'usari u stinneriu pi Firefox, grapi l'app nnô computer e trasi nnô to cuntu."
+    "message": "Niscisti di l’app Mozilla VPN. P’usari u stinneriu pi Firefox, grapi l’app nnô computer e trasi nnô to cuntu."
   },
   "btnOpenVpn": {
     "message": "Grapi Mozilla VPN."
@@ -140,7 +140,7 @@
     "description": "This is the headline of an error panel."
   },
   "bodyNeedsUpdate2": {
-    "message": "P'usari stu stinneriu, prima scàrrica e nzìtati l'ùrtima app Mozilla VPN.",
+    "message": "P’usari stu stinneriu, prima scàrrica e nzìtati l’ùrtima app Mozilla VPN.",
     "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
@@ -148,14 +148,14 @@
     "description": "Header if a VPN installation was not found."
   },
   "bodyOpenMsg": {
-    "message": "P'usari u stinneriu Mozilla VPN pi Firefox, pi favuri prima grapi l'applicazzioni Mozilla VPN.",
+    "message": "P’usari u stinneriu Mozilla VPN pi Firefox, pi favuri prima grapi l’applicazzioni Mozilla VPN.",
     "description": "Popup subtitle text."
   },
   "bodyInstallMsg": {
-    "message": "P'usari stu stinneriu, prima scàrrica e nzìtati l'app Mozilla VPN nnô to computer."
+    "message": "P’usari stu stinneriu, prima scàrrica e nzìtati l’app Mozilla VPN nnô to computer."
   },
   "bodyInstallMsgFooter": {
-    "message": "Accura: Mozilla VPN è un sirbizzu cu n'abbunamentu a pagamentu.",
+    "message": "Accura: Mozilla VPN è un sirbizzu cu n’abbunamentu a pagamentu.",
     "description": "This is a footnote for “bodyInstallMsg”."
   },
   "btnDownloadNow": {
@@ -166,7 +166,7 @@
     "message": "Usa a pusizzioni di Mozilla VPN."
   },
   "useDefaultLocationExplainer": {
-    "message": "Usa a stissa pusizzioni di l'app Mozilla VPN pi prutèggiri stu computer.",
+    "message": "Usa a stissa pusizzioni di l’app Mozilla VPN pi prutèggiri stu computer.",
     "description": "Explanation of what “Use default Mozilla VPN Location” means."
   },
   "headerUnsupportedOSMessage": {
@@ -203,7 +203,7 @@
     "description": "Title in onboarding panel."
   },
   "onboarding1_body": {
-    "message": "Cû stinneriu pi Firefox, po' sdisattivari a prutizzioni dâ VPN pi certi siti, senza tuccari a prutizzioni pi tutti l'autri cosi.",
+    "message": "Cû stinneriu pi Firefox, po’ sdisattivari a prutizzioni dâ VPN pi certi siti, senza tuccari a prutizzioni pi tutti l’autri cosi.",
     "description": "Body text in onboarding panel."
   },
   "onboarding2_title": {
@@ -211,7 +211,7 @@
     "description": "Title in onboarding panel."
   },
   "onboarding2_body": {
-    "message": "I nutizzi di Lònnira, u sport di San Paulu, l'accàttiti di Tokyo. Cunfijura pusizzioni spicìfichi pi certi siti pi pirsunalizzari a to navicazzioni.",
+    "message": "I nutizzi di Lònnira, u sport di San Paulu, l’accàttiti di Tokyo. Cunfijura pusizzioni spicìfichi pi certi siti pi pirsunalizzari a to navicazzioni.",
     "description": "Body text in onboarding panel."
   },
   "onboarding3_title": {
@@ -219,7 +219,7 @@
     "description": "Title in onboarding panel."
   },
   "onboarding3_body": {
-    "message": "Usa u stinneriu p'attivari a prutizzioni VPN pi Firefox — macari quannu a prutizzioni è sdisattiva pû restu dû computer.",
+    "message": "Usa u stinneriu p’attivari a prutizzioni VPN pi Firefox — macari quannu a prutizzioni è sdisattiva pû restu dû computer.",
     "description": "Body text in onboarding panel."
   },
   "next": {
@@ -239,11 +239,11 @@
     "description": "Error panel title for when Firefox is an excluded app."
   },
   "bodyReEnableFirefoxProtection": {
-    "message": "Accamora Firefox è n'“applicazzioni discruduta” nni Mozilla VPN. P'usari stu stinneriu, grapi l'applicazzioni e vai nne Mpustazzioni > Applicazzioni discruduti e leva Firefox.",
+    "message": "Accamora Firefox è n’“applicazzioni discruduta” nni Mozilla VPN. P’usari stu stinneriu, grapi l’applicazzioni e vai nne Mpustazzioni > Applicazzioni discruduti e leva Firefox.",
     "description": "Body copy of error panel."
   },
   "settingsPageSubtitle": {
-    "message": "Pi jùnciri o canciari prifirenzi spicìfichi p'un situ, vìsita stu situ e grapi u stinneriu di Mozilla VPN pi Firefox. Doppu, cunfijura i prifirenzi pû situ. I to prifirenzi sunnu attivi sulu quannu è attiva a prutizzioni VPN pi Firefox.",
+    "message": "Pi jùnciri o canciari prifirenzi spicìfichi p’un situ, vìsita stu situ e grapi u stinneriu di Mozilla VPN pi Firefox. Doppu, cunfijura i prifirenzi pû situ. I to prifirenzi sunnu attivi sulu quannu è attiva a prutizzioni VPN pi Firefox.",
     "description": "Subtitle in the settings page."
   },
   "settingsPageTitle": {
@@ -263,7 +263,7 @@
     "description": "Indicator text describing the status of the VPN."
   },
   "helpCenter": {
-    "message": "Centru d'assistenza",
+    "message": "Centru d’assistenza",
     "description": "Link title."
   },
   "websitePreferences": {
@@ -271,7 +271,7 @@
     "description": "Link title."
   },
   "contactSupport": {
-    "message": "Cuntatta l'assistenza",
+    "message": "Cuntatta l’assistenza",
     "description": "Link title."
   },
   "offForWebsite": {
@@ -309,11 +309,11 @@
     "description": "Label for the Telemetry Opt-In toggle"
   },
   "privacy_notice_link_name": {
-    "message": "Abbisu di risirbatizza dî sirbizzi 'n abbunamentu di Mozilla",
+    "message": "Abbisu di risirbatizza dî sirbizzi ’n abbunamentu di Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
   "first-install-body": {
-    "message": "P'ajutàrini a fari megghiu i funziunalità e i pristazzioni, e a arrisòrbiri i prubblemi di manera cchiù assai lesta, po' scartari di pirmittìrici ô stinneriu Mozilla VPN di ricògghiri dati. I dati chi ricugghiemu nun vennu mai lijati a tia, e nun ricugghiemu mai i dati dî siti chi vìsiti. A ricota dî dati nun cancia u funziunamentu dû stinneriu.",
+    "message": "P’ajutàrini a fari megghiu i funziunalità e i pristazzioni, e a arrisòrbiri i prubblemi di manera cchiù assai lesta, po’ scartari di pirmittìrici ô stinneriu Mozilla VPN di ricògghiri dati. I dati chi ricugghiemu nun vennu mai lijati a tia, e nun ricugghiemu mai i dati dî siti chi vìsiti. A ricota dî dati nun cancia u funziunamentu dû stinneriu.",
     "description": "Body copy on the telemetry consent screen"
   },
   "privacyPolicyIntro": {
@@ -341,7 +341,7 @@
     "description": "Headline for a list describing the type of data collected by the extension"
   },
   "technicalData": {
-    "message": "Dati tècnici, a tipu a virsioni dû navicaturi, a virsioni dû stinneriu e minutagghi di l'erruri, accussì putemu trazzari e abbirsari l'erruri di manera cchiù assai efficienti.",
+    "message": "Dati tècnici, a tipu a virsioni dû navicaturi, a virsioni dû stinneriu e minutagghi di l’erruri, accussì putemu trazzari e abbirsari l’erruri di manera cchiù assai efficienti.",
     "description": "Description of technical data, found on telemetry consent screen."
   },
   "interactionData": {
@@ -349,7 +349,7 @@
     "description": "Description of interaction data, found on the telemetry consent screen."
   },
   "telemetryOptOutInstructions": {
-    "message": "Si nun ci vo' pirmèttiri ô stinneriu Mozilla VPN di ricògghiri dati, lèvacci a spunta â caseḍḍa. Po' canciari sta cosa quannu vo' direttu nnô stinneriu, nnê Mpustazzioni.",
+    "message": "Si nun ci vo’ pirmèttiri ô stinneriu Mozilla VPN di ricògghiri dati, lèvacci a spunta â caseḍḍa. Po’ canciari sta cosa quannu vo’ direttu nnô stinneriu, nnê Mpustazzioni.",
     "description": "Opt out instructions on the telemetry consent screen"
   },
   "telemetryCheckboxLabel": {
@@ -357,7 +357,7 @@
     "description": "Checkbox label"
   },
   "telemetrySettingsCheckboxLabel": {
-    "message": "Sti dati n'ajùtanu a fari megghiu i funziunalità e i pristazzioni. Cci sunnu dati ncapu ô to dispusitivu, a cunfijurazzioni hardware, e comu usi u stinneriu Mozilla VPN.",
+    "message": "Sti dati n’ajùtanu a fari megghiu i funziunalità e i pristazzioni. Cci sunnu dati ncapu ô to dispusitivu, a cunfijurazzioni hardware, e comu usi u stinneriu Mozilla VPN.",
     "description": "Checkbox label on the settings page"
   },
   "messageSplitTunnelHeader": {
@@ -365,19 +365,19 @@
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "messageSplitTunnelBody": {
-    "message": "Accamora Firefox è n'“applicazzioni discruduta” nni Mozilla VPN. P'usari stu stinneriu, grapi l'applicazzioni e vai nne Mpustazzioni > Applicazzioni discruduti e leva Firefox.",
+    "message": "Accamora Firefox è n’“applicazzioni discruduta” nni Mozilla VPN. P’usari stu stinneriu, grapi l’applicazzioni e vai nne Mpustazzioni > Applicazzioni discruduti e leva Firefox.",
     "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "headerSubscriptionNotAvailable": {
-    "message": "L'abbunamentu a Mozilla VPN ancora nun è dispunìbbili nnô to pajisi",
+    "message": "L’abbunamentu a Mozilla VPN ancora nun è dispunìbbili nnô to pajisi",
     "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "bodySubscriptionNotAvailable": {
-    "message": "L'abbunamentu a Mozilla VPN ancora nun è dispunìbbili nnô to pajisi, ma ti po' jùnciri â lista d'aspettu pi ricìviri n'abbisu quannu sarà pussìbbili fallu. Si già ài n'abbunamentu, pi favuri cuntinua.",
+    "message": "L’abbunamentu a Mozilla VPN ancora nun è dispunìbbili nnô to pajisi, ma ti po’ jùnciri â lista d’aspettu pi ricìviri n’abbisu quannu sarà pussìbbili fallu. Si già ài n’abbunamentu, pi favuri cuntinua.",
     "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnjoinWaitlist": {
-    "message": "Scrìviti â lista d'aspettu",
+    "message": "Scrìviti â lista d’aspettu",
     "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnContinue": {
@@ -389,10 +389,10 @@
     "description": "Headline for the Auto Connect options"
   },
   "labelDescribeAutoStartOnPBM": {
-    "message": "Attiva sempri a VPN quannu nàvichi 'n mudalità privata"
+    "message": "Attiva sempri a VPN quannu nàvichi ’n mudalità privata"
   },
   "bodyAutoStartOnPBM": {
-    "message": "P'attivari st'aḍḍijuta, vai nnô minù dî juncitini, scarta “Stinneriu Mozilla VPN” e scarta “Pirmetti” pi “Abbìa nnê finestri privati”.",
+    "message": "P’attivari st’aḍḍijuta, vai nnô minù dî juncitini, scarta “Stinneriu Mozilla VPN” e scarta “Pirmetti” pi “Abbìa nnê finestri privati”.",
     "description": "Body of the autostart option."
   },
   "labelDescribeAutoStart": {
