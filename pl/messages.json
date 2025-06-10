@@ -1,6 +1,402 @@
 {
+  "extensionName": {
+    "message": "Rozszerzenie Mozilla VPN",
+    "description": "Name of the extension."
+  },
   "close": {
     "message": "Zamknij",
     "description": "Alt label text for an X icon button in alert."
+  },
+  "extensionDescription": {
+    "message": "Zintegruj VPN z Firefoksem: wyklucz spod ochrony wybrane karty, ustaw osobne lokalizacje dla konkretnych witryn i wiele więcej!",
+    "description": "Description of the extension."
+  },
+  "back": {
+    "message": "Wstecz",
+    "description": "Alternative text attribute for back button."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  },
+  "titleServerList": {
+    "message": "Lokalizacja witryny",
+    "description": "Title for a dialog where users can set the location for a website."
+  },
+  "selectWebsiteLocation": {
+    "message": "Wybierz lokalizację witryny",
+    "description": "Button label."
+  },
+  "titlePageSettings": {
+    "message": "Preferencje dla tej witryny",
+    "description": "The header for website specific settings, i.e. exclude a page from VPN."
+  },
+  "excludePageFor": {
+    "message": "Zawsze wyłączaj ochronę VPN dla $ORIGIN$",
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "resetPageSettings": {
+    "message": "Zresetuj preferencje witryn",
+    "description": "Button text to reset all site specific settings."
+  },
+  "vpnIsOn": {
+    "message": "Ochrona VPN dla Firefoksa jest włączona",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "Ochrona VPN dla Firefoksa jest wyłączona",
+    "description": "Header to signal that VPN connection is disabled."
+  },
+  "extensionVpnIsOff": {
+    "message": "Mozilla VPN nadal działa i chroni resztę twojego komputera.",
+    "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
+  },
+  "vpnOffStatus": {
+    "message": "Wyłączone",
+    "description": "Label indicating that the VPN is off."
+  },
+  "vpnOnStatus": {
+    "message": "Włączone",
+    "description": "Label indicating that the VPN is on."
+  },
+  "placeholderSearchWebsites": {
+    "message": "Szukaj witryny",
+    "description": "Placeholder text for the search input field to search websites."
+  },
+  "tableHeadingWebsite": {
+    "message": "Witryna",
+    "description": "Table heading for the column listing websites."
+  },
+  "tableHeadingVpnStatus": {
+    "message": "Ochrona witryny",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "headlineNoWebsitePreferences": {
+    "message": "Nie ustawiono jeszcze żadnych preferencji dotyczących witryny",
+    "description": "Headline shown when the user hasn’t set any website preferences."
+  },
+  "noWebsitePreferencesSubText": {
+    "message": "Dzięki rozszerzeniu dla Firefoksa możesz wyłączyć ochronę Mozilla VPN dla witryny lub ustawić niestandardową lokalizację. Aby to zrobić, odwiedź witrynę, otwórz rozszerzenie i zaktualizuj preferencje witryny.",
+    "description": "Subtext shown when there are no website preferences set by the user."
+  },
+  "altTextRemoveWebsiteButton": {
+    "message": "Usuń regułę dla $ORIGIN$",
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "altTextOpenSettingsPage": {
+    "message": "Otwórz ustawienia",
+    "description": "Alternative text for the button that opens the Extensions Settings page."
+  },
+  "searchServer": {
+    "message": "Wyszukaj lokalizacje",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "titleSubscribeNow": {
+    "message": "Wykup subskrypcję Mozilla VPN."
+  },
+  "bodySubscribeNow2": {
+    "message": "Nie znaleźliśmy subskrypcji powiązanej z kontem użytym do zalogowania się w aplikacji Mozilla VPN.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "footerSubscribeNow": {
+    "message": "Aby korzystać z tego rozszerzenia, należy wykupić subskrypcję.",
+    "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
+  },
+  "btnSubscribeNow": {
+    "message": "Wykup subskrypcję",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
+  "getHelp": {
+    "message": "Pomoc",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "headerOpenMozillaVPN": {
+    "message": "Otwórz Mozilla VPN",
+    "description": "Headline."
+  },
+  "headerSignedOut": {
+    "message": "Zaloguj się do aplikacji Mozilla VPN."
+  },
+  "bodySignedOut": {
+    "message": "Nie zalogowano w aplikacji Mozilla VPN. Aby użyć rozszerzenia dla Firefoksa Mozilla VPN, otwórz aplikację na swoim komputerze i zaloguj się na swoje konto."
+  },
+  "btnOpenVpn": {
+    "message": "Otwórz Mozilla VPN."
+  },
+  "headerNeedsUpdate": {
+    "message": "Zaktualizuj Mozilla VPN",
+    "description": "This is the headline of an error panel."
+  },
+  "bodyNeedsUpdate2": {
+    "message": "Aby skorzystać z tego rozszerzenia, najpierw pobierz i zainstaluj najnowszą aplikację Mozilla VPN.",
+    "description": "This is body copy for an error message."
+  },
+  "headerInstallMsg": {
+    "message": "Zainstaluj Mozilla VPN",
+    "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "Aby skorzystać z rozszerzenia Mozilla VPN dla Firefoksa, najpierw otwórz aplikację Mozilla VPN.",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "Aby skorzystać z tego rozszerzenia, najpierw pobierz i zainstaluj aplikację Mozilla VPN na swoim komputerze."
+  },
+  "bodyInstallMsgFooter": {
+    "message": "Należy pamiętać, że Mozilla VPN jest usługą płatną i wymagającą subskrypcji.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
+  "btnDownloadNow": {
+    "message": "Pobierz teraz",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Użyj lokalizacji Mozilla VPN."
+  },
+  "useDefaultLocationExplainer": {
+    "message": "Użyj tej samej lokalizacji, co aplikacja Mozilla VPN chroniąca ten komputer.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Niewspierana platforma."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "Obecnie rozszerzenie Mozilla VPN jest dostępne tylko na urządzeniach z systemem Windows."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Pracujemy nad wsparciem systemów macOS i Linux!"
+  },
+  "turnOnProtection": {
+    "message": "Włącz ochronę",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Usuń niestandardową lokalizację",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Ochrona witryny",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Wyślij opinię",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Dowiedz się więcej",
+    "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "Wyłącz VPN dla określonych witryn",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding1_body": {
+    "message": "Rozszerzenie dla Firefoksa umożliwia wyłączenie ochrony VPN dla wybranych witryn, jednocześnie pozostawiając ją włączoną dla wszystkich innych.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Zobacz różne witryny z różnych lokalizacji",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "Wiadomości z Londynu. Sport z Sao Paulo. Zakupy z Tokio. Ustaw lokalizacje specyficzne dla witryny, aby spersonalizować swoje przeglądanie internetu.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Utrzymuj ochronę Firefoksa „włączoną”",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Użyj rozszerzenia, aby włączyć ochronę VPN dla Firefoksa — nawet jeśli ochrona jest wyłączona dla reszty komputera.",
+    "description": "Body text in onboarding panel."
+  },
+  "next": {
+    "message": "Dalej",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Pomiń",
+    "description": "Label of button to skip onboarding."
+  },
+  "done": {
+    "message": "Gotowe",
+    "description": "Label of button in final onboarding panel."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Ponowne włączenie ochrony Firefoksa",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox jest obecnie „wykluczoną aplikacją” w aplikacji Mozilla VPN. Aby użyć tego rozszerzenia, otwórz aplikację i przejdź do Ustawień > Wykluczone aplikacje i usuń Firefox.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "Aby dodać lub zmienić preferencje dotyczące konkretnej witryny, odwiedź stronę i otwórz rozszerzenie dla Firefoksa Mozilla VPN. Następnie ustaw preferencje dla witryny. Twoje preferencje obowiązują tylko wtedy, gdy ochrona VPN dla Firefoksa jest włączona.",
+    "description": "Subtitle in the settings page."
+  },
+  "settingsPageTitle": {
+    "message": "Preferencje witryny Mozilla VPN",
+    "description": "Title for settings page tab."
+  },
+  "noSignal": {
+    "message": "Brak sygnału",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Niestabilne",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Łączenie…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Centrum pomocy",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "Preferencje witryny",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Skontaktuj się z pomocą",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN jest wyłączona dla tej witryny",
+    "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: lokalizacja witryny Mozilla VPN",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "SERVERLOCATION": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
+  },
+  "alert_conflictingProgram": {
+    "message": "Program na twoim komputerze może powodować problemy z rozszerzeniem Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Jak to naprawić",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Inne rozszerzenia mogą zakłócać działanie rozszerzenia Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Dowiedz się, co robić",
+    "description": "Link in banner alert"
+  },
+  "telemetry_toggle_text": {
+    "message": "Wysyłaj dane techniczne i o interakcjach",
+    "description": "Label for the Telemetry Opt-In toggle"
+  },
+  "privacy_notice_link_name": {
+    "message": "Zasady ochrony prywatności usług subskrypcyjnych Mozilli",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "first-install-body": {
+    "message": "Aby pomóc nam ulepszyć funkcje i wydajność oraz szybko rozwiązywać problemy, możesz zezwolić rozszerzeniu Mozilla VPN na zbieranie danych. Gromadzone przez nas dane nigdy nie będą powiązane z tobą i nigdy nie zbieramy danych o odwiedzanych przez ciebie witrynach. Gromadzenie danych nie ma wpływu na działanie rozszerzenia.",
+    "description": "Body copy on the telemetry consent screen"
+  },
+  "privacyPolicyIntro": {
+    "message": "Szczegóły dotyczące gromadzonych przez nas danych można znaleźć w naszych zasadach ochrony prywatności.",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
+  },
+  "viewPrivacyPolicy": {
+    "message": "Zasady ochrony prywatności",
+    "description": "Privacy policy link"
+  },
+  "thankYouForAdding": {
+    "message": "Dziękujemy za dodanie rozszerzenia Mozilla VPN",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "Aby przejść do rozszerzenia, wybierz logo Mozilla VPN na pasku narzędzi Firefoksa.",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
+  "optionalDataCollection": {
+    "message": "Opcjonalne zbieranie danych",
+    "description": "Subtitle on the telemetry consent screen"
+  },
+  "telemetryListHeader": {
+    "message": "Opcjonalne dane, które zbieramy, obejmują:",
+    "description": "Headline for a list describing the type of data collected by the extension"
+  },
+  "technicalData": {
+    "message": "Dane techniczne, takie jak wersja przeglądarki, wersja rozszerzenia i szczegóły błędów, dzięki którym możemy skutecznie śledzić błędy i je naprawiać.",
+    "description": "Description of technical data, found on telemetry consent screen."
+  },
+  "interactionData": {
+    "message": "Dane dotyczące interakcji, takie jak liczba stron internetowych wyłączonych z ochrony VPN, liczba stron internetowych z preferencjami dotyczącymi lokalizacji, a także jak często ochrona jest włączana i wyłączana.",
+    "description": "Description of interaction data, found on the telemetry consent screen."
+  },
+  "telemetryOptOutInstructions": {
+    "message": "Jeśli nie chcesz, aby rozszerzenie Mozilla VPN zbierało dane, odznacz to pole. Możesz również zmienić to ustawienie w dowolnym momencie w rozszerzeniu, w ustawieniach.",
+    "description": "Opt out instructions on the telemetry consent screen"
+  },
+  "telemetryCheckboxLabel": {
+    "message": "Zezwól Mozilli na zbieranie danych technicznych i o interakcjach",
+    "description": "Checkbox label"
+  },
+  "telemetrySettingsCheckboxLabel": {
+    "message": "Te dane pomagają nam udoskonalać funkcje i wydajność. Obejmują dane o twoim urządzeniu, konfiguracji sprzętowej i sposobie korzystania z rozszerzenia Mozilla VPN.",
+    "description": "Checkbox label on the settings page"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Włącz ochronę dla Firefoksa",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "messageSplitTunnelBody": {
+    "message": "Firefox jest obecnie „wykluczoną aplikacją” w aplikacji Mozilla VPN. Aby użyć tego rozszerzenia, otwórz aplikację i przejdź do Ustawienia > Wykluczone aplikacje i usuń Firefox.",
+    "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "headerSubscriptionNotAvailable": {
+    "message": "Wykupienie subskrypcji do Mozilla VPN nie jest jeszcze dostępne w twoim kraju",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "bodySubscriptionNotAvailable": {
+    "message": "Wykupienie subskrypcji do Mozilla VPN nie jest jeszcze dostępne w twoim kraju, ale możesz dołączyć do naszej listy oczekujących, aby otrzymać powiadomienie o ich uruchomieniu. Jeśli masz już wykupioną subskrypcję, kontynuuj.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnjoinWaitlist": {
+    "message": "Dołącz do listy oczekujących",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnContinue": {
+    "message": "Kontynuuj",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Opcje automatycznego łączenia",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Zawsze włączaj VPN podczas korzystania z trybu przeglądania prywatnego"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "Aby włączyć tę funkcję, przejdź do menu dodatków, wybierz „Rozszerzenie Mozilla VPN” i ustaw opcję „Działanie w oknach prywatnych” na „Zezwalaj”.",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "Zawsze włączaj VPN podczas otwierania Firefoksa",
+    "description": "Description for the autostart checkbox"
   }
 }
