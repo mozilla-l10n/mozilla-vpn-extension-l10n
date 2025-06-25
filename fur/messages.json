@@ -349,11 +349,11 @@
     "description": "Description of interaction data, found on the telemetry consent screen."
   },
   "telemetryOptOutInstructions": {
-    "message": "Se no tu desideris permeti ae estension Mozilla VPN di tirâ dongje dâts, gjave il segn ae casele. Tu puedis ancje cambiâ cheste impostazion cuant che tu vûs te estension, sot des Impostazions.",
+    "message": "Se no tu desideris permeti ae estension Mozilla VPN di tirâ sù dâts, gjave il segn ae casele. Tu puedis ancje cambiâ cheste impostazion cuant che tu vûs te estension, sot des Impostazions.",
     "description": "Opt out instructions on the telemetry consent screen"
   },
   "telemetryCheckboxLabel": {
-    "message": "Permet a Mozilla di tirâ dongje dâts tecnics e di interazion",
+    "message": "Permet a Mozilla di tirâ sù dâts tecnics e di interazion",
     "description": "Checkbox label"
   },
   "telemetrySettingsCheckboxLabel": {
