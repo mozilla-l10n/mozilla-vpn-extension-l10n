@@ -313,11 +313,11 @@
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
   "first-install-body": {
-    "message": "Par judânus a miorâ funzionalitâts e prestazions e risolvi besvelt problemis, tu puedis sielzi di permeti ae estension Mozilla VPN di tirâ dongje dâts. I dâts che o tirìn dongje no saran mai associâts a ti e no tirìn dongje mai dâts sui sîts che tu visitis. La racuelte dai dâts no influìs sul funzionament de estension.",
+    "message": "Par judânus a miorâ funzionalitâts e prestazions e risolvi besvelt problemis, tu puedis sielzi di permeti ae estension Mozilla VPN di tirâ sù dâts. I dâts che o tirìn sù no saran mai associâts a ti e no tirìn sù mai dâts sui sîts che tu visitis. La racuelte dai dâts no influìs sul funzionament de estension.",
     "description": "Body copy on the telemetry consent screen"
   },
   "privacyPolicyIntro": {
-    "message": "Ducj i detais sui dâts che o tirìn dongje a son disponibii te nestre informative su la riservatece.",
+    "message": "Ducj i detais sui dâts che o tirìn sù a son disponibii te nestre informative su la riservatece.",
     "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
   },
   "viewPrivacyPolicy": {
@@ -337,7 +337,7 @@
     "description": "Subtitle on the telemetry consent screen"
   },
   "telemetryListHeader": {
-    "message": "I dâts facoltatîfs che o tirìn dongje a includin:",
+    "message": "I dâts facoltatîfs che o tirìn sù a includin:",
     "description": "Headline for a list describing the type of data collected by the extension"
   },
   "technicalData": {
