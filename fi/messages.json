@@ -77,6 +77,10 @@
     "message": "Et ole vielä määrittänyt verkkosivustoasetuksia",
     "description": "Headline shown when the user hasn’t set any website preferences."
   },
+  "noWebsitePreferencesSubText": {
+    "message": "Firefox-laajennuksen avulla voit poistaa Mozilla VPN -suojauksen käytöstä verkkosivustolla tai asettaa mukautetun sijainnin. Voit tehdä tämän siirtymällä verkkosivustolle, avaamalla laajennuksen ja päivittämällä verkkosivuston asetukset.",
+    "description": "Subtext shown when there are no website preferences set by the user."
+  },
   "altTextRemoveWebsiteButton": {
     "message": "Poista sivuston $ORIGIN$ sääntö",
     "description": "Alternative text for the button that removes a website rule from the list of preferences.",
@@ -222,6 +226,10 @@
     "message": "Ota Firefoxin suojaus uudelleen käyttöön",
     "description": "Error panel title for when Firefox is an excluded app."
   },
+  "settingsPageSubtitle": {
+    "message": "Voit lisätä tai muuttaa verkkosivustokohtaisia asetuksia siirtymällä sivustolle ja avaamalla Mozilla VPN:n Firefox-laajennuksen. Määritä sitten sivuston asetukset. Asetuksesi ovat voimassa vain, kun Firefoxin VPN-suojaus on käytössä.",
+    "description": "Subtitle in the settings page."
+  },
   "settingsPageTitle": {
     "message": "Mozilla VPN:n sivustoasetukset",
     "description": "Title for settings page tab."
@@ -250,6 +258,10 @@
     "message": "Ota yhteys tukeen",
     "description": "Link title."
   },
+  "offForWebsite": {
+    "message": "Mozilla VPN pois päältä verkkosivustolla",
+    "description": "Aria label."
+  },
   "websiteLocationLabel": {
     "message": "$SERVERLOCATION$: Mozilla VPN -verkkosivuston sijainti",
     "description": "Aria label for a flag icon representing the location of the VPN server",
@@ -263,6 +275,10 @@
   "alert_conflictingProgram": {
     "message": "Tietokoneellasi oleva ohjelma saattaa aiheuttaa ongelmia Mozilla VPN -laajennuksen kanssa.",
     "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Kuinka korjata",
+    "description": "Link in banner alert"
   },
   "alert_conflictingExtensions": {
     "message": "Muut laajennukset saattavat häiritä Mozilla VPN -laajennuksen toimintaa.",
@@ -312,6 +328,10 @@
     "message": "Ota suojaus käyttöön Firefoxille",
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
+  "headerSubscriptionNotAvailable": {
+    "message": "Mozilla VPN -tilaukset eivät ole vielä saatavilla maassasi",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
   "btnjoinWaitlist": {
     "message": "Liity odotuslistalle",
     "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
@@ -323,6 +343,9 @@
   "headlineAutoConnectOptions": {
     "message": "Automaattisen yhdistämisen asetukset",
     "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Ota VPN aina käyttöön, kun yksityinen selaus on käytössä"
   },
   "labelDescribeAutoStart": {
     "message": "Ota VPN aina käyttöön avatessasi Firefoxin",
