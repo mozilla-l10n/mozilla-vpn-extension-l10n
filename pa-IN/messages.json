@@ -344,6 +344,10 @@
     "message": "Firefox ਲਈ ਸੁਰੱਖਿਆ ਸਮਰੱਥ ਕਰੋ",
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
+  "headerSubscriptionNotAvailable": {
+    "message": "Mozilla VPN ਮੈਂਬਰੀ ਹਾਲੇ ਤੁਹਾਡੇ ਦੇਸ਼ ਵਿੱਚ ਮੌਜੂਦ ਨਹੀ ਹੈ",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
   "btnjoinWaitlist": {
     "message": "ਉਡੀਕ-ਸੂਚੀ ਦਾ ਹਿੱਸਾ ਬਣੋ",
     "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
@@ -351,5 +355,13 @@
   "btnContinue": {
     "message": "ਜਾਰੀ ਰੱਖੋ",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "ਆਪਣੇ-ਆਪ ਕਨੈਕਟ ਚੋਣਾਂ",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStart": {
+    "message": "ਜਦੋਂ ਵੀ Firefox ਖੋਲ੍ਹਿਆ ਜਾਵੇ ਤਾਂ VPN ਨੂੰ ਹਮੇਸ਼ਾਂ ਚਲਾਓ",
+    "description": "Description for the autostart checkbox"
   }
 }
