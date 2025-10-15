@@ -360,6 +360,9 @@
     "message": "ਆਪਣੇ-ਆਪ ਕਨੈਕਟ ਚੋਣਾਂ",
     "description": "Headline for the Auto Connect options"
   },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "ਜਦੋਂ ਵੀ ਪ੍ਰਾਈਵੇਟ ਬਰਾਊਜ਼ਿੰਗ ਮੋਡ ਵਰਤਿਆ ਜਾਵੇ ਤਾਂ ਹਮੇਸ਼ਾਂ VPN ਨੂੰ ਚਾਲੂ ਕਰੋ"
+  },
   "labelDescribeAutoStart": {
     "message": "ਜਦੋਂ ਵੀ Firefox ਖੋਲ੍ਹਿਆ ਜਾਵੇ ਤਾਂ VPN ਨੂੰ ਹਮੇਸ਼ਾਂ ਚਲਾਓ",
     "description": "Description for the autostart checkbox"
