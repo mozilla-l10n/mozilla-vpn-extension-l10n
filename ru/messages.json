@@ -140,7 +140,7 @@
     "description": "This is the headline of an error panel."
   },
   "bodyNeedsUpdate2": {
-    "message": "Чтобы использовать это расширение, сначала загрузите и установите последнюю версию приложения Mozilla VPN.",
+    "message": "Чтобы использовать это расширение, сначала скачайте и установите последнюю версию приложения Mozilla VPN.",
     "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
@@ -152,14 +152,14 @@
     "description": "Popup subtitle text."
   },
   "bodyInstallMsg": {
-    "message": "Чтобы использовать это расширение, сначала загрузите и установите на свой компьютер приложение Mozilla VPN."
+    "message": "Чтобы использовать это расширение, сначала скачайте и установите на свой компьютер приложение Mozilla VPN."
   },
   "bodyInstallMsgFooter": {
     "message": "Обратите внимание, что Mozilla VPN — это сервис с платной подпиской.",
     "description": "This is a footnote for “bodyInstallMsg”."
   },
   "btnDownloadNow": {
-    "message": "Загрузить сейчас",
+    "message": "Скачать сейчас",
     "description": "This is a call to action button to download the VPN."
   },
   "defaultLocationHeader": {
