@@ -305,7 +305,7 @@
     "description": "Link in banner alert"
   },
   "telemetry_toggle_text": {
-    "message": "Sdílet technické údaje a údaje o interakci",
+    "message": "Sdílet technické údaje a údaje o interakcích",
     "description": "Label for the Telemetry Opt-In toggle"
   },
   "privacy_notice_link_name": {
@@ -345,7 +345,7 @@
     "description": "Description of technical data, found on telemetry consent screen."
   },
   "interactionData": {
-    "message": "Údaje o interakci, jako je počet webových stránek vyloučených z ochrany pomocí VPN, počet webových stránek s preferovaným umístěním a jak často je ochrana zapínána a vypínána.",
+    "message": "Údaje o interakcích, jako je počet webových stránek vyloučených z ochrany pomocí VPN, počet webových stránek s preferovaným umístěním a jak často je ochrana zapínána a vypínána.",
     "description": "Description of interaction data, found on the telemetry consent screen."
   },
   "telemetryOptOutInstructions": {
@@ -353,7 +353,7 @@
     "description": "Opt out instructions on the telemetry consent screen"
   },
   "telemetryCheckboxLabel": {
-    "message": "Povolit Mozille sbírat technická data a data o interakcích",
+    "message": "Povolit Mozille sbírat technické údaje a údaje o interakcích",
     "description": "Checkbox label"
   },
   "telemetrySettingsCheckboxLabel": {
