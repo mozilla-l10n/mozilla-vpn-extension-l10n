@@ -304,17 +304,9 @@
     "message": "Lês wat jo dwaan kinne",
     "description": "Link in banner alert"
   },
-  "telemetry_toggle_text": {
-    "message": "Technyske en ynteraksjegegevens diele",
-    "description": "Label for the Telemetry Opt-In toggle"
-  },
   "privacy_notice_link_name": {
     "message": "Privacyferklearring foar Mozilla Subscription Services",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
-  },
-  "first-install-body": {
-    "message": "Om ús te helpen funksjes en prestaasjes te ferbetterjen en problemen fluch op te lossen, kinne jo kieze om de Mozilla VPN-útwreiding ta te stean om gegevens te sammeljen. De gegevens dy’t wy sammelje sille nea oan jo keppele wurde en wy sammelje nea gegevens oer de siden dy’t jo besykje. Gegevenssammeling hat gjin ynfloed op hoe’t de útwreiding wurket.",
-    "description": "Body copy on the telemetry consent screen"
   },
   "privacyPolicyIntro": {
     "message": "Folsleine details fan de gegevens dy’t wy sammelje binne beskikber yn ús privacybelied.",
@@ -331,34 +323,6 @@
   "toContinueToTheExtension": {
     "message": "Om troch te gean nei de útwreiding, selektearje it Mozilla VPN-logo yn de Firefox-arkbalke.",
     "description": "Blurb at the bottom of the telemetry consent screen"
-  },
-  "optionalDataCollection": {
-    "message": "Opsjonele gegevenssammeling",
-    "description": "Subtitle on the telemetry consent screen"
-  },
-  "telemetryListHeader": {
-    "message": "De opsjonele gegevens dy’t wy sammelje omfetsje:",
-    "description": "Headline for a list describing the type of data collected by the extension"
-  },
-  "technicalData": {
-    "message": "Technyske gegevens, lykas browserferzje, útwreidingsferzje en flaterdetails, sadat wy flaters effisjint folgje en reparearje kinne.",
-    "description": "Description of technical data, found on telemetry consent screen."
-  },
-  "interactionData": {
-    "message": "Ynteraksjegegevens, lykas it oantal websiden útsletten fan VPN-beskerming, it oantal websiden mei in lokaasjefoarkar en hoe faaks beskerming yn- en útskeakele wurdt.",
-    "description": "Description of interaction data, found on the telemetry consent screen."
-  },
-  "telemetryOptOutInstructions": {
-    "message": "As jo de Mozilla VPN-útwreiding net tastean wolle gegevens te sammeljen, deselektearje dan it fekje. Jo kinne dizze ynstelling ek op elk momint wizigje yn de útwreiding, ûnder Ynstellingen.",
-    "description": "Opt out instructions on the telemetry consent screen"
-  },
-  "telemetryCheckboxLabel": {
-    "message": "Mozilla tastean technyske en ynteraksjegegevens te sammeljen",
-    "description": "Checkbox label"
-  },
-  "telemetrySettingsCheckboxLabel": {
-    "message": "Dizze gegevens helpe ús funksjes en prestaasjes te ferbetterjen. It omfettet gegevens oer jo apparaat, hardwarekonfiguraasje, en hoe’t jo de Mozilla VPN-útwreiding brûke.",
-    "description": "Checkbox label on the settings page"
   },
   "messageSplitTunnelHeader": {
     "message": "Beskerming foar Firefox ynskeakelje",

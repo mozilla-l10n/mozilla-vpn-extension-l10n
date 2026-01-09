@@ -304,17 +304,9 @@
     "message": "Apprende que facer",
     "description": "Link in banner alert"
   },
-  "telemetry_toggle_text": {
-    "message": "Compartir datos technic e de interaction",
-    "description": "Label for the Telemetry Opt-In toggle"
-  },
   "privacy_notice_link_name": {
     "message": "Aviso de confidentialitate re le servicios de abonamento de Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
-  },
-  "first-install-body": {
-    "message": "Pro adjutar nos a meliorar functiones e prestation, e resolver problemas rapidemente, tu pote seliger de permitter al extension Mozilla VPN de colliger datos. Le datos que nos collige jammais sera ligate a te e nos jammais colligera datos re le sitos que tu visita. Le collection de datos non ha impacto sur como le extension functiona.",
-    "description": "Body copy on the telemetry consent screen"
   },
   "privacyPolicyIntro": {
     "message": "Plen detalios del datos que nos collige es disponibile in nostre politica de confidentialitate.",
@@ -331,34 +323,6 @@
   "toContinueToTheExtension": {
     "message": "Pro continuar al extension, seliger Mozilla VPN in le barra del instrumentos de Firefox.",
     "description": "Blurb at the bottom of the telemetry consent screen"
-  },
-  "optionalDataCollection": {
-    "message": "Collection de datos optional",
-    "description": "Subtitle on the telemetry consent screen"
-  },
-  "telemetryListHeader": {
-    "message": "Le datos optional que nos collige include:",
-    "description": "Headline for a list describing the type of data collected by the extension"
-  },
-  "technicalData": {
-    "message": "Datos technic, tal como version del navigator, version del extension, e detalios de error assi que nos pote traciar e reparar le errores efficientemente.",
-    "description": "Description of technical data, found on telemetry consent screen."
-  },
-  "interactionData": {
-    "message": "Datos de interaction, tal como le numero de sitos web excludite de protection VPN, le numero de sitos web con un preferentia de position, e quanto sovente le protection es active e disactivate.",
-    "description": "Description of interaction data, found on the telemetry consent screen."
-  },
-  "telemetryOptOutInstructions": {
-    "message": "Si tu non vole permitter al extension Mozilla VPN de colliger datos, dismarca le quadrato. Tu alsi pote cambiar iste parametro quando tu lo vole in le extension, sub Parametros.",
-    "description": "Opt out instructions on the telemetry consent screen"
-  },
-  "telemetryCheckboxLabel": {
-    "message": "Permitter a Mozilla de colliger datos technic e de interaction",
-    "description": "Checkbox label"
-  },
-  "telemetrySettingsCheckboxLabel": {
-    "message": "Iste datos adjuta nos a meliorar functiones e prestation. Isto include datos re tu apparato, configuration hardware, e como tu usa le extension Mozilla VPN.",
-    "description": "Checkbox label on the settings page"
   },
   "messageSplitTunnelHeader": {
     "message": "Activar le protection pro Firefox",

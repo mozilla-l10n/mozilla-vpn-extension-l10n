@@ -304,17 +304,9 @@
     "message": "Yapmanız gerekenleri öğrenin",
     "description": "Link in banner alert"
   },
-  "telemetry_toggle_text": {
-    "message": "Teknik verileri ve etkileşim verilerini paylaş",
-    "description": "Label for the Telemetry Opt-In toggle"
-  },
   "privacy_notice_link_name": {
     "message": "Mozilla Abonelik Hizmetleri Gizlilik Bildirimi",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
-  },
-  "first-install-body": {
-    "message": "Özellikleri ve performansı geliştirmemize ve sorunları hızlı bir şekilde çözmemize yardımcı olmak için Mozilla VPN uzantısının veri toplamasına izin verebilirsiniz. Topladığımız verileri asla sizinle ilişkilendirmeyiz ve ziyaret ettiğiniz siteler hakkında asla veri toplamayız. Veri toplama, uzantının çalışma şeklini etkilemez.",
-    "description": "Body copy on the telemetry consent screen"
   },
   "privacyPolicyIntro": {
     "message": "Topladığımız verilerle ilgili tüm ayrıntıları gizlilik politikamızda bulabilirsiniz.",
@@ -331,34 +323,6 @@
   "toContinueToTheExtension": {
     "message": "Uzantıyı kullanmak için Firefox araç çubuğundan Mozilla VPN logosunu seçin.",
     "description": "Blurb at the bottom of the telemetry consent screen"
-  },
-  "optionalDataCollection": {
-    "message": "İsteğe bağlı veri toplama",
-    "description": "Subtitle on the telemetry consent screen"
-  },
-  "telemetryListHeader": {
-    "message": "Topladığımız isteğe bağlı veriler şunları içerir:",
-    "description": "Headline for a list describing the type of data collected by the extension"
-  },
-  "technicalData": {
-    "message": "Hataları izleyip düzeltebilmemiz için tarayıcı sürümü, uzantı sürümü ve hata ayrıntıları gibi teknik veriler.",
-    "description": "Description of technical data, found on telemetry consent screen."
-  },
-  "interactionData": {
-    "message": "VPN korumasından hariç tutulan web sitelerinin sayısı, konum tercihi olan web sitelerinin sayısı ve korumanın ne sıklıkta açılıp kapatıldığı gibi etkileşim verileri.",
-    "description": "Description of interaction data, found on the telemetry consent screen."
-  },
-  "telemetryOptOutInstructions": {
-    "message": "Mozilla VPN uzantısının veri toplamasına izin vermek istemiyorsanız kutunun işaretini kaldırın. Ayrıca bu ayarı istediğiniz zaman uzantının Ayarlar bölümünden değiştirebilirsiniz.",
-    "description": "Opt out instructions on the telemetry consent screen"
-  },
-  "telemetryCheckboxLabel": {
-    "message": "Mozilla’nın teknik verileri ve etkileşim verilerini toplamasına izin ver",
-    "description": "Checkbox label"
-  },
-  "telemetrySettingsCheckboxLabel": {
-    "message": "Bu veriler, özellikleri ve performansı geliştirmemize yardımcı olur. Cihazınız, donanım yapılandırmanız ve Mozilla VPN uzantısını nasıl kullandığınızla ilgili verileri içerir.",
-    "description": "Checkbox label on the settings page"
   },
   "messageSplitTunnelHeader": {
     "message": "Firefox’ta korumayı etkinleştir",

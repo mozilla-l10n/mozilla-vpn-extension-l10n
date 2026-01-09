@@ -284,10 +284,6 @@
     "message": "Muut laajennukset saattavat häiritä Mozilla VPN -laajennuksen toimintaa.",
     "description": "Banner alert"
   },
-  "telemetry_toggle_text": {
-    "message": "Jaa teknisiä ja vuorovaikutustietoja",
-    "description": "Label for the Telemetry Opt-In toggle"
-  },
   "privacy_notice_link_name": {
     "message": "Mozillan tilauspalveluiden tietosuojakäytäntö",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
@@ -307,22 +303,6 @@
   "toContinueToTheExtension": {
     "message": "Jatka laajennukseen valitsemalla Mozilla VPN -logo Firefoxin työkalupalkista.",
     "description": "Blurb at the bottom of the telemetry consent screen"
-  },
-  "optionalDataCollection": {
-    "message": "Valinnainen tiedonkeruu",
-    "description": "Subtitle on the telemetry consent screen"
-  },
-  "telemetryListHeader": {
-    "message": "Keräämämme valinnaiset tiedot sisältävät:",
-    "description": "Headline for a list describing the type of data collected by the extension"
-  },
-  "technicalData": {
-    "message": "Tekniset tiedot, kuten selainversio, laajennusversio ja virhetiedot, jotta voimme seurata ja korjata virheitä tehokkaasti.",
-    "description": "Description of technical data, found on telemetry consent screen."
-  },
-  "telemetryCheckboxLabel": {
-    "message": "Salli Mozillan kerätä teknisiä ja vuorovaikutustietoja",
-    "description": "Checkbox label"
   },
   "messageSplitTunnelHeader": {
     "message": "Ota suojaus käyttöön Firefoxille",

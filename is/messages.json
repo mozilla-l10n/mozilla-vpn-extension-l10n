@@ -258,10 +258,6 @@
     "message": "Lærðu hvað þarf að gera",
     "description": "Link in banner alert"
   },
-  "telemetry_toggle_text": {
-    "message": "Deila tækni- og samskiptagögnum",
-    "description": "Label for the Telemetry Opt-In toggle"
-  },
   "privacy_notice_link_name": {
     "message": "Persónuverndaryfirlýsing Mozilla-áskriftarþjónustunnar",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
@@ -277,18 +273,6 @@
   "toContinueToTheExtension": {
     "message": "Til að fara áfram í viðbótina skaltu velja Mozilla VPN merkið á Firefox-verkfærastikunni.",
     "description": "Blurb at the bottom of the telemetry consent screen"
-  },
-  "optionalDataCollection": {
-    "message": "Valkvæð gagnasöfnun",
-    "description": "Subtitle on the telemetry consent screen"
-  },
-  "telemetryListHeader": {
-    "message": "Valfrjálsu gögnin sem við söfnum eru:",
-    "description": "Headline for a list describing the type of data collected by the extension"
-  },
-  "telemetryCheckboxLabel": {
-    "message": "Leyfa Mozilla að safna tækni- og samskiptagögnum",
-    "description": "Checkbox label"
   },
   "messageSplitTunnelHeader": {
     "message": "Virkja varnir fyrir Firefox",

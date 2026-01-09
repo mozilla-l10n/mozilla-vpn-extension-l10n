@@ -304,17 +304,9 @@
     "message": "Zhońće, štož dyrbiće činić",
     "description": "Link in banner alert"
   },
-  "telemetry_toggle_text": {
-    "message": "Techniske daty a daty interakcije dźělić",
-    "description": "Label for the Telemetry Opt-In toggle"
-  },
   "privacy_notice_link_name": {
     "message": "Pokazka priwatnosće za abonementowe słužby Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
-  },
-  "first-install-body": {
-    "message": "Zo byšće nam pomhał, funkcije a wukon polěpšować a problemy spěšnje rozrisać, móžeće rozšěrjenju Mozilla VPN dowolić, daty hromadźić. Daty, kotrež hromadźimy, so z wami njezwjazaja a njehromadźimy ženje daty wo sydłach, kotrež wopytujeće. Hromadźenje datow wliw na to nima, kak rozšěrjenje funguje.",
-    "description": "Body copy on the telemetry consent screen"
   },
   "privacyPolicyIntro": {
     "message": "Dospołne podrobnosće wo datach, kotrež hromadźimy, su w našich prawidłach priwatnosće k dispoziciji.",
@@ -331,34 +323,6 @@
   "toContinueToTheExtension": {
     "message": "Zo byšće z rozšěrjenjom pokročował, wubjerće logo Mozilla VPN w symbolowej lajsće Firefox.",
     "description": "Blurb at the bottom of the telemetry consent screen"
-  },
-  "optionalDataCollection": {
-    "message": "Opcionalne hromadźenje datow",
-    "description": "Subtitle on the telemetry consent screen"
-  },
-  "telemetryListHeader": {
-    "message": "K opcionalnym datam, kotrež hromadźimy, słušeja:",
-    "description": "Headline for a list describing the type of data collected by the extension"
-  },
-  "technicalData": {
-    "message": "Techniske daty, kaž na přikład wersija wobhladowaka, wersija rozšěrjenja a podrobnosće wo zmylkach, móžemy tak slědować a zmylki eficientnje wotstronić.",
-    "description": "Description of technical data, found on telemetry consent screen."
-  },
-  "interactionData": {
-    "message": "Daty interakcije, na přikład ličba websydłow, kotrež su ze škita VPN wuzamknjene, ličba websydłow ze stejnišćowej preferencu a kak husto so škit zmóžnja a znjemóžnja.",
-    "description": "Description of interaction data, found on the telemetry consent screen."
-  },
-  "telemetryOptOutInstructions": {
-    "message": "Jeli nochceće rozšěrjenju Mozilla VPN hromadźenje datow dowolić, wotstrońće hóčku z kašćika. Móžeće tež tute nastajenje kóždy čas w nastajenjach rozšěrjenja změnić.",
-    "description": "Opt out instructions on the telemetry consent screen"
-  },
-  "telemetryCheckboxLabel": {
-    "message": "Mozilla dowolić, techniske daty a daty interakcije hromadźić",
-    "description": "Checkbox label"
-  },
-  "telemetrySettingsCheckboxLabel": {
-    "message": "Tute daty nam pomhaja, funkcije a wukon polěpšować. K nim słušeja daty wo wašim graće, hardwarowej konfiguraciji a kak rozšěrjenje Mozilla VPN wužiwaće.",
-    "description": "Checkbox label on the settings page"
   },
   "messageSplitTunnelHeader": {
     "message": "Škit za Firefox zmóžnić",

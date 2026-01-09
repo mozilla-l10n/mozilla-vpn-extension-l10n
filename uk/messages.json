@@ -304,17 +304,9 @@
     "message": "Дізнайтеся, що робити",
     "description": "Link in banner alert"
   },
-  "telemetry_toggle_text": {
-    "message": "Ділитися технічними й аналітичними даними",
-    "description": "Label for the Telemetry Opt-In toggle"
-  },
   "privacy_notice_link_name": {
     "message": "Положення про приватність послуг передплати Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
-  },
-  "first-install-body": {
-    "message": "Щоб допомогти нам покращити функції та продуктивність, а також швидко вирішувати проблеми, ви можете дозволити розширенню Mozilla VPN збирати дані. Ці дані ніколи не будуть пов'язані з вами, і ми ніколи не збираємо інформацію про сайти, які ви відвідуєте. Збір даних не впливає на роботу розширення.",
-    "description": "Body copy on the telemetry consent screen"
   },
   "privacyPolicyIntro": {
     "message": "Повна інформація про дані, які ми збираємо, доступна в нашій політиці приватності.",
@@ -331,34 +323,6 @@
   "toContinueToTheExtension": {
     "message": "Щоб почати роботу з розширенням, виберіть логотип Mozilla VPN на панелі інструментів Firefox.",
     "description": "Blurb at the bottom of the telemetry consent screen"
-  },
-  "optionalDataCollection": {
-    "message": "Необов'язковий збір даних",
-    "description": "Subtitle on the telemetry consent screen"
-  },
-  "telemetryListHeader": {
-    "message": "Необов'язкові дані, які ми збираємо, включають:",
-    "description": "Headline for a list describing the type of data collected by the extension"
-  },
-  "technicalData": {
-    "message": "Технічні дані, як-от версія браузера, версія розширення та відомості про помилки, щоб ми могли ефективно відстежувати й усувати проблеми.",
-    "description": "Description of technical data, found on telemetry consent screen."
-  },
-  "interactionData": {
-    "message": "Дані про взаємодію, зокрема кількість вебсайтів, доданих до винятків захисту VPN, кількість вебсайтів з налаштуваннями розташування, а також частота ввімкнення та вимкнення захисту.",
-    "description": "Description of interaction data, found on the telemetry consent screen."
-  },
-  "telemetryOptOutInstructions": {
-    "message": "Якщо ви не хочете дозволяти розширенню Mozilla VPN збирати дані, приберіть позначку. Крім того, це налаштування можна змінити коли завгодно в налаштуваннях розширення.",
-    "description": "Opt out instructions on the telemetry consent screen"
-  },
-  "telemetryCheckboxLabel": {
-    "message": "Дозволити Mozilla збирати технічні й аналітичні дані",
-    "description": "Checkbox label"
-  },
-  "telemetrySettingsCheckboxLabel": {
-    "message": "Ці дані допомагають нам вдосконалювати функції та продуктивність. Вони включають інформацію про ваш пристрій, конфігурацію обладнання і спосіб використання розширення Mozilla VPN.",
-    "description": "Checkbox label on the settings page"
   },
   "messageSplitTunnelHeader": {
     "message": "Увімкнути захист для Firefox",

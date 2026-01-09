@@ -304,17 +304,9 @@
     "message": "Přečtěte si, co dělat",
     "description": "Link in banner alert"
   },
-  "telemetry_toggle_text": {
-    "message": "Sdílet technické údaje a údaje o interakcích",
-    "description": "Label for the Telemetry Opt-In toggle"
-  },
   "privacy_notice_link_name": {
     "message": "Oznámení o ochraně osobních údajů předplacených služeb Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
-  },
-  "first-install-body": {
-    "message": "Chcete-li nám pomoci vylepšovat funkce a výkon a rychle řešit problémy, můžete rozšíření Mozilla VPN povolit shromažďování dat. Data, která sbíráme, nebudou s vámi spojená a ani nebudeme shromažďovat údaje o stránkách, které navštívíte. Sběr dat neovlivňuje fungování rozšíření.",
-    "description": "Body copy on the telemetry consent screen"
   },
   "privacyPolicyIntro": {
     "message": "Kompletní informace o údajích, které sbíráme, jsou k dispozici v našich zásadách ochrany osobních údajů.",
@@ -331,34 +323,6 @@
   "toContinueToTheExtension": {
     "message": "Chcete-li pokračovat k rozšíření, vyberte logo Mozilla VPN na panelu nástrojů Firefoxu.",
     "description": "Blurb at the bottom of the telemetry consent screen"
-  },
-  "optionalDataCollection": {
-    "message": "Volitelný sběr dat",
-    "description": "Subtitle on the telemetry consent screen"
-  },
-  "telemetryListHeader": {
-    "message": "Mezi volitelné údaje, které shromažďujeme, patří:",
-    "description": "Headline for a list describing the type of data collected by the extension"
-  },
-  "technicalData": {
-    "message": "Technická data, jako je verze prohlížeče, verze rozšíření a podrobnosti o chybách, abychom mohli chyby efektivně sledovat a opravovat.",
-    "description": "Description of technical data, found on telemetry consent screen."
-  },
-  "interactionData": {
-    "message": "Údaje o interakcích, jako je počet webových stránek vyloučených z ochrany pomocí VPN, počet webových stránek s preferovaným umístěním a jak často je ochrana zapínána a vypínána.",
-    "description": "Description of interaction data, found on the telemetry consent screen."
-  },
-  "telemetryOptOutInstructions": {
-    "message": "Pokud nechcete povolit rozšíření Mozilla VPN shromažďovat data, zrušte zaškrtnutí tohoto políčka. Toto nastavení můžete kdykoli změnit v nastavení rozšíření.",
-    "description": "Opt out instructions on the telemetry consent screen"
-  },
-  "telemetryCheckboxLabel": {
-    "message": "Povolit Mozille sbírat technické údaje a údaje o interakcích",
-    "description": "Checkbox label"
-  },
-  "telemetrySettingsCheckboxLabel": {
-    "message": "Tato data nám pomáhají vylepšovat funkce a výkon. Obsahuje data o vašem zařízení, konfiguraci hardwaru a o tom, jak používáte rozšíření Mozilla VPN.",
-    "description": "Checkbox label on the settings page"
   },
   "messageSplitTunnelHeader": {
     "message": "Povolit ochranu pro Firefox",
