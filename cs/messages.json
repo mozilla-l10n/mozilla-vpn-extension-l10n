@@ -321,7 +321,7 @@
     "description": "Headline on the telemetry consent screen"
   },
   "toContinueToTheExtension": {
-    "message": "Chcete-li pokračovat k rozšíření, vyberte logo Mozilla VPN na panelu nástrojů Firefoxu.",
+    "message": "Chcete-li pokračovat k rozšíření, vyberte logo Mozilla VPN na nástrojové liště Firefoxu.",
     "description": "Blurb at the bottom of the telemetry consent screen"
   },
   "messageSplitTunnelHeader": {
