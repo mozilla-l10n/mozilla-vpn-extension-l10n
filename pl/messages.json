@@ -42,7 +42,7 @@
     }
   },
   "resetPageSettings": {
-    "message": "Zresetuj preferencje witryn",
+    "message": "Zresetuj ustawienia witryn",
     "description": "Button text to reset all site specific settings."
   },
   "vpnIsOn": {
@@ -267,7 +267,7 @@
     "description": "Link title."
   },
   "websitePreferences": {
-    "message": "Preferencje witryny",
+    "message": "Ustawienia witryn",
     "description": "Link title."
   },
   "contactSupport": {
