@@ -226,6 +226,10 @@
     "message": "Virkja aftur Firefox-verndina",
     "description": "Error panel title for when Firefox is an excluded app."
   },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox er sem stendur „útilokað forrit“ í Mozilla VPN-forritinu. Til að nota þessa viðbót skaltu opna forritið og fara í Stillingar > Útilokuð forrit og fjarlægja Firefox.",
+    "description": "Body copy of error panel."
+  },
   "settingsPageTitle": {
     "message": "Stillingar vefsvæðis í Mozilla VPN",
     "description": "Title for settings page tab."
