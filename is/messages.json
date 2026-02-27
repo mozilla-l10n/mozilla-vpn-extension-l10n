@@ -102,6 +102,10 @@
   "titleSubscribeNow": {
     "message": "Gerast áskrifandi að Mozilla VPN."
   },
+  "bodySubscribeNow2": {
+    "message": "Við fundum enga áskrift tengda reikningnum sem þú notaðir til að skrá þig inn í Mozilla VPN-forritið.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
   "footerSubscribeNow": {
     "message": "Til að nota þessa viðbót skaltu gerast áskrifandi.",
     "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
@@ -121,6 +125,9 @@
   "headerSignedOut": {
     "message": "Skráðu þig inn á Mozilla VPN-forritið."
   },
+  "bodySignedOut": {
+    "message": "Þú ert nú skráð(ur) út úr Mozilla VPN-forritinu. Til að nota Mozilla VPN-forritsaukann fyrir Firefox skaltu opna forritið í tölvunni þinni og skrá þig inn á reikninginn þinn."
+  },
   "btnOpenVpn": {
     "message": "Opna Mozilla VPN."
   },
@@ -128,9 +135,20 @@
     "message": "Uppfæra Mozilla VPN",
     "description": "This is the headline of an error panel."
   },
+  "bodyNeedsUpdate2": {
+    "message": "Til að nota þennan forritsauka skaltu fyrst sækja og setja upp nýjasta Mozilla VPN-forritið.",
+    "description": "This is body copy for an error message."
+  },
   "headerInstallMsg": {
     "message": "Setja upp Mozilla VPN",
     "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "Til að nota Mozilla VPN-forritsaukann fyrir Firefox skaltu fyrst sækja og setja upp nýjasta Mozilla VPN-forritið.",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "Til að nota þennan forritsauka skaltu fyrst sækja og setja upp nýjasta Mozilla VPN-forritið á tölvunni þinni."
   },
   "bodyInstallMsgFooter": {
     "message": "Athugaðu að Mozilla VPN er greidd áskriftarþjónusta.",
@@ -179,6 +197,14 @@
   "onboarding1_title": {
     "message": "Slökkva á VPN fyrir tiltekin vefsvæði",
     "description": "Title in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Skoðaðu mismunandi vefsvæði frá mismunandi stöðum",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "Fréttir frá London. Íþróttir frá Sao Paulo. Innkaup í Tókýó. Stilltu sértækar staðsetningar vefsvæða fyrir persónulegt vafur.",
+    "description": "Body text in onboarding panel."
   },
   "onboarding3_title": {
     "message": "Halda VPN-vörn fyrir Firefox virkri",
@@ -261,6 +287,10 @@
   "privacy_notice_link_name": {
     "message": "Persónuverndaryfirlýsing Mozilla-áskriftarþjónustunnar",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "privacyPolicyIntro": {
+    "message": "Nánari upplýsingar um gögnin sem við söfnum eru aðgengilegar í persónuverndarstefnu okkar.",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
   },
   "viewPrivacyPolicy": {
     "message": "Skoða stefnu vegna meðferðar persónuupplýsinga",
