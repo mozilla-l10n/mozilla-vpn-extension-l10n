@@ -81,6 +81,10 @@
     "message": "Þú hefur ennþá ekki stillt nein vefsvæði",
     "description": "Headline shown when the user hasn’t set any website preferences."
   },
+  "noWebsitePreferencesSubText": {
+    "message": "Með Firefox-forritsaukanum er hægt að slökkva á VPN-vörn fyrir tiltekið vefsvæði eða stilla sérsniðna staðsetningu. Til að gera þetta skialtu fara á vefsvæði, opna forritsaukann og uppfæra kjörstillingar vefsvæðisins.",
+    "description": "Subtext shown when there are no website preferences set by the user."
+  },
   "altTextRemoveWebsiteButton": {
     "message": "Fjarlægja reglu fyrir $ORIGIN$",
     "description": "Alternative text for the button that removes a website rule from the list of preferences.",
@@ -198,6 +202,10 @@
     "message": "Slökkva á VPN fyrir tiltekin vefsvæði",
     "description": "Title in onboarding panel."
   },
+  "onboarding1_body": {
+    "message": "Með Firefox-forritsaukanum er hægt að slökkva á VPN-vörn fyrir tiltekin vefsvæði en halda henni virkri fyrir allt annað.",
+    "description": "Body text in onboarding panel."
+  },
   "onboarding2_title": {
     "message": "Skoðaðu mismunandi vefsvæði frá mismunandi stöðum",
     "description": "Title in onboarding panel."
@@ -229,6 +237,10 @@
   "bodyReEnableFirefoxProtection": {
     "message": "Firefox er sem stendur „útilokað forrit“ í Mozilla VPN-forritinu. Til að nota þessa viðbót skaltu opna forritið og fara í Stillingar > Útilokuð forrit og fjarlægja Firefox.",
     "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "Til að bæta við eða breyta vefsíðusértækum stillingum skaltu fara á síðuna og opna Mozilla VPN Firefox viðbótina. Stilltu síðan stillingar fyrir síðuna. Stillingarnar þínar eru aðeins í gildi þegar VPN vernd fyrir Firefox er virk.",
+    "description": "Subtitle in the settings page."
   },
   "settingsPageTitle": {
     "message": "Stillingar vefsvæðis í Mozilla VPN",
