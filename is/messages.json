@@ -218,6 +218,10 @@
     "message": "Halda VPN-vörn fyrir Firefox virkri",
     "description": "Title in onboarding panel."
   },
+  "onboarding3_body": {
+    "message": "Notaðu forritsaukann til að virkja VPN-vörn fyrir Firefox - jafnvel þótt slökkt sé á vörninni fyrir restina af tölvunni þinni.",
+    "description": "Body text in onboarding panel."
+  },
   "next": {
     "message": "Næsta",
     "description": "Label of button to progress to next onboarding panel."
@@ -239,7 +243,7 @@
     "description": "Body copy of error panel."
   },
   "settingsPageSubtitle": {
-    "message": "Til að bæta við eða breyta vefsíðusértækum stillingum skaltu fara á síðuna og opna Mozilla VPN Firefox viðbótina. Stilltu síðan stillingar fyrir síðuna. Stillingarnar þínar eru aðeins í gildi þegar VPN vernd fyrir Firefox er virk.",
+    "message": "Til að bæta við eða breyta sértækum stillingum vefsvæðis, skaltu fara á vefsvæðið og opna Mozilla VPN-forritsaukann í Firefox. Breyttu síðan kjörstillingunum fyrir vefsvæðið. Stillingarnar þínar eru aðeins í gildi þegar VPN-vernd fyrir Firefox er virk.",
     "description": "Subtitle in the settings page."
   },
   "settingsPageTitle": {
@@ -331,6 +335,10 @@
   "headerSubscriptionNotAvailable": {
     "message": "Áskriftir að Mozilla VPN eru ekki enn í boði í landinu þínu",
     "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "bodySubscriptionNotAvailable": {
+    "message": "Áskriftir að Mozilla VPN eru enn ekki í boði í landinu þínu, en þú getur skráð þig á biðlista hjá okkur til að fá tilkynningu þegar þær fara í loftið. Ef þú ert nú þegar með áskrift, skaltu endilega halda áfram.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
   },
   "btnjoinWaitlist": {
     "message": "Skráðu þig á biðlistann",
