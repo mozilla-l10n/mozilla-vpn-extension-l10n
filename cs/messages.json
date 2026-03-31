@@ -70,15 +70,15 @@
     "description": "Placeholder text for the search input field to search websites."
   },
   "tableHeadingWebsite": {
-    "message": "Webová stránka",
+    "message": "Web",
     "description": "Table heading for the column listing websites."
   },
   "tableHeadingVpnStatus": {
-    "message": "Ochrana webové stránky",
+    "message": "Ochrana webu",
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   },
   "headlineNoWebsitePreferences": {
-    "message": "Zatím jste nenastavili žádné předvolby webové stránky",
+    "message": "Zatím jste webu žádné předvolby nenastavili",
     "description": "Headline shown when the user hasn’t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
@@ -185,10 +185,6 @@
   "removeCustomLocation": {
     "message": "Odstranit vlastní umístění",
     "description": "Button label."
-  },
-  "websiteProtection": {
-    "message": "Ochrana webové stránky",
-    "description": "A subtitle that is followed by an off icon and the word 'Off'."
   },
   "giveFeedback": {
     "message": "Zpětná vazba",
