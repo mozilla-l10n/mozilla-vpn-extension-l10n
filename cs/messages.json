@@ -186,6 +186,10 @@
     "message": "Odstranit vlastní umístění",
     "description": "Button label."
   },
+  "websiteProtection": {
+    "message": "Ochrana webu",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
   "giveFeedback": {
     "message": "Zpětná vazba",
     "description": "Button label."
@@ -195,7 +199,7 @@
     "description": "Label of link that leads to SUMO."
   },
   "onboarding1_title": {
-    "message": "Vypnutí VPN pro konkrétní webové stránky",
+    "message": "Vypnutí VPN pro konkrétní web",
     "description": "Title in onboarding panel."
   },
   "onboarding1_body": {
