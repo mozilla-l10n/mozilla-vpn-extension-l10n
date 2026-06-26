@@ -1,0 +1,73 @@
+{
+  "close": {
+    "message": "Lat att",
+    "description": "Alt label text for an X icon button in alert."
+  },
+  "back": {
+    "message": "Tilbake",
+    "description": "Alternative text attribute for back button."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  },
+  "vpnOffStatus": {
+    "message": "Av",
+    "description": "Label indicating that the VPN is off."
+  },
+  "vpnOnStatus": {
+    "message": "På",
+    "description": "Label indicating that the VPN is on."
+  },
+  "placeholderSearchWebsites": {
+    "message": "Søk på nettstadar",
+    "description": "Placeholder text for the search input field to search websites."
+  },
+  "tableHeadingWebsite": {
+    "message": "Nettstad",
+    "description": "Table heading for the column listing websites."
+  },
+  "btnSubscribeNow": {
+    "message": "Abonner no",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
+  "getHelp": {
+    "message": "Få hjelp",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "btnOpenVpn": {
+    "message": "Opne Mozilla VPN."
+  },
+  "headerNeedsUpdate": {
+    "message": "Oppdater Mozilla VPN",
+    "description": "This is the headline of an error panel."
+  },
+  "headerInstallMsg": {
+    "message": "Installer Mozilla VPN",
+    "description": "Header if a VPN installation was not found."
+  },
+  "btnDownloadNow": {
+    "message": "Last ned no",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "turnOnProtection": {
+    "message": "Slå på vern",
+    "description": "Button label."
+  },
+  "giveFeedback": {
+    "message": "Gje tilbakemelding",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Les meir",
+    "description": "Label of link that leads to SUMO."
+  },
+  "unstable": {
+    "message": "Ustabil",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Koplar til…",
+    "description": "Indicator text describing the status of the VPN."
+  }
+}
