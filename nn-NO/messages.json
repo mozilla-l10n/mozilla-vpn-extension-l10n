@@ -69,5 +69,25 @@
   "connecting": {
     "message": "Koplar til…",
     "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Hjelpesenter",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Kontakt brukarstøtte",
+    "description": "Link title."
+  },
+  "viewPrivacyPolicy": {
+    "message": "Vis personvernpraksis",
+    "description": "Privacy policy link"
+  },
+  "btnjoinWaitlist": {
+    "message": "Set deg på venteliste",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnContinue": {
+    "message": "Hald fram",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   }
 }
