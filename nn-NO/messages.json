@@ -11,6 +11,14 @@
     "message": "Mozilla VPN",
     "description": "Name of the product."
   },
+  "vpnIsOn": {
+    "message": "VPN-vern for Firefox er på",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "VPN-vern for Firefox er av",
+    "description": "Header to signal that VPN connection is disabled."
+  },
   "vpnOffStatus": {
     "message": "Av",
     "description": "Label indicating that the VPN is off."
@@ -61,6 +69,22 @@
   "learnMore": {
     "message": "Les meir",
     "description": "Label of link that leads to SUMO."
+  },
+  "next": {
+    "message": "Neste",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Hopp over",
+    "description": "Label of button to skip onboarding."
+  },
+  "done": {
+    "message": "Ferdig",
+    "description": "Label of button in final onboarding panel."
+  },
+  "noSignal": {
+    "message": "Ikkje noko signal",
+    "description": "Indicator text describing the status of the VPN."
   },
   "unstable": {
     "message": "Ustabil",
