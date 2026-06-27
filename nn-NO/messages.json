@@ -102,6 +102,10 @@
     "message": "Kontakt brukarstøtte",
     "description": "Link title."
   },
+  "learnWhatToDo": {
+    "message": "Lær kva du skal gjere",
+    "description": "Link in banner alert"
+  },
   "viewPrivacyPolicy": {
     "message": "Vis personvernpraksis",
     "description": "Privacy policy link"
@@ -113,5 +117,9 @@
   "btnContinue": {
     "message": "Hald fram",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "labelDescribeAutoStart": {
+    "message": "Slå alltid på VPN når du opnar Firefox",
+    "description": "Description for the autostart checkbox"
   }
 }
