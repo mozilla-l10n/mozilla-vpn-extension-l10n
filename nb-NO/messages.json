@@ -82,5 +82,29 @@
   "done": {
     "message": "Ferdig",
     "description": "Label of button in final onboarding panel."
+  },
+  "noSignal": {
+    "message": "Ingen signal",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Ustabil",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Kobler til…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Hjelpesenter",
+    "description": "Link title."
+  },
+  "learnWhatToDo": {
+    "message": "Lær hva du skal gjøre",
+    "description": "Link in banner alert"
+  },
+  "btnContinue": {
+    "message": "Fortsett",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   }
 }
