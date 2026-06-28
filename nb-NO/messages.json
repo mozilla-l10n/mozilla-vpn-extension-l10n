@@ -66,5 +66,21 @@
   "tableHeadingVpnStatus": {
     "message": "Nettstedbeskyttelse",
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "learnMore": {
+    "message": "Les mer",
+    "description": "Label of link that leads to SUMO."
+  },
+  "next": {
+    "message": "Neste",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Hopp over",
+    "description": "Label of button to skip onboarding."
+  },
+  "done": {
+    "message": "Ferdig",
+    "description": "Label of button in final onboarding panel."
   }
 }
