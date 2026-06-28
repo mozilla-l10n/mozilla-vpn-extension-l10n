@@ -1,0 +1,58 @@
+{
+  "extensionName": {
+    "message": "Mozilla VPN-utvidelse",
+    "description": "Name of the extension."
+  },
+  "close": {
+    "message": "Lukk",
+    "description": "Alt label text for an X icon button in alert."
+  },
+  "extensionDescription": {
+    "message": "Integrer VPN i Firefox: Utelat faner, angi nettstedsteder og mer!",
+    "description": "Description of the extension."
+  },
+  "back": {
+    "message": "Tilbake",
+    "description": "Alternative text attribute for back button."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  },
+  "titleServerList": {
+    "message": "Nettstedets plassering",
+    "description": "Title for a dialog where users can set the location for a website."
+  },
+  "selectWebsiteLocation": {
+    "message": "Velg nettstedets plassering",
+    "description": "Button label."
+  },
+  "titlePageSettings": {
+    "message": "Innstillinger for dette nettstedet",
+    "description": "The header for website specific settings, i.e. exclude a page from VPN."
+  },
+  "resetPageSettings": {
+    "message": "Tilbakestill nettstedinnstillinger",
+    "description": "Button text to reset all site specific settings."
+  },
+  "vpnIsOn": {
+    "message": "VPN-beskyttelse for Firefox er på",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "VPN-beskyttelse for Firefox er av",
+    "description": "Header to signal that VPN connection is disabled."
+  },
+  "extensionVpnIsOff": {
+    "message": "Mozilla VPN er fortsatt på og beskytter resten av datamaskinen din.",
+    "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
+  },
+  "vpnOffStatus": {
+    "message": "Av",
+    "description": "Label indicating that the VPN is off."
+  },
+  "vpnOnStatus": {
+    "message": "På",
+    "description": "Label indicating that the VPN is on."
+  }
+}
