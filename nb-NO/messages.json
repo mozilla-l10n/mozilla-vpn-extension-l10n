@@ -54,5 +54,17 @@
   "vpnOnStatus": {
     "message": "På",
     "description": "Label indicating that the VPN is on."
+  },
+  "placeholderSearchWebsites": {
+    "message": "Søk etter nettsteder",
+    "description": "Placeholder text for the search input field to search websites."
+  },
+  "tableHeadingWebsite": {
+    "message": "Nettsted",
+    "description": "Table heading for the column listing websites."
+  },
+  "tableHeadingVpnStatus": {
+    "message": "Nettstedbeskyttelse",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   }
 }
