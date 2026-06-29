@@ -67,6 +67,64 @@
     "message": "Nettstedbeskyttelse",
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   },
+  "getHelp": {
+    "message": "Få hjelp",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "headerOpenMozillaVPN": {
+    "message": "Åpne Mozilla VPN",
+    "description": "Headline."
+  },
+  "headerSignedOut": {
+    "message": "Logg inn på Mozilla VPN-appen."
+  },
+  "btnOpenVpn": {
+    "message": "Åpne Mozilla VPN."
+  },
+  "headerNeedsUpdate": {
+    "message": "Oppdater Mozilla VPN",
+    "description": "This is the headline of an error panel."
+  },
+  "bodyNeedsUpdate2": {
+    "message": "For å bruke denne utvidelsen, må du først laste ned og installere den nyeste Mozilla VPN-appen.",
+    "description": "This is body copy for an error message."
+  },
+  "headerInstallMsg": {
+    "message": "Installer Mozilla VPN",
+    "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "For å bruke Mozilla VPN Firefox-utvidelsen, må du først åpne Mozilla VPN-appen.",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "For å bruke denne utvidelsen, må du først laste ned og installere Mozilla VPN-appen på datamaskinen din."
+  },
+  "bodyInstallMsgFooter": {
+    "message": "Merk at Mozilla VPN er en betalt abonnementstjeneste.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
+  "btnDownloadNow": {
+    "message": "Last ned nå",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Ustøttet plattform."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "For øyeblikket er Mozilla VPN-utvidelsen bare tilgjengelig på Windows-enheter."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Vi jobber med å få støtte for macOS og Linux snart!"
+  },
+  "turnOnProtection": {
+    "message": "Slå på beskyttelse",
+    "description": "Button label."
+  },
+  "giveFeedback": {
+    "message": "Gi tilbakemelding",
+    "description": "Button label."
+  },
   "learnMore": {
     "message": "Les mer",
     "description": "Label of link that leads to SUMO."
