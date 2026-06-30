@@ -282,8 +282,55 @@
     "message": "Fullstendige detaljer om dataene vi samler inn finnes i personvernpraksisen vår.",
     "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
   },
+  "viewPrivacyPolicy": {
+    "message": "Vis personvernpraksis",
+    "description": "Privacy policy link"
+  },
+  "thankYouForAdding": {
+    "message": "Takk for at du la til Mozilla VPN-utvidelsen",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "For å fortsette til utvidelsen, velg Mozilla VPN-logoen i Firefox-verktøylinjen.",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Aktiver beskyttelse for Firefox",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "messageSplitTunnelBody": {
+    "message": "Firefox er for øyeblikket oppført som et «appunntak» i Mozilla VPN-applikasjonen. For å bruke denne utvidelsen, åpne applikasjonen og gå til Innstillinger > Appunntak og fjern Firefox.",
+    "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "headerSubscriptionNotAvailable": {
+    "message": "Mozilla VPN-abonnementer er ennå ikke tilgjengelige i landet ditt",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "bodySubscriptionNotAvailable": {
+    "message": "Mozilla VPN-abonnementer er ennå ikke tilgjengelige i landet ditt, men du kan bli med på ventelisten for å få beskjed når de lanseres. Hvis du allerede har et abonnement, kan du fortsette.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnjoinWaitlist": {
+    "message": "Bli med på ventelisten",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
   "btnContinue": {
     "message": "Fortsett",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Innstillinger for automatisk tilkobling",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Slå alltid på VPN ved bruk av privat nettlesingsmodus"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "For å slå dette på, gå til menyen for utvidelser, velg «Mozilla VPN Extension» og velg «Tillat» for «Kjør i private vinduer».",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "Slå alltid på VPN når Firefox åpnes",
+    "description": "Description for the autostart checkbox"
   }
 }
