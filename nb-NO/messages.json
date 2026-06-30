@@ -258,6 +258,10 @@
     "message": "Mozilla VPN av for nettsted",
     "description": "Aria label."
   },
+  "websiteLocationLabel": {
+    "message": "$$SERVERLOCATION: Mozilla VPN-nettstedsplassering",
+    "description": "Aria label for a flag icon representing the location of the VPN server"
+  },
   "alert_conflictingProgram": {
     "message": "Et program på datamaskinen din kan forårsake problemer med Mozilla VPN-utvidelsen.",
     "description": "Banner alert"
