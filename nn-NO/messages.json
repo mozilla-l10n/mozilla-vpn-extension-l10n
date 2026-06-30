@@ -51,6 +51,10 @@
     "message": "Få hjelp",
     "description": "Text of a link pointing to a relevant help page."
   },
+  "headerOpenMozillaVPN": {
+    "message": "Opne Mozilla VPN",
+    "description": "Headline."
+  },
   "btnOpenVpn": {
     "message": "Opne Mozilla VPN."
   },
@@ -65,6 +69,9 @@
   "btnDownloadNow": {
     "message": "Last ned no",
     "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Bruk Mozilla VPN-plassering."
   },
   "turnOnProtection": {
     "message": "Slå på vern",
@@ -109,6 +116,10 @@
   "contactSupport": {
     "message": "Kontakt brukarstøtte",
     "description": "Link title."
+  },
+  "howToFix": {
+    "message": "Slik fiksar du det",
+    "description": "Link in banner alert"
   },
   "learnWhatToDo": {
     "message": "Lær kva du skal gjere",
