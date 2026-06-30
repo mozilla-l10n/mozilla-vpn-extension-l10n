@@ -137,6 +137,10 @@
     "message": "Hald fram",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   },
+  "headlineAutoConnectOptions": {
+    "message": "Innstillingar for automatisk tilkopling",
+    "description": "Headline for the Auto Connect options"
+  },
   "labelDescribeAutoStart": {
     "message": "Slå alltid på VPN når du opnar Firefox",
     "description": "Description for the autostart checkbox"
