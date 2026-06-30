@@ -142,6 +142,13 @@
     "message": "Last ned nå",
     "description": "This is a call to action button to download the VPN."
   },
+  "defaultLocationHeader": {
+    "message": "Bruk Mozilla VPN-plassering."
+  },
+  "useDefaultLocationExplainer": {
+    "message": "Bruk samme plassering som Mozilla VPN-appen som beskytter denne datamaskinen.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
   "headerUnsupportedOSMessage": {
     "message": "Ustøttet plattform."
   },
@@ -155,6 +162,14 @@
     "message": "Slå på beskyttelse",
     "description": "Button label."
   },
+  "removeCustomLocation": {
+    "message": "Fjern tilpasset plassering",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Nettstedbeskyttelse",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
   "giveFeedback": {
     "message": "Gi tilbakemelding",
     "description": "Button label."
@@ -162,6 +177,30 @@
   "learnMore": {
     "message": "Les mer",
     "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "Slå av VPN for bestemte nettsteder",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding1_body": {
+    "message": "Med Firefox-utvidelsen kan du slå av VPN-beskyttelse for bestemte nettsteder, mens den forblir aktiv for alt annet.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Se ulike nettsteder fra ulike plasseringer",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "Nyheter fra London. Sport fra São Paulo. Shopping fra Tokyo. Angi nettstedsspesifikke plasseringer for en mer personlig nettleseropplevelse.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Hold beskyttelsen for Firefox «på»",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Bruk utvidelsen til å slå på VPN-beskyttelse for Firefox — selv når beskyttelsen er slått av for resten av datamaskinen.",
+    "description": "Body text in onboarding panel."
   },
   "next": {
     "message": "Neste",
@@ -174,6 +213,22 @@
   "done": {
     "message": "Ferdig",
     "description": "Label of button in final onboarding panel."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Aktiver Firefox-beskyttelse på nytt",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox er for øyeblikket oppført som et «appunntak» i Mozilla VPN-applikasjonen. For å bruke denne utvidelsen, åpne applikasjonen og gå til Innstillinger > Appunntak og fjern Firefox.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "For å legge til eller endre nettstedsspesifikke innstillinger, besøk nettstedet og åpne Mozilla VPN-utvidelsen for Firefox. Angi deretter innstillinger for nettstedet. Innstillingene dine gjelder bare når VPN-beskyttelse for Firefox er slått på.",
+    "description": "Subtitle in the settings page."
+  },
+  "settingsPageTitle": {
+    "message": "Mozilla VPN nettstedsinnstillinger",
+    "description": "Title for settings page tab."
   },
   "noSignal": {
     "message": "Ingen signal",
@@ -191,9 +246,41 @@
     "message": "Hjelpesenter",
     "description": "Link title."
   },
+  "websitePreferences": {
+    "message": "Nettstedsinnstillinger",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Kontakt kundestøtte",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN av for nettsted",
+    "description": "Aria label."
+  },
+  "alert_conflictingProgram": {
+    "message": "Et program på datamaskinen din kan forårsake problemer med Mozilla VPN-utvidelsen.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Slik fikser du det",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Andre utvidelser kan forstyrre hvordan Mozilla VPN-utvidelsen fungerer.",
+    "description": "Banner alert"
+  },
   "learnWhatToDo": {
     "message": "Lær hva du skal gjøre",
     "description": "Link in banner alert"
+  },
+  "privacy_notice_link_name": {
+    "message": "Personvernerklæring for Mozilla-abonnementstjenester",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "privacyPolicyIntro": {
+    "message": "Fullstendige detaljer om dataene vi samler inn finnes i personvernpraksisen vår.",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
   },
   "btnContinue": {
     "message": "Fortsett",
