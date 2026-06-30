@@ -1,4 +1,8 @@
 {
+  "extensionName": {
+    "message": "Mozilla VPN-utviding",
+    "description": "Name of the extension."
+  },
   "close": {
     "message": "Lat att",
     "description": "Alt label text for an X icon button in alert."
