@@ -15,6 +15,10 @@
     "message": "Mozilla VPN",
     "description": "Name of the product."
   },
+  "titlePageSettings": {
+    "message": "Innstillingar for denne nettstaden",
+    "description": "The header for website specific settings, i.e. exclude a page from VPN."
+  },
   "vpnIsOn": {
     "message": "VPN-vern for Firefox er på",
     "description": "Header to signal that VPN connection is enabled."
