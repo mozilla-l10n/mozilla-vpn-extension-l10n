@@ -67,6 +67,37 @@
     "message": "Nettstedbeskyttelse",
     "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   },
+  "headlineNoWebsitePreferences": {
+    "message": "Du har ikke angitt noen nettstedsinnstillinger ennå",
+    "description": "Headline shown when the user hasn’t set any website preferences."
+  },
+  "noWebsitePreferencesSubText": {
+    "message": "Med Firefox-utvidelsen kan du slå av Mozilla VPN-beskyttelse for et nettsted eller angi en tilpasset plassering. For å gjøre dette, besøk et nettsted, åpne utvidelsen og oppdater nettstedsinnstillingene.",
+    "description": "Subtext shown when there are no website preferences set by the user."
+  },
+  "altTextOpenSettingsPage": {
+    "message": "Åpne innstillingssiden",
+    "description": "Alternative text for the button that opens the Extensions Settings page."
+  },
+  "searchServer": {
+    "message": "Søk etter plasseringer",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "titleSubscribeNow": {
+    "message": "Abonner på Mozilla VPN."
+  },
+  "bodySubscribeNow2": {
+    "message": "Vi fant ikke noe abonnement knyttet til kontoen du brukte til å logge inn i Mozilla VPN-appen.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "footerSubscribeNow": {
+    "message": "For å bruke denne utvidelsen må du abonnere.",
+    "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
+  },
+  "btnSubscribeNow": {
+    "message": "Abonner nå",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
   "getHelp": {
     "message": "Få hjelp",
     "description": "Text of a link pointing to a relevant help page."
@@ -77,6 +108,9 @@
   },
   "headerSignedOut": {
     "message": "Logg inn på Mozilla VPN-appen."
+  },
+  "bodySignedOut": {
+    "message": "Du er for øyeblikket logget ut av Mozilla VPN-appen. For å bruke Mozilla VPN-utvidelsen for Firefox må du åpne appen på datamaskinen din og logge inn på kontoen din."
   },
   "btnOpenVpn": {
     "message": "Åpne Mozilla VPN."
