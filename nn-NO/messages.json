@@ -43,6 +43,10 @@
     "message": "VPN-vern for Firefox er av",
     "description": "Header to signal that VPN connection is disabled."
   },
+  "extensionVpnIsOff": {
+    "message": "Mozilla VPN er framleis på og vernar resten av datamaskina di.",
+    "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
+  },
   "vpnOffStatus": {
     "message": "Av",
     "description": "Label indicating that the VPN is off."
@@ -59,6 +63,37 @@
     "message": "Nettstad",
     "description": "Table heading for the column listing websites."
   },
+  "tableHeadingVpnStatus": {
+    "message": "Nettstadvern",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "headlineNoWebsitePreferences": {
+    "message": "Ingen nettstadinnstillingar er angitt enno",
+    "description": "Headline shown when the user hasn’t set any website preferences."
+  },
+  "noWebsitePreferencesSubText": {
+    "message": "Med Firefox-utvidinga kan du slå av Mozilla VPN-vern for ein nettstad eller angi ei tilpassa plassering. For å gjere dette, besøk ein nettstad, opne utvidinga og oppdater nettstadinnstillingane.",
+    "description": "Subtext shown when there are no website preferences set by the user."
+  },
+  "altTextOpenSettingsPage": {
+    "message": "Opne innstillingssida",
+    "description": "Alternative text for the button that opens the Extensions Settings page."
+  },
+  "searchServer": {
+    "message": "Søk etter plasseringar",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "titleSubscribeNow": {
+    "message": "Abonner på Mozilla VPN."
+  },
+  "bodySubscribeNow2": {
+    "message": "Vi fann ikkje noko abonnement knytt til kontoen du brukte for å logge inn i Mozilla VPN-appen.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "footerSubscribeNow": {
+    "message": "For å bruke denne utvidinga må du abonnere.",
+    "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
+  },
   "btnSubscribeNow": {
     "message": "Abonner no",
     "description": "Call to action button for users to subscribe to Mozilla VPN."
@@ -71,12 +106,22 @@
     "message": "Opne Mozilla VPN",
     "description": "Headline."
   },
+  "headerSignedOut": {
+    "message": "Logg inn på Mozilla VPN-appen."
+  },
+  "bodySignedOut": {
+    "message": "Du er akkurat no logga ut av Mozilla VPN-appen. For å bruke Mozilla VPN-utvidinga for Firefox må du opne appen på datamaskina di og logge inn på kontoen din."
+  },
   "btnOpenVpn": {
     "message": "Opne Mozilla VPN."
   },
   "headerNeedsUpdate": {
     "message": "Oppdater Mozilla VPN",
     "description": "This is the headline of an error panel."
+  },
+  "bodyNeedsUpdate2": {
+    "message": "For å bruke denne utvidinga, må du først laste ned og installere den nyaste Mozilla VPN-appen.",
+    "description": "This is body copy for an error message."
   },
   "headerInstallMsg": {
     "message": "Installer Mozilla VPN",
