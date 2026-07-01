@@ -7,6 +7,10 @@
     "message": "Lat att",
     "description": "Alt label text for an X icon button in alert."
   },
+  "extensionDescription": {
+    "message": "Integrer VPN i Firefox: Ekskluder faner, angi nettstadplasseringar og meir!",
+    "description": "Description of the extension."
+  },
   "back": {
     "message": "Tilbake",
     "description": "Alternative text attribute for back button."
