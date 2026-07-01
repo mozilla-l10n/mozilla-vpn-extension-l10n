@@ -127,6 +127,17 @@
     "message": "Installer Mozilla VPN",
     "description": "Header if a VPN installation was not found."
   },
+  "bodyOpenMsg": {
+    "message": "For å bruke Mozilla VPN Firefox-utvidinga, må du først opne Mozilla VPN-appen.",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "For å bruke denne utvidinga, må du først laste ned og installere Mozilla VPN-appen på datamaskina di."
+  },
+  "bodyInstallMsgFooter": {
+    "message": "Merk at Mozilla VPN er ei betalt abonnementsteneste.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
   "btnDownloadNow": {
     "message": "Last ned no",
     "description": "This is a call to action button to download the VPN."
@@ -134,9 +145,30 @@
   "defaultLocationHeader": {
     "message": "Bruk Mozilla VPN-plassering."
   },
+  "useDefaultLocationExplainer": {
+    "message": "Bruk same plassering som Mozilla VPN-appen som vernar denne datamaskina.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Ustøtta plattform."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "Akkurat no er Mozilla VPN-utvidinga berre tilgjengeleg på Windows-einingar."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Vi jobbar med å få støtte for macOS og Linux snart!"
+  },
   "turnOnProtection": {
     "message": "Slå på vern",
     "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Fjern tilpassa plassering",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Nettstadvern",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
   },
   "giveFeedback": {
     "message": "Gje tilbakemelding",
@@ -145,6 +177,30 @@
   "learnMore": {
     "message": "Les meir",
     "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "Slå av VPN for bestemte nettstadar",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding1_body": {
+    "message": "Med Firefox-utvidinga kan du slå av VPN-vern for visse nettstadar, medan ho held fram med å vere aktiv for alt anna.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Sjå ulike nettstadar frå ulike plasseringar",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "Nyheiter frå London. Sport frå São Paulo. Shopping frå Tokyo. Angi nettstadspesifikke plasseringar for ei meir personleg nettlesaroppleving.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Hald vernet for Firefox «på»",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Bruk utvidinga til å slå på VPN-vern for Firefox — sjølv når vernet er slått av for resten av datamaskina.",
+    "description": "Body text in onboarding panel."
   },
   "next": {
     "message": "Neste",
@@ -157,6 +213,10 @@
   "done": {
     "message": "Ferdig",
     "description": "Label of button in final onboarding panel."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Aktiver Firefox-vernet på nytt",
+    "description": "Error panel title for when Firefox is an excluded app."
   },
   "noSignal": {
     "message": "Ikkje noko signal",
