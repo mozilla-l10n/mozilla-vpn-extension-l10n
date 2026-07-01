@@ -218,6 +218,14 @@
     "message": "Aktiver Firefox-vernet på nytt",
     "description": "Error panel title for when Firefox is an excluded app."
   },
+  "settingsPageSubtitle": {
+    "message": "For å leggje til eller endre nettstadspesifikke innstillingar, besøk nettstaden og opne Mozilla VPN-utvidinga for Firefox. Angi deretter innstillingar for nettstaden. Innstillingane dine gjeld berre når VPN-vern for Firefox er slått på.",
+    "description": "Subtitle in the settings page."
+  },
+  "settingsPageTitle": {
+    "message": "Mozilla VPN nettstadinnstillingar",
+    "description": "Title for settings page tab."
+  },
   "noSignal": {
     "message": "Ikkje noko signal",
     "description": "Indicator text describing the status of the VPN."
@@ -234,21 +242,57 @@
     "message": "Hjelpesenter",
     "description": "Link title."
   },
+  "websitePreferences": {
+    "message": "Nettstadsinnstillingar",
+    "description": "Link title."
+  },
   "contactSupport": {
     "message": "Kontakt brukarstøtte",
     "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN av for nettstad",
+    "description": "Aria label."
+  },
+  "alert_conflictingProgram": {
+    "message": "Eit program på datamaskina di kan forårsake problem med Mozilla VPN-utvidinga.",
+    "description": "Banner alert"
   },
   "howToFix": {
     "message": "Slik fiksar du det",
     "description": "Link in banner alert"
   },
+  "alert_conflictingExtensions": {
+    "message": "Andre utvidingar kan forstyrre korleis Mozilla VPN-utvidinga fungerer.",
+    "description": "Banner alert"
+  },
   "learnWhatToDo": {
     "message": "Lær kva du skal gjere",
     "description": "Link in banner alert"
   },
+  "privacy_notice_link_name": {
+    "message": "Personvernfråsegn for Mozilla-abonnementstenester",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "privacyPolicyIntro": {
+    "message": "Fullstendige detaljar om dataa vi samlar inn finst i personvernpraksisen vår.",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
+  },
   "viewPrivacyPolicy": {
     "message": "Vis personvernpraksis",
     "description": "Privacy policy link"
+  },
+  "thankYouForAdding": {
+    "message": "Takk for at du la til Mozilla VPN-utvidinga",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "For å halde fram til utvidinga, vel Mozilla VPN-logoen i Firefox-verktøylinja.",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Slå på vern for Firefox",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "btnjoinWaitlist": {
     "message": "Set deg på venteliste",
