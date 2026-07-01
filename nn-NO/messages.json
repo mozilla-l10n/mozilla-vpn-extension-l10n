@@ -15,9 +15,21 @@
     "message": "Mozilla VPN",
     "description": "Name of the product."
   },
+  "titleServerList": {
+    "message": "Nettstadplassering",
+    "description": "Title for a dialog where users can set the location for a website."
+  },
+  "selectWebsiteLocation": {
+    "message": "Vel nettstadplassering",
+    "description": "Button label."
+  },
   "titlePageSettings": {
     "message": "Innstillingar for denne nettstaden",
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
+  },
+  "resetPageSettings": {
+    "message": "Tilbakestill nettstadinnstillingar",
+    "description": "Button text to reset all site specific settings."
   },
   "vpnIsOn": {
     "message": "VPN-vern for Firefox er på",
