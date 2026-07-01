@@ -294,6 +294,14 @@
     "message": "Slå på vern for Firefox",
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   },
+  "headerSubscriptionNotAvailable": {
+    "message": "Mozilla VPN-abonnement er enno ikkje tilgjengelege i landet ditt",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "bodySubscriptionNotAvailable": {
+    "message": "Mozilla VPN-abonnement er enno ikkje tilgjengelege i landet ditt, men du kan bli med på ventelista for å få beskjed når dei blir lanserte. Om du allereie har eit abonnement, kan du halde fram.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
   "btnjoinWaitlist": {
     "message": "Set deg på venteliste",
     "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
@@ -305,6 +313,13 @@
   "headlineAutoConnectOptions": {
     "message": "Innstillingar for automatisk tilkopling",
     "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Slå alltid på VPN når du brukar privat nettlesarmodus"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "For å slå dette på, gå til menyen for utvidingar, vel «Mozilla VPN Extension» og vel «Tillat» for «Køyr i private vindauge».",
+    "description": "Body of the autostart option."
   },
   "labelDescribeAutoStart": {
     "message": "Slå alltid på VPN når du opnar Firefox",
