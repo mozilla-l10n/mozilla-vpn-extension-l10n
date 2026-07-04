@@ -218,6 +218,10 @@
     "message": "Aktiver Firefox-vernet på nytt",
     "description": "Error panel title for when Firefox is an excluded app."
   },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox er akkurat no oppført som eit «appunntak» i Mozilla VPN-applikasjonen. For å bruke denne utvidinga, opne applikasjonen og gå til Innstillingar > Appunntak og fjern Firefox.",
+    "description": "Body copy of error panel."
+  },
   "settingsPageSubtitle": {
     "message": "For å leggje til eller endre nettstadspesifikke innstillingar, besøk nettstaden og opne Mozilla VPN-utvidinga for Firefox. Angi deretter innstillingar for nettstaden. Innstillingane dine gjeld berre når VPN-vern for Firefox er slått på.",
     "description": "Subtitle in the settings page."
@@ -293,6 +297,10 @@
   "messageSplitTunnelHeader": {
     "message": "Slå på vern for Firefox",
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "messageSplitTunnelBody": {
+    "message": "Firefox er akkurat no oppført som eit «appunntak» i Mozilla VPN-applikasjonen. For å bruke denne utvidinga, opne applikasjonen og gå til Innstillingar > Appunntak og fjern Firefox.",
+    "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
   },
   "headerSubscriptionNotAvailable": {
     "message": "Mozilla VPN-abonnement er enno ikkje tilgjengelege i landet ditt",
