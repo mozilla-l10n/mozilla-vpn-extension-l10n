@@ -31,6 +31,10 @@
     "message": "Innstillingar for denne nettstaden",
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
+  "excludePageFor": {
+    "message": "Slå alltid av VPN-vern for $$ORIGIN$$",
+    "description": "Setting to exclude a website from VPN."
+  },
   "resetPageSettings": {
     "message": "Tilbakestill nettstadinnstillingar",
     "description": "Button text to reset all site specific settings."
@@ -74,6 +78,10 @@
   "noWebsitePreferencesSubText": {
     "message": "Med Firefox-utvidinga kan du slå av Mozilla VPN-vern for ein nettstad eller angi ei tilpassa plassering. For å gjere dette, besøk ein nettstad, opne utvidinga og oppdater nettstadinnstillingane.",
     "description": "Subtext shown when there are no website preferences set by the user."
+  },
+  "altTextRemoveWebsiteButton": {
+    "message": "Fjern regel for $$ORIGIN$$",
+    "description": "Alternative text for the button that removes a website rule from the list of preferences."
   },
   "altTextOpenSettingsPage": {
     "message": "Opne innstillingssida",
@@ -257,6 +265,10 @@
   "offForWebsite": {
     "message": "Mozilla VPN av for nettstad",
     "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$$SERVERLOCATION$$: Mozilla VPN-nettstadsplassering",
+    "description": "Aria label for a flag icon representing the location of the VPN server"
   },
   "alert_conflictingProgram": {
     "message": "Eit program på datamaskina di kan forårsake problem med Mozilla VPN-utvidinga.",
