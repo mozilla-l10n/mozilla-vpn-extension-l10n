@@ -1,0 +1,22 @@
+{
+  "extensionName": {
+    "message": "Extensie VPN Mozilla",
+    "description": "Name of the extension."
+  },
+  "close": {
+    "message": "Închide",
+    "description": "Alt label text for an X icon button in alert."
+  },
+  "back": {
+    "message": "Înapoi",
+    "description": "Alternative text attribute for back button."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  },
+  "titleServerList": {
+    "message": "Locația site-ului web",
+    "description": "Title for a dialog where users can set the location for a website."
+  }
+}
