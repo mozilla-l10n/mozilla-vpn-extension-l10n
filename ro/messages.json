@@ -18,5 +18,91 @@
   "titleServerList": {
     "message": "Locația site-ului web",
     "description": "Title for a dialog where users can set the location for a website."
+  },
+  "selectWebsiteLocation": {
+    "message": "Selectează locația site-ului web",
+    "description": "Button label."
+  },
+  "titlePageSettings": {
+    "message": "Preferințe pentru acest site web",
+    "description": "The header for website specific settings, i.e. exclude a page from VPN."
+  },
+  "resetPageSettings": {
+    "message": "Resetează preferințele site-ului web",
+    "description": "Button text to reset all site specific settings."
+  },
+  "vpnIsOn": {
+    "message": "Protecția VPN pentru Firefox este activată",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "Protecția VPN pentru Firefox este dezactivată",
+    "description": "Header to signal that VPN connection is disabled."
+  },
+  "extensionVpnIsOff": {
+    "message": "VPN-ul Mozilla este încă activ, protejând restul calculatorului.",
+    "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
+  },
+  "vpnOffStatus": {
+    "message": "Dezactivat",
+    "description": "Label indicating that the VPN is off."
+  },
+  "vpnOnStatus": {
+    "message": "Activat",
+    "description": "Label indicating that the VPN is on."
+  },
+  "placeholderSearchWebsites": {
+    "message": "Caută site-uri web",
+    "description": "Placeholder text for the search input field to search websites."
+  },
+  "tableHeadingWebsite": {
+    "message": "Site web",
+    "description": "Table heading for the column listing websites."
+  },
+  "tableHeadingVpnStatus": {
+    "message": "Protecție pe site-ul web",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
+  },
+  "headlineNoWebsitePreferences": {
+    "message": "Nu ai setat încă nicio preferință pentru site-uri web",
+    "description": "Headline shown when the user hasn’t set any website preferences."
+  },
+  "noWebsitePreferencesSubText": {
+    "message": "Cu extensia Firefox, poți dezactiva protecția VPN Mozilla pentru un site web sau poți seta o locație personalizată. Pentru aceasta, intră pe un site web, deschide extensia și actualizează preferințele pentru site-uri web.",
+    "description": "Subtext shown when there are no website preferences set by the user."
+  },
+  "altTextOpenSettingsPage": {
+    "message": "Deschide pagina de setări",
+    "description": "Alternative text for the button that opens the Extensions Settings page."
+  },
+  "searchServer": {
+    "message": "Caută locații",
+    "description": "Placeholder for the Input field where users can search the list of servers."
+  },
+  "titleSubscribeNow": {
+    "message": "Abonează-te la VPN-ul Mozilla."
+  },
+  "bodySubscribeNow2": {
+    "message": "Nu am găsit un abonament legat de contul pe care l-ai folosit pentru a te conecta la aplicația Mozilla VPN.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "footerSubscribeNow": {
+    "message": "Ca să folosești extensia, te rugăm să te abonezi.",
+    "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
+  },
+  "btnSubscribeNow": {
+    "message": "Abonează-te acum",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
+  "getHelp": {
+    "message": "Obține ajutor",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "headerOpenMozillaVPN": {
+    "message": "Deschide VPN-ul Mozilla",
+    "description": "Headline."
+  },
+  "headerSignedOut": {
+    "message": "Intră în contul pentru aplicația Mozilla VPN."
   }
 }
