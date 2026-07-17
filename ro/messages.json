@@ -274,5 +274,9 @@
   "toContinueToTheExtension": {
     "message": "Pentru a continua către extensie, selectează sigla Mozilla VPN din bara de instrumente Firefox.",
     "description": "Blurb at the bottom of the telemetry consent screen"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Activează protecția pentru Firefox",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
   }
 }
