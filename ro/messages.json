@@ -119,5 +119,160 @@
   "bodyNeedsUpdate2": {
     "message": "Pentru a folosi această extensie, descarcă și instalează mai întâi cea mai recentă versiune a aplicației Mozilla VPN.",
     "description": "This is body copy for an error message."
+  },
+  "headerInstallMsg": {
+    "message": "Instalează Mozilla VPN",
+    "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "Pentru a folosi extensia Mozilla VPN pentru Firefox, deschide mai întâi aplicația Mozilla VPN.",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "Pentru a folosi această extensie, descărcă și instalează mai întâi aplicația Mozilla VPN pe calculator."
+  },
+  "bodyInstallMsgFooter": {
+    "message": "Reține că Mozilla VPN este un serviciu cu abonament plătit.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
+  "btnDownloadNow": {
+    "message": "Descarcă acum",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Folosește locația Mozilla VPN."
+  },
+  "useDefaultLocationExplainer": {
+    "message": "Folosește aceeași locație ca aplicația Mozilla VPN care protejează acest calculator.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Platformă neacceptată."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "În prezent, extensia Mozilla VPN este disponibilă doar pe dispozitivele Windows."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Lucrăm pentru a oferi în curând suport pentru macOS și Linux!"
+  },
+  "turnOnProtection": {
+    "message": "Activează protecția",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Elimină locația personalizată",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Protecție pe site-ul web",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Oferă feedback",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Află mai multe",
+    "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "Dezactivează VPN-ul pentru anumite site-uri web",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Vezi diferite site-uri web din locații diferite",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "Știri din Londra. Sport din Sao Paulo. Cumpărături din Tokyo. Setează locații specifice site-urilor web pentru o navigare personalizată.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Menține protecția pentru Firefox „activată”",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Folosește extensia ca să activezi protecția VPN pentru Firefox — chiar și când protecția este dezactivată pentru restul calculatorului.",
+    "description": "Body text in onboarding panel."
+  },
+  "next": {
+    "message": "Înainte",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Omite",
+    "description": "Label of button to skip onboarding."
+  },
+  "done": {
+    "message": "Terminat",
+    "description": "Label of button in final onboarding panel."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Reactivează protecția Firefox",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "settingsPageTitle": {
+    "message": "Preferințe site-uri web pentru Mozilla VPN",
+    "description": "Title for settings page tab."
+  },
+  "noSignal": {
+    "message": "Fără semnal",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Instabil",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Se conectează…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Centru de ajutor",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "Preferințe site-uri web",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Contactează serviciul de asistență",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Mozilla VPN dezactivat pentru site-ul web",
+    "description": "Aria label."
+  },
+  "alert_conflictingProgram": {
+    "message": "Un program de pe calculator ar putea cauza probleme cu extensia Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Cum să repari",
+    "description": "Link in banner alert"
+  },
+  "alert_conflictingExtensions": {
+    "message": "Alte extensii ar putea interfera cu modul în care funcționează extensia Mozilla VPN.",
+    "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Învață ce să faci",
+    "description": "Link in banner alert"
+  },
+  "privacy_notice_link_name": {
+    "message": "Notificare privind confidențialitatea serviciilor de abonamente Mozilla",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "viewPrivacyPolicy": {
+    "message": "Vezi politica de confidențialitate",
+    "description": "Privacy policy link"
+  },
+  "thankYouForAdding": {
+    "message": "Îți mulțumim că ai adăugat extensia Mozilla VPN",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "Pentru a continua către extensie, selectează sigla Mozilla VPN din bara de instrumente Firefox.",
+    "description": "Blurb at the bottom of the telemetry consent screen"
   }
 }
