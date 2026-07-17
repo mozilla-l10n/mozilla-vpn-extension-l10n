@@ -7,6 +7,10 @@
     "message": "Închide",
     "description": "Alt label text for an X icon button in alert."
   },
+  "extensionDescription": {
+    "message": "Integrează VPN-ul în Firefox: Exclude file, setează locațiile site-urilor și multe altele!",
+    "description": "Description of the extension."
+  },
   "back": {
     "message": "Înapoi",
     "description": "Alternative text attribute for back button."
@@ -104,5 +108,16 @@
   },
   "headerSignedOut": {
     "message": "Intră în contul pentru aplicația Mozilla VPN."
+  },
+  "btnOpenVpn": {
+    "message": "Deschide Mozilla VPN."
+  },
+  "headerNeedsUpdate": {
+    "message": "Actualizează Mozilla VPN",
+    "description": "This is the headline of an error panel."
+  },
+  "bodyNeedsUpdate2": {
+    "message": "Pentru a folosi această extensie, descarcă și instalează mai întâi cea mai recentă versiune a aplicației Mozilla VPN.",
+    "description": "This is body copy for an error message."
   }
 }
