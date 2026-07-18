@@ -324,5 +324,13 @@
   },
   "labelDescribeAutoStartOnPBM": {
     "message": "Activează întotdeauna VPN-ul când utilizezi modul de navigare privat"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "Pentru activarea acestei opțiuni, intră în meniul de suplimente, selectează „Extensia Mozilla VPN” și apoi „Permite” pentru „Rulează în ferestre private”.",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "Activează întotdeauna VPN-ul când deschizi Firefox",
+    "description": "Description for the autostart checkbox"
   }
 }
