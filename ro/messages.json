@@ -109,6 +109,9 @@
   "headerSignedOut": {
     "message": "Intră în contul pentru aplicația Mozilla VPN."
   },
+  "bodySignedOut": {
+    "message": "Acum ești deconectat(ă) din aplicația Mozilla VPN. Pentru a utiliza extensia Mozilla VPN pentru Firefox, deschide aplicația pe calculator și intră în cont."
+  },
   "btnOpenVpn": {
     "message": "Deschide Mozilla VPN."
   },
@@ -179,6 +182,10 @@
     "message": "Dezactivează VPN-ul pentru anumite site-uri web",
     "description": "Title in onboarding panel."
   },
+  "onboarding1_body": {
+    "message": "Cu extensia Firefox, poți dezactiva protecția VPN pentru anumite site-uri web, păstrând-o în același timp activată pentru orice altceva.",
+    "description": "Body text in onboarding panel."
+  },
   "onboarding2_title": {
     "message": "Vezi diferite site-uri web din locații diferite",
     "description": "Title in onboarding panel."
@@ -210,6 +217,14 @@
   "headerReEnableFirefoxProtection": {
     "message": "Reactivează protecția Firefox",
     "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox este momentan o „aplicație exclusă” în aplicația Mozilla VPN. Pentru a utiliza extensia, deschide aplicația și mergi în Setări > Aplicații excluse și elimină Firefox.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "Pentru a adăuga sau modifica preferințele specifice site-urilor web, intră pe site și deschide extensia  Firefox Mozilla VPN. Apoi, setează preferințele pentru site. Preferințele sunt active numai când protecția VPN pentru Firefox este activată.",
+    "description": "Subtitle in the settings page."
   },
   "settingsPageTitle": {
     "message": "Preferințe site-uri web pentru Mozilla VPN",
@@ -263,6 +278,10 @@
     "message": "Notificare privind confidențialitatea serviciilor de abonamente Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
+  "privacyPolicyIntro": {
+    "message": "Detalii complete despre datele pe care le colectăm sunt disponibile în politica noastră de confidențialitate.",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
+  },
   "viewPrivacyPolicy": {
     "message": "Vezi politica de confidențialitate",
     "description": "Privacy policy link"
@@ -278,5 +297,32 @@
   "messageSplitTunnelHeader": {
     "message": "Activează protecția pentru Firefox",
     "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "messageSplitTunnelBody": {
+    "message": "Firefox este momentan o „aplicație exclusă” în aplicația Mozilla VPN. Pentru a utiliza extensia, deschide aplicația și mergi în Setări > Aplicații excluse și elimină Firefox.",
+    "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "headerSubscriptionNotAvailable": {
+    "message": "Abonamentele Mozilla VPN nu sunt încă disponibile în țara ta",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "bodySubscriptionNotAvailable": {
+    "message": "Abonamentele Mozilla VPN nu sunt încă disponibile în țara ta, dar te poți înscrie pe lista noastră de așteptare pentru a primi o notificare când se lansează. Dacă ai deja un abonament, te rugăm să continui.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnjoinWaitlist": {
+    "message": "Înscrie-te pe lista de așteptare",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnContinue": {
+    "message": "Continuă",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Opțiuni de conectare automată",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Activează întotdeauna VPN-ul când utilizezi modul de navigare privat"
   }
 }
