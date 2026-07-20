@@ -31,6 +31,16 @@
     "message": "Preferințe pentru acest site web",
     "description": "The header for website specific settings, i.e. exclude a page from VPN."
   },
+  "excludePageFor": {
+    "message": "Dezactivează întotdeauna protecția VPN pentru $ORIGIN$",
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
   "resetPageSettings": {
     "message": "Resetează preferințele site-ului web",
     "description": "Button text to reset all site specific settings."
@@ -74,6 +84,16 @@
   "noWebsitePreferencesSubText": {
     "message": "Cu extensia Firefox, poți dezactiva protecția VPN Mozilla pentru un site web sau poți seta o locație personalizată. Pentru aceasta, intră pe un site web, deschide extensia și actualizează preferințele pentru site-uri web.",
     "description": "Subtext shown when there are no website preferences set by the user."
+  },
+  "altTextRemoveWebsiteButton": {
+    "message": "Elimină regula pentru $ORIGIN$",
+    "description": "Alternative text for the button that removes a website rule from the list of preferences.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
   },
   "altTextOpenSettingsPage": {
     "message": "Deschide pagina de setări",
@@ -257,6 +277,16 @@
   "offForWebsite": {
     "message": "Mozilla VPN dezactivat pentru site-ul web",
     "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: Locația site-ului Mozilla VPN",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "SERVERLOCATION": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
   },
   "alert_conflictingProgram": {
     "message": "Un program de pe calculator ar putea cauza probleme cu extensia Mozilla VPN.",
