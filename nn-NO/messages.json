@@ -20,11 +20,11 @@
     "description": "Name of the product."
   },
   "titleServerList": {
-    "message": "Nettstadplassering",
+    "message": "Plasseringa av nettstaden",
     "description": "Title for a dialog where users can set the location for a website."
   },
   "selectWebsiteLocation": {
-    "message": "Vel nettstadplassering",
+    "message": "Plasseringa av nettstaden",
     "description": "Button label."
   },
   "titlePageSettings": {
