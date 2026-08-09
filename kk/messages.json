@@ -1,0 +1,18 @@
+{
+  "extensionName": {
+    "message": "Mozilla VPN кеңейтуі",
+    "description": "Name of the extension."
+  },
+  "close": {
+    "message": "Жабу",
+    "description": "Alt label text for an X icon button in alert."
+  },
+  "back": {
+    "message": "Артқа",
+    "description": "Alternative text attribute for back button."
+  },
+  "productName": {
+    "message": "Mozilla VPN",
+    "description": "Name of the product."
+  }
+}
