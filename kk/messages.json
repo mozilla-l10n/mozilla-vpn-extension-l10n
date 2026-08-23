@@ -106,6 +106,196 @@
   "titleSubscribeNow": {
     "message": "Mozilla VPN-ге жазылу."
   },
+  "bodySubscribeNow2": {
+    "message": "Mozilla VPN қолданбасына кіру үшін пайдаланылған тіркелгіге байланысты жазылымды таба алмадық.",
+    "description": "Body of an error message, shown if the user is trying to use the extension without a subscription."
+  },
+  "footerSubscribeNow": {
+    "message": "Бұл кеңейтуді пайдалану үшін жазылыңыз.",
+    "description": "Footer for bodySubscribeNow2, shown if the user is trying to use the extension without a subscription. "
+  },
+  "btnSubscribeNow": {
+    "message": "Қазір жазылу",
+    "description": "Call to action button for users to subscribe to Mozilla VPN."
+  },
+  "getHelp": {
+    "message": "Көмек алу",
+    "description": "Text of a link pointing to a relevant help page."
+  },
+  "headerOpenMozillaVPN": {
+    "message": "Mozilla VPN ашу",
+    "description": "Headline."
+  },
+  "headerSignedOut": {
+    "message": "Mozilla VPN қолданбасына кіріңіз."
+  },
+  "bodySignedOut": {
+    "message": "Сіз қазір Mozilla VPN қолданбасынан шығып кеткенсіз. Mozilla VPN Firefox кеңейтуін пайдалану үшін компьютеріңіздегі қолданбаны ашып, тіркелгіңізге кіріңіз."
+  },
+  "btnOpenVpn": {
+    "message": "Mozilla VPN ашу."
+  },
+  "headerNeedsUpdate": {
+    "message": "Mozilla VPN жаңарту",
+    "description": "This is the headline of an error panel."
+  },
+  "bodyNeedsUpdate2": {
+    "message": "Бұл кеңейтуді пайдалану үшін алдымен ең соңғы Mozilla VPN қолданбасын жүктеп алып, орнатыңыз.",
+    "description": "This is body copy for an error message."
+  },
+  "headerInstallMsg": {
+    "message": "Mozilla VPN орнату",
+    "description": "Header if a VPN installation was not found."
+  },
+  "bodyOpenMsg": {
+    "message": "Mozilla VPN Firefox кеңейтуін пайдалану үшін алдымен Mozilla VPN қолданбасын ашыңыз.",
+    "description": "Popup subtitle text."
+  },
+  "bodyInstallMsg": {
+    "message": "Бұл кеңейтуді пайдалану үшін алдымен компьютеріңізге Mozilla VPN қолданбасын жүктеп алып, орнатыңыз."
+  },
+  "bodyInstallMsgFooter": {
+    "message": "Mozilla VPN — ақылы жазылым қызметі екенін ескеріңіз.",
+    "description": "This is a footnote for “bodyInstallMsg”."
+  },
+  "btnDownloadNow": {
+    "message": "Қазір жүктеп алу",
+    "description": "This is a call to action button to download the VPN."
+  },
+  "defaultLocationHeader": {
+    "message": "Mozilla VPN орналасуын пайдалану."
+  },
+  "useDefaultLocationExplainer": {
+    "message": "Бұл компьютерді қорғайтын Mozilla VPN орналасуын пайдалану.",
+    "description": "Explanation of what “Use default Mozilla VPN Location” means."
+  },
+  "headerUnsupportedOSMessage": {
+    "message": "Қолдау көрсетілмейтін платформа."
+  },
+  "bodyUnsupportedOSMessage": {
+    "message": "Қазіргі уақытта Mozilla VPN кеңейтуі тек Windows құрылғыларында қолжетімді."
+  },
+  "footnoteUnsupportedOSMessage": {
+    "message": "Біз жақын арада macOS және Linux үшін қолдау көрсету бағытында жұмыс істеп жатырмыз!"
+  },
+  "turnOnProtection": {
+    "message": "Қорғауды іске қосу",
+    "description": "Button label."
+  },
+  "removeCustomLocation": {
+    "message": "Пайдаланушылық орналасуды өшіру",
+    "description": "Button label."
+  },
+  "websiteProtection": {
+    "message": "Веб-сайт қорғанысы",
+    "description": "A subtitle that is followed by an off icon and the word 'Off'."
+  },
+  "giveFeedback": {
+    "message": "Кері байланыс",
+    "description": "Button label."
+  },
+  "learnMore": {
+    "message": "Көбірек білу",
+    "description": "Label of link that leads to SUMO."
+  },
+  "onboarding1_title": {
+    "message": "Белгілі бір веб-сайттар үшін VPN сөндіру",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding1_body": {
+    "message": "Firefox кеңейтуінің көмегімен сіз белгілі бір веб-сайттар үшін VPN қорғауын сөндіріп, қалғандарының барлығы үшін оны қосулы күйде қалдыра аласыз.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding2_title": {
+    "message": "Әртүрлі орналасулардан әртүрлі веб-сайттарды қараңыз",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding2_body": {
+    "message": "Лондоннан жаңалықтар. Сан-Паулудан спорт. Токиодан сатып алулар. Жекелендірілген шолу үшін веб-сайтқа арналған орналасуларды орнатыңыз.",
+    "description": "Body text in onboarding panel."
+  },
+  "onboarding3_title": {
+    "message": "Firefox үшін қорғауды «іске қосулы» күйде сақтау",
+    "description": "Title in onboarding panel."
+  },
+  "onboarding3_body": {
+    "message": "Компьютеріңіздің қалған бөлігі үшін қорғау сөндірулі болса да, Firefox үшін VPN қорғауын іск қосу үшін кеңейтуді пайдаланыңыз.",
+    "description": "Body text in onboarding panel."
+  },
+  "next": {
+    "message": "Келесі",
+    "description": "Label of button to progress to next onboarding panel."
+  },
+  "skip": {
+    "message": "Аттап кету",
+    "description": "Label of button to skip onboarding."
+  },
+  "done": {
+    "message": "Дайын",
+    "description": "Label of button in final onboarding panel."
+  },
+  "headerReEnableFirefoxProtection": {
+    "message": "Firefox қорғауын қайта іске қосу",
+    "description": "Error panel title for when Firefox is an excluded app."
+  },
+  "bodyReEnableFirefoxProtection": {
+    "message": "Firefox қазір Mozilla VPN қолданбасында «алып тасталған қолданба» болып табылады. Бұл кеңейтуді пайдалану үшін қолданбаны ашып, Баптаулар > Алып тасталған қолданбалар тармағына өтіп, Firefox-ты өшіріңіз.",
+    "description": "Body copy of error panel."
+  },
+  "settingsPageSubtitle": {
+    "message": "Веб-сайтқа тән баптауларды қосу немесе өзгерту үшін сайтқа кіріп, Mozilla VPN Firefox кеңейтуін ашыңыз. Содан кейін сайт үшін баптауларды орнатыңыз. Баптауларыңыз Firefox үшін VPN қорғауы қосулы болғанда ғана әрекет етеді.",
+    "description": "Subtitle in the settings page."
+  },
+  "settingsPageTitle": {
+    "message": "Mozilla VPN веб-сайт баптаулары",
+    "description": "Title for settings page tab."
+  },
+  "noSignal": {
+    "message": "Сигнал жоқ",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "unstable": {
+    "message": "Тұрақсыз",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "connecting": {
+    "message": "Қосылуда…",
+    "description": "Indicator text describing the status of the VPN."
+  },
+  "helpCenter": {
+    "message": "Көмек орталығы",
+    "description": "Link title."
+  },
+  "websitePreferences": {
+    "message": "Веб-сайт баптаулары",
+    "description": "Link title."
+  },
+  "contactSupport": {
+    "message": "Қолдау қызметіне хабарласу",
+    "description": "Link title."
+  },
+  "offForWebsite": {
+    "message": "Веб-сайт үшін Mozilla VPN сөндірулі",
+    "description": "Aria label."
+  },
+  "websiteLocationLabel": {
+    "message": "$SERVERLOCATION$: Mozilla VPN веб-сайтының орналасқан жері",
+    "description": "Aria label for a flag icon representing the location of the VPN server",
+    "placeholders": {
+      "SERVERLOCATION": {
+        "content": "$1",
+        "example": "Germany"
+      }
+    }
+  },
+  "alert_conflictingProgram": {
+    "message": "Компьютеріңіздегі бағдарлама Mozilla VPN кеңейтуімен мәселелер тудыруы мүмкін.",
+    "description": "Banner alert"
+  },
+  "howToFix": {
+    "message": "Қалай түзетуге болады",
+    "description": "Link in banner alert"
+  },
   "btnContinue": {
     "message": "Жалғастыру",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
