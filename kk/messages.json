@@ -14,5 +14,9 @@
   "productName": {
     "message": "Mozilla VPN",
     "description": "Name of the product."
+  },
+  "btnContinue": {
+    "message": "Жалғастыру",
+    "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
   }
 }
