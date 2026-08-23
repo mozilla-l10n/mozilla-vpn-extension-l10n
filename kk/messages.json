@@ -296,8 +296,71 @@
     "message": "Қалай түзетуге болады",
     "description": "Link in banner alert"
   },
+  "alert_conflictingExtensions": {
+    "message": "Басқа кеңейтулер Mozilla VPN кеңейтуінің жұмысына кедергі жасауы мүмкін.",
+    "description": "Banner alert"
+  },
+  "learnWhatToDo": {
+    "message": "Не істеу керектігін білу",
+    "description": "Link in banner alert"
+  },
+  "privacy_notice_link_name": {
+    "message": "Mozilla жазылым қызметтерінің жекелік ескертуі",
+    "description": "Used as text of the link in 'telemetry_screen_descr'"
+  },
+  "privacyPolicyIntro": {
+    "message": "Біз жинайтын деректер туралы толық ақпарат жекелік саясатымызда қолжетімді.",
+    "description": "Description of what can be found in the privacy policy. Blurb in the telemetry consent screen."
+  },
+  "viewPrivacyPolicy": {
+    "message": "Жекелік саясатын қарау",
+    "description": "Privacy policy link"
+  },
+  "thankYouForAdding": {
+    "message": "Mozilla VPN кеңейтуін қосқаныңыз үшін рақмет",
+    "description": "Headline on the telemetry consent screen"
+  },
+  "toContinueToTheExtension": {
+    "message": "Кеңейтуге өту үшін Firefox саймандар панеліндегі Mozilla VPN логотипін таңдаңыз.",
+    "description": "Blurb at the bottom of the telemetry consent screen"
+  },
+  "messageSplitTunnelHeader": {
+    "message": "Firefox үшін қорғауды іске қосу",
+    "description": "Header that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "messageSplitTunnelBody": {
+    "message": "Firefox қазір Mozilla VPN қолданбасында «алып тасталған қолданба» болып табылады. Бұл кеңейтуді пайдалану үшін қолданбаны ашып, Баптаулар > Алып тасталған қолданбалар тармағына өтіп, Firefox-ты өшіріңіз.",
+    "description": "Helptext body that is shown if the current Firefox is affected by Split-Tunneling"
+  },
+  "headerSubscriptionNotAvailable": {
+    "message": "Mozilla VPN жазылымдары сіздің еліңізде әлі қолжетімді емес",
+    "description": "Header of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "bodySubscriptionNotAvailable": {
+    "message": "Mozilla VPN жазылымдары сіздің еліңізде әлі қолжетімді емес, бірақ олар іске қосылғанда хабарландыру алу үшін күту тізімімізге қосыла аласыз. Егер сізде жазылым бар болса, жалғастырыңыз.",
+    "description": "Body of an Error Screen, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
+  "btnjoinWaitlist": {
+    "message": "Күту тізіміне қосылу",
+    "description": "Button Text, shown when the User is in a Country where Mozilla VPN is not offered."
+  },
   "btnContinue": {
     "message": "Жалғастыру",
     "description": "Button Text, shown on an Error screen. Clicking it will continue the current flow."
+  },
+  "headlineAutoConnectOptions": {
+    "message": "Автоқосылу опциялары",
+    "description": "Headline for the Auto Connect options"
+  },
+  "labelDescribeAutoStartOnPBM": {
+    "message": "Жекелік шолу режимін пайдаланғанда әрқашан VPN қосу"
+  },
+  "bodyAutoStartOnPBM": {
+    "message": "Мұны қосу үшін қосымшалар мәзіріне өтіп, «Mozilla VPN Extension» тармағын таңдаңыз да, «Жекелік терезелерде орындау» үшін «Рұқсат ету» таңдаңыз.",
+    "description": "Body of the autostart option."
+  },
+  "labelDescribeAutoStart": {
+    "message": "Firefox ашылғанда әрқашан VPN қосу",
+    "description": "Description for the autostart checkbox"
   }
 }
