@@ -7,6 +7,10 @@
     "message": "Жабу",
     "description": "Alt label text for an X icon button in alert."
   },
+  "extensionDescription": {
+    "message": "Firefox ішіне VPN біріктіру: беттерді алып тастау, сайт орналасуларын орнату және т.б.!",
+    "description": "Description of the extension."
+  },
   "back": {
     "message": "Артқа",
     "description": "Alternative text attribute for back button."
@@ -14,6 +18,64 @@
   "productName": {
     "message": "Mozilla VPN",
     "description": "Name of the product."
+  },
+  "titleServerList": {
+    "message": "Веб-сайт орналасуы",
+    "description": "Title for a dialog where users can set the location for a website."
+  },
+  "selectWebsiteLocation": {
+    "message": "Веб-сайт орналасуын таңдау",
+    "description": "Button label."
+  },
+  "titlePageSettings": {
+    "message": "Бұл веб-сайт баптаулары",
+    "description": "The header for website specific settings, i.e. exclude a page from VPN."
+  },
+  "excludePageFor": {
+    "message": "$ORIGIN$ үшін VPN қорғанысын әрқашан сөндіру",
+    "description": "Setting to exclude a website from VPN.",
+    "placeholders": {
+      "ORIGIN": {
+        "content": "$1",
+        "example": "developer.mozilla.org"
+      }
+    }
+  },
+  "resetPageSettings": {
+    "message": "Веб-сайт баптауларын бастапқы күйге келтіру",
+    "description": "Button text to reset all site specific settings."
+  },
+  "vpnIsOn": {
+    "message": "Firefox үшін VPN қорғауы іске қосулы",
+    "description": "Header to signal that VPN connection is enabled."
+  },
+  "vpnIsOff": {
+    "message": "Firefox үшін VPN қорғауы сөндірулі",
+    "description": "Header to signal that VPN connection is disabled."
+  },
+  "extensionVpnIsOff": {
+    "message": "Mozilla VPN әлі де іске қосулы, компьютеріңіздің қалған бөлігін қорғап тұр.",
+    "description": "Popup subtitle when the extension VPN is off, but the client VPN is on."
+  },
+  "vpnOffStatus": {
+    "message": "Сөндірулі",
+    "description": "Label indicating that the VPN is off."
+  },
+  "vpnOnStatus": {
+    "message": "Іске қосулы",
+    "description": "Label indicating that the VPN is on."
+  },
+  "placeholderSearchWebsites": {
+    "message": "Веб-сайттарды іздеу",
+    "description": "Placeholder text for the search input field to search websites."
+  },
+  "tableHeadingWebsite": {
+    "message": "Веб-сайт",
+    "description": "Table heading for the column listing websites."
+  },
+  "tableHeadingVpnStatus": {
+    "message": "Веб-сайт қорғауы",
+    "description": "Table heading for the column indicating whether the VPN is on or off for a website."
   },
   "btnContinue": {
     "message": "Жалғастыру",
