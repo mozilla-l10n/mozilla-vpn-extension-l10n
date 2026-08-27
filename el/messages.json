@@ -305,7 +305,7 @@
     "description": "Link in banner alert"
   },
   "privacy_notice_link_name": {
-    "message": "Σημείωση απορρήτου συνδρομητικών υπηρεσιών Mozilla",
+    "message": "Δήλωση απορρήτου των συνδρομητικών υπηρεσιών της Mozilla",
     "description": "Used as text of the link in 'telemetry_screen_descr'"
   },
   "privacyPolicyIntro": {
