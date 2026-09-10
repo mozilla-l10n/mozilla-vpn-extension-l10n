@@ -76,7 +76,7 @@
     "description": "Headline shown when the user hasn’t set any website preferences."
   },
   "noWebsitePreferencesSubText": {
-    "message": "Med Firefox-utvidinga kan du slå av Mozilla VPN-vern for ein nettstad eller angi ei tilpassa plassering. For å gjere dette, besøk ein nettstad, opne utvidinga og oppdater nettstadinnstillingane.",
+    "message": "Med Firefox-utvidinga kan du slå av Mozilla VPN-vern på ein nettstad eller angi ei tilpassa plassering. For å gjere dette, besøk ein nettstad, opne utvidinga og oppdater nettstadinnstillingane.",
     "description": "Subtext shown when there are no website preferences set by the user."
   },
   "altTextRemoveWebsiteButton": {
