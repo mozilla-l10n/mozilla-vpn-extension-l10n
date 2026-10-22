@@ -293,7 +293,7 @@
     "description": "Banner alert"
   },
   "howToFix": {
-    "message": "Τρόποι διόρθωσης",
+    "message": "Οδηγίες διόρθωσης",
     "description": "Link in banner alert"
   },
   "alert_conflictingExtensions": {
